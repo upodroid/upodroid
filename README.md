@@ -1,6 +1,14 @@
 ### Hi there 👋
 
+I'm a Cloud Engineer and primarily work with:
+
+- <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+- <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-1a7fe8?style=flat-square&logo=kubernetes&logoColor=white" />
+- <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-007ACC?style=flat-square&logo=terraform" />
+
 <!--
+- <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual-Studio-Code-007ACC?style=flat-square&logo=visual-studio-code" />
+
 **upodroid/upodroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
