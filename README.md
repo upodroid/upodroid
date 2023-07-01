@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Update @upodroid&#39;s affiliation](https://github.com/cncf/gitdm/pull/100) on [cncf/gitdm](https://github.com/cncf/gitdm) (today)
 - [Allow prow-build to write to cri-tools bucket](https://github.com/kubernetes/k8s.io/pull/5500) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [Migrate to a community owned bucket for installing containerd](https://github.com/kubernetes/test-infra/pull/29986) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Add myself and dims as reviewers](https://github.com/kubernetes-sigs/kubetest2/pull/231) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (2 days ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Move containerd build job back to the Google Build Cluster.](https://github.com/kubernetes/test-infra/pull/29839) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [Add Serial Node EC2 periodic](https://github.com/kubernetes/test-infra/pull/29838) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [Fix buildx flags](https://github.com/knative/infra/pull/111) on [knative/infra](https://github.com/knative/infra) (2 weeks ago)
-- [Bump java to 17 and install it from temurin/ecplise](https://github.com/knative/infra/pull/109) on [knative/infra](https://github.com/knative/infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
