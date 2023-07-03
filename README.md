@@ -4,6 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
+- [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (2 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
 - [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) - Shared test infrastructure for the AWS cloud provider repositories (6 days ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (2 weeks ago)
@@ -13,7 +14,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [knative/toolbox](https://github.com/knative/toolbox) - Toolbox: tools used in Knative project (3 weeks ago)
 - [knative/community](https://github.com/knative/community) - Knative governance and community material. (4 weeks ago)
 - [knative/test-infra](https://github.com/knative/test-infra) - Test infrastructure for the Knative project (1 month ago)
-- [knative/actions](https://github.com/knative/actions) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
