@@ -4,11 +4,11 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
+- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (today)
 - [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (6 days ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
 - [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) - Shared test infrastructure for the AWS cloud provider repositories (1 week ago)
-- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (3 weeks ago)
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime (3 weeks ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 weeks ago)
 - [knative/toolbox](https://github.com/knative/toolbox) - Toolbox: tools used in Knative project (1 month ago)
@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [allow functions leads to rerun prowjobs](https://github.com/knative/infra/pull/124) on [knative/infra](https://github.com/knative/infra) (today)
 - [Update @upodroid&#39;s affiliation](https://github.com/cncf/gitdm/pull/100) on [cncf/gitdm](https://github.com/cncf/gitdm) (6 days ago)
 - [Allow prow-build to write to cri-tools bucket](https://github.com/kubernetes/k8s.io/pull/5500) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [Migrate to a community owned bucket for installing containerd](https://github.com/kubernetes/test-infra/pull/29986) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [WIP: Add node e2e grid tests](https://github.com/kubernetes/test-infra/pull/29944) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Move containerd build job back to the Google Build Cluster.](https://github.com/kubernetes/test-infra/pull/29839) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
 - [Add Serial Node EC2 periodic](https://github.com/kubernetes/test-infra/pull/29838) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
-- [Fix buildx flags](https://github.com/knative/infra/pull/111) on [knative/infra](https://github.com/knative/infra) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
