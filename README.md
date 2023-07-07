@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Migrate remaining containerd-build-* jobs to the community bucket and introduce postsubmit jobs](https://github.com/kubernetes/test-infra/pull/30025) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [allow functions leads to rerun prowjobs](https://github.com/knative/infra/pull/124) on [knative/infra](https://github.com/knative/infra) (today)
 - [Update @upodroid&#39;s affiliation](https://github.com/cncf/gitdm/pull/100) on [cncf/gitdm](https://github.com/cncf/gitdm) (6 days ago)
 - [Allow prow-build to write to cri-tools bucket](https://github.com/kubernetes/k8s.io/pull/5500) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Add support for running node-tester against EC2](https://github.com/kubernetes-sigs/kubetest2/pull/230) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 week ago)
 - [WIP: Add node e2e grid tests](https://github.com/kubernetes/test-infra/pull/29944) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Move containerd build job back to the Google Build Cluster.](https://github.com/kubernetes/test-infra/pull/29839) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
-- [Add Serial Node EC2 periodic](https://github.com/kubernetes/test-infra/pull/29838) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
@@ -47,12 +47,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [knative/test-infra](https://github.com/knative/test-infra) - Test infrastructure for the Knative project (9 months ago)
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need (2 years ago)
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider (2 years ago)
-- [upodroid/terraform-provider-google](https://github.com/upodroid/terraform-provider-google) - Terraform Google Cloud Platform provider (2 years ago)
 - [chrismarcellino/lambda-ses-email-forwarder](https://github.com/chrismarcellino/lambda-ses-email-forwarder) - Minimalistic Python3 Amazon AWS Lambda/SES Email Forward with support for bouncing oversized messages, auto &#34;from&#34; addressing, and environment variable-based configuration (2 years ago)
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (2 years ago)
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. (3 years ago)
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (3 years ago)
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more (3 years ago)
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration &amp; Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY! (3 years ago)
 
 #### 💬 Feedback
 
