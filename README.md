@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Check for incorrect cluster names](https://github.com/kubernetes/test-infra/pull/30059) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Migrate remaining containerd-build-* jobs to the community bucket and introduce postsubmit jobs](https://github.com/kubernetes/test-infra/pull/30025) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [allow functions leads to rerun prowjobs](https://github.com/knative/infra/pull/124) on [knative/infra](https://github.com/knative/infra) (4 days ago)
 - [Update @upodroid&#39;s affiliation](https://github.com/cncf/gitdm/pull/100) on [cncf/gitdm](https://github.com/cncf/gitdm) (1 week ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Add kubetest2 support](https://github.com/kubernetes-sigs/provider-aws-test-infra/pull/39) on [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) (2 weeks ago)
 - [Add support for running node-tester against EC2](https://github.com/kubernetes-sigs/kubetest2/pull/230) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (2 weeks ago)
 - [WIP: Add node e2e grid tests](https://github.com/kubernetes/test-infra/pull/29944) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-- [Move containerd build job back to the Google Build Cluster.](https://github.com/kubernetes/test-infra/pull/29839) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
