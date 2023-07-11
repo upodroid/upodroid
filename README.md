@@ -36,7 +36,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Update @upodroid&#39;s affiliation](https://github.com/cncf/gitdm/pull/100) on [cncf/gitdm](https://github.com/cncf/gitdm) (1 week ago)
 - [Allow prow-build to write to cri-tools bucket](https://github.com/kubernetes/k8s.io/pull/5500) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [Migrate to a community owned bucket for installing containerd](https://github.com/kubernetes/test-infra/pull/29986) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [Add myself and dims as reviewers](https://github.com/kubernetes-sigs/kubetest2/pull/231) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 week ago)
+- [Add myself and dims as reviewers &amp; sig-testing leadership as approvers](https://github.com/kubernetes-sigs/kubetest2/pull/231) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 week ago)
 - [Add kubetest2 support](https://github.com/kubernetes-sigs/provider-aws-test-infra/pull/39) on [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) (2 weeks ago)
 - [Add support for running node-tester against EC2](https://github.com/kubernetes-sigs/kubetest2/pull/230) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (2 weeks ago)
 - [WIP: Add node e2e grid tests](https://github.com/kubernetes/test-infra/pull/29944) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
