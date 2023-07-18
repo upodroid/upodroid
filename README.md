@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Disable dependabot](https://github.com/knative/test-infra/pull/3852) on [knative/test-infra](https://github.com/knative/test-infra) (today)
 - [Run e2e tests without specifying an image config file](https://github.com/kubernetes-sigs/provider-aws-test-infra/pull/80) on [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) (1 day ago)
 - [Check for incorrect cluster names](https://github.com/kubernetes/test-infra/pull/30059) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Migrate remaining containerd-build-* jobs to the community bucket and introduce postsubmit jobs](https://github.com/kubernetes/test-infra/pull/30025) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Migrate to a community owned bucket for installing containerd](https://github.com/kubernetes/test-infra/pull/29986) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [Add myself and dims as reviewers &amp; sig-testing leadership as approvers](https://github.com/kubernetes-sigs/kubetest2/pull/231) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (2 weeks ago)
 - [Add kubetest2 support](https://github.com/kubernetes-sigs/provider-aws-test-infra/pull/39) on [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) (3 weeks ago)
-- [Add support for running node-tester against EC2](https://github.com/kubernetes-sigs/kubetest2/pull/230) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
