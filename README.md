@@ -17,10 +17,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [knative/serving](https://github.com/knative/serving) ([knative-v1.11.0](https://github.com/knative/serving/releases/tag/knative-v1.11.0), today) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-beta.0), 4 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.6.10](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.6.10), 3 weeks ago) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
-- [knative/serving](https://github.com/knative/serving) ([knative-v1.9.4](https://github.com/knative/serving/releases/tag/knative-v1.9.4), 1 month ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.2](https://github.com/containerd/containerd/releases/tag/v1.7.2), 1 month ago) - An open and reliable container runtime
 - [knative-sandbox/kn-plugin-operator](https://github.com/knative-sandbox/kn-plugin-operator) ([knative-v1.7.2](https://github.com/knative-sandbox/kn-plugin-operator/releases/tag/knative-v1.7.2), 2 months ago) - Kn plugin for managing Knative with Knative Operator.
 - [knative-sandbox/kn-plugin-event](https://github.com/knative-sandbox/kn-plugin-event) ([knative-v1.10.0](https://github.com/knative-sandbox/kn-plugin-event/releases/tag/knative-v1.10.0), 2 months ago) - Kn plugin for sending events to Knative sinks.
@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Migrate kubetest2 jobs to community clusters and add new e2e tests](https://github.com/kubernetes/test-infra/pull/30195) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Set the `IMAGE_CONFIG_DIR` value on all ec2 node-e2e jobs](https://github.com/kubernetes/test-infra/pull/30193) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Migrate to community bucket for node e2e tests](https://github.com/containerd/containerd/pull/8862) on [containerd/containerd](https://github.com/containerd/containerd) (1 day ago)
 - [allow google prow principal to write to cri-tools bucket](https://github.com/kubernetes/k8s.io/pull/5610) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Create a canary job to migrate the containerd e2e tests](https://github.com/kubernetes/test-infra/pull/30159) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [Disable knobots on test-infra](https://github.com/knative-sandbox/knobots/pull/319) on [knative-sandbox/knobots](https://github.com/knative-sandbox/knobots) (4 days ago)
 - [Pull containerd binaries from `gs://k8s-staging-cri-tools` bucket](https://github.com/kubernetes/test-infra/pull/30153) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
-- [Disable dependabot](https://github.com/knative/test-infra/pull/3852) on [knative/test-infra](https://github.com/knative/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
