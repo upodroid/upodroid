@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typos in kubetest2 jobs and use master instead of experimental images](https://github.com/kubernetes/test-infra/pull/30197) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Enable GKE API on `k8s-infra-e2e-boskos-*` GCP projects](https://github.com/kubernetes/k8s.io/pull/5628) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Migrate kubetest2 jobs to community clusters and add new e2e tests](https://github.com/kubernetes/test-infra/pull/30195) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Set the `IMAGE_CONFIG_DIR` value on all ec2 node-e2e jobs](https://github.com/kubernetes/test-infra/pull/30193) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Update my Company affiliation](https://github.com/knative/community/pull/1404) on [knative/community](https://github.com/knative/community) (1 day ago)
 - [Add node-env and instance-type flags to node-e2e tests](https://github.com/kubernetes/kubernetes/pull/119513) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
 - [Create a canary job to migrate the containerd e2e tests](https://github.com/kubernetes/test-infra/pull/30159) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
-- [Disable knobots on test-infra](https://github.com/knative-sandbox/knobots/pull/319) on [knative-sandbox/knobots](https://github.com/knative-sandbox/knobots) (4 days ago)
 
 #### ⭐ Recent Stars
 
