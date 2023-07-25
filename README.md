@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Set the `IMAGE_CONFIG_DIR` value on all ec2 node-e2e jobs](https://github.com/kubernetes/test-infra/pull/30193) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Migrate to community bucket for node e2e tests](https://github.com/containerd/containerd/pull/8862) on [containerd/containerd](https://github.com/containerd/containerd) (1 day ago)
 - [allow google prow principal to write to cri-tools bucket](https://github.com/kubernetes/k8s.io/pull/5610) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [Add `cr` and `helm` cli tools](https://github.com/knative/infra/pull/138) on [knative/infra](https://github.com/knative/infra) (1 day ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Disable knobots on test-infra](https://github.com/knative-sandbox/knobots/pull/319) on [knative-sandbox/knobots](https://github.com/knative-sandbox/knobots) (4 days ago)
 - [Pull containerd binaries from `gs://k8s-staging-cri-tools` bucket](https://github.com/kubernetes/test-infra/pull/30153) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [Disable dependabot](https://github.com/knative/test-infra/pull/3852) on [knative/test-infra](https://github.com/knative/test-infra) (1 week ago)
-- [Run e2e tests without specifying an image config file](https://github.com/kubernetes-sigs/provider-aws-test-infra/pull/80) on [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
