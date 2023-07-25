@@ -4,47 +4,47 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (5 days ago)
-- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 week ago)
-- [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (2 weeks ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 weeks ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 weeks ago)
-- [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) - Shared test infrastructure for the AWS cloud provider repositories (3 weeks ago)
-- [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime (1 month ago)
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 month ago)
-- [knative/toolbox](https://github.com/knative/toolbox) - Toolbox: tools used in Knative project (1 month ago)
-- [knative/community](https://github.com/knative/community) - Knative governance and community material. (1 month ago)
+- [knative-sandbox/knobots](https://github.com/knative-sandbox/knobots) - A collection of github actions for routine maintenance of Knative repositories. (1 day ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
+- [knative/community](https://github.com/knative/community) - Knative governance and community material. (1 day ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (4 days ago)
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (4 days ago)
+- [knative/test-infra](https://github.com/knative/test-infra) - Test infrastructure for the Knative project (5 days ago)
+- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 week ago)
+- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (2 weeks ago)
+- [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (3 weeks ago)
+- [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) - Shared test infrastructure for the AWS cloud provider repositories (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-alpha.4](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-alpha.4), 1 week ago) - Production-Grade Container Scheduling and Management
-- [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.6.10](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.6.10), 2 weeks ago) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 3 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-beta.0), 4 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.6.10](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.6.10), 3 weeks ago) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.9.4](https://github.com/knative/serving/releases/tag/knative-v1.9.4), 1 month ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.2](https://github.com/containerd/containerd/releases/tag/v1.7.2), 1 month ago) - An open and reliable container runtime
 - [knative-sandbox/kn-plugin-operator](https://github.com/knative-sandbox/kn-plugin-operator) ([knative-v1.7.2](https://github.com/knative-sandbox/kn-plugin-operator/releases/tag/knative-v1.7.2), 2 months ago) - Kn plugin for managing Knative with Knative Operator.
 - [knative-sandbox/kn-plugin-event](https://github.com/knative-sandbox/kn-plugin-event) ([knative-v1.10.0](https://github.com/knative-sandbox/kn-plugin-event/releases/tag/knative-v1.10.0), 2 months ago) - Kn plugin for sending events to Knative sinks.
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 3 months ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.27](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.27), 3 months ago) - Kubernetes website and documentation repo: 
-- [knative-sandbox/security-guard](https://github.com/knative-sandbox/security-guard) ([v0.5.1](https://github.com/knative-sandbox/security-guard/releases/tag/v0.5.1), 3 months ago) - Runtime security plug to protect user containers
+- [knative-sandbox/security-guard](https://github.com/knative-sandbox/security-guard) ([v0.5.1](https://github.com/knative-sandbox/security-guard/releases/tag/v0.5.1), 4 months ago) - Runtime security plug to protect user containers
 
 #### 🔨 My recent Pull Requests
 
-- [Disable dependabot](https://github.com/knative/test-infra/pull/3852) on [knative/test-infra](https://github.com/knative/test-infra) (today)
-- [Run e2e tests without specifying an image config file](https://github.com/kubernetes-sigs/provider-aws-test-infra/pull/80) on [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) (1 day ago)
-- [Check for incorrect cluster names](https://github.com/kubernetes/test-infra/pull/30059) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [Migrate remaining containerd-build-* jobs to the community bucket and introduce postsubmit jobs](https://github.com/kubernetes/test-infra/pull/30025) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [allow functions leads to rerun prowjobs](https://github.com/knative/infra/pull/124) on [knative/infra](https://github.com/knative/infra) (1 week ago)
-- [Update @upodroid&#39;s affiliation](https://github.com/cncf/gitdm/pull/100) on [cncf/gitdm](https://github.com/cncf/gitdm) (2 weeks ago)
-- [Allow prow-build to write to cri-tools bucket](https://github.com/kubernetes/k8s.io/pull/5500) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
-- [Migrate to a community owned bucket for installing containerd](https://github.com/kubernetes/test-infra/pull/29986) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-- [Add myself and dims as reviewers &amp; sig-testing leadership as approvers](https://github.com/kubernetes-sigs/kubetest2/pull/231) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (2 weeks ago)
-- [Add kubetest2 support](https://github.com/kubernetes-sigs/provider-aws-test-infra/pull/39) on [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) (3 weeks ago)
+- [Migrate to community bucket for node e2e tests](https://github.com/containerd/containerd/pull/8862) on [containerd/containerd](https://github.com/containerd/containerd) (1 day ago)
+- [allow google prow principal to write to cri-tools bucket](https://github.com/kubernetes/k8s.io/pull/5610) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
+- [Add `cr` and `helm` cli tools](https://github.com/knative/infra/pull/138) on [knative/infra](https://github.com/knative/infra) (1 day ago)
+- [Update my Company affiliation](https://github.com/knative/community/pull/1404) on [knative/community](https://github.com/knative/community) (1 day ago)
+- [Add node-env and instance-type flags to node-e2e tests](https://github.com/kubernetes/kubernetes/pull/119513) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
+- [Create a canary job to migrate the containerd e2e tests](https://github.com/kubernetes/test-infra/pull/30159) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
+- [Disable knobots on test-infra](https://github.com/knative-sandbox/knobots/pull/319) on [knative-sandbox/knobots](https://github.com/knative-sandbox/knobots) (4 days ago)
+- [Pull containerd binaries from `gs://k8s-staging-cri-tools` bucket](https://github.com/kubernetes/test-infra/pull/30153) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
+- [Disable dependabot](https://github.com/knative/test-infra/pull/3852) on [knative/test-infra](https://github.com/knative/test-infra) (1 week ago)
+- [Run e2e tests without specifying an image config file](https://github.com/kubernetes-sigs/provider-aws-test-infra/pull/80) on [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
-- [knative/test-infra](https://github.com/knative/test-infra) - Test infrastructure for the Knative project (9 months ago)
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 weeks ago)
+- [knative/test-infra](https://github.com/knative/test-infra) - Test infrastructure for the Knative project (10 months ago)
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need (2 years ago)
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider (2 years ago)
 - [chrismarcellino/lambda-ses-email-forwarder](https://github.com/chrismarcellino/lambda-ses-email-forwarder) - Minimalistic Python3 Amazon AWS Lambda/SES Email Forward with support for bouncing oversized messages, auto &#34;from&#34; addressing, and environment variable-based configuration (2 years ago)
