@@ -30,7 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
-- [use a map as a default value for node-env instead of a string](https://github.com/kubernetes/kubernetes/pull/119587) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
+- [Set node-env map parser to nil if an empty string is passed](https://github.com/kubernetes/kubernetes/pull/119587) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [Fix typos in kubetest2 jobs and use master instead of experimental images](https://github.com/kubernetes/test-infra/pull/30197) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Enable GKE API on `k8s-infra-e2e-boskos-*` GCP projects](https://github.com/kubernetes/k8s.io/pull/5628) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [Migrate kubetest2 jobs to community clusters and add new e2e tests](https://github.com/kubernetes/test-infra/pull/30195) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
