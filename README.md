@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-rc.0), today) - Production-Grade Container Scheduling and Management
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.11.0](https://github.com/knative/serving/releases/tag/knative-v1.11.0), 1 day ago) - Kubernetes-based, scale-to-zero, request-driven compute
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-beta.0), 5 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.6.10](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.6.10), 3 weeks ago) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.2](https://github.com/containerd/containerd/releases/tag/v1.7.2), 1 month ago) - An open and reliable container runtime
