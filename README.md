@@ -8,12 +8,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 days ago)
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime (2 days ago)
-- [knative/community](https://github.com/knative/community) - Knative governance and community material. (3 days ago)
 - [knative-sandbox/knobots](https://github.com/knative-sandbox/knobots) - A collection of github actions for routine maintenance of Knative repositories. (3 days ago)
+- [knative/community](https://github.com/knative/community) - Knative governance and community material. (3 days ago)
 - [knative/test-infra](https://github.com/knative/test-infra) - Test infrastructure for the Knative project (1 week ago)
+- [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) - Shared test infrastructure for the AWS cloud provider repositories (1 week ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (2 weeks ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (2 weeks ago)
-- [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
