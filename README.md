@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [containerd/containerd](https://github.com/containerd/containerd) ([v1.6.22](https://github.com/containerd/containerd/releases/tag/v1.6.22), today) - An open and reliable container runtime
+- [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.3](https://github.com/containerd/containerd/releases/tag/v1.7.3), today) - An open and reliable container runtime
 - [knative-sandbox/kn-plugin-event](https://github.com/knative-sandbox/kn-plugin-event) ([knative-v1.11.0](https://github.com/knative-sandbox/kn-plugin-event/releases/tag/knative-v1.11.0), today) - Kn plugin for sending events to Knative sinks.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-rc.0), 1 day ago) - Production-Grade Container Scheduling and Management
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.11.0](https://github.com/knative/serving/releases/tag/knative-v1.11.0), 2 days ago) - Kubernetes-based, scale-to-zero, request-driven compute
