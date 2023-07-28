@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 days ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime (3 days ago)
 - [knative-sandbox/knobots](https://github.com/knative-sandbox/knobots) - A collection of github actions for routine maintenance of Knative repositories. (4 days ago)
@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [fix `IMAGE_CONFIG_DIR` for a few jobs I missed](https://github.com/kubernetes/test-infra/pull/30230) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Calculate the correct machine-type](https://github.com/kubernetes/kubernetes/pull/119603) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 - [Set node-env map parser to nil if an empty string is passed](https://github.com/kubernetes/kubernetes/pull/119587) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 - [Fix typos in kubetest2 jobs and use master instead of experimental images](https://github.com/kubernetes/test-infra/pull/30197) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Migrate to community bucket for node e2e tests](https://github.com/containerd/containerd/pull/8862) on [containerd/containerd](https://github.com/containerd/containerd) (4 days ago)
 - [allow google prow principal to write to cri-tools bucket](https://github.com/kubernetes/k8s.io/pull/5610) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [Add `cr` and `helm` cli tools](https://github.com/knative/infra/pull/138) on [knative/infra](https://github.com/knative/infra) (4 days ago)
-- [Update my Company affiliation](https://github.com/knative/community/pull/1404) on [knative/community](https://github.com/knative/community) (4 days ago)
 
 #### ⭐ Recent Stars
 
