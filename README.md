@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Fix extra spaces in kubetest2 node jobs](https://github.com/kubernetes/test-infra/pull/30250) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [fix `IMAGE_CONFIG_DIR` for a few jobs I missed](https://github.com/kubernetes/test-infra/pull/30230) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [Calculate the correct machine-type](https://github.com/kubernetes/kubernetes/pull/119603) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
 - [Set node-env map parser to nil if an empty string is passed](https://github.com/kubernetes/kubernetes/pull/119587) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Set the `IMAGE_CONFIG_DIR` value on all ec2 node-e2e jobs](https://github.com/kubernetes/test-infra/pull/30193) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [Migrate to community bucket for node e2e tests](https://github.com/containerd/containerd/pull/8862) on [containerd/containerd](https://github.com/containerd/containerd) (1 week ago)
 - [allow google prow principal to write to cri-tools bucket](https://github.com/kubernetes/k8s.io/pull/5610) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [Add `cr` and `helm` cli tools](https://github.com/knative/infra/pull/138) on [knative/infra](https://github.com/knative/infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
