@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Use `USER` instead of `SSH_USER` for ec2 node tests](https://github.com/kubernetes/test-infra/pull/30251) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Bump go to 1.20](https://github.com/kubernetes-sigs/kubetest2/pull/234) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (today)
 - [Fix extra spaces in kubetest2 node jobs](https://github.com/kubernetes/test-infra/pull/30250) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [fix `IMAGE_CONFIG_DIR` for a few jobs I missed](https://github.com/kubernetes/test-infra/pull/30230) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Enable GKE API on `k8s-infra-e2e-boskos-*` GCP projects](https://github.com/kubernetes/k8s.io/pull/5628) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [Migrate kubetest2 jobs to community clusters and add new e2e tests](https://github.com/kubernetes/test-infra/pull/30195) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [Set the `IMAGE_CONFIG_DIR` value on all ec2 node-e2e jobs](https://github.com/kubernetes/test-infra/pull/30193) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [Migrate to community bucket for node e2e tests](https://github.com/containerd/containerd/pull/8862) on [containerd/containerd](https://github.com/containerd/containerd) (1 week ago)
 
 #### ⭐ Recent Stars
 
