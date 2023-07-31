@@ -5,7 +5,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 #### 👷 Check out what I'm currently working on
 
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (today)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (5 days ago)
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime (6 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (6 days ago)
@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Bump go to 1.20](https://github.com/kubernetes-sigs/kubetest2/pull/234) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (today)
 - [Fix extra spaces in kubetest2 node jobs](https://github.com/kubernetes/test-infra/pull/30250) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [fix `IMAGE_CONFIG_DIR` for a few jobs I missed](https://github.com/kubernetes/test-infra/pull/30230) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [Calculate the correct machine-type](https://github.com/kubernetes/kubernetes/pull/119603) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Migrate kubetest2 jobs to community clusters and add new e2e tests](https://github.com/kubernetes/test-infra/pull/30195) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [Set the `IMAGE_CONFIG_DIR` value on all ec2 node-e2e jobs](https://github.com/kubernetes/test-infra/pull/30193) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [Migrate to community bucket for node e2e tests](https://github.com/containerd/containerd/pull/8862) on [containerd/containerd](https://github.com/containerd/containerd) (1 week ago)
-- [allow google prow principal to write to cri-tools bucket](https://github.com/kubernetes/k8s.io/pull/5610) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
