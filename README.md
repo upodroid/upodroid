@@ -9,7 +9,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (6 days ago)
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime (1 week ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
-- [knative-sandbox/knobots](https://github.com/knative-sandbox/knobots) - A collection of github actions for routine maintenance of Knative repositories. (1 week ago)
+- [knative-extensions/knobots](https://github.com/knative-extensions/knobots) - A collection of github actions for routine maintenance of Knative repositories. (1 week ago)
 - [knative/community](https://github.com/knative/community) - Knative governance and community material. (1 week ago)
 - [knative/test-infra](https://github.com/knative/test-infra) - Test infrastructure for the Knative project (1 week ago)
 - [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) - Shared test infrastructure for the AWS cloud provider repositories (2 weeks ago)
@@ -17,20 +17,20 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [knative-sandbox/kn-plugin-operator](https://github.com/knative-sandbox/kn-plugin-operator) ([knative-v1.11.0](https://github.com/knative-sandbox/kn-plugin-operator/releases/tag/knative-v1.11.0), today) - Kn plugin for managing Knative with Knative Operator.
+- [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.11.0](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.11.0), today) - Kn plugin for managing Knative with Knative Operator.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.3](https://github.com/containerd/containerd/releases/tag/v1.7.3), 5 days ago) - An open and reliable container runtime
-- [knative-sandbox/kn-plugin-event](https://github.com/knative-sandbox/kn-plugin-event) ([knative-v1.11.0](https://github.com/knative-sandbox/kn-plugin-event/releases/tag/knative-v1.11.0), 5 days ago) - Kn plugin for sending events to Knative sinks.
+- [knative-extensions/kn-plugin-event](https://github.com/knative-extensions/kn-plugin-event) ([knative-v1.11.0](https://github.com/knative-extensions/kn-plugin-event/releases/tag/knative-v1.11.0), 5 days ago) - Kn plugin for sending events to Knative sinks.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-rc.0), 6 days ago) - Production-Grade Container Scheduling and Management
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.11.0](https://github.com/knative/serving/releases/tag/knative-v1.11.0), 1 week ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.6.10](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.6.10), 1 month ago) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 3 months ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.27](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.27), 3 months ago) - Kubernetes website and documentation repo: 
-- [knative-sandbox/security-guard](https://github.com/knative-sandbox/security-guard) ([v0.5.1](https://github.com/knative-sandbox/security-guard/releases/tag/v0.5.1), 4 months ago) - Runtime security plug to protect user containers
+- [knative-extensions/security-guard](https://github.com/knative-extensions/security-guard) ([v0.5.1](https://github.com/knative-extensions/security-guard/releases/tag/v0.5.1), 4 months ago) - Runtime security plug to protect user containers
 
 #### 🔨 My recent Pull Requests
 
-- [HoldTillRename: Rename knative-sandbox to knative-extensions](https://github.com/knative-sandbox/knobots/pull/320) on [knative-sandbox/knobots](https://github.com/knative-sandbox/knobots) (today)
+- [HoldTillRename: Rename knative-sandbox to knative-extensions](https://github.com/knative-extensions/knobots/pull/320) on [knative-extensions/knobots](https://github.com/knative-extensions/knobots) (today)
 - [Use `USER` instead of `SSH_USER` for ec2 node tests](https://github.com/kubernetes/test-infra/pull/30251) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Bump go to 1.20](https://github.com/kubernetes-sigs/kubetest2/pull/234) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 day ago)
 - [Fix extra spaces in kubetest2 node jobs](https://github.com/kubernetes/test-infra/pull/30250) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
