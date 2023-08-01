@@ -4,13 +4,13 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 day ago)
+- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (today)
+- [knative-extensions/knobots](https://github.com/knative-extensions/knobots) - A collection of github actions for routine maintenance of Knative repositories. (today)
+- [knative/community](https://github.com/knative/community) - Knative governance and community material. (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (6 days ago)
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime (1 week ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
-- [knative-extensions/knobots](https://github.com/knative-extensions/knobots) - A collection of github actions for routine maintenance of Knative repositories. (1 week ago)
-- [knative/community](https://github.com/knative/community) - Knative governance and community material. (1 week ago)
 - [knative/test-infra](https://github.com/knative/test-infra) - Test infrastructure for the Knative project (1 week ago)
 - [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) - Shared test infrastructure for the AWS cloud provider repositories (2 weeks ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (2 weeks ago)
@@ -30,6 +30,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Replace `knative-sandbox` with `knative-extensions`](https://github.com/knative-extensions/eventing-kafka-broker/pull/3258) on [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) (today)
+- [Update name and description on knative-extensions](https://github.com/knative/community/pull/1412) on [knative/community](https://github.com/knative/community) (today)
+- [Fix kn-plugin-jobs](https://github.com/knative/infra/pull/157) on [knative/infra](https://github.com/knative/infra) (today)
 - [HoldTillRename: Rename knative-sandbox to knative-extensions](https://github.com/knative-extensions/knobots/pull/320) on [knative-extensions/knobots](https://github.com/knative-extensions/knobots) (today)
 - [Use `USER` instead of `SSH_USER` for ec2 node tests](https://github.com/kubernetes/test-infra/pull/30251) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Bump go to 1.20](https://github.com/kubernetes-sigs/kubetest2/pull/234) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 day ago)
@@ -37,9 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [fix `IMAGE_CONFIG_DIR` for a few jobs I missed](https://github.com/kubernetes/test-infra/pull/30230) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [Calculate the correct machine-type](https://github.com/kubernetes/kubernetes/pull/119603) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
 - [Set node-env map parser to nil if an empty string is passed](https://github.com/kubernetes/kubernetes/pull/119587) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
-- [Fix typos in kubetest2 jobs and use master instead of experimental images](https://github.com/kubernetes/test-infra/pull/30197) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [Enable GKE API on `k8s-infra-e2e-boskos-*` GCP projects](https://github.com/kubernetes/k8s.io/pull/5628) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [Migrate kubetest2 jobs to community clusters and add new e2e tests](https://github.com/kubernetes/test-infra/pull/30195) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
