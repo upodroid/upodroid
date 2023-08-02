@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [fix ec2 instance type for kubetest2 canary job and bump verify job cpu limit](https://github.com/kubernetes/test-infra/pull/30278) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Replace `knative-sandbox` with `knative-extensions`](https://github.com/knative-extensions/eventing-kafka-broker/pull/3258) on [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) (1 day ago)
 - [Update name and description on knative-extensions](https://github.com/knative/community/pull/1412) on [knative/community](https://github.com/knative/community) (1 day ago)
 - [Fix kn-plugin-jobs](https://github.com/knative/infra/pull/157) on [knative/infra](https://github.com/knative/infra) (1 day ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Fix extra spaces in kubetest2 node jobs](https://github.com/kubernetes/test-infra/pull/30250) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [fix `IMAGE_CONFIG_DIR` for a few jobs I missed](https://github.com/kubernetes/test-infra/pull/30230) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [Calculate the correct machine-type](https://github.com/kubernetes/kubernetes/pull/119603) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
-- [Set node-env map parser to nil if an empty string is passed](https://github.com/kubernetes/kubernetes/pull/119587) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 
 #### ⭐ Recent Stars
 
