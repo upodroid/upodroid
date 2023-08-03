@@ -39,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Fix kn-plugin-jobs](https://github.com/knative/infra/pull/157) on [knative/infra](https://github.com/knative/infra) (2 days ago)
 - [HoldTillRename: Rename knative-sandbox to knative-extensions](https://github.com/knative-extensions/knobots/pull/320) on [knative-extensions/knobots](https://github.com/knative-extensions/knobots) (2 days ago)
 - [Use `USER` instead of `SSH_USER` for ec2 node tests](https://github.com/kubernetes/test-infra/pull/30251) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [Bump go to 1.20](https://github.com/kubernetes-sigs/kubetest2/pull/234) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (3 days ago)
 
 #### ⭐ Recent Stars
 
