@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Redirect goimports properly](https://github.com/knative/docs/pull/5656) on [knative/docs](https://github.com/knative/docs) (today)
 - [Run only nodeconformance test for kubetest2](https://github.com/kubernetes/test-infra/pull/30280) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Automatically set runtime-cgroups flag](https://github.com/kubernetes-sigs/provider-aws-test-infra/pull/94) on [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) (1 day ago)
 - [ensure userdata works when image-config file isn&#39;t being used](https://github.com/kubernetes-sigs/provider-aws-test-infra/pull/93) on [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) (1 day ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Update name and description on knative-extensions](https://github.com/knative/community/pull/1412) on [knative/community](https://github.com/knative/community) (2 days ago)
 - [Fix kn-plugin-jobs](https://github.com/knative/infra/pull/157) on [knative/infra](https://github.com/knative/infra) (2 days ago)
 - [HoldTillRename: Rename knative-sandbox to knative-extensions](https://github.com/knative-extensions/knobots/pull/320) on [knative-extensions/knobots](https://github.com/knative-extensions/knobots) (2 days ago)
-- [Use `USER` instead of `SSH_USER` for ec2 node tests](https://github.com/kubernetes/test-infra/pull/30251) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 
 #### ⭐ Recent Stars
 
