@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [run the e2e tests as well instead of just building a cluster](https://github.com/kubernetes-sigs/kubetest2/pull/236) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (today)
 - [Redirect goimports properly](https://github.com/knative/docs/pull/5656) on [knative/docs](https://github.com/knative/docs) (1 day ago)
 - [Run only nodeconformance test for kubetest2](https://github.com/kubernetes/test-infra/pull/30280) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [Automatically set runtime-cgroups flag](https://github.com/kubernetes-sigs/provider-aws-test-infra/pull/94) on [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) (2 days ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Replace `knative-sandbox` with `knative-extensions`](https://github.com/knative-extensions/eventing-kafka-broker/pull/3258) on [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) (3 days ago)
 - [Update name and description on knative-extensions](https://github.com/knative/community/pull/1412) on [knative/community](https://github.com/knative/community) (3 days ago)
 - [Fix kn-plugin-jobs](https://github.com/knative/infra/pull/157) on [knative/infra](https://github.com/knative/infra) (3 days ago)
-- [HoldTillRename: Rename knative-sandbox to knative-extensions](https://github.com/knative-extensions/knobots/pull/320) on [knative-extensions/knobots](https://github.com/knative-extensions/knobots) (3 days ago)
 
 #### ⭐ Recent Stars
 
