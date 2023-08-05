@@ -17,12 +17,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.6.11](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.6.11), today) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.11.0](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.11.0), 4 days ago) - Kn plugin for managing Knative with Knative Operator.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.3](https://github.com/containerd/containerd/releases/tag/v1.7.3), 1 week ago) - An open and reliable container runtime
 - [knative-extensions/kn-plugin-event](https://github.com/knative-extensions/kn-plugin-event) ([knative-v1.11.0](https://github.com/knative-extensions/kn-plugin-event/releases/tag/knative-v1.11.0), 1 week ago) - Kn plugin for sending events to Knative sinks.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-rc.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.11.0](https://github.com/knative/serving/releases/tag/knative-v1.11.0), 1 week ago) - Kubernetes-based, scale-to-zero, request-driven compute
-- [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.6.10](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.6.10), 1 month ago) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 3 months ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.27](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.27), 3 months ago) - Kubernetes website and documentation repo: 
