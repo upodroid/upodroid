@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Test kubetest2 with gingko and kind in presubmits](https://github.com/kubernetes/test-infra/pull/30312) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Don&#39;t install kubetest2 on job runs and install it properly in the image](https://github.com/kubernetes/test-infra/pull/30311) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [configure node-env, delete-instances flags and tweak version hash](https://github.com/kubernetes-sigs/kubetest2/pull/237) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (today)
 - [run the e2e tests as well instead of just building a cluster](https://github.com/kubernetes-sigs/kubetest2/pull/236) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (3 days ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Automatically set runtime-cgroups flag](https://github.com/kubernetes-sigs/provider-aws-test-infra/pull/94) on [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) (5 days ago)
 - [ensure userdata works when image-config file isn&#39;t being used](https://github.com/kubernetes-sigs/provider-aws-test-infra/pull/93) on [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) (5 days ago)
 - [fix ec2 instance type for kubetest2 canary job and bump verify job cpu limit](https://github.com/kubernetes/test-infra/pull/30278) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
-- [Replace `knative-sandbox` with `knative-extensions`](https://github.com/knative-extensions/eventing-kafka-broker/pull/3258) on [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) (6 days ago)
 
 #### ⭐ Recent Stars
 
