@@ -36,8 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [run the e2e tests as well instead of just building a cluster](https://github.com/kubernetes-sigs/kubetest2/pull/236) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (6 days ago)
 - [Redirect goimports properly](https://github.com/knative/docs/pull/5656) on [knative/docs](https://github.com/knative/docs) (1 week ago)
 - [Run only nodeconformance test for kubetest2](https://github.com/kubernetes/test-infra/pull/30280) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [Automatically set runtime-cgroups flag](https://github.com/kubernetes-sigs/provider-aws-test-infra/pull/94) on [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) (1 week ago)
-- [ensure userdata works when image-config file isn&#39;t being used](https://github.com/kubernetes-sigs/provider-aws-test-infra/pull/93) on [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
