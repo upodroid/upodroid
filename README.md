@@ -34,7 +34,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Don&#39;t install kubetest2 on job runs and install it properly in the image](https://github.com/kubernetes/test-infra/pull/30311) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [configure node-env, delete-instances flags and tweak version hash](https://github.com/kubernetes-sigs/kubetest2/pull/237) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 week ago)
 - [run the e2e tests as well instead of just building a cluster](https://github.com/kubernetes-sigs/kubetest2/pull/236) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 week ago)
-- [Redirect goimports properly](https://github.com/knative/docs/pull/5656) on [knative/docs](https://github.com/knative/docs) (1 week ago)
 
 #### ⭐ Recent Stars
 
