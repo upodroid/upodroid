@@ -4,21 +4,22 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) - Alternate Kafka Broker implementation. (today)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (4 days ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components. (1 week ago)
-- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 week ago)
 - [knative/community](https://github.com/knative/community) - Knative governance and community material. (1 week ago)
-- [knative-extensions/knobots](https://github.com/knative-extensions/knobots) - A collection of github actions for routine maintenance of Knative repositories. (1 week ago)
+- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 week ago)
 - [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) - Shared test infrastructure for the AWS cloud provider repositories (1 week ago)
+- [knative-extensions/knobots](https://github.com/knative-extensions/knobots) - A collection of github actions for routine maintenance of Knative repositories. (1 week ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 weeks ago)
-- [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.28](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.28), today) - Kubernetes website and documentation repo: 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0), today) - Production-Grade Container Scheduling and Management
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.11.2](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.11.2), today) - Alternate Kafka Broker implementation.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.6.23](https://github.com/containerd/containerd/releases/tag/v1.6.23), 1 day ago) - An open and reliable container runtime
 - [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.6.11](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.6.11), 1 week ago) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.11.0](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.11.0), 2 weeks ago) - Kn plugin for managing Knative with Knative Operator.
@@ -26,7 +27,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.11.0](https://github.com/knative/serving/releases/tag/knative-v1.11.0), 3 weeks ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 4 months ago) - Release infrastructure for Kubernetes and related components
-- [knative-extensions/security-guard](https://github.com/knative-extensions/security-guard) ([v0.5.1](https://github.com/knative-extensions/security-guard/releases/tag/v0.5.1), 4 months ago) - Runtime security plug to protect user containers
 
 #### 🔨 My recent Pull Requests
 
