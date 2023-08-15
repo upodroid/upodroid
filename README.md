@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0), today) - Production-Grade Container Scheduling and Management
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.6.23](https://github.com/containerd/containerd/releases/tag/v1.6.23), 1 day ago) - An open and reliable container runtime
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-rc.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-rc.1), 5 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.6.11](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.6.11), 1 week ago) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.11.0](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.11.0), 2 weeks ago) - Kn plugin for managing Knative with Knative Operator.
 - [knative-extensions/kn-plugin-event](https://github.com/knative-extensions/kn-plugin-event) ([knative-v1.11.0](https://github.com/knative-extensions/kn-plugin-event/releases/tag/knative-v1.11.0), 2 weeks ago) - Kn plugin for sending events to Knative sinks.
