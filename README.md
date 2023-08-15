@@ -30,9 +30,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify flags for ec2 node jobs](https://github.com/kubernetes/test-infra/pull/30385) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Test kubetest2 with gingko and kind in presubmits](https://github.com/kubernetes/test-infra/pull/30312) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Don&#39;t install kubetest2 on job runs and install it properly in the image](https://github.com/kubernetes/test-infra/pull/30311) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [configure node-env, delete-instances flags and tweak version hash](https://github.com/kubernetes-sigs/kubetest2/pull/237) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 week ago)
 
 #### ⭐ Recent Stars
 
