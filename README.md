@@ -5,8 +5,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 #### 👷 Check out what I'm currently working on
 
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) - Alternate Kafka Broker implementation. (today)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (5 days ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components. (1 week ago)
 - [knative/community](https://github.com/knative/community) - Knative governance and community material. (2 weeks ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (2 weeks ago)
@@ -30,9 +30,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Clone the full kubetest2 repo instead of shallow clone](https://github.com/kubernetes/test-infra/pull/30396) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Simplify flags for ec2 node jobs](https://github.com/kubernetes/test-infra/pull/30385) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Test kubetest2 with gingko and kind in presubmits](https://github.com/kubernetes/test-infra/pull/30312) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [Install kubetest2 properly in the image](https://github.com/kubernetes/test-infra/pull/30311) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
