@@ -30,9 +30,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Remove bazel from cloud-provider-gcp repo](https://github.com/kubernetes/cloud-provider-gcp/pull/590) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (today)
 - [Clone the full kubetest2 repo instead of shallow clone](https://github.com/kubernetes/test-infra/pull/30396) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Simplify flags for ec2 node jobs](https://github.com/kubernetes/test-infra/pull/30385) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
-- [Test kubetest2 with gingko and kind in presubmits](https://github.com/kubernetes/test-infra/pull/30312) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
