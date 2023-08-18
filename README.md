@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [configure kubetest2 to build arm64 e2e tests](https://github.com/kubernetes-sigs/kubetest2/pull/240) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (today)
 - [Remove bazel from cloud-provider-gcp repo](https://github.com/kubernetes/cloud-provider-gcp/pull/590) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (2 days ago)
 - [Clone the full kubetest2 repo instead of shallow clone](https://github.com/kubernetes/test-infra/pull/30396) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [Simplify flags for ec2 node jobs](https://github.com/kubernetes/test-infra/pull/30385) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
