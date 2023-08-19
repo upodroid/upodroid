@@ -17,6 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) ([v0.1.0](https://github.com/kubernetes-sigs/provider-aws-test-infra/releases/tag/v0.1.0), today) - Shared test infrastructure for the AWS cloud provider repositories
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.28](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.28), 4 days ago) - Kubernetes website and documentation repo: 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0), 4 days ago) - Production-Grade Container Scheduling and Management
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.11.2](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.11.2), 4 days ago) - Alternate Kafka Broker implementation.
@@ -26,7 +27,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [knative-extensions/kn-plugin-event](https://github.com/knative-extensions/kn-plugin-event) ([knative-v1.11.0](https://github.com/knative-extensions/kn-plugin-event/releases/tag/knative-v1.11.0), 3 weeks ago) - Kn plugin for sending events to Knative sinks.
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.11.0](https://github.com/knative/serving/releases/tag/knative-v1.11.0), 3 weeks ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
-- [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 4 months ago) - Release infrastructure for Kubernetes and related components
 
 #### 🔨 My recent Pull Requests
 
