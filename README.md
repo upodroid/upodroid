@@ -4,16 +4,16 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
+- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (today)
+- [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) - Shared test infrastructure for the AWS cloud provider repositories (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute (today)
-- [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) - Shared test infrastructure for the AWS cloud provider repositories (today)
 - [knative/hack](https://github.com/knative/hack) - Knative common scripts. (4 days ago)
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) - Alternate Kafka Broker implementation. (6 days ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 week ago)
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components. (2 weeks ago)
-- [knative-extensions/knobots](https://github.com/knative-extensions/knobots) - A collection of github actions for routine maintenance of Knative repositories. (2 weeks ago)
-- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (2 weeks ago)
 - [knative/community](https://github.com/knative/community) - Knative governance and community material. (2 weeks ago)
+- [knative-extensions/knobots](https://github.com/knative-extensions/knobots) - A collection of github actions for routine maintenance of Knative repositories. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
