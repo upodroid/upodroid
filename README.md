@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [add e2e cluster region var to jobs](https://github.com/knative/infra/pull/171) on [knative/infra](https://github.com/knative/infra) (today)
 - [Simplify ec2 node e2e flags on more jobs](https://github.com/kubernetes/test-infra/pull/30460) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Deprecate calling kubetest2 via kntest](https://github.com/knative/eventing/pull/7191) on [knative/eventing](https://github.com/knative/eventing) (4 days ago)
 - [configure kubetest2 to build arm64 e2e tests](https://github.com/kubernetes-sigs/kubetest2/pull/240) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (4 days ago)
