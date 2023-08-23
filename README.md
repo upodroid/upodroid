@@ -5,15 +5,15 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 #### 👷 Check out what I'm currently working on
 
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (today)
+- [knative/community](https://github.com/knative/community) - Knative governance and community material. (today)
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 day ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
 - [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute (1 day ago)
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 day ago)
 - [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) - Shared test infrastructure for the AWS cloud provider repositories (1 day ago)
 - [knative/hack](https://github.com/knative/hack) - Knative common scripts. (5 days ago)
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) - Alternate Kafka Broker implementation. (1 week ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 week ago)
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components. (2 weeks ago)
-- [knative/community](https://github.com/knative/community) - Knative governance and community material. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -35,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Simplify ec2 node e2e flags on more jobs](https://github.com/kubernetes/test-infra/pull/30460) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Deprecate calling kubetest2 via kntest](https://github.com/knative/eventing/pull/7191) on [knative/eventing](https://github.com/knative/eventing) (5 days ago)
 - [configure kubetest2 to build arm64 e2e tests](https://github.com/kubernetes-sigs/kubetest2/pull/240) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (5 days ago)
-- [Remove bazel from cloud-provider-gcp repo](https://github.com/kubernetes/cloud-provider-gcp/pull/590) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (1 week ago)
 
 #### ⭐ Recent Stars
 
