@@ -34,7 +34,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [give retocode access to perf tests](https://github.com/knative/community/pull/1424) on [knative/community](https://github.com/knative/community) (1 day ago)
 - [add e2e cluster region var to jobs](https://github.com/knative/infra/pull/171) on [knative/infra](https://github.com/knative/infra) (2 days ago)
 - [Simplify ec2 node e2e flags on more jobs](https://github.com/kubernetes/test-infra/pull/30460) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
-- [Deprecate calling kubetest2 via kntest](https://github.com/knative/eventing/pull/7191) on [knative/eventing](https://github.com/knative/eventing) (6 days ago)
 
 #### ⭐ Recent Stars
 
