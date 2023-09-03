@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [knative/eventing](https://github.com/knative/eventing) - Event-driven application platform for Kubernetes (5 days ago)
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) - Alternate Kafka Broker implementation. (5 days ago)
+- [knative/eventing](https://github.com/knative/eventing) - Event-driven application platform for Kubernetes (6 days ago)
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) - Alternate Kafka Broker implementation. (6 days ago)
 - [knative/community](https://github.com/knative/community) - Knative governance and community material. (1 week ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 week ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 week ago)
@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.10.4](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.10.4), 4 days ago) - Alternate Kafka Broker implementation.
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.10.4](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.10.4), 5 days ago) - Alternate Kafka Broker implementation.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.5](https://github.com/containerd/containerd/releases/tag/v1.7.5), 1 week ago) - An open and reliable container runtime
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.1), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) ([v0.1.0](https://github.com/kubernetes-sigs/provider-aws-test-infra/releases/tag/v0.1.0), 2 weeks ago) - Shared test infrastructure for the AWS cloud provider repositories
@@ -30,11 +30,11 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
-- [Deprecate calling kubetest2 via kntest](https://github.com/knative-extensions/eventing-kafka-broker/pull/3311) on [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) (5 days ago)
+- [Deprecate calling kubetest2 via kntest](https://github.com/knative-extensions/eventing-kafka-broker/pull/3311) on [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (2 days ago)
+- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (3 days ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (1 week ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 months ago)
 - [knative/test-infra](https://github.com/knative/test-infra) - Test infrastructure for the Knative project (11 months ago)
