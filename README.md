@@ -30,7 +30,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
-- [Deprecate calling kubetest2 via kntest](https://github.com/knative-extensions/eventing-kafka-broker/pull/3311) on [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) (1 week ago)
 
 #### ⭐ Recent Stars
 
