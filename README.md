@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Fix kubetest2 flakes](https://github.com/kubernetes/test-infra/pull/30609) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 
 #### ⭐ Recent Stars
 
