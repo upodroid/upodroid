@@ -17,12 +17,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.2](https://github.com/knative/eventing/releases/tag/knative-v1.11.2), today) - Event-driven application platform for Kubernetes
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.10.4](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.10.4), 1 week ago) - Alternate Kafka Broker implementation.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.5](https://github.com/containerd/containerd/releases/tag/v1.7.5), 1 week ago) - An open and reliable container runtime
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.1), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) ([v0.1.0](https://github.com/kubernetes-sigs/provider-aws-test-infra/releases/tag/v0.1.0), 2 weeks ago) - Shared test infrastructure for the AWS cloud provider repositories
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.28](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.28), 3 weeks ago) - Kubernetes website and documentation repo: 
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.1](https://github.com/knative/eventing/releases/tag/knative-v1.11.1), 3 weeks ago) - Event-driven application platform for Kubernetes
 - [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.6.11](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.6.11), 1 month ago) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.11.0](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.11.0), 1 month ago) - Kn plugin for managing Knative with Knative Operator.
 - [knative-extensions/kn-plugin-event](https://github.com/knative-extensions/kn-plugin-event) ([knative-v1.11.0](https://github.com/knative-extensions/kn-plugin-event/releases/tag/knative-v1.11.0), 1 month ago) - Kn plugin for sending events to Knative sinks.
