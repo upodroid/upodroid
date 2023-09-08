@@ -30,7 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
-- [Allow disabling metadata-proxy](https://github.com/kubernetes/kops/pull/15885) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
+- [Remove metadata-proxy from GCE Clusters from 1.29&#43; onwards](https://github.com/kubernetes/kops/pull/15885) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [Fix kubetest2 flakes](https://github.com/kubernetes/test-infra/pull/30609) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 
 #### ⭐ Recent Stars
