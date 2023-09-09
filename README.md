@@ -4,19 +4,20 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (5 days ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 week ago)
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) - Alternate Kafka Broker implementation. (1 week ago)
 - [knative/eventing](https://github.com/knative/eventing) - Event-driven application platform for Kubernetes (1 week ago)
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) - Alternate Kafka Broker implementation. (1 week ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (2 weeks ago)
 - [knative/community](https://github.com/knative/community) - Knative governance and community material. (2 weeks ago)
-- [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute (2 weeks ago)
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
 - [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) - Shared test infrastructure for the AWS cloud provider repositories (2 weeks ago)
-- [knative/hack](https://github.com/knative/hack) - Knative common scripts. (3 weeks ago)
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
+- [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.29.0-alpha.1), 1 day ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.2](https://github.com/knative/eventing/releases/tag/knative-v1.11.2), 4 days ago) - Event-driven application platform for Kubernetes
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.10.4](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.10.4), 1 week ago) - Alternate Kafka Broker implementation.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.5](https://github.com/containerd/containerd/releases/tag/v1.7.5), 2 weeks ago) - An open and reliable container runtime
@@ -26,7 +27,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.6.11](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.6.11), 1 month ago) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.11.0](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.11.0), 1 month ago) - Kn plugin for managing Knative with Knative Operator.
 - [knative-extensions/kn-plugin-event](https://github.com/knative-extensions/kn-plugin-event) ([knative-v1.11.0](https://github.com/knative-extensions/kn-plugin-event/releases/tag/knative-v1.11.0), 1 month ago) - Kn plugin for sending events to Knative sinks.
-- [knative/serving](https://github.com/knative/serving) ([knative-v1.11.0](https://github.com/knative/serving/releases/tag/knative-v1.11.0), 1 month ago) - Kubernetes-based, scale-to-zero, request-driven compute
 
 #### 🔨 My recent Pull Requests
 
