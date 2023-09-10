@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (today)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (5 days ago)
+- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 day ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (6 days ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 week ago)
 - [knative/eventing](https://github.com/knative/eventing) - Event-driven application platform for Kubernetes (1 week ago)
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) - Alternate Kafka Broker implementation. (1 week ago)
@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.29.0-alpha.1), 1 day ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.2](https://github.com/knative/eventing/releases/tag/knative-v1.11.2), 4 days ago) - Event-driven application platform for Kubernetes
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.29.0-alpha.1), 2 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.2](https://github.com/knative/eventing/releases/tag/knative-v1.11.2), 5 days ago) - Event-driven application platform for Kubernetes
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.10.4](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.10.4), 1 week ago) - Alternate Kafka Broker implementation.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.5](https://github.com/containerd/containerd/releases/tag/v1.7.5), 2 weeks ago) - An open and reliable container runtime
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.1), 2 weeks ago) - Production-Grade Container Scheduling and Management
@@ -30,12 +30,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
-- [Remove metadata-proxy from GCE Clusters from 1.29&#43; onwards](https://github.com/kubernetes/kops/pull/15885) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
-- [Fix kubetest2 flakes](https://github.com/kubernetes/test-infra/pull/30609) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
+- [Remove metadata-proxy from GCE Clusters from 1.29&#43; onwards](https://github.com/kubernetes/kops/pull/15885) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
+- [Fix kubetest2 flakes](https://github.com/kubernetes/test-infra/pull/30609) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (4 days ago)
+- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (5 days ago)
 - [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (1 week ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (2 weeks ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 months ago)
