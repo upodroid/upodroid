@@ -33,7 +33,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Build and publish arm64 images](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/pull/1369) on [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) (today)
 - [Fix e2e testing logic](https://github.com/kubernetes/kops/pull/15900) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [Remove password from client](https://github.com/kubernetes-sigs/boskos/pull/173) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (today)
-- [Remove metadata-proxy from GCE Clusters from 1.29&#43; onwards](https://github.com/kubernetes/kops/pull/15885) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 days ago)
 
 #### ⭐ Recent Stars
 
