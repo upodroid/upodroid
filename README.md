@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Migrate kube-up cluster tests to kops - part one](https://github.com/kubernetes/test-infra/pull/30686) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Handle 404 properly from Service Accounts API](https://github.com/kubernetes/kops/pull/15902) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [Build and publish arm64 images](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/pull/1369) on [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) (1 day ago)
 - [Fix e2e testing logic](https://github.com/kubernetes/kops/pull/15900) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
