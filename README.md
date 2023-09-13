@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.2), today) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.9](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.9), today) - Production-Grade Container Scheduling and Management
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.6](https://github.com/containerd/containerd/releases/tag/v1.7.6), 1 day ago) - An open and reliable container runtime
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.29.0-alpha.1), 5 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.2](https://github.com/knative/eventing/releases/tag/knative-v1.11.2), 1 week ago) - Event-driven application platform for Kubernetes
