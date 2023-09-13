@@ -30,13 +30,14 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Add tooling flag to ginkgo tester](https://github.com/kubernetes/kops/pull/15907) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
+- [Skip kube-up related GCE tests when running e2e tests on kops](https://github.com/kubernetes/kubernetes/pull/120628) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [Add the arm64 image to the manifest create command](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/pull/1370) on [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) (today)
 - [Fix NFS driver test tags](https://github.com/kubernetes/kubernetes/pull/120619) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [Migrate kube-up cluster tests to kops - part one](https://github.com/kubernetes/test-infra/pull/30686) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Handle 404 properly from Service Accounts API](https://github.com/kubernetes/kops/pull/15902) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [Build and publish arm64 images](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/pull/1369) on [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) (2 days ago)
 - [Fix e2e testing logic](https://github.com/kubernetes/kops/pull/15900) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
-- [Remove password from client](https://github.com/kubernetes-sigs/boskos/pull/173) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (2 days ago)
 
 #### ⭐ Recent Stars
 
