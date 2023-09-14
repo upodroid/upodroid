@@ -4,16 +4,16 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
+- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (today)
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin. (1 day ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (3 days ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (2 weeks ago)
 - [knative/eventing](https://github.com/knative/eventing) - Event-driven application platform for Kubernetes (2 weeks ago)
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) - Alternate Kafka Broker implementation. (2 weeks ago)
-- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (3 weeks ago)
 - [knative/community](https://github.com/knative/community) - Knative governance and community material. (3 weeks ago)
+- [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute (3 weeks ago)
 - [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) - Shared test infrastructure for the AWS cloud provider repositories (3 weeks ago)
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [always trust dependabot PRs](https://github.com/knative/infra/pull/194) on [knative/infra](https://github.com/knative/infra) (today)
 - [Add new optional gce cos presubmit test](https://github.com/kubernetes/test-infra/pull/30703) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Add tooling flag to ginkgo tester](https://github.com/kubernetes/kops/pull/15907) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [Skip kube-up related GCE tests when running e2e tests on kops](https://github.com/kubernetes/kubernetes/pull/120628) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
