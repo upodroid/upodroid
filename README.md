@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Recreate the `k8s-authenticated-test` GCP project as `k8s-staging-authenticated-test` on kubernetes.io GCP Org](https://github.com/kubernetes/k8s.io/pull/5854) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Add a new COS gce grid test](https://github.com/kubernetes/test-infra/pull/30719) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [always trust dependabot PRs](https://github.com/knative/infra/pull/194) on [knative/infra](https://github.com/knative/infra) (1 day ago)
 - [Add new optional gce cos presubmit test](https://github.com/kubernetes/test-infra/pull/30703) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Add the arm64 image to the manifest create command](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/pull/1370) on [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) (2 days ago)
 - [Fix NFS driver test tags](https://github.com/kubernetes/kubernetes/pull/120619) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
 - [Migrate kube-up cluster tests to kops - part one](https://github.com/kubernetes/test-infra/pull/30686) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [Handle 404 properly from Service Accounts API](https://github.com/kubernetes/kops/pull/15902) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 days ago)
 
 #### ⭐ Recent Stars
 
