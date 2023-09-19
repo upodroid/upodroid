@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Skip kube-dns tests if coredns is installed](https://github.com/kubernetes/kubernetes/pull/120749) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [Bump COS job frequency and skip running flannel tests for k8s version newer than 1.28](https://github.com/kubernetes/test-infra/pull/30742) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Use the correct image project id for COS kOps test](https://github.com/kubernetes/test-infra/pull/30735) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [Create the k8s-kops-test SA on k8s-infra-prow-build cluster](https://github.com/kubernetes/k8s.io/pull/5857) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Add new optional gce cos presubmit test](https://github.com/kubernetes/test-infra/pull/30703) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [Fix COS image mounter URL](https://github.com/kubernetes/kops/pull/15907) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
 - [Skip kube-up related GCE tests when running e2e tests on kops](https://github.com/kubernetes/kubernetes/pull/120628) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
-- [Add the arm64 image to the manifest create command](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/pull/1370) on [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) (6 days ago)
 
 #### ⭐ Recent Stars
 
