@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Run a copy of release-blocking/informing e2e jobs using kops instead of kube-up](https://github.com/kubernetes/test-infra/pull/30774) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Automated cherry pick of #120749: skip kube-dns tests if kube-dns is missing](https://github.com/kubernetes/kubernetes/pull/120760) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [Automated cherry pick of #120749: skip kube-dns tests if kube-dns is missing](https://github.com/kubernetes/kubernetes/pull/120759) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [Skip kube-dns tests if coredns is installed](https://github.com/kubernetes/kubernetes/pull/120749) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Recreate the `k8s-authenticated-test` GCP project as `k8s-staging-authenticated-test` on kubernetes.io GCP Org](https://github.com/kubernetes/k8s.io/pull/5854) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [Add a new COS gce grid test](https://github.com/kubernetes/test-infra/pull/30719) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [always trust dependabot PRs](https://github.com/knative/infra/pull/194) on [knative/infra](https://github.com/knative/infra) (6 days ago)
-- [Add new optional gce cos presubmit test](https://github.com/kubernetes/test-infra/pull/30703) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
