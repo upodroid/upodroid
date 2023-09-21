@@ -35,9 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Automated cherry pick of #120749: skip kube-dns tests if kube-dns is missing](https://github.com/kubernetes/kubernetes/pull/120759) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 - [Skip kube-dns tests if coredns is installed](https://github.com/kubernetes/kubernetes/pull/120749) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 - [Bump COS job frequency and skip running flannel tests for k8s version newer than 1.28](https://github.com/kubernetes/test-infra/pull/30742) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [Use the correct image project id for COS kOps test](https://github.com/kubernetes/test-infra/pull/30735) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
-- [Create the k8s-kops-test SA on k8s-infra-prow-build cluster](https://github.com/kubernetes/k8s.io/pull/5857) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [Recreate the `k8s-authenticated-test` GCP project as `k8s-staging-authenticated-test` on kubernetes.io GCP Org](https://github.com/kubernetes/k8s.io/pull/5854) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 
 #### ⭐ Recent Stars
 
