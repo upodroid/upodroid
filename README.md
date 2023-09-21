@@ -38,8 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Use the correct image project id for COS kOps test](https://github.com/kubernetes/test-infra/pull/30735) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [Create the k8s-kops-test SA on k8s-infra-prow-build cluster](https://github.com/kubernetes/k8s.io/pull/5857) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [Recreate the `k8s-authenticated-test` GCP project as `k8s-staging-authenticated-test` on kubernetes.io GCP Org](https://github.com/kubernetes/k8s.io/pull/5854) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
-- [Add a new COS gce grid test](https://github.com/kubernetes/test-infra/pull/30719) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [always trust dependabot PRs](https://github.com/knative/infra/pull/194) on [knative/infra](https://github.com/knative/infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
