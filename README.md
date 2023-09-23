@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.26.6](https://github.com/kubernetes/kops/releases/tag/v1.26.6), today) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.0](https://github.com/kubernetes/kops/releases/tag/v1.28.0), today) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.12.0-rc1](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.12.0-rc1), 1 day ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.10.3](https://github.com/knative/serving/releases/tag/knative-v1.10.3), 4 days ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.3](https://github.com/knative/eventing/releases/tag/knative-v1.11.3), 4 days ago) - Event-driven application platform for Kubernetes
