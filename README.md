@@ -4,9 +4,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 day ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (4 days ago)
+- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (2 days ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (4 days ago)
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (5 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 week ago)
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin. (1 week ago)
@@ -17,11 +17,11 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.0](https://github.com/kubernetes/kops/releases/tag/v1.28.0), today) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.12.0-rc1](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.12.0-rc1), 1 day ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [knative/serving](https://github.com/knative/serving) ([knative-v1.10.3](https://github.com/knative/serving/releases/tag/knative-v1.10.3), 4 days ago) - Kubernetes-based, scale-to-zero, request-driven compute
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.3](https://github.com/knative/eventing/releases/tag/knative-v1.11.3), 4 days ago) - Event-driven application platform for Kubernetes
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.10.5](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.10.5), 4 days ago) - Alternate Kafka Broker implementation.
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.0](https://github.com/kubernetes/kops/releases/tag/v1.28.0), 1 day ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.12.0-rc1](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.12.0-rc1), 2 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
+- [knative/serving](https://github.com/knative/serving) ([knative-v1.10.3](https://github.com/knative/serving/releases/tag/knative-v1.10.3), 5 days ago) - Kubernetes-based, scale-to-zero, request-driven compute
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.3](https://github.com/knative/eventing/releases/tag/knative-v1.11.3), 5 days ago) - Event-driven application platform for Kubernetes
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.10.5](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.10.5), 5 days ago) - Alternate Kafka Broker implementation.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.6.24](https://github.com/containerd/containerd/releases/tag/v1.6.24), 1 week ago) - An open and reliable container runtime
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.9](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.9), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) ([v0.1.0](https://github.com/kubernetes-sigs/provider-aws-test-infra/releases/tag/v0.1.0), 1 month ago) - Shared test infrastructure for the AWS cloud provider repositories
@@ -30,16 +30,16 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
-- [Check for jobs not using pod-utils](https://github.com/kubernetes/test-infra/pull/30807) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
-- [Run a copy of release-blocking/informing e2e jobs using kops instead of kube-up](https://github.com/kubernetes/test-infra/pull/30774) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [Automated cherry pick of #120749: skip kube-dns tests if kube-dns is missing](https://github.com/kubernetes/kubernetes/pull/120760) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
-- [Automated cherry pick of #120749: skip kube-dns tests if kube-dns is missing](https://github.com/kubernetes/kubernetes/pull/120759) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
+- [Fix test parallelism and add some missing test flags](https://github.com/kubernetes/test-infra/pull/30836) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [Check for jobs not using pod-utils](https://github.com/kubernetes/test-infra/pull/30807) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
+- [Run a copy of release-blocking/informing e2e jobs using kops instead of kube-up](https://github.com/kubernetes/test-infra/pull/30774) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
+- [Automated cherry pick of #120749: skip kube-dns tests if kube-dns is missing](https://github.com/kubernetes/kubernetes/pull/120760) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
 
 #### ⭐ Recent Stars
 
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 weeks ago)
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (3 weeks ago)
-- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (4 weeks ago)
+- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (1 month ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 months ago)
 - [knative/test-infra](https://github.com/knative/test-infra) - Test infrastructure for the Knative project (1 year ago)
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need (2 years ago)
