@@ -30,10 +30,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Dont allow undecorated jobs to be merged](https://github.com/kubernetes/test-infra/pull/30862) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Fix test parallelism and add some missing test flags](https://github.com/kubernetes/test-infra/pull/30836) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [Check for jobs not using pod-utils](https://github.com/kubernetes/test-infra/pull/30807) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [Run a copy of release-blocking/informing e2e jobs using kops instead of kube-up](https://github.com/kubernetes/test-infra/pull/30774) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
-- [Automated cherry pick of #120749: skip kube-dns tests if kube-dns is missing](https://github.com/kubernetes/kubernetes/pull/120760) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
 
 #### ⭐ Recent Stars
 
