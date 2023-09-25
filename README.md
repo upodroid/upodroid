@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [decorate 1.25 GPU release job](https://github.com/kubernetes/test-infra/pull/30868) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Dont allow undecorated jobs to be merged](https://github.com/kubernetes/test-infra/pull/30862) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Fix test parallelism and add some missing test flags](https://github.com/kubernetes/test-infra/pull/30836) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [Check for jobs not using pod-utils](https://github.com/kubernetes/test-infra/pull/30807) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
