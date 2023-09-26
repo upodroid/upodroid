@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [shorten cluster names](https://github.com/kubernetes/kops/pull/15965) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [Fix legacy updown cluster tests](https://github.com/kubernetes-sigs/kubetest2/pull/245) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (today)
 - [pin rust to bullseye to compile rcodesign properly](https://github.com/knative/infra/pull/214) on [knative/infra](https://github.com/knative/infra) (1 day ago)
 - [decorate 1.25 GPU release job](https://github.com/kubernetes/test-infra/pull/30868) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
