@@ -17,12 +17,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.11.5](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.11.5), today) - Alternate Kafka Broker implementation.
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.7.14](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.7.14), 1 day ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-alpha.1), 1 day ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.0](https://github.com/kubernetes/kops/releases/tag/v1.28.0), 3 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.10.3](https://github.com/knative/serving/releases/tag/knative-v1.10.3), 1 week ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.3](https://github.com/knative/eventing/releases/tag/knative-v1.11.3), 1 week ago) - Event-driven application platform for Kubernetes
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.10.5](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.10.5), 1 week ago) - Alternate Kafka Broker implementation.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.6.24](https://github.com/containerd/containerd/releases/tag/v1.6.24), 1 week ago) - An open and reliable container runtime
 - [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) ([v0.1.0](https://github.com/kubernetes-sigs/provider-aws-test-infra/releases/tag/v0.1.0), 1 month ago) - Shared test infrastructure for the AWS cloud provider repositories
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.28](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.28), 1 month ago) - Kubernetes website and documentation repo: 
