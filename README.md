@@ -37,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [pin rust to bullseye to compile rcodesign properly](https://github.com/knative/infra/pull/214) on [knative/infra](https://github.com/knative/infra) (2 days ago)
 - [decorate 1.25 GPU release job](https://github.com/kubernetes/test-infra/pull/30868) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [Dont allow undecorated jobs to be merged](https://github.com/kubernetes/test-infra/pull/30862) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
-- [Fix test parallelism and add some missing test flags](https://github.com/kubernetes/test-infra/pull/30836) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 
 #### ⭐ Recent Stars
 
