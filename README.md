@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [bump gcp ccm image and dump more resources](https://github.com/kubernetes/kops/pull/15968) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [add cluster-name flag to kops job](https://github.com/kubernetes/test-infra/pull/30891) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [shorten cluster names](https://github.com/kubernetes/kops/pull/15965) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [Fix legacy updown cluster tests](https://github.com/kubernetes-sigs/kubetest2/pull/245) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 day ago)
