@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Run some of the broken jobs as kops presubmits](https://github.com/kubernetes/test-infra/pull/30911) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [automerge dependabot PRs](https://github.com/knative/infra/pull/221) on [knative/infra](https://github.com/knative/infra) (today)
 - [KEP-4224: Replace kube-up e2e clusters with kops clusters](https://github.com/kubernetes/enhancements/pull/4250) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (today)
 - [Add missing rbac roles and don&#39;t run gkenetparams controller](https://github.com/kubernetes/kops/pull/15971) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
