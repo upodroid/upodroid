@@ -30,13 +30,13 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [KEP-4224: Replace kube-up e2e clusters with kops clusters](https://github.com/kubernetes/enhancements/pull/4250) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (today)
 - [Add missing rbac roles and don&#39;t run gkenetparams controller](https://github.com/kubernetes/kops/pull/15971) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [bump gcp ccm image and dump more resources](https://github.com/kubernetes/kops/pull/15968) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [add cluster-name flag to kops job](https://github.com/kubernetes/test-infra/pull/30891) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [shorten cluster names](https://github.com/kubernetes/kops/pull/15965) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [Fix legacy updown cluster tests](https://github.com/kubernetes-sigs/kubetest2/pull/245) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (2 days ago)
 - [pin rust to bullseye to compile rcodesign properly](https://github.com/knative/infra/pull/214) on [knative/infra](https://github.com/knative/infra) (3 days ago)
-- [decorate 1.25 GPU release job](https://github.com/kubernetes/test-infra/pull/30868) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 
 #### ⭐ Recent Stars
 
