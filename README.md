@@ -4,10 +4,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
+- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (today)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (2 days ago)
-- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (2 days ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 week ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin. (2 weeks ago)
@@ -30,13 +30,13 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [automerge dependabot PRs](https://github.com/knative/infra/pull/221) on [knative/infra](https://github.com/knative/infra) (today)
 - [KEP-4224: Replace kube-up e2e clusters with kops clusters](https://github.com/kubernetes/enhancements/pull/4250) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (today)
 - [Add missing rbac roles and don&#39;t run gkenetparams controller](https://github.com/kubernetes/kops/pull/15971) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [bump gcp ccm image and dump more resources](https://github.com/kubernetes/kops/pull/15968) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [add cluster-name flag to kops job](https://github.com/kubernetes/test-infra/pull/30891) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [shorten cluster names](https://github.com/kubernetes/kops/pull/15965) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [Fix legacy updown cluster tests](https://github.com/kubernetes-sigs/kubetest2/pull/245) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (2 days ago)
-- [pin rust to bullseye to compile rcodesign properly](https://github.com/knative/infra/pull/214) on [knative/infra](https://github.com/knative/infra) (3 days ago)
 
 #### ⭐ Recent Stars
 
