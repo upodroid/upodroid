@@ -38,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Add missing rbac roles and don&#39;t run gkenetparams controller](https://github.com/kubernetes/kops/pull/15971) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [bump gcp ccm image and dump more resources](https://github.com/kubernetes/kops/pull/15968) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [add cluster-name flag to kops job](https://github.com/kubernetes/test-infra/pull/30891) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [shorten cluster names](https://github.com/kubernetes/kops/pull/15965) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
 
 #### ⭐ Recent Stars
 
