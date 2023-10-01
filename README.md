@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (3 days ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (3 days ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (5 days ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 week ago)
@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Split disruptive and serial kops e2e tests](https://github.com/kubernetes/test-infra/pull/30926) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Add missing kube api-server config for alpha tests](https://github.com/kubernetes/kops/pull/15982) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [Create a temporary staging bucket for kops builds](https://github.com/kubernetes/kops/pull/15981) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [Configure GCP Kubelet Credentials Provider](https://github.com/kubernetes/kops/pull/15974) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
