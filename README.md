@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Remove an e2e test specific to kubeup clusters - Part One](https://github.com/kubernetes/kubernetes/pull/120968) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [Split disruptive and serial kops e2e tests](https://github.com/kubernetes/test-infra/pull/30926) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Add missing kube api-server config for alpha tests](https://github.com/kubernetes/kops/pull/15982) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [Create a temporary staging bucket for kops builds](https://github.com/kubernetes/kops/pull/15981) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
