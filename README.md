@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Configure Kube API Server flags for all non scenario kops jobs](https://github.com/kubernetes/test-infra/pull/30931) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Remove an e2e test specific to kubeup clusters - Part Two](https://github.com/kubernetes/kubernetes/pull/120977) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [Remove an e2e test specific to kubeup clusters - Part One](https://github.com/kubernetes/kubernetes/pull/120968) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [Split disruptive and serial kops e2e tests](https://github.com/kubernetes/test-infra/pull/30926) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [[wip] Bump GCP CCM again](https://github.com/kubernetes/kops/pull/15972) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
 - [Run some of the broken jobs as kops presubmits](https://github.com/kubernetes/test-infra/pull/30911) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [automerge dependabot PRs](https://github.com/knative/infra/pull/221) on [knative/infra](https://github.com/knative/infra) (5 days ago)
-- [KEP-4224: Replace kube-up e2e clusters with kops clusters](https://github.com/kubernetes/enhancements/pull/4250) on [kubernetes/enhancements](https://github.com/kubernetes/enhancements) (5 days ago)
 
 #### ⭐ Recent Stars
 
