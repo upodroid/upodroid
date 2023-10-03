@@ -39,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Configure GCP Kubelet Credentials Provider](https://github.com/kubernetes/kops/pull/15974) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 days ago)
 - [[wip] Bump GCP CCM again](https://github.com/kubernetes/kops/pull/15972) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
 - [Run some of the broken jobs as kops presubmits](https://github.com/kubernetes/test-infra/pull/30911) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
-- [automerge dependabot PRs](https://github.com/knative/infra/pull/221) on [knative/infra](https://github.com/knative/infra) (5 days ago)
 
 #### ⭐ Recent Stars
 
