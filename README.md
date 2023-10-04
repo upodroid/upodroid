@@ -37,8 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Add missing kube api-server config for alpha tests](https://github.com/kubernetes/kops/pull/15982) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
 - [Create a temporary staging bucket for kops builds](https://github.com/kubernetes/kops/pull/15981) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
 - [Configure GCP Kubelet Credentials Provider](https://github.com/kubernetes/kops/pull/15974) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
-- [[wip] Bump GCP CCM again](https://github.com/kubernetes/kops/pull/15972) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
-- [Run some of the broken jobs as kops presubmits](https://github.com/kubernetes/test-infra/pull/30911) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 
 #### ⭐ Recent Stars
 
