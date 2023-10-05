@@ -30,13 +30,13 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Introduce KubernetesE2ETesting feature flag](https://github.com/kubernetes/kops/pull/15999) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [Rewrite NodeProblemDetector test to support host local exec](https://github.com/kubernetes/kubernetes/pull/121007) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [Add a new AWS kubeup to kops test](https://github.com/kubernetes/test-infra/pull/30953) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Fix broken alpha kops test](https://github.com/kubernetes/test-infra/pull/30945) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Configure Kube API Server flags for all non scenario kops jobs](https://github.com/kubernetes/test-infra/pull/30931) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [Remove an e2e test specific to kubeup clusters - Part Two](https://github.com/kubernetes/kubernetes/pull/120977) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 - [Remove an e2e test specific to kubeup clusters - Part One](https://github.com/kubernetes/kubernetes/pull/120968) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
-- [Split disruptive and serial kops e2e tests](https://github.com/kubernetes/test-infra/pull/30926) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 
 #### ⭐ Recent Stars
 
