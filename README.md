@@ -4,12 +4,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 week ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 week ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 week ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 weeks ago)
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin. (3 weeks ago)
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) - Alternate Kafka Broker implementation. (1 month ago)
 - [knative/eventing](https://github.com/knative/eventing) - Event-driven application platform for Kubernetes (1 month ago)
@@ -30,13 +30,13 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Migrate kops GCE presubmits to community cluster](https://github.com/kubernetes/test-infra/pull/30969) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Allow k8s-kops-test to write to staging bucket](https://github.com/kubernetes/k8s.io/pull/5940) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Introduce KubernetesE2ETesting feature flag](https://github.com/kubernetes/kops/pull/15999) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [Rewrite NodeProblemDetector test to support host local exec](https://github.com/kubernetes/kubernetes/pull/121007) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [Add a new AWS kubeup to kops test](https://github.com/kubernetes/test-infra/pull/30953) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Fix broken alpha kops test](https://github.com/kubernetes/test-infra/pull/30945) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [Configure Kube API Server flags for all non scenario kops jobs](https://github.com/kubernetes/test-infra/pull/30931) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [Remove an e2e test specific to kubeup clusters - Part Two](https://github.com/kubernetes/kubernetes/pull/120977) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
 
 #### ⭐ Recent Stars
 
