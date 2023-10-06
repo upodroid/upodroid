@@ -30,13 +30,13 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Create the kubeup to kops test suite for AWS &amp; AL2023](https://github.com/kubernetes/test-infra/pull/30974) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Migrate kops GCE presubmits to community cluster](https://github.com/kubernetes/test-infra/pull/30969) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Allow k8s-kops-test to write to staging bucket](https://github.com/kubernetes/k8s.io/pull/5940) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Introduce KubernetesE2ETesting feature flag](https://github.com/kubernetes/kops/pull/15999) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [Rewrite NodeProblemDetector test to support host local exec](https://github.com/kubernetes/kubernetes/pull/121007) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [Add a new AWS kubeup to kops test](https://github.com/kubernetes/test-infra/pull/30953) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Fix broken alpha kops test](https://github.com/kubernetes/test-infra/pull/30945) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
-- [Configure Kube API Server flags for all non scenario kops jobs](https://github.com/kubernetes/test-infra/pull/30931) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 
 #### ⭐ Recent Stars
 
