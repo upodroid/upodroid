@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Pin AL2023 to a working image](https://github.com/kubernetes/test-infra/pull/30977) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Create the kubeup to kops test suite for AWS &amp; AL2023](https://github.com/kubernetes/test-infra/pull/30974) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Migrate kops GCE presubmits to community cluster](https://github.com/kubernetes/test-infra/pull/30969) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Allow k8s-kops-test to write to staging bucket](https://github.com/kubernetes/k8s.io/pull/5940) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
