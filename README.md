@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Configure ginkgo to use the IP of the Controlplane directly for e2e testing](https://github.com/kubernetes/kops/pull/16008) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [Pin AL2023 to a working image - part two](https://github.com/kubernetes/test-infra/pull/30978) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Pin AL2023 to a working image](https://github.com/kubernetes/test-infra/pull/30977) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Create the kubeup to kops test suite for AWS &amp; AL2023](https://github.com/kubernetes/test-infra/pull/30974) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
