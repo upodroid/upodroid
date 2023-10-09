@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 days ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (3 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (6 days ago)
@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Add nfs package to slow AWS kops tests](https://github.com/kubernetes/test-infra/pull/30986) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [[wip] bump controller-runtime and all other deps](https://github.com/kubernetes/test-infra/pull/30980) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Undo client changes and pass env variables to ginkgo runner](https://github.com/kubernetes-sigs/kubetest2/pull/247) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 day ago)
 - [Configure ginkgo to use the `KUBE_BASTION_SSH` env variable](https://github.com/kubernetes/kops/pull/16008) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Migrate kops GCE presubmits to community cluster](https://github.com/kubernetes/test-infra/pull/30969) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [Allow k8s-kops-test to write to staging bucket](https://github.com/kubernetes/k8s.io/pull/5940) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [Introduce KubernetesE2ETesting feature flag](https://github.com/kubernetes/kops/pull/15999) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 days ago)
-- [Rewrite NodeProblemDetector test to support host local exec](https://github.com/kubernetes/kubernetes/pull/121007) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
 
 #### ⭐ Recent Stars
 
