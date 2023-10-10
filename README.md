@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Dump nodes even if controlplane is broken](https://github.com/kubernetes/kops/pull/16010) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [add ubuntu kops aws jobs and mark some presubmits as optional](https://github.com/kubernetes/test-infra/pull/30989) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Add nfs package to slow AWS kops tests](https://github.com/kubernetes/test-infra/pull/30986) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [[wip] bump controller-runtime and all other deps](https://github.com/kubernetes/test-infra/pull/30980) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Pin AL2023 to a working image](https://github.com/kubernetes/test-infra/pull/30977) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [Create the kubeup to kops test suite for AWS &amp; AL2023](https://github.com/kubernetes/test-infra/pull/30974) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [Migrate kops GCE presubmits to community cluster](https://github.com/kubernetes/test-infra/pull/30969) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
-- [Allow k8s-kops-test to write to staging bucket](https://github.com/kubernetes/k8s.io/pull/5940) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 
 #### ⭐ Recent Stars
 
