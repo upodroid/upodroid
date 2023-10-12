@@ -36,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [[wip] bump controller-runtime and all other deps](https://github.com/kubernetes/test-infra/pull/30980) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [Undo client changes and pass env variables to ginkgo runner](https://github.com/kubernetes-sigs/kubetest2/pull/247) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (4 days ago)
 - [Configure ginkgo to use the `KUBE_BASTION_SSH` env variable](https://github.com/kubernetes/kops/pull/16008) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 days ago)
-- [Pin AL2023 to a working image - part two](https://github.com/kubernetes/test-infra/pull/30978) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 
 #### ⭐ Recent Stars
 
