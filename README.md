@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (2 days ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (4 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (6 days ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 week ago)
@@ -30,12 +30,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Build kubernetes from scratch using kops](https://github.com/kubernetes/test-infra/pull/31023) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [[wip] Build Kubernetes from source](https://github.com/kubernetes/kops/pull/16018) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [Dump nodes even if controlplane is broken](https://github.com/kubernetes/kops/pull/16010) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [add ubuntu kops aws jobs and mark some presubmits as optional](https://github.com/kubernetes/test-infra/pull/30989) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [Add nfs package to slow AWS kops tests](https://github.com/kubernetes/test-infra/pull/30986) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [[wip] bump controller-runtime and all other deps](https://github.com/kubernetes/test-infra/pull/30980) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
-- [Undo client changes and pass env variables to ginkgo runner](https://github.com/kubernetes-sigs/kubetest2/pull/247) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (4 days ago)
 
 #### ⭐ Recent Stars
 
