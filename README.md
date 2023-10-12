@@ -30,12 +30,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Add rundir folder to gitignore](https://github.com/kubernetes/kubernetes/pull/121195) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [Build kubernetes from scratch using kops](https://github.com/kubernetes/test-infra/pull/31023) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [[wip] Build Kubernetes from source](https://github.com/kubernetes/kops/pull/16018) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [Dump nodes even if controlplane is broken](https://github.com/kubernetes/kops/pull/16010) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [add ubuntu kops aws jobs and mark some presubmits as optional](https://github.com/kubernetes/test-infra/pull/30989) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [Add nfs package to slow AWS kops tests](https://github.com/kubernetes/test-infra/pull/30986) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [[wip] bump controller-runtime and all other deps](https://github.com/kubernetes/test-infra/pull/30980) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 
 #### ⭐ Recent Stars
 
