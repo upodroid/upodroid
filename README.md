@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Skip deploying gce-pd csi driver if it is already installed](https://github.com/kubernetes/kubernetes/pull/121259) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [Configure ginkgo to look for packages in rundir by default](https://github.com/kubernetes-sigs/kubetest2/pull/249) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (3 days ago)
 - [enable dind for kops/kube build job](https://github.com/kubernetes/test-infra/pull/31031) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [Add rundir folder to gitignore](https://github.com/kubernetes/kubernetes/pull/121195) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
