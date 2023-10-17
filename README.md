@@ -17,6 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [knative-extensions/kn-plugin-event](https://github.com/knative-extensions/kn-plugin-event) ([knative-v1.10.1](https://github.com/knative-extensions/kn-plugin-event/releases/tag/knative-v1.10.1), today) - Kn plugin for sending events to Knative sinks.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-alpha.2), 6 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.8.14](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.8.14), 6 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.3](https://github.com/kubernetes/release/releases/tag/v0.16.3), 6 days ago) - Release infrastructure for Kubernetes and related components
@@ -26,7 +27,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.0](https://github.com/kubernetes/kops/releases/tag/v1.28.0), 3 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.10.3](https://github.com/knative/serving/releases/tag/knative-v1.10.3), 4 weeks ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes-sigs/provider-aws-test-infra](https://github.com/kubernetes-sigs/provider-aws-test-infra) ([v0.1.0](https://github.com/kubernetes-sigs/provider-aws-test-infra/releases/tag/v0.1.0), 1 month ago) - Shared test infrastructure for the AWS cloud provider repositories
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.28](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.28), 2 months ago) - Kubernetes website and documentation repo: 
 
 #### 🔨 My recent Pull Requests
 
