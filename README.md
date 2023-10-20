@@ -36,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [enable dind for kops/kube build job](https://github.com/kubernetes/test-infra/pull/31031) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Add rundir folder to gitignore](https://github.com/kubernetes/kubernetes/pull/121195) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 - [Build kubernetes from scratch using kops](https://github.com/kubernetes/test-infra/pull/31023) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [Build Kubernetes from source](https://github.com/kubernetes/kops/pull/16018) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 
 #### ⭐ Recent Stars
 
