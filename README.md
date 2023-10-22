@@ -30,12 +30,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Create the canary kops version of `pull-kubernetes-e2e-gce` job for k/k](https://github.com/kubernetes/test-infra/pull/31094) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [mark build k/k in kops job as required and fix serial test](https://github.com/kubernetes/test-infra/pull/31089) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [Enable support for building arm64 in krel build](https://github.com/kubernetes/release/pull/3324) on [kubernetes/release](https://github.com/kubernetes/release) (6 days ago)
 - [Skip deploying gce-pd csi driver if it is already installed](https://github.com/kubernetes/kubernetes/pull/121259) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
 - [Configure ginkgo to look for packages in rundir by default](https://github.com/kubernetes-sigs/kubetest2/pull/249) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 week ago)
 - [enable dind for kops/kube build job](https://github.com/kubernetes/test-infra/pull/31031) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [Add rundir folder to gitignore](https://github.com/kubernetes/kubernetes/pull/121195) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 
 #### ⭐ Recent Stars
 
