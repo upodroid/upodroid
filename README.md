@@ -17,12 +17,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.11.7](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.11.7), today) - Alternate Kafka Broker implementation.
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.10.5](https://github.com/knative/eventing/releases/tag/knative-v1.10.5), today) - Event-driven application platform for Kubernetes
+- [knative/serving](https://github.com/knative/serving) ([knative-v1.11.3](https://github.com/knative/serving/releases/tag/knative-v1.11.3), today) - Kubernetes-based, scale-to-zero, request-driven compute
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.10.7](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.10.7), today) - Alternate Kafka Broker implementation.
 - [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.11.1](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.11.1), today) - Kn plugin for managing Knative with Knative Operator.
-- [knative/serving](https://github.com/knative/serving) ([knative-v1.12.0](https://github.com/knative/serving/releases/tag/knative-v1.12.0), today) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.8.16](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.8.16), 5 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.25.15](https://github.com/kubernetes/kubernetes/releases/tag/v1.25.15), 6 days ago) - Production-Grade Container Scheduling and Management
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.10.4](https://github.com/knative/eventing/releases/tag/knative-v1.10.4), 1 week ago) - Event-driven application platform for Kubernetes
 - [knative-extensions/kn-plugin-event](https://github.com/knative-extensions/kn-plugin-event) ([knative-v1.10.1](https://github.com/knative-extensions/kn-plugin-event/releases/tag/knative-v1.10.1), 1 week ago) - Kn plugin for sending events to Knative sinks.
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.3](https://github.com/kubernetes/release/releases/tag/v0.16.3), 1 week ago) - Release infrastructure for Kubernetes and related components
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.7](https://github.com/containerd/containerd/releases/tag/v1.7.7), 2 weeks ago) - An open and reliable container runtime
