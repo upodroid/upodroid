@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.10.5](https://github.com/knative/eventing/releases/tag/knative-v1.10.5), today) - Event-driven application platform for Kubernetes
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.12.0](https://github.com/knative/eventing/releases/tag/knative-v1.12.0), today) - Event-driven application platform for Kubernetes
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.11.3](https://github.com/knative/serving/releases/tag/knative-v1.11.3), today) - Kubernetes-based, scale-to-zero, request-driven compute
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.10.7](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.10.7), today) - Alternate Kafka Broker implementation.
 - [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.11.1](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.11.1), today) - Kn plugin for managing Knative with Knative Operator.
