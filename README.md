@@ -30,13 +30,14 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t run `cloud-provider-gcp` tests against aws clusters](https://github.com/kubernetes/kubernetes/pull/121555) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
+- [Add `--node-instance-group` flag to ginkgo](https://github.com/kubernetes/kops/pull/16065) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [Enable containerd test-handler runtimeclass for k/k e2e tests](https://github.com/kubernetes/kops/pull/16056) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [Enable additional admission plugins](https://github.com/kubernetes/kops/pull/16055) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [don&#39;t dump logs if the cluster doesn&#39;t exist](https://github.com/kubernetes/kops/pull/16054) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [split serial jobs to serial &amp; disruptive and add nfs-common pkg](https://github.com/kubernetes/test-infra/pull/31107) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [Fix dns autoscaling test to run with coredns](https://github.com/kubernetes/kubernetes/pull/121422) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
 - [Create the canary kops version of `pull-kubernetes-e2e-gce` job for k/k](https://github.com/kubernetes/test-infra/pull/31094) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
-- [mark build k/k in kops job as required and fix serial test](https://github.com/kubernetes/test-infra/pull/31089) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 
 #### ⭐ Recent Stars
 
