@@ -17,12 +17,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.12.0](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.12.0), today) - Kn plugin for managing Knative with Knative Operator.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.8](https://github.com/containerd/containerd/releases/tag/v1.7.8), 1 day ago) - An open and reliable container runtime
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.0](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.0), 1 day ago) - Alternate Kafka Broker implementation.
 - [knative-extensions/kn-plugin-event](https://github.com/knative-extensions/kn-plugin-event) ([knative-v1.12.0](https://github.com/knative-extensions/kn-plugin-event/releases/tag/knative-v1.12.0), 2 days ago) - Kn plugin for sending events to Knative sinks.
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.12.0](https://github.com/knative/eventing/releases/tag/knative-v1.12.0), 3 days ago) - Event-driven application platform for Kubernetes
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.11.3](https://github.com/knative/serving/releases/tag/knative-v1.11.3), 3 days ago) - Kubernetes-based, scale-to-zero, request-driven compute
-- [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.11.1](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.11.1), 3 days ago) - Kn plugin for managing Knative with Knative Operator.
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.8.16](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.8.16), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.25.15](https://github.com/kubernetes/kubernetes/releases/tag/v1.25.15), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.3](https://github.com/kubernetes/release/releases/tag/v0.16.3), 2 weeks ago) - Release infrastructure for Kubernetes and related components
