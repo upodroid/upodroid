@@ -37,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Enable containerd test-handler runtimeclass for k/k e2e tests](https://github.com/kubernetes/kops/pull/16056) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
 - [Enable additional admission plugins](https://github.com/kubernetes/kops/pull/16055) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
 - [don&#39;t dump logs if the cluster doesn&#39;t exist](https://github.com/kubernetes/kops/pull/16054) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
-- [split serial jobs to serial &amp; disruptive and add nfs-common pkg](https://github.com/kubernetes/test-infra/pull/31107) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
