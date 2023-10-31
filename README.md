@@ -30,13 +30,13 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Remove kayrus&#39; broken email](https://github.com/kubernetes/k8s.io/pull/6046) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Update sig k8s-infra leadership](https://github.com/kubernetes/test-infra/pull/31149) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [Create the kops version of `ci-kubernetes-e2e-gci-gce-reboot` job](https://github.com/kubernetes/test-infra/pull/31148) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [Don&#39;t run `cloud-provider-gcp` tests against aws clusters](https://github.com/kubernetes/kubernetes/pull/121555) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
 - [Add `--node-instance-group` flag to ginkgo](https://github.com/kubernetes/kops/pull/16065) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
 - [Enable containerd test-handler runtimeclass for k/k e2e tests](https://github.com/kubernetes/kops/pull/16056) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 - [Enable additional admission plugins](https://github.com/kubernetes/kops/pull/16055) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
-- [don&#39;t dump logs if the cluster doesn&#39;t exist](https://github.com/kubernetes/kops/pull/16054) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 
 #### ⭐ Recent Stars
 
