@@ -17,6 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-alpha.3), today) - Production-Grade Container Scheduling and Management
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.10.6](https://github.com/knative/serving/releases/tag/knative-v1.10.6), 1 day ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.6](https://github.com/knative/eventing/releases/tag/knative-v1.11.6), 2 days ago) - Event-driven application platform for Kubernetes
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.11.8](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.11.8), 2 days ago) - Alternate Kafka Broker implementation.
@@ -24,7 +25,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [knative-extensions/kn-plugin-event](https://github.com/knative-extensions/kn-plugin-event) ([knative-v1.10.2](https://github.com/knative-extensions/kn-plugin-event/releases/tag/knative-v1.10.2), 2 days ago) - Kn plugin for sending events to Knative sinks.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.8](https://github.com/containerd/containerd/releases/tag/v1.7.8), 1 week ago) - An open and reliable container runtime
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.8.16](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.8.16), 2 weeks ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.25.15](https://github.com/kubernetes/kubernetes/releases/tag/v1.25.15), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.3](https://github.com/kubernetes/release/releases/tag/v0.16.3), 3 weeks ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.0](https://github.com/kubernetes/kops/releases/tag/v1.28.0), 1 month ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 
