@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Look for the ingress-uid cm after the Loadbalancer is created](https://github.com/kubernetes/kubernetes/pull/121833) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [test: introduce a Feature label for skipping KubeUp specific tests](https://github.com/kubernetes/kubernetes/pull/121768) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
 - [Bump `ci-k8sio-audit` job timeout](https://github.com/kubernetes/test-infra/pull/31195) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [Rotate sig k8s leadership](https://github.com/kubernetes/org/pull/4565) on [kubernetes/org](https://github.com/kubernetes/org) (1 week ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Update sig k8s-infra leadership](https://github.com/kubernetes/test-infra/pull/31149) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [Create the kops version of `ci-kubernetes-e2e-gci-gce-reboot` job](https://github.com/kubernetes/test-infra/pull/31148) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [Don&#39;t run `cloud-provider-gcp` tests against aws clusters](https://github.com/kubernetes/kubernetes/pull/121555) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
-- [Add `--node-instance-group` flag to ginkgo](https://github.com/kubernetes/kops/pull/16065) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
