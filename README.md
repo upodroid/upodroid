@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Bootstrap etcd jobs on prow](https://github.com/kubernetes/test-infra/pull/31218) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Fix typos in k/k kops presubmits](https://github.com/kubernetes/test-infra/pull/31216) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Look for the ingress-uid cm after the Loadbalancer is created](https://github.com/kubernetes/kubernetes/pull/121833) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [test: introduce a Feature label for skipping KubeUp specific tests](https://github.com/kubernetes/kubernetes/pull/121768) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [A group may not be the owner or manager of another group](https://github.com/kubernetes/k8s.io/pull/6049) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [Remove kayrus&#39; broken email](https://github.com/kubernetes/k8s.io/pull/6046) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [Update sig k8s-infra leadership](https://github.com/kubernetes/test-infra/pull/31149) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-- [Create the kops version of `ci-kubernetes-e2e-gci-gce-reboot` job](https://github.com/kubernetes/test-infra/pull/31148) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
