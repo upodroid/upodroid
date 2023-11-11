@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [fix the gce info shown in `kops get` cmd and set node-tag ginkgo flag](https://github.com/kubernetes/kops/pull/16096) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [Bootstrap etcd jobs on prow](https://github.com/kubernetes/test-infra/pull/31218) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Fix typos in k/k kops presubmits](https://github.com/kubernetes/test-infra/pull/31216) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Look for the ingress-uid cm after the Loadbalancer is created](https://github.com/kubernetes/kubernetes/pull/121833) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Rotate sig k8s leadership](https://github.com/kubernetes/org/pull/4565) on [kubernetes/org](https://github.com/kubernetes/org) (1 week ago)
 - [A group may not be the owner or manager of another group](https://github.com/kubernetes/k8s.io/pull/6049) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [Remove kayrus&#39; broken email](https://github.com/kubernetes/k8s.io/pull/6046) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [Update sig k8s-infra leadership](https://github.com/kubernetes/test-infra/pull/31149) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
