@@ -17,6 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-alpha.2](https://github.com/kubernetes/kops/releases/tag/v1.29.0-alpha.2), today) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.11.5](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.11.5), 4 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v2.0.0-beta.0](https://github.com/containerd/containerd/releases/tag/v2.0.0-beta.0), 1 week ago) - An open and reliable container runtime
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.11.4](https://github.com/knative/serving/releases/tag/knative-v1.11.4), 1 week ago) - Kubernetes-based, scale-to-zero, request-driven compute
@@ -26,7 +27,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.11.2](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.11.2), 1 week ago) - Kn plugin for managing Knative with Knative Operator.
 - [knative-extensions/kn-plugin-event](https://github.com/knative-extensions/kn-plugin-event) ([knative-v1.10.2](https://github.com/knative-extensions/kn-plugin-event/releases/tag/knative-v1.10.2), 1 week ago) - Kn plugin for sending events to Knative sinks.
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.3](https://github.com/kubernetes/release/releases/tag/v0.16.3), 1 month ago) - Release infrastructure for Kubernetes and related components
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.0](https://github.com/kubernetes/kops/releases/tag/v1.28.0), 1 month ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 
 #### 🔨 My recent Pull Requests
 
