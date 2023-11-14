@@ -5,8 +5,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 #### 👷 Check out what I'm currently working on
 
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (6 days ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 weeks ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 weeks ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (2 weeks ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (4 weeks ago)
@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [add myself to leads@kubernetes.io](https://github.com/kubernetes/k8s.io/pull/6079) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Skip kubeup tests when running e2e tests with kops](https://github.com/kubernetes/test-infra/pull/31237) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Add kubeup label instead of a feature label](https://github.com/kubernetes/kubernetes/pull/121880) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [fix the gce info shown in `kops get` cmd and set node-tag ginkgo flag](https://github.com/kubernetes/kops/pull/16096) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
@@ -38,8 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Look for the ingress-uid cm after the Loadbalancer is created](https://github.com/kubernetes/kubernetes/pull/121833) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
 - [test: introduce a Feature label for skipping KubeUp specific tests](https://github.com/kubernetes/kubernetes/pull/121768) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 - [Bump `ci-k8sio-audit` job timeout](https://github.com/kubernetes/test-infra/pull/31195) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [Rotate sig k8s leadership](https://github.com/kubernetes/org/pull/4565) on [kubernetes/org](https://github.com/kubernetes/org) (2 weeks ago)
-- [A group may not be the owner or manager of another group](https://github.com/kubernetes/k8s.io/pull/6049) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
