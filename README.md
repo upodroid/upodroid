@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [convert bootstrap image to multi-arch image](https://github.com/kubernetes/test-infra/pull/31274) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [add e2e etcd presubmit](https://github.com/kubernetes/test-infra/pull/31257) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [add myself to leads@kubernetes.io](https://github.com/kubernetes/k8s.io/pull/6079) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [Skip kubeup tests when running e2e tests with kops](https://github.com/kubernetes/test-infra/pull/31237) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Fix typos in k/k kops presubmits](https://github.com/kubernetes/test-infra/pull/31216) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Look for the ingress-uid cm after the Loadbalancer is created](https://github.com/kubernetes/kubernetes/pull/121833) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 - [test: introduce a Feature label for skipping KubeUp specific tests](https://github.com/kubernetes/kubernetes/pull/121768) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
-- [Bump `ci-k8sio-audit` job timeout](https://github.com/kubernetes/test-infra/pull/31195) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
