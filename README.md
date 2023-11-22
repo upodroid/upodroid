@@ -17,10 +17,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-rc.0), today) - Production-Grade Container Scheduling and Management
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.12.1](https://github.com/knative/serving/releases/tag/knative-v1.12.1), 1 day ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.10.8](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.10.8), 1 day ago) - Alternate Kafka Broker implementation.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.6.25](https://github.com/containerd/containerd/releases/tag/v1.6.25), 2 days ago) - An open and reliable container runtime
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.25.16](https://github.com/kubernetes/kubernetes/releases/tag/v1.25.16), 6 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.4](https://github.com/kubernetes/release/releases/tag/v0.16.4), 1 week ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-alpha.2](https://github.com/kubernetes/kops/releases/tag/v1.29.0-alpha.2), 1 week ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.11.5](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.11.5), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
