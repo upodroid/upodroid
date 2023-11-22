@@ -39,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [fix the gce info shown in `kops get` cmd and set node-tag ginkgo flag](https://github.com/kubernetes/kops/pull/16096) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 - [Bootstrap etcd jobs on prow](https://github.com/kubernetes/test-infra/pull/31218) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Fix typos in k/k kops presubmits](https://github.com/kubernetes/test-infra/pull/31216) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [Look for the ingress-uid cm after the Loadbalancer is created](https://github.com/kubernetes/kubernetes/pull/121833) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 
 #### ⭐ Recent Stars
 
