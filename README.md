@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Migrate the remaining kops gce e2e jobs to community cluster](https://github.com/kubernetes/test-infra/pull/31308) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [fix missing json flag when using VERBOSE=1](https://github.com/etcd-io/etcd/pull/17005) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (today)
 - [Download binaries from dl.k8s.io instead of a bucket](https://github.com/kubernetes-sigs/kubetest2/pull/251) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (2 days ago)
 - [convert bootstrap image to multi-arch image](https://github.com/kubernetes/test-infra/pull/31274) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Skip kubeup tests when running e2e tests with kops](https://github.com/kubernetes/test-infra/pull/31237) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Add kubeup label instead of a feature label](https://github.com/kubernetes/kubernetes/pull/121880) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 - [fix the gce info shown in `kops get` cmd and set node-tag ginkgo flag](https://github.com/kubernetes/kops/pull/16096) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
-- [Bootstrap etcd jobs on prow](https://github.com/kubernetes/test-infra/pull/31218) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
