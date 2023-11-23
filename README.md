@@ -17,6 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.28](https://github.com/etcd-io/etcd/releases/tag/v3.4.28), today) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.12.4](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.12.4), 1 day ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-rc.0), 1 day ago) - Production-Grade Container Scheduling and Management
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.12.1](https://github.com/knative/serving/releases/tag/knative-v1.12.1), 2 days ago) - Kubernetes-based, scale-to-zero, request-driven compute
@@ -26,7 +27,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-alpha.2](https://github.com/kubernetes/kops/releases/tag/v1.29.0-alpha.2), 1 week ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.6](https://github.com/knative/eventing/releases/tag/knative-v1.11.6), 3 weeks ago) - Event-driven application platform for Kubernetes
 - [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.11.2](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.11.2), 3 weeks ago) - Kn plugin for managing Knative with Knative Operator.
-- [knative-extensions/kn-plugin-event](https://github.com/knative-extensions/kn-plugin-event) ([knative-v1.10.2](https://github.com/knative-extensions/kn-plugin-event/releases/tag/knative-v1.10.2), 3 weeks ago) - Kn plugin for sending events to Knative sinks.
 
 #### 🔨 My recent Pull Requests
 
