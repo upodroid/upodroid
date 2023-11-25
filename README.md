@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Bump argocd, Grafana and ESO](https://github.com/knative/infra/pull/278) on [knative/infra](https://github.com/knative/infra) (today)
 - [Migrate the remaining kops gce e2e jobs to community cluster](https://github.com/kubernetes/test-infra/pull/31308) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [fix missing json flag when using VERBOSE=1](https://github.com/etcd-io/etcd/pull/17005) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (2 days ago)
 - [Download binaries from dl.k8s.io instead of a bucket](https://github.com/kubernetes-sigs/kubetest2/pull/251) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (4 days ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [add myself to leads@kubernetes.io](https://github.com/kubernetes/k8s.io/pull/6079) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [Skip kubeup tests when running e2e tests with kops](https://github.com/kubernetes/test-infra/pull/31237) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Add kubeup label instead of a feature label](https://github.com/kubernetes/kubernetes/pull/121880) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
-- [fix the gce info shown in `kops get` cmd and set node-tag ginkgo flag](https://github.com/kubernetes/kops/pull/16096) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
