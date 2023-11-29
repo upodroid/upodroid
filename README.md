@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.6.13](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.6.13), today) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
+- [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.5.20](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.5.20), today) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-rc.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-rc.1), 1 day ago) - Production-Grade Container Scheduling and Management
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.12.1](https://github.com/knative/eventing/releases/tag/knative-v1.12.1), 1 day ago) - Event-driven application platform for Kubernetes
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.12.2](https://github.com/knative/serving/releases/tag/knative-v1.12.2), 1 day ago) - Kubernetes-based, scale-to-zero, request-driven compute
