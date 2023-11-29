@@ -36,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [fix missing json flag when using VERBOSE=1](https://github.com/etcd-io/etcd/pull/17005) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (6 days ago)
 - [Download binaries from dl.k8s.io instead of a bucket](https://github.com/kubernetes-sigs/kubetest2/pull/251) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 week ago)
 - [convert bootstrap image to multi-arch image](https://github.com/kubernetes/test-infra/pull/31274) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [add e2e etcd presubmit](https://github.com/kubernetes/test-infra/pull/31257) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
