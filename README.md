@@ -17,6 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.6.13](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.6.13), today) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-rc.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-rc.1), 1 day ago) - Production-Grade Container Scheduling and Management
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.12.1](https://github.com/knative/eventing/releases/tag/knative-v1.12.1), 1 day ago) - Event-driven application platform for Kubernetes
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.12.2](https://github.com/knative/serving/releases/tag/knative-v1.12.2), 1 day ago) - Kubernetes-based, scale-to-zero, request-driven compute
@@ -26,7 +27,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.6.25](https://github.com/containerd/containerd/releases/tag/v1.6.25), 1 week ago) - An open and reliable container runtime
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.4](https://github.com/kubernetes/release/releases/tag/v0.16.4), 2 weeks ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-alpha.2](https://github.com/kubernetes/kops/releases/tag/v1.29.0-alpha.2), 2 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.11.2](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.11.2), 4 weeks ago) - Kn plugin for managing Knative with Knative Operator.
 
 #### 🔨 My recent Pull Requests
 
