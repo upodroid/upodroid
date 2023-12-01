@@ -34,7 +34,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [limit jobname value to 80](https://github.com/kubernetes/kops/pull/16136) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [Add al2023 aws-cni/cilium conformance test](https://github.com/kubernetes/test-infra/pull/31331) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [Bump argocd, Grafana and ESO](https://github.com/knative/infra/pull/278) on [knative/infra](https://github.com/knative/infra) (6 days ago)
-- [Migrate the remaining kops gce e2e jobs to community cluster](https://github.com/kubernetes/test-infra/pull/31308) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
