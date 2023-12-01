@@ -35,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Add al2023 aws-cni/cilium conformance test](https://github.com/kubernetes/test-infra/pull/31331) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [Bump argocd, Grafana and ESO](https://github.com/knative/infra/pull/278) on [knative/infra](https://github.com/knative/infra) (6 days ago)
 - [Migrate the remaining kops gce e2e jobs to community cluster](https://github.com/kubernetes/test-infra/pull/31308) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [fix missing json flag when using VERBOSE=1](https://github.com/etcd-io/etcd/pull/17005) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (1 week ago)
 
 #### ⭐ Recent Stars
 
