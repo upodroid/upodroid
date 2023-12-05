@@ -17,11 +17,11 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.11.9](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.11.9), today) - Alternate Kafka Broker implementation.
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.8](https://github.com/knative/eventing/releases/tag/knative-v1.11.8), today) - Event-driven application platform for Kubernetes
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.1](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.1), today) - Alternate Kafka Broker implementation.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.10](https://github.com/containerd/containerd/releases/tag/v1.7.10), 6 days ago) - An open and reliable container runtime
 - [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.5.20](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.5.20), 6 days ago) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-rc.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-rc.1), 1 week ago) - Production-Grade Container Scheduling and Management
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.12.1](https://github.com/knative/eventing/releases/tag/knative-v1.12.1), 1 week ago) - Event-driven application platform for Kubernetes
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.12.2](https://github.com/knative/serving/releases/tag/knative-v1.12.2), 1 week ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.28](https://github.com/etcd-io/etcd/releases/tag/v3.4.28), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.12.4](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.12.4), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
