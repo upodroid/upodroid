@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (4 days ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 week ago)
@@ -30,11 +30,11 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Fix dns and deploy ingress for legacy pkg repos](https://github.com/kubernetes/k8s.io/pull/6173) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Add custom domain for okta](https://github.com/kubernetes/k8s.io/pull/6146) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [Don&#39;t set LimitNoFile for containerd systemd unit file](https://github.com/kubernetes/kops/pull/16151) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 days ago)
 - [Use shorter clustername](https://github.com/kubernetes/test-infra/pull/31341) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [limit jobname value to 80](https://github.com/kubernetes/kops/pull/16136) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
-- [Add al2023 aws-cni/cilium conformance test](https://github.com/kubernetes/test-infra/pull/31331) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
