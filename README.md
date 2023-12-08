@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.5.20](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.5.20), today) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
+- [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.5.21](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.5.21), today) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.11](https://github.com/etcd-io/etcd/releases/tag/v3.5.11), 1 day ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.8](https://github.com/knative/eventing/releases/tag/knative-v1.11.8), 3 days ago) - Event-driven application platform for Kubernetes
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.1](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.1), 3 days ago) - Alternate Kafka Broker implementation.
