@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t set node-os-distro flag on kops jobs](https://github.com/kubernetes/test-infra/pull/31418) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Add new updown-legacy test for kubetest2](https://github.com/kubernetes/test-infra/pull/31406) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [Fix dns and deploy ingress for legacy pkg repos](https://github.com/kubernetes/k8s.io/pull/6173) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [Add custom domain for okta](https://github.com/kubernetes/k8s.io/pull/6146) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
