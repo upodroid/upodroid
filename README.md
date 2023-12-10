@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 days ago)
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (6 days ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
+- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 week ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 week ago)
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (2 weeks ago)
@@ -17,12 +17,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.11](https://github.com/containerd/containerd/releases/tag/v1.7.11), 1 day ago) - An open and reliable container runtime
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-rc.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-rc.2), 1 day ago) - Production-Grade Container Scheduling and Management
-- [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.5.21](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.5.21), 1 day ago) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.11](https://github.com/etcd-io/etcd/releases/tag/v3.5.11), 2 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.8](https://github.com/knative/eventing/releases/tag/knative-v1.11.8), 4 days ago) - Event-driven application platform for Kubernetes
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.1](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.1), 4 days ago) - Alternate Kafka Broker implementation.
+- [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.11](https://github.com/containerd/containerd/releases/tag/v1.7.11), 2 days ago) - An open and reliable container runtime
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-rc.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-rc.2), 2 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.5.21](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.5.21), 2 days ago) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.11](https://github.com/etcd-io/etcd/releases/tag/v3.5.11), 3 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.8](https://github.com/knative/eventing/releases/tag/knative-v1.11.8), 5 days ago) - Event-driven application platform for Kubernetes
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.1](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.1), 5 days ago) - Alternate Kafka Broker implementation.
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.12.2](https://github.com/knative/serving/releases/tag/knative-v1.12.2), 1 week ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.12.4](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.12.4), 2 weeks ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.4](https://github.com/kubernetes/release/releases/tag/v0.16.4), 3 weeks ago) - Release infrastructure for Kubernetes and related components
@@ -30,10 +30,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
-- [Add new updown-legacy test for kubetest2](https://github.com/kubernetes/test-infra/pull/31406) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
-- [Fix dns and deploy ingress for legacy pkg repos](https://github.com/kubernetes/k8s.io/pull/6173) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
-- [Add custom domain for okta](https://github.com/kubernetes/k8s.io/pull/6146) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
-- [Don&#39;t set LimitNoFile for containerd systemd unit file](https://github.com/kubernetes/kops/pull/16151) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
+- [Add new updown-legacy test for kubetest2](https://github.com/kubernetes/test-infra/pull/31406) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
+- [Fix dns and deploy ingress for legacy pkg repos](https://github.com/kubernetes/k8s.io/pull/6173) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
+- [Add custom domain for okta](https://github.com/kubernetes/k8s.io/pull/6146) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
+- [Don&#39;t set LimitNoFile for containerd systemd unit file](https://github.com/kubernetes/kops/pull/16151) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 - [Use shorter clustername](https://github.com/kubernetes/test-infra/pull/31341) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [limit jobname value to 80](https://github.com/kubernetes/kops/pull/16136) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 
