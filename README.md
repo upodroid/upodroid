@@ -30,13 +30,13 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Create kubekins v2 image](https://github.com/kubernetes/test-infra/pull/31421) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Don&#39;t set node-os-distro flag on kops jobs](https://github.com/kubernetes/test-infra/pull/31418) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Add new updown-legacy test for kubetest2](https://github.com/kubernetes/test-infra/pull/31406) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [Fix dns and deploy ingress for legacy pkg repos](https://github.com/kubernetes/k8s.io/pull/6173) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [Add custom domain for okta](https://github.com/kubernetes/k8s.io/pull/6146) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [Don&#39;t set LimitNoFile for containerd systemd unit file](https://github.com/kubernetes/kops/pull/16151) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 - [Use shorter clustername](https://github.com/kubernetes/test-infra/pull/31341) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [limit jobname value to 80](https://github.com/kubernetes/kops/pull/16136) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 
 #### ⭐ Recent Stars
 
