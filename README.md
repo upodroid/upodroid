@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0), today) - Production-Grade Container Scheduling and Management
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.11](https://github.com/containerd/containerd/releases/tag/v1.7.11), 5 days ago) - An open and reliable container runtime
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-rc.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-rc.2), 5 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.5.21](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.5.21), 5 days ago) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.11](https://github.com/etcd-io/etcd/releases/tag/v3.5.11), 6 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.8](https://github.com/knative/eventing/releases/tag/knative-v1.11.8), 1 week ago) - Event-driven application platform for Kubernetes
