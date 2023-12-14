@@ -32,7 +32,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 - [Configure logs in httpRequest format - legacy](https://github.com/kubernetes/k8s.io/pull/6184) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [create kubekins-v2 prowjob and autobumper config](https://github.com/kubernetes/test-infra/pull/31429) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [Create kubekins v2 image](https://github.com/kubernetes/test-infra/pull/31421) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 
 #### ⭐ Recent Stars
 
