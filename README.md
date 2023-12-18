@@ -4,10 +4,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
-- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 day ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 day ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
+- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 day ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (2 weeks ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (2 weeks ago)
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (3 weeks ago)
@@ -30,12 +30,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Fix gce conformance jobs](https://github.com/kubernetes/test-infra/pull/31472) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Configure DNS to allow Okta to send email via kubernetes.io](https://github.com/kubernetes/k8s.io/pull/6201) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [Add extra locations to check for release-tars](https://github.com/kubernetes/kubernetes/pull/122358) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [set node-os-distro and num-nodes flags](https://github.com/kubernetes/kops/pull/16176) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
 - [configure AWS SSO and grant it on the boskos account](https://github.com/kubernetes/k8s.io/pull/6189) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [Configure logs in httpRequest format - legacy](https://github.com/kubernetes/k8s.io/pull/6184) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [create kubekins-v2 prowjob and autobumper config](https://github.com/kubernetes/test-infra/pull/31429) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
