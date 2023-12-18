@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (today)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 days ago)
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 day ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (4 days ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (2 weeks ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (2 weeks ago)
@@ -17,9 +17,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.10.12](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.10.12), 2 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.29](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.29), 4 days ago) - Kubernetes website and documentation repo: 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0), 4 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.10.12](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.10.12), 3 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.29](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.29), 5 days ago) - Kubernetes website and documentation repo: 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0), 5 days ago) - Production-Grade Container Scheduling and Management
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.11](https://github.com/containerd/containerd/releases/tag/v1.7.11), 1 week ago) - An open and reliable container runtime
 - [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) ([v0.5.21](https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/tag/v0.5.21), 1 week ago) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.11](https://github.com/etcd-io/etcd/releases/tag/v3.5.11), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -30,11 +30,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
-- [Add extra locations to check for release-tars](https://github.com/kubernetes/kubernetes/pull/122358) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
-- [set node-os-distro and num-nodes flags](https://github.com/kubernetes/kops/pull/16176) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
-- [configure AWS SSO and grant it on the boskos account](https://github.com/kubernetes/k8s.io/pull/6189) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
-- [Configure logs in httpRequest format - legacy](https://github.com/kubernetes/k8s.io/pull/6184) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
-- [create kubekins-v2 prowjob and autobumper config](https://github.com/kubernetes/test-infra/pull/31429) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
+- [Configure DNS to allow Okta to send email via kubernetes.io](https://github.com/kubernetes/k8s.io/pull/6201) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
+- [Add extra locations to check for release-tars](https://github.com/kubernetes/kubernetes/pull/122358) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
+- [set node-os-distro and num-nodes flags](https://github.com/kubernetes/kops/pull/16176) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
+- [configure AWS SSO and grant it on the boskos account](https://github.com/kubernetes/k8s.io/pull/6189) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
+- [Configure logs in httpRequest format - legacy](https://github.com/kubernetes/k8s.io/pull/6184) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
+- [create kubekins-v2 prowjob and autobumper config](https://github.com/kubernetes/test-infra/pull/31429) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
