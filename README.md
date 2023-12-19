@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Publish the marker inside the fast folder](https://github.com/kubernetes-sigs/release-sdk/pull/291) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (today)
 - [Build k/k on post-submits only](https://github.com/kubernetes/test-infra/pull/31487) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Use latest instead of latest-fast for gce conformance](https://github.com/kubernetes/test-infra/pull/31486) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Don&#39;t change directories - conformance gce patch](https://github.com/kubernetes/test-infra/pull/31478) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Configure DNS to allow Okta to send email via kubernetes.io](https://github.com/kubernetes/k8s.io/pull/6201) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [Add extra locations to check for release-tars](https://github.com/kubernetes/kubernetes/pull/122358) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 - [set node-os-distro and num-nodes flags](https://github.com/kubernetes/kops/pull/16176) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 days ago)
-- [configure AWS SSO and grant it on the boskos account](https://github.com/kubernetes/k8s.io/pull/6189) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 
 #### ⭐ Recent Stars
 
