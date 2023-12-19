@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 days ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 days ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (2 days ago)
@@ -30,6 +30,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Build k/k on post-submits only](https://github.com/kubernetes/test-infra/pull/31487) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [Use latest instead of latest-fast for gce conformance](https://github.com/kubernetes/test-infra/pull/31486) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Don&#39;t change directories - conformance gce patch](https://github.com/kubernetes/test-infra/pull/31478) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Fix another conformance typo](https://github.com/kubernetes/test-infra/pull/31476) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [fix a typo in release-blocking conformance job](https://github.com/kubernetes/test-infra/pull/31474) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
