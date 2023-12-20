@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.9](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.9), today) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.5](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.5), today) - Production-Grade Container Scheduling and Management
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.12.3](https://github.com/knative/serving/releases/tag/knative-v1.12.3), 1 day ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.10.12](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.10.12), 5 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.29](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.29), 1 week ago) - Kubernetes website and documentation repo: 
@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Add GCE scale testing on kops](https://github.com/kubernetes/kops/pull/16181) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [Create dev kops scale test on GCP](https://github.com/kubernetes/test-infra/pull/31489) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Publish the marker inside the fast folder](https://github.com/kubernetes-sigs/release-sdk/pull/291) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (1 day ago)
 - [Build k/k on post-submits only](https://github.com/kubernetes/test-infra/pull/31487) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Fix another conformance typo](https://github.com/kubernetes/test-infra/pull/31476) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [fix a typo in release-blocking conformance job](https://github.com/kubernetes/test-infra/pull/31474) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [Fix gce conformance jobs](https://github.com/kubernetes/test-infra/pull/31472) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
-- [Configure DNS to allow Okta to send email via kubernetes.io](https://github.com/kubernetes/k8s.io/pull/6201) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 
 #### ⭐ Recent Stars
 
