@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Skip bumping EKB images](https://github.com/knative/infra/pull/303) on [knative/infra](https://github.com/knative/infra) (today)
 - [Add GCE scale testing on kops](https://github.com/kubernetes/kops/pull/16181) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [Create dev kops scale test on GCP](https://github.com/kubernetes/test-infra/pull/31489) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Publish the marker inside the fast folder](https://github.com/kubernetes-sigs/release-sdk/pull/291) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (1 day ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Don&#39;t change directories - conformance gce patch](https://github.com/kubernetes/test-infra/pull/31478) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [Fix another conformance typo](https://github.com/kubernetes/test-infra/pull/31476) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [fix a typo in release-blocking conformance job](https://github.com/kubernetes/test-infra/pull/31474) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
-- [Fix gce conformance jobs](https://github.com/kubernetes/test-infra/pull/31472) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 
 #### ⭐ Recent Stars
 
