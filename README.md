@@ -30,6 +30,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [don&#39;t require pull k/k build job presubmit on the kops repo](https://github.com/kubernetes/test-infra/pull/31503) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [Put NPD e2e test behind a feature gate](https://github.com/kubernetes/kubernetes/pull/122439) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [`kops validate cluster` improvements](https://github.com/kubernetes/kops/pull/16187) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [Fix various kops jobs](https://github.com/kubernetes/test-infra/pull/31494) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Skip bumping EKB images](https://github.com/knative/infra/pull/303) on [knative/infra](https://github.com/knative/infra) (1 day ago)
@@ -38,8 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Publish the marker inside the fast folder](https://github.com/kubernetes-sigs/release-sdk/pull/291) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (2 days ago)
 - [Build k/k on post-submits only](https://github.com/kubernetes/test-infra/pull/31487) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [Use latest instead of latest-fast for gce conformance](https://github.com/kubernetes/test-infra/pull/31486) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
-- [Don&#39;t change directories - conformance gce patch](https://github.com/kubernetes/test-infra/pull/31478) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [Fix another conformance typo](https://github.com/kubernetes/test-infra/pull/31476) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 
 #### ⭐ Recent Stars
 
