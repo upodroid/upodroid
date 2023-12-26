@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.9](https://github.com/knative/eventing/releases/tag/knative-v1.11.9), today) - Event-driven application platform for Kubernetes
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.12.2](https://github.com/knative/eventing/releases/tag/knative-v1.12.2), today) - Event-driven application platform for Kubernetes
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-alpha.3](https://github.com/kubernetes/kops/releases/tag/v1.29.0-alpha.3), 4 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.5](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.5), 6 days ago) - Production-Grade Container Scheduling and Management
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.12.3](https://github.com/knative/serving/releases/tag/knative-v1.12.3), 1 week ago) - Kubernetes-based, scale-to-zero, request-driven compute
