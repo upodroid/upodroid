@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Publish the marker inside the fast folder](https://github.com/kubernetes/release/pull/3405) on [kubernetes/release](https://github.com/kubernetes/release) (today)
 - [allow passing arbitary cl2 args](https://github.com/kubernetes-sigs/kubetest2/pull/256) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (5 days ago)
 - [don&#39;t require pull k/k build job presubmit on the kops repo](https://github.com/kubernetes/test-infra/pull/31503) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Put NPD e2e test behind a feature gate](https://github.com/kubernetes/kubernetes/pull/122439) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Add GCE scale testing on kops](https://github.com/kubernetes/kops/pull/16181) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 - [Create dev kops scale test on GCP](https://github.com/kubernetes/test-infra/pull/31489) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [Publish the marker inside the fast folder](https://github.com/kubernetes-sigs/release-sdk/pull/291) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (2 weeks ago)
-- [Build k/k on post-submits only](https://github.com/kubernetes/test-infra/pull/31487) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
