@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 day ago)
+- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 week ago)
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (2 weeks ago)
@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [allow knative-admin gh group to rerun jobs](https://github.com/knative/infra/pull/311) on [knative/infra](https://github.com/knative/infra) (today)
 - [fetch marker from inside the ci/fast folder](https://github.com/kubernetes/test-infra/pull/31527) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Publish the marker inside the fast folder](https://github.com/kubernetes/release/pull/3405) on [kubernetes/release](https://github.com/kubernetes/release) (1 day ago)
 - [allow passing arbitary cl2 args](https://github.com/kubernetes-sigs/kubetest2/pull/256) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (6 days ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Fix various kops jobs](https://github.com/kubernetes/test-infra/pull/31494) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [Skip bumping EKB images](https://github.com/knative/infra/pull/303) on [knative/infra](https://github.com/knative/infra) (2 weeks ago)
 - [Add GCE scale testing on kops](https://github.com/kubernetes/kops/pull/16181) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 weeks ago)
-- [Create dev kops scale test on GCP](https://github.com/kubernetes/test-infra/pull/31489) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
