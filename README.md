@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Sink `legacy.apt|yum.k8s.io` logs to bq for analysis](https://github.com/kubernetes/k8s.io/pull/6239) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [allow knative-admin gh group to rerun jobs](https://github.com/knative/infra/pull/311) on [knative/infra](https://github.com/knative/infra) (today)
 - [fetch marker from inside the ci/fast folder](https://github.com/kubernetes/test-infra/pull/31527) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Publish the marker inside the fast folder](https://github.com/kubernetes/release/pull/3405) on [kubernetes/release](https://github.com/kubernetes/release) (1 day ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [`kops validate cluster` improvements](https://github.com/kubernetes/kops/pull/16187) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 - [Fix various kops jobs](https://github.com/kubernetes/test-infra/pull/31494) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [Skip bumping EKB images](https://github.com/knative/infra/pull/303) on [knative/infra](https://github.com/knative/infra) (2 weeks ago)
-- [Add GCE scale testing on kops](https://github.com/kubernetes/kops/pull/16181) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
