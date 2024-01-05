@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Use a single const for all valid arches](https://github.com/kubernetes/release/pull/3408) on [kubernetes/release](https://github.com/kubernetes/release) (today)
 - [use n2 machine types for jobs using local ssds](https://github.com/kubernetes/test-infra/pull/31556) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Use n2 machine types for scalability master instances](https://github.com/kubernetes/test-infra/pull/31546) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Disable duplicate ci-builds for k/k](https://github.com/kubernetes/test-infra/pull/31544) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Publish the marker inside the fast folder](https://github.com/kubernetes/release/pull/3405) on [kubernetes/release](https://github.com/kubernetes/release) (3 days ago)
 - [allow passing arbitary cl2 args](https://github.com/kubernetes-sigs/kubetest2/pull/256) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 week ago)
 - [don&#39;t require pull k/k build job presubmit on the kops repo](https://github.com/kubernetes/test-infra/pull/31503) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-- [Put NPD e2e test behind a feature gate](https://github.com/kubernetes/kubernetes/pull/122439) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
