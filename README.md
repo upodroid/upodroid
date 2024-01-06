@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Sink logs from prod redirector instance](https://github.com/kubernetes/k8s.io/pull/6251) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Configure pii access via groups](https://github.com/kubernetes/k8s.io/pull/6250) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Use a single const for all valid arches](https://github.com/kubernetes/release/pull/3408) on [kubernetes/release](https://github.com/kubernetes/release) (1 day ago)
 - [use n2 machine types for jobs using local ssds](https://github.com/kubernetes/test-infra/pull/31556) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [allow knative-admin gh group to rerun jobs](https://github.com/knative/infra/pull/311) on [knative/infra](https://github.com/knative/infra) (3 days ago)
 - [fetch marker from inside the ci/fast folder](https://github.com/kubernetes/test-infra/pull/31527) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [Publish the marker inside the fast folder](https://github.com/kubernetes/release/pull/3405) on [kubernetes/release](https://github.com/kubernetes/release) (4 days ago)
-- [allow passing arbitary cl2 args](https://github.com/kubernetes-sigs/kubetest2/pull/256) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 week ago)
 
 #### ⭐ Recent Stars
 
