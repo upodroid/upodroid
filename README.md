@@ -39,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Disable duplicate ci-builds for k/k](https://github.com/kubernetes/test-infra/pull/31544) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [Sink `legacy.apt|yum.k8s.io` logs to bq for analysis](https://github.com/kubernetes/k8s.io/pull/6239) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [allow knative-admin gh group to rerun jobs](https://github.com/knative/infra/pull/311) on [knative/infra](https://github.com/knative/infra) (5 days ago)
-- [fetch marker from inside the ci/fast folder](https://github.com/kubernetes/test-infra/pull/31527) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 
 #### ⭐ Recent Stars
 
