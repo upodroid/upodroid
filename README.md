@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Switch from using targetpools to backend services](https://github.com/kubernetes/kops/pull/16233) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [Sink logs from prod redirector instance](https://github.com/kubernetes/k8s.io/pull/6251) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [Configure pii access via groups](https://github.com/kubernetes/k8s.io/pull/6250) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [Use a single const for all valid arches](https://github.com/kubernetes/release/pull/3408) on [kubernetes/release](https://github.com/kubernetes/release) (3 days ago)
@@ -39,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Sink `legacy.apt|yum.k8s.io` logs to bq for analysis](https://github.com/kubernetes/k8s.io/pull/6239) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [allow knative-admin gh group to rerun jobs](https://github.com/knative/infra/pull/311) on [knative/infra](https://github.com/knative/infra) (5 days ago)
 - [fetch marker from inside the ci/fast folder](https://github.com/kubernetes/test-infra/pull/31527) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [Publish the marker inside the fast folder](https://github.com/kubernetes/release/pull/3405) on [kubernetes/release](https://github.com/kubernetes/release) (6 days ago)
 
 #### ⭐ Recent Stars
 
