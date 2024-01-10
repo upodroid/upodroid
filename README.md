@@ -17,10 +17,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.12.3](https://github.com/knative/eventing/releases/tag/knative-v1.12.3), today) - Event-driven application platform for Kubernetes
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.29](https://github.com/etcd-io/etcd/releases/tag/v3.4.29), 1 day ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.2](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.2), 1 day ago) - Alternate Kafka Broker implementation.
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.11.8](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.11.8), 2 weeks ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.12.2](https://github.com/knative/eventing/releases/tag/knative-v1.12.2), 2 weeks ago) - Event-driven application platform for Kubernetes
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-alpha.3](https://github.com/kubernetes/kops/releases/tag/v1.29.0-alpha.3), 2 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.5](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.5), 3 weeks ago) - Production-Grade Container Scheduling and Management
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.12.3](https://github.com/knative/serving/releases/tag/knative-v1.12.3), 3 weeks ago) - Kubernetes-based, scale-to-zero, request-driven compute
@@ -36,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Use a single const for all valid arches](https://github.com/kubernetes/release/pull/3408) on [kubernetes/release](https://github.com/kubernetes/release) (5 days ago)
 - [use n2 machine types for jobs using local ssds](https://github.com/kubernetes/test-infra/pull/31556) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [Use n2 machine types for scalability master instances](https://github.com/kubernetes/test-infra/pull/31546) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [Disable duplicate ci-builds for k/k](https://github.com/kubernetes/test-infra/pull/31544) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 
 #### ⭐ Recent Stars
 
