@@ -37,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [use n2 machine types for jobs using local ssds](https://github.com/kubernetes/test-infra/pull/31556) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [Use n2 machine types for scalability master instances](https://github.com/kubernetes/test-infra/pull/31546) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [Disable duplicate ci-builds for k/k](https://github.com/kubernetes/test-infra/pull/31544) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [Sink `legacy.apt|yum.k8s.io` logs to bq for analysis](https://github.com/kubernetes/k8s.io/pull/6239) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
