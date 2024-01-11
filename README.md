@@ -35,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Configure pii access via groups](https://github.com/kubernetes/k8s.io/pull/6250) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [Use a single const for all valid arches](https://github.com/kubernetes/release/pull/3408) on [kubernetes/release](https://github.com/kubernetes/release) (6 days ago)
 - [use n2 machine types for jobs using local ssds](https://github.com/kubernetes/test-infra/pull/31556) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [Use n2 machine types for scalability master instances](https://github.com/kubernetes/test-infra/pull/31546) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
