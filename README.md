@@ -17,6 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.12](https://github.com/containerd/containerd/releases/tag/v1.7.12), today) - An open and reliable container runtime
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.12.3](https://github.com/knative/eventing/releases/tag/knative-v1.12.3), 2 days ago) - Event-driven application platform for Kubernetes
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.29](https://github.com/etcd-io/etcd/releases/tag/v3.4.29), 3 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.2](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.2), 3 days ago) - Alternate Kafka Broker implementation.
@@ -25,7 +26,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.5](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.5), 3 weeks ago) - Production-Grade Container Scheduling and Management
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.12.3](https://github.com/knative/serving/releases/tag/knative-v1.12.3), 3 weeks ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.29](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.29), 1 month ago) - Kubernetes website and documentation repo: 
-- [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.11](https://github.com/containerd/containerd/releases/tag/v1.7.11), 1 month ago) - An open and reliable container runtime
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.4](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.4), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 
 #### 🔨 My recent Pull Requests
