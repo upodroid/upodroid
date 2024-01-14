@@ -30,11 +30,11 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Fix kubemark release jobs](https://github.com/kubernetes/test-infra/pull/31622) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [fix kubemark master sizes](https://github.com/kubernetes/test-infra/pull/31609) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [gce: Switch from using targetpools to backend services](https://github.com/kubernetes/kops/pull/16233) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
 - [Sink logs from prod redirector instance](https://github.com/kubernetes/k8s.io/pull/6251) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [Configure pii access via groups](https://github.com/kubernetes/k8s.io/pull/6250) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [Use a single const for all valid arches](https://github.com/kubernetes/release/pull/3408) on [kubernetes/release](https://github.com/kubernetes/release) (1 week ago)
 
 #### ⭐ Recent Stars
 
