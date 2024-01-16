@@ -17,9 +17,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.11.11](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.11.11), today) - Alternate Kafka Broker implementation.
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.10](https://github.com/knative/eventing/releases/tag/knative-v1.11.10), today) - Event-driven application platform for Kubernetes
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.3](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.3), today) - Alternate Kafka Broker implementation.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.6.27](https://github.com/containerd/containerd/releases/tag/v1.6.27), 4 days ago) - An open and reliable container runtime
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.12.3](https://github.com/knative/eventing/releases/tag/knative-v1.12.3), 6 days ago) - Event-driven application platform for Kubernetes
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.29](https://github.com/etcd-io/etcd/releases/tag/v3.4.29), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.11.8](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.11.8), 3 weeks ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-alpha.3](https://github.com/kubernetes/kops/releases/tag/v1.29.0-alpha.3), 3 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
