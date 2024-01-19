@@ -32,7 +32,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 - [fix more broken kubemark jobs](https://github.com/kubernetes/test-infra/pull/31633) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [Fix kubemark release jobs](https://github.com/kubernetes/test-infra/pull/31622) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
-- [fix kubemark master sizes](https://github.com/kubernetes/test-infra/pull/31609) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
