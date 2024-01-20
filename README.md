@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Fix some kops e2e jobs](https://github.com/kubernetes/test-infra/pull/31677) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Fix dumping logs for GCE scale tests](https://github.com/kubernetes/kops/pull/16266) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [gce: fix nlb firewall rules, operations and alias network subnets](https://github.com/kubernetes/kops/pull/16265) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [fix more broken kubemark jobs](https://github.com/kubernetes/test-infra/pull/31633) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
