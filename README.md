@@ -17,11 +17,11 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.4](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.4), today) - Alternate Kafka Broker implementation.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v2.0.0-beta.1](https://github.com/containerd/containerd/releases/tag/v2.0.0-beta.1), 4 days ago) - An open and reliable container runtime
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.13.0](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.13.0), 4 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.1), 6 days ago) - Production-Grade Container Scheduling and Management
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.10](https://github.com/knative/eventing/releases/tag/knative-v1.11.10), 1 week ago) - Event-driven application platform for Kubernetes
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.3](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.3), 1 week ago) - Alternate Kafka Broker implementation.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.29](https://github.com/etcd-io/etcd/releases/tag/v3.4.29), 2 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-alpha.3](https://github.com/kubernetes/kops/releases/tag/v1.29.0-alpha.3), 1 month ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.12.3](https://github.com/knative/serving/releases/tag/knative-v1.12.3), 1 month ago) - Kubernetes-based, scale-to-zero, request-driven compute
