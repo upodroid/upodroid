@@ -4,12 +4,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (3 days ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (4 days ago)
+- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (4 days ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 week ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 weeks ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (2 weeks ago)
-- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (2 weeks ago)
+- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (3 weeks ago)
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (1 month ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 month ago)
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (2 months ago)
@@ -17,12 +17,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.9.16](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.9.16), today) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.13.0](https://github.com/knative/eventing/releases/tag/knative-v1.13.0), today) - Event-driven application platform for Kubernetes
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.11.0](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.11.0), today) - Interfaces and implementations for building Kubernetes releases.
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.4](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.4), today) - Alternate Kafka Broker implementation.
-- [containerd/containerd](https://github.com/containerd/containerd) ([v2.0.0-beta.1](https://github.com/containerd/containerd/releases/tag/v2.0.0-beta.1), 4 days ago) - An open and reliable container runtime
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.1), 6 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.9.16](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.9.16), 1 day ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.13.0](https://github.com/knative/eventing/releases/tag/knative-v1.13.0), 1 day ago) - Event-driven application platform for Kubernetes
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.11.0](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.11.0), 1 day ago) - Interfaces and implementations for building Kubernetes releases.
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.4](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.4), 1 day ago) - Alternate Kafka Broker implementation.
+- [containerd/containerd](https://github.com/containerd/containerd) ([v2.0.0-beta.1](https://github.com/containerd/containerd/releases/tag/v2.0.0-beta.1), 5 days ago) - An open and reliable container runtime
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.1), 1 week ago) - Production-Grade Container Scheduling and Management
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.29](https://github.com/etcd-io/etcd/releases/tag/v3.4.29), 2 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-alpha.3](https://github.com/kubernetes/kops/releases/tag/v1.29.0-alpha.3), 1 month ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.12.3](https://github.com/knative/serving/releases/tag/knative-v1.12.3), 1 month ago) - Kubernetes-based, scale-to-zero, request-driven compute
@@ -30,10 +30,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
-- [Add `boskos-resource-type` flag to use different GCE projects for scale/gpu testing](https://github.com/kubernetes/kops/pull/16268) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
-- [Fix some kops e2e jobs](https://github.com/kubernetes/test-infra/pull/31677) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [Fix dumping logs for GCE scale tests](https://github.com/kubernetes/kops/pull/16266) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
-- [gce: fix nlb firewall rules, operations and alias network subnets](https://github.com/kubernetes/kops/pull/16265) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
+- [Add `boskos-resource-type` flag to use different GCE projects for scale/gpu testing](https://github.com/kubernetes/kops/pull/16268) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
+- [Fix some kops e2e jobs](https://github.com/kubernetes/test-infra/pull/31677) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
+- [Fix dumping logs for GCE scale tests](https://github.com/kubernetes/kops/pull/16266) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 days ago)
+- [gce: fix nlb firewall rules, operations and alias network subnets](https://github.com/kubernetes/kops/pull/16265) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 days ago)
 
 #### ⭐ Recent Stars
 
