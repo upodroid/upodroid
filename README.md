@@ -17,6 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [knative/serving](https://github.com/knative/serving) ([knative-v1.13.0](https://github.com/knative/serving/releases/tag/knative-v1.13.0), today) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.9.16](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.9.16), 1 day ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.13.0](https://github.com/knative/eventing/releases/tag/knative-v1.13.0), 1 day ago) - Event-driven application platform for Kubernetes
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.11.0](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.11.0), 1 day ago) - Interfaces and implementations for building Kubernetes releases.
@@ -25,7 +26,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.1), 1 week ago) - Production-Grade Container Scheduling and Management
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.29](https://github.com/etcd-io/etcd/releases/tag/v3.4.29), 2 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-alpha.3](https://github.com/kubernetes/kops/releases/tag/v1.29.0-alpha.3), 1 month ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [knative/serving](https://github.com/knative/serving) ([knative-v1.12.3](https://github.com/knative/serving/releases/tag/knative-v1.12.3), 1 month ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.29](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.29), 1 month ago) - Kubernetes website and documentation repo: 
 
 #### 🔨 My recent Pull Requests
