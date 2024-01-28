@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 day ago)
+- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (2 days ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (2 weeks ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 weeks ago)
@@ -17,20 +17,20 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.3](https://github.com/kubernetes/kops/releases/tag/v1.28.3), 1 day ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.13.0](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.13.0), 2 days ago) - Kn plugin for managing Knative with Knative Operator.
-- [knative-extensions/kn-plugin-event](https://github.com/knative-extensions/kn-plugin-event) ([knative-v1.13.0](https://github.com/knative-extensions/kn-plugin-event/releases/tag/knative-v1.13.0), 3 days ago) - Kn plugin for sending events to Knative sinks.
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.13.0](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.13.0), 3 days ago) - Alternate Kafka Broker implementation.
-- [knative/serving](https://github.com/knative/serving) ([knative-v1.13.0](https://github.com/knative/serving/releases/tag/knative-v1.13.0), 3 days ago) - Kubernetes-based, scale-to-zero, request-driven compute
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.9.16](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.9.16), 4 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.13.0](https://github.com/knative/eventing/releases/tag/knative-v1.13.0), 4 days ago) - Event-driven application platform for Kubernetes
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.11.0](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.11.0), 4 days ago) - Interfaces and implementations for building Kubernetes releases.
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.3](https://github.com/kubernetes/kops/releases/tag/v1.28.3), 2 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.13.0](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.13.0), 3 days ago) - Kn plugin for managing Knative with Knative Operator.
+- [knative-extensions/kn-plugin-event](https://github.com/knative-extensions/kn-plugin-event) ([knative-v1.13.0](https://github.com/knative-extensions/kn-plugin-event/releases/tag/knative-v1.13.0), 4 days ago) - Kn plugin for sending events to Knative sinks.
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.13.0](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.13.0), 4 days ago) - Alternate Kafka Broker implementation.
+- [knative/serving](https://github.com/knative/serving) ([knative-v1.13.0](https://github.com/knative/serving/releases/tag/knative-v1.13.0), 4 days ago) - Kubernetes-based, scale-to-zero, request-driven compute
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.9.16](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.9.16), 5 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.13.0](https://github.com/knative/eventing/releases/tag/knative-v1.13.0), 5 days ago) - Event-driven application platform for Kubernetes
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.11.0](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.11.0), 5 days ago) - Interfaces and implementations for building Kubernetes releases.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v2.0.0-beta.1](https://github.com/containerd/containerd/releases/tag/v2.0.0-beta.1), 1 week ago) - An open and reliable container runtime
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.1), 1 week ago) - Production-Grade Container Scheduling and Management
 
 #### 🔨 My recent Pull Requests
 
-- [Add `boskos-resource-type` flag to use different GCE projects for scale/gpu testing](https://github.com/kubernetes/kops/pull/16268) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
+- [Add `boskos-resource-type` flag to use different GCE projects for scale/gpu testing](https://github.com/kubernetes/kops/pull/16268) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 - [Fix some kops e2e jobs](https://github.com/kubernetes/test-infra/pull/31677) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Fix dumping logs for GCE scale tests](https://github.com/kubernetes/kops/pull/16266) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 - [gce: fix nlb firewall rules, operations and alias network subnets](https://github.com/kubernetes/kops/pull/16265) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
@@ -38,7 +38,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 #### ⭐ Recent Stars
 
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (4 months ago)
-- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (4 months ago)
+- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (5 months ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (5 months ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (7 months ago)
 - [knative/test-infra](https://github.com/knative/test-infra) - Test infrastructure for the Knative project (1 year ago)
