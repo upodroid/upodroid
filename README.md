@@ -17,14 +17,14 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.11.11](https://github.com/knative/eventing/releases/tag/knative-v1.11.11), today) - Event-driven application platform for Kubernetes
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.13.1](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.13.1), today) - Alternate Kafka Broker implementation.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v2.0.0-beta.2](https://github.com/containerd/containerd/releases/tag/v2.0.0-beta.2), 1 day ago) - An open and reliable container runtime
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.3](https://github.com/kubernetes/kops/releases/tag/v1.28.3), 4 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.13.0](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.13.0), 5 days ago) - Kn plugin for managing Knative with Knative Operator.
 - [knative-extensions/kn-plugin-event](https://github.com/knative-extensions/kn-plugin-event) ([knative-v1.13.0](https://github.com/knative-extensions/kn-plugin-event/releases/tag/knative-v1.13.0), 6 days ago) - Kn plugin for sending events to Knative sinks.
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.13.0](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.13.0), 6 days ago) - Alternate Kafka Broker implementation.
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.13.0](https://github.com/knative/serving/releases/tag/knative-v1.13.0), 6 days ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.9.16](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.9.16), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.13.0](https://github.com/knative/eventing/releases/tag/knative-v1.13.0), 1 week ago) - Event-driven application platform for Kubernetes
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.11.0](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.11.0), 1 week ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.1), 1 week ago) - Production-Grade Container Scheduling and Management
 
