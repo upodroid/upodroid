@@ -17,6 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.12](https://github.com/etcd-io/etcd/releases/tag/v3.5.12), today) - Distributed reliable key-value store for the most critical data of a distributed system
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.13.1](https://github.com/knative/eventing/releases/tag/knative-v1.13.1), 1 day ago) - Event-driven application platform for Kubernetes
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.13.1](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.13.1), 1 day ago) - Alternate Kafka Broker implementation.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v2.0.0-beta.2](https://github.com/containerd/containerd/releases/tag/v2.0.0-beta.2), 2 days ago) - An open and reliable container runtime
@@ -26,14 +27,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.13.0](https://github.com/knative/serving/releases/tag/knative-v1.13.0), 1 week ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.9.16](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.9.16), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.11.0](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.11.0), 1 week ago) - Interfaces and implementations for building Kubernetes releases.
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.1), 2 weeks ago) - Production-Grade Container Scheduling and Management
 
 #### 🔨 My recent Pull Requests
 
 - [Add `boskos-resource-type` flag to use different GCE projects for scale/gpu testing](https://github.com/kubernetes/kops/pull/16268) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 - [Fix some kops e2e jobs](https://github.com/kubernetes/test-infra/pull/31677) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Fix dumping logs for GCE scale tests](https://github.com/kubernetes/kops/pull/16266) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
-- [gce: fix nlb firewall rules, operations and alias network subnets](https://github.com/kubernetes/kops/pull/16265) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 
 #### ⭐ Recent Stars
 
