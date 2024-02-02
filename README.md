@@ -17,6 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [knative/serving](https://github.com/knative/serving) ([knative-v1.12.4](https://github.com/knative/serving/releases/tag/knative-v1.12.4), today) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.5](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.5), today) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.4](https://github.com/kubernetes/kops/releases/tag/v1.28.4), today) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.13](https://github.com/containerd/containerd/releases/tag/v1.7.13), 2 days ago) - An open and reliable container runtime
@@ -26,7 +27,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.13.1](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.13.1), 3 days ago) - Alternate Kafka Broker implementation.
 - [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.13.0](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.13.0), 1 week ago) - Kn plugin for managing Knative with Knative Operator.
 - [knative-extensions/kn-plugin-event](https://github.com/knative-extensions/kn-plugin-event) ([knative-v1.13.0](https://github.com/knative-extensions/kn-plugin-event/releases/tag/knative-v1.13.0), 1 week ago) - Kn plugin for sending events to Knative sinks.
-- [knative/serving](https://github.com/knative/serving) ([knative-v1.13.0](https://github.com/knative/serving/releases/tag/knative-v1.13.0), 1 week ago) - Kubernetes-based, scale-to-zero, request-driven compute
 
 #### 🔨 My recent Pull Requests
 
