@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.11.12](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.11.12), today) - Alternate Kafka Broker implementation.
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.5](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.5), today) - Alternate Kafka Broker implementation.
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.13.1](https://github.com/knative/serving/releases/tag/knative-v1.13.1), 3 days ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.5](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.5), 4 days ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.4](https://github.com/kubernetes/kops/releases/tag/v1.28.4), 4 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
