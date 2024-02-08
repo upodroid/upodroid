@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (6 days ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
+- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 week ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (3 weeks ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 month ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 month ago)
@@ -17,20 +17,20 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.5](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.5), 1 day ago) - Alternate Kafka Broker implementation.
-- [knative/serving](https://github.com/knative/serving) ([knative-v1.13.1](https://github.com/knative/serving/releases/tag/knative-v1.13.1), 4 days ago) - Kubernetes-based, scale-to-zero, request-driven compute
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.5](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.5), 5 days ago) - Container and file artifact promotion tooling for the Kubernetes project
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.4](https://github.com/kubernetes/kops/releases/tag/v1.28.4), 5 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.5](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.5), 2 days ago) - Alternate Kafka Broker implementation.
+- [knative/serving](https://github.com/knative/serving) ([knative-v1.13.1](https://github.com/knative/serving/releases/tag/knative-v1.13.1), 5 days ago) - Kubernetes-based, scale-to-zero, request-driven compute
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.5](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.5), 6 days ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.4](https://github.com/kubernetes/kops/releases/tag/v1.28.4), 6 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.13](https://github.com/containerd/containerd/releases/tag/v1.7.13), 1 week ago) - An open and reliable container runtime
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.0-alpha.1), 1 week ago) - Production-Grade Container Scheduling and Management
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.30](https://github.com/etcd-io/etcd/releases/tag/v3.4.30), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.13.1](https://github.com/knative/eventing/releases/tag/knative-v1.13.1), 1 week ago) - Event-driven application platform for Kubernetes
-- [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.13.0](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.13.0), 1 week ago) - Kn plugin for managing Knative with Knative Operator.
+- [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.13.0](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.13.0), 2 weeks ago) - Kn plugin for managing Knative with Knative Operator.
 - [knative-extensions/kn-plugin-event](https://github.com/knative-extensions/kn-plugin-event) ([knative-v1.13.0](https://github.com/knative-extensions/kn-plugin-event/releases/tag/knative-v1.13.0), 2 weeks ago) - Kn plugin for sending events to Knative sinks.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix typos in kubekins-v2 docker image](https://github.com/kubernetes/test-infra/pull/31875) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [Fix typos in kubekins-v2 docker image](https://github.com/kubernetes/test-infra/pull/31875) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 
 #### ⭐ Recent Stars
 
