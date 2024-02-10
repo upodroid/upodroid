@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [fix unset variable in gcb-docker-gcloud image](https://github.com/kubernetes/test-infra/pull/31946) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Fix the prowjob regex for variants.yaml](https://github.com/kubernetes/test-infra/pull/31943) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [make the variants.yaml in kubekins-v2 authoritative and bump timeout](https://github.com/kubernetes/test-infra/pull/31912) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [skip attesting docker images and bump buildx and go](https://github.com/kubernetes/test-infra/pull/31903) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
