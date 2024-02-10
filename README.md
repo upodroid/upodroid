@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 week ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (4 weeks ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 month ago)
@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.5](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.5), 3 days ago) - Alternate Kafka Broker implementation.
-- [knative/serving](https://github.com/knative/serving) ([knative-v1.13.1](https://github.com/knative/serving/releases/tag/knative-v1.13.1), 6 days ago) - Kubernetes-based, scale-to-zero, request-driven compute
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.5](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.5), 4 days ago) - Alternate Kafka Broker implementation.
+- [knative/serving](https://github.com/knative/serving) ([knative-v1.13.1](https://github.com/knative/serving/releases/tag/knative-v1.13.1), 1 week ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.5](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.5), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.4](https://github.com/kubernetes/kops/releases/tag/v1.28.4), 1 week ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.13](https://github.com/containerd/containerd/releases/tag/v1.7.13), 1 week ago) - An open and reliable container runtime
@@ -30,11 +30,11 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
-- [make the variants.yaml in kubekins-v2 authoritative and bump timeout](https://github.com/kubernetes/test-infra/pull/31912) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
-- [skip attesting docker images and bump buildx and go](https://github.com/kubernetes/test-infra/pull/31903) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
-- [bump kubekins-e2e v2 image build timeout](https://github.com/kubernetes/test-infra/pull/31902) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
-- [Fix more typos in kubekins-e2e-v2 image](https://github.com/kubernetes/test-infra/pull/31897) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
-- [Fix typos in kubekins-v2 docker image](https://github.com/kubernetes/test-infra/pull/31875) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
+- [make the variants.yaml in kubekins-v2 authoritative and bump timeout](https://github.com/kubernetes/test-infra/pull/31912) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [skip attesting docker images and bump buildx and go](https://github.com/kubernetes/test-infra/pull/31903) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
+- [bump kubekins-e2e v2 image build timeout](https://github.com/kubernetes/test-infra/pull/31902) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
+- [Fix more typos in kubekins-e2e-v2 image](https://github.com/kubernetes/test-infra/pull/31897) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
+- [Fix typos in kubekins-v2 docker image](https://github.com/kubernetes/test-infra/pull/31875) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 
 #### ⭐ Recent Stars
 
