@@ -36,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [make the variants.yaml in kubekins-v2 authoritative and bump timeout](https://github.com/kubernetes/test-infra/pull/31912) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [skip attesting docker images and bump buildx and go](https://github.com/kubernetes/test-infra/pull/31903) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [bump kubekins-e2e v2 image build timeout](https://github.com/kubernetes/test-infra/pull/31902) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [Fix more typos in kubekins-e2e-v2 image](https://github.com/kubernetes/test-infra/pull/31897) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 
 #### ⭐ Recent Stars
 
