@@ -30,12 +30,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [gce: refactor regional/global GCE API methods](https://github.com/kubernetes/kops/pull/16367) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [build darwin binaries and fix cloudbuild config](https://github.com/kubernetes-sigs/kubetest2/pull/260) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (4 days ago)
 - [bump deps and build arm64 binaries](https://github.com/kubernetes-sigs/kubetest2/pull/259) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 week ago)
 - [fix unset variable in gcb-docker-gcloud image](https://github.com/kubernetes/test-infra/pull/31946) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Fix the prowjob regex for variants.yaml](https://github.com/kubernetes/test-infra/pull/31943) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [make the variants.yaml in kubekins-v2 authoritative and bump timeout](https://github.com/kubernetes/test-infra/pull/31912) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [skip attesting docker images and bump buildx and go](https://github.com/kubernetes/test-infra/pull/31903) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
