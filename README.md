@@ -17,10 +17,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.13.4](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.13.4), today) - Alternate Kafka Broker implementation.
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.5](https://github.com/kubernetes/release/releases/tag/v0.16.5), 1 day ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.2), 6 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.12.8](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.12.8), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.6](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.6), 1 week ago) - Alternate Kafka Broker implementation.
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.13.1](https://github.com/knative/serving/releases/tag/knative-v1.13.1), 2 weeks ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.5](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.5), 2 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.4](https://github.com/kubernetes/kops/releases/tag/v1.28.4), 2 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
