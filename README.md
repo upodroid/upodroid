@@ -17,21 +17,21 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.5](https://github.com/kubernetes/release/releases/tag/v0.16.5), today) - Release infrastructure for Kubernetes and related components
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.2), 5 days ago) - Production-Grade Container Scheduling and Management
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.12.8](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.12.8), 6 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.6](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.6), 6 days ago) - Alternate Kafka Broker implementation.
+- [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.5](https://github.com/kubernetes/release/releases/tag/v0.16.5), 1 day ago) - Release infrastructure for Kubernetes and related components
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.2), 6 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.12.8](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.12.8), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.6](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.6), 1 week ago) - Alternate Kafka Broker implementation.
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.13.1](https://github.com/knative/serving/releases/tag/knative-v1.13.1), 2 weeks ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.5](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.5), 2 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.4](https://github.com/kubernetes/kops/releases/tag/v1.28.4), 2 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.13](https://github.com/containerd/containerd/releases/tag/v1.7.13), 2 weeks ago) - An open and reliable container runtime
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.30](https://github.com/etcd-io/etcd/releases/tag/v3.4.30), 2 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.13.1](https://github.com/knative/eventing/releases/tag/knative-v1.13.1), 2 weeks ago) - Event-driven application platform for Kubernetes
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.13.1](https://github.com/knative/eventing/releases/tag/knative-v1.13.1), 3 weeks ago) - Event-driven application platform for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- [gce: refactor regional/global GCE API methods](https://github.com/kubernetes/kops/pull/16367) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
-- [build darwin binaries and fix cloudbuild config](https://github.com/kubernetes-sigs/kubetest2/pull/260) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (4 days ago)
+- [gce: refactor regional/global GCE API methods](https://github.com/kubernetes/kops/pull/16367) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
+- [build darwin binaries and fix cloudbuild config](https://github.com/kubernetes-sigs/kubetest2/pull/260) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (5 days ago)
 - [bump deps and build arm64 binaries](https://github.com/kubernetes-sigs/kubetest2/pull/259) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 week ago)
 - [fix unset variable in gcb-docker-gcloud image](https://github.com/kubernetes/test-infra/pull/31946) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Fix the prowjob regex for variants.yaml](https://github.com/kubernetes/test-infra/pull/31943) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
