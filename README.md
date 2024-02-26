@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (5 days ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 week ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (3 weeks ago)
@@ -30,12 +30,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Fix the image bumper regex correctly](https://github.com/kubernetes/test-infra/pull/32072) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Switch some periodics to use kubekins-e2e-v2](https://github.com/kubernetes/test-infra/pull/32059) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [install kubetest2 binaries from gcs](https://github.com/kubernetes/test-infra/pull/32055) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [Bump ESO and configure GCP Secrets Store](https://github.com/kubernetes/k8s.io/pull/6454) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [gce: refactor regional/global GCE API methods](https://github.com/kubernetes/kops/pull/16367) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 - [build darwin binaries and fix cloudbuild config](https://github.com/kubernetes-sigs/kubetest2/pull/260) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 week ago)
-- [bump deps and build arm64 binaries](https://github.com/kubernetes-sigs/kubetest2/pull/259) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
