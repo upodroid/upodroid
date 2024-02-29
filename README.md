@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Bump GPU Installer](https://github.com/kubernetes/kubernetes/pull/123600) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [Fix the image bumper regex correctly](https://github.com/kubernetes/test-infra/pull/32072) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [Switch some periodics to use kubekins-e2e-v2](https://github.com/kubernetes/test-infra/pull/32059) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [install kubetest2 binaries from gcs](https://github.com/kubernetes/test-infra/pull/32055) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
