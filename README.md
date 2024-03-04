@@ -37,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Switch some periodics to use kubekins-e2e-v2](https://github.com/kubernetes/test-infra/pull/32059) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [install kubetest2 binaries from gcs](https://github.com/kubernetes/test-infra/pull/32055) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Bump ESO and configure GCP Secrets Store](https://github.com/kubernetes/k8s.io/pull/6454) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [gce: refactor regional/global GCE API methods](https://github.com/kubernetes/kops/pull/16367) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
