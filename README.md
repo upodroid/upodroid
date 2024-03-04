@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (4 days ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (2 weeks ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 month ago)
@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Revert &#34;Switch the T4 GPUs for the GPU tests&#34;](https://github.com/kubernetes/test-infra/pull/32147) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Add missing stage flag and use the latest image in the family for presubmit gpu job](https://github.com/kubernetes/test-infra/pull/32115) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [Bump GPU Installer](https://github.com/kubernetes/kubernetes/pull/123600) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
 - [Fix the image bumper regex correctly](https://github.com/kubernetes/test-infra/pull/32072) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
