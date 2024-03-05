@@ -30,13 +30,13 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to N2 machine types for prow build cluster](https://github.com/kubernetes/k8s.io/pull/6525) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Revert &#34;Switch the T4 GPUs for the GPU tests&#34;](https://github.com/kubernetes/test-infra/pull/32147) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Add missing stage flag and use the latest image in the family for presubmit gpu job](https://github.com/kubernetes/test-infra/pull/32115) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [Bump GPU Installer](https://github.com/kubernetes/kubernetes/pull/123600) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
 - [Fix the image bumper regex correctly](https://github.com/kubernetes/test-infra/pull/32072) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Switch some periodics to use kubekins-e2e-v2](https://github.com/kubernetes/test-infra/pull/32059) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [install kubetest2 binaries from gcs](https://github.com/kubernetes/test-infra/pull/32055) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [Bump ESO and configure GCP Secrets Store](https://github.com/kubernetes/k8s.io/pull/6454) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
