@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 weeks ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (3 weeks ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 month ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (2 months ago)
@@ -30,13 +30,13 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [disable calico in prow build clusters](https://github.com/kubernetes/k8s.io/pull/6543) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [ensure memory requests/limits are reasonable](https://github.com/kubernetes/test-infra/pull/32175) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Switch to C3 machine types for prow build cluster](https://github.com/kubernetes/k8s.io/pull/6525) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [Revert &#34;Switch the T4 GPUs for the GPU tests&#34;](https://github.com/kubernetes/test-infra/pull/32147) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [Add missing stage flag and use the latest image in the family for presubmit gpu job](https://github.com/kubernetes/test-infra/pull/32115) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Bump GPU Installer](https://github.com/kubernetes/kubernetes/pull/123600) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 - [Fix the image bumper regex correctly](https://github.com/kubernetes/test-infra/pull/32072) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [Switch some periodics to use kubekins-e2e-v2](https://github.com/kubernetes/test-infra/pull/32059) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
