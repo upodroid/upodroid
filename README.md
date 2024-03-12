@@ -17,10 +17,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.12.6](https://github.com/knative/eventing/releases/tag/knative-v1.12.6), today) - Event-driven application platform for Kubernetes
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.8](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.8), today) - Alternate Kafka Broker implementation.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.14](https://github.com/containerd/containerd/releases/tag/v1.7.14), 1 day ago) - An open and reliable container runtime
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.13.4](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.13.4), 5 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.13.3](https://github.com/knative/eventing/releases/tag/knative-v1.13.3), 1 week ago) - Event-driven application platform for Kubernetes
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.0-alpha.3), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.5](https://github.com/kubernetes/release/releases/tag/v0.16.5), 3 weeks ago) - Release infrastructure for Kubernetes and related components
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.13.1](https://github.com/knative/serving/releases/tag/knative-v1.13.1), 1 month ago) - Kubernetes-based, scale-to-zero, request-driven compute
