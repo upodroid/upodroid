@@ -30,13 +30,13 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Fix canary kops k/k jobs](https://github.com/kubernetes/test-infra/pull/32254) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [disable calico in prow build clusters](https://github.com/kubernetes/k8s.io/pull/6543) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [ensure memory requests/limits are reasonable](https://github.com/kubernetes/test-infra/pull/32175) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Switch to C3 machine types for prow build cluster](https://github.com/kubernetes/k8s.io/pull/6525) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [Revert &#34;Switch the T4 GPUs for the GPU tests&#34;](https://github.com/kubernetes/test-infra/pull/32147) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Add missing stage flag and use the latest image in the family for presubmit gpu job](https://github.com/kubernetes/test-infra/pull/32115) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Bump GPU Installer](https://github.com/kubernetes/kubernetes/pull/123600) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
-- [Fix the image bumper regex correctly](https://github.com/kubernetes/test-infra/pull/32072) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
