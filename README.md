@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.0-beta.0), 1 day ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.15](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.15), today) - Production-Grade Container Scheduling and Management
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.12.6](https://github.com/knative/eventing/releases/tag/knative-v1.12.6), 2 days ago) - Event-driven application platform for Kubernetes
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.8](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.8), 2 days ago) - Alternate Kafka Broker implementation.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.14](https://github.com/containerd/containerd/releases/tag/v1.7.14), 3 days ago) - An open and reliable container runtime
