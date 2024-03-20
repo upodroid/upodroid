@@ -17,6 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.31](https://github.com/etcd-io/etcd/releases/tag/v3.4.31), today) - Distributed reliable key-value store for the most critical data of a distributed system
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.9](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.9), 1 day ago) - Alternate Kafka Broker implementation.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v2.0.0-rc.0](https://github.com/containerd/containerd/releases/tag/v2.0.0-rc.0), 1 day ago) - An open and reliable container runtime
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.29.0-beta.1), 5 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
@@ -25,7 +26,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.13.4](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.13.4), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.5](https://github.com/kubernetes/release/releases/tag/v0.16.5), 1 month ago) - Release infrastructure for Kubernetes and related components
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.13.1](https://github.com/knative/serving/releases/tag/knative-v1.13.1), 1 month ago) - Kubernetes-based, scale-to-zero, request-driven compute
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.30](https://github.com/etcd-io/etcd/releases/tag/v3.4.30), 1 month ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.13.0](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.13.0), 1 month ago) - Kn plugin for managing Knative with Knative Operator.
 
 #### 🔨 My recent Pull Requests
