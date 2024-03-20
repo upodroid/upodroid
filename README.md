@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (6 days ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 month ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 month ago)
@@ -17,22 +17,22 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.9](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.9), today) - Alternate Kafka Broker implementation.
-- [containerd/containerd](https://github.com/containerd/containerd) ([v2.0.0-rc.0](https://github.com/containerd/containerd/releases/tag/v2.0.0-rc.0), today) - An open and reliable container runtime
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.29.0-beta.1), 4 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.12), 4 days ago) - Production-Grade Container Scheduling and Management
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.9](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.9), 1 day ago) - Alternate Kafka Broker implementation.
+- [containerd/containerd](https://github.com/containerd/containerd) ([v2.0.0-rc.0](https://github.com/containerd/containerd/releases/tag/v2.0.0-rc.0), 1 day ago) - An open and reliable container runtime
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.29.0-beta.1), 5 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.12), 5 days ago) - Production-Grade Container Scheduling and Management
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.12.6](https://github.com/knative/eventing/releases/tag/knative-v1.12.6), 1 week ago) - Event-driven application platform for Kubernetes
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.13.4](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.13.4), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.5](https://github.com/kubernetes/release/releases/tag/v0.16.5), 4 weeks ago) - Release infrastructure for Kubernetes and related components
+- [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.5](https://github.com/kubernetes/release/releases/tag/v0.16.5), 1 month ago) - Release infrastructure for Kubernetes and related components
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.13.1](https://github.com/knative/serving/releases/tag/knative-v1.13.1), 1 month ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.30](https://github.com/etcd-io/etcd/releases/tag/v3.4.30), 1 month ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.13.0](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.13.0), 1 month ago) - Kn plugin for managing Knative with Knative Operator.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix canary kops k/k jobs](https://github.com/kubernetes/test-infra/pull/32254) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
+- [Fix canary kops k/k jobs](https://github.com/kubernetes/test-infra/pull/32254) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [disable calico in prow build clusters](https://github.com/kubernetes/k8s.io/pull/6543) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [ensure memory requests/limits are reasonable](https://github.com/kubernetes/test-infra/pull/32175) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
+- [ensure memory requests/limits are reasonable](https://github.com/kubernetes/test-infra/pull/32175) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [Switch to C3 machine types for prow build cluster](https://github.com/kubernetes/k8s.io/pull/6525) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [Revert &#34;Switch the T4 GPUs for the GPU tests&#34;](https://github.com/kubernetes/test-infra/pull/32147) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [Add missing stage flag and use the latest image in the family for presubmit gpu job](https://github.com/kubernetes/test-infra/pull/32115) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
@@ -44,7 +44,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (6 months ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (6 months ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (8 months ago)
-- [knative/test-infra](https://github.com/knative/test-infra) - Test infrastructure for the Knative project (1 year ago)
+- [knative/test-infra](https://github.com/knative/test-infra) - Test infrastructure for the Knative project (2 years ago)
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need (2 years ago)
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider (2 years ago)
 - [chrismarcellino/lambda-ses-email-forwarder](https://github.com/chrismarcellino/lambda-ses-email-forwarder) - Minimalistic Python3 Amazon AWS Lambda/SES Email Forward with support for bouncing oversized messages, auto &#34;from&#34; addressing, and environment variable-based configuration (3 years ago)
