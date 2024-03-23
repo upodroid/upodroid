@@ -17,10 +17,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.12.9](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.12.9), 2 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.31](https://github.com/etcd-io/etcd/releases/tag/v3.4.31), 2 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.9](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.9), 3 days ago) - Alternate Kafka Broker implementation.
-- [containerd/containerd](https://github.com/containerd/containerd) ([v2.0.0-rc.0](https://github.com/containerd/containerd/releases/tag/v2.0.0-rc.0), 3 days ago) - An open and reliable container runtime
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.12.9](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.12.9), 3 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.31](https://github.com/etcd-io/etcd/releases/tag/v3.4.31), 3 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.9](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.9), 4 days ago) - Alternate Kafka Broker implementation.
+- [containerd/containerd](https://github.com/containerd/containerd) ([v2.0.0-rc.0](https://github.com/containerd/containerd/releases/tag/v2.0.0-rc.0), 4 days ago) - An open and reliable container runtime
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.29.0-beta.1), 1 week ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.12), 1 week ago) - Production-Grade Container Scheduling and Management
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.12.6](https://github.com/knative/eventing/releases/tag/knative-v1.12.6), 1 week ago) - Event-driven application platform for Kubernetes
