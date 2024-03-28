@@ -5,7 +5,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 #### 👷 Check out what I'm currently working on
 
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 weeks ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 weeks ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 weeks ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 month ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 month ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (2 months ago)
@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.0-rc.0), today) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.0-rc.0), 1 day ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.12.9](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.12.9), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.31](https://github.com/etcd-io/etcd/releases/tag/v3.4.31), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.12.9](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.12.9), 1 week ago) - Alternate Kafka Broker implementation.
@@ -31,16 +31,16 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 #### 🔨 My recent Pull Requests
 
 - [Fix canary kops k/k jobs](https://github.com/kubernetes/test-infra/pull/32254) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-- [disable calico in prow build clusters](https://github.com/kubernetes/k8s.io/pull/6543) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
+- [disable calico in prow build clusters](https://github.com/kubernetes/k8s.io/pull/6543) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 - [ensure memory requests/limits are reasonable](https://github.com/kubernetes/test-infra/pull/32175) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
 - [Switch to C3 machine types for prow build cluster](https://github.com/kubernetes/k8s.io/pull/6525) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 - [Revert &#34;Switch the T4 GPUs for the GPU tests&#34;](https://github.com/kubernetes/test-infra/pull/32147) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
-- [Add missing stage flag and use the latest image in the family for presubmit gpu job](https://github.com/kubernetes/test-infra/pull/32115) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
+- [Add missing stage flag and use the latest image in the family for presubmit gpu job](https://github.com/kubernetes/test-infra/pull/32115) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (6 months ago)
-- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (6 months ago)
+- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (7 months ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (7 months ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (9 months ago)
 - [knative/test-infra](https://github.com/knative/test-infra) - Test infrastructure for the Knative project (2 years ago)
