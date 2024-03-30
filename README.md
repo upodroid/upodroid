@@ -17,9 +17,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.13](https://github.com/etcd-io/etcd/releases/tag/v3.5.13), today) - Distributed reliable key-value store for the most critical data of a distributed system
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.13.7](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.13.7), 1 day ago) - Alternate Kafka Broker implementation.
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.0-rc.0), 2 days ago) - Production-Grade Container Scheduling and Management
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.13](https://github.com/etcd-io/etcd/releases/tag/v3.5.13), 1 day ago) - Distributed reliable key-value store for the most critical data of a distributed system
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.13.7](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.13.7), 2 days ago) - Alternate Kafka Broker implementation.
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.0-rc.0), 3 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.12.9](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.12.9), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v2.0.0-rc.0](https://github.com/containerd/containerd/releases/tag/v2.0.0-rc.0), 1 week ago) - An open and reliable container runtime
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.29.0-beta.1), 2 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
