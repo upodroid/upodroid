@@ -33,7 +33,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Fix canary kops k/k jobs](https://github.com/kubernetes/test-infra/pull/32254) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
 - [disable calico in prow build clusters](https://github.com/kubernetes/k8s.io/pull/6543) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [ensure memory requests/limits are reasonable](https://github.com/kubernetes/test-infra/pull/32175) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
-- [Switch to C3 machine types for prow build cluster](https://github.com/kubernetes/k8s.io/pull/6525) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 
 #### ⭐ Recent Stars
 
