@@ -30,7 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
-- [[WIP] move pkg and cmd to the root of the repo](https://github.com/kubernetes-sigs/prow/pull/101) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (today)
+- [move pkg, cmd &amp; test folders in inside prow to the root of the repo](https://github.com/kubernetes-sigs/prow/pull/101) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (today)
 - [Serve kube-rbac-proxy images from registry.k8s.io](https://github.com/kubernetes/k8s.io/pull/6690) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 
 #### ⭐ Recent Stars
