@@ -43,7 +43,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (9 months ago)
 - [knative/test-infra](https://github.com/knative/test-infra) - Test infrastructure for the Knative project (2 years ago)
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need (2 years ago)
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider (3 years ago)
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Provider for Google Cloud Platform (3 years ago)
 - [chrismarcellino/lambda-ses-email-forwarder](https://github.com/chrismarcellino/lambda-ses-email-forwarder) - Minimalistic Python3 Amazon AWS Lambda/SES Email Forward with support for bouncing oversized messages, auto &#34;from&#34; addressing, and environment variable-based configuration (3 years ago)
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (3 years ago)
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. (3 years ago)
