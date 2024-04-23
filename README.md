@@ -17,6 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.14.0](https://github.com/knative/eventing/releases/tag/knative-v1.14.0), today) - Event-driven application platform for Kubernetes
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.14.0](https://github.com/knative/serving/releases/tag/knative-v1.14.0), today) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.9](https://github.com/kubernetes/release/releases/tag/v0.16.9), today) - Release infrastructure for Kubernetes and related components
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.0), 6 days ago) - Production-Grade Container Scheduling and Management
@@ -25,7 +26,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.13](https://github.com/etcd-io/etcd/releases/tag/v3.5.13), 3 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.12.9](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.12.9), 1 month ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.29.0-beta.1), 1 month ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.12.6](https://github.com/knative/eventing/releases/tag/knative-v1.12.6), 1 month ago) - Event-driven application platform for Kubernetes
 - [knative-extensions/kn-plugin-operator](https://github.com/knative-extensions/kn-plugin-operator) ([knative-v1.13.0](https://github.com/knative-extensions/kn-plugin-operator/releases/tag/knative-v1.13.0), 2 months ago) - Kn plugin for managing Knative with Knative Operator.
 
 #### 🔨 My recent Pull Requests
