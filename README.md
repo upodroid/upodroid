@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Fix consistentimageexceptions](https://github.com/knative/infra/pull/412) on [knative/infra](https://github.com/knative/infra) (today)
 - [build images using cloudbuild](https://github.com/kubernetes-sigs/prow/pull/123) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (2 days ago)
 - [Bootstrap k8s-infra-prow GCP project](https://github.com/kubernetes/k8s.io/pull/6740) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [temporarily bump all releases images to fix cosign issues](https://github.com/knative/infra/pull/403) on [knative/infra](https://github.com/knative/infra) (1 week ago)
