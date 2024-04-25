@@ -35,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Bootstrap k8s-infra-prow GCP project](https://github.com/kubernetes/k8s.io/pull/6740) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [temporarily bump all releases images to fix cosign issues](https://github.com/knative/infra/pull/403) on [knative/infra](https://github.com/knative/infra) (1 week ago)
 - [Change the jobs testing prow with updated paths](https://github.com/kubernetes/test-infra/pull/32433) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-- [move pkg, cmd &amp; test folders in inside prow to the root of the repo](https://github.com/kubernetes-sigs/prow/pull/101) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
