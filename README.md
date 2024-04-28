@@ -4,6 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (today)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (5 days ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (1 week ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 weeks ago)
@@ -13,7 +14,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (3 months ago)
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (4 months ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (4 months ago)
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -23,10 +23,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.14.0](https://github.com/knative/eventing/releases/tag/knative-v1.14.0), 5 days ago) - Event-driven application platform for Kubernetes
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.14.0](https://github.com/knative/serving/releases/tag/knative-v1.14.0), 5 days ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.9](https://github.com/kubernetes/release/releases/tag/v0.16.9), 5 days ago) - Release infrastructure for Kubernetes and related components
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.16](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.16), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.13.8](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.13.8), 2 weeks ago) - Alternate Kafka Broker implementation.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.29.0-beta.1), 1 month ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.11.0](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.11.0), 3 months ago) - Interfaces and implementations for building Kubernetes releases.
 
 #### 🔨 My recent Pull Requests
 
