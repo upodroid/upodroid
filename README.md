@@ -17,6 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([v0.9.17](https://github.com/external-secrets/external-secrets/releases/tag/v0.9.17), today) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.14.0](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.14.0), 1 day ago) - Alternate Kafka Broker implementation.
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.13.4](https://github.com/knative/eventing/releases/tag/knative-v1.13.4), 1 day ago) - Event-driven application platform for Kubernetes
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.32](https://github.com/etcd-io/etcd/releases/tag/v3.4.32), 6 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -24,7 +25,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.8.22](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.8.22), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.14.0](https://github.com/knative/serving/releases/tag/knative-v1.14.0), 1 week ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.9](https://github.com/kubernetes/release/releases/tag/v0.16.9), 1 week ago) - Release infrastructure for Kubernetes and related components
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.16](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.16), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.0), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.29.0-beta.1), 1 month ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 
