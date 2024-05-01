@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([v0.9.17](https://github.com/external-secrets/external-secrets/releases/tag/v0.9.17), today) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.17](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.17), today) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.14.0](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.14.0), 1 day ago) - Alternate Kafka Broker implementation.
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.13.4](https://github.com/knative/eventing/releases/tag/knative-v1.13.4), 1 day ago) - Event-driven application platform for Kubernetes
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.32](https://github.com/etcd-io/etcd/releases/tag/v3.4.32), 6 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
