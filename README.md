@@ -33,7 +33,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Add support for specifying extra manifests via helm](https://github.com/external-secrets/external-secrets/pull/3421) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (5 days ago)
 - [Fix consistentimageexceptions](https://github.com/knative/infra/pull/412) on [knative/infra](https://github.com/knative/infra) (1 week ago)
 - [build images using cloudbuild](https://github.com/kubernetes-sigs/prow/pull/123) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (1 week ago)
-- [Bootstrap k8s-infra-prow GCP project](https://github.com/kubernetes/k8s.io/pull/6740) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
