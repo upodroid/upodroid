@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.14.1](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.14.1), today) - Alternate Kafka Broker implementation.
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.13.9](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.13.9), today) - Alternate Kafka Broker implementation.
 - [containerd/containerd](https://github.com/containerd/containerd) ([api/v1.8.0-rc.0](https://github.com/containerd/containerd/releases/tag/api/v1.8.0-rc.0), 1 day ago) - An open and reliable container runtime
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.17](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.17), 6 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.13.4](https://github.com/knative/eventing/releases/tag/knative-v1.13.4), 1 week ago) - Event-driven application platform for Kubernetes
