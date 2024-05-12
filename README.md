@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (1 week ago)
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (2 weeks ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (2 weeks ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (3 weeks ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 month ago)
@@ -17,10 +17,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.5](https://github.com/kubernetes/kops/releases/tag/v1.28.5), today) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.14.1](https://github.com/knative/eventing/releases/tag/knative-v1.14.1), 4 days ago) - Event-driven application platform for Kubernetes
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.13.9](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.13.9), 4 days ago) - Alternate Kafka Broker implementation.
-- [containerd/containerd](https://github.com/containerd/containerd) ([api/v1.8.0-rc.0](https://github.com/containerd/containerd/releases/tag/api/v1.8.0-rc.0), 5 days ago) - An open and reliable container runtime
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.5](https://github.com/kubernetes/kops/releases/tag/v1.28.5), 1 day ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.14.1](https://github.com/knative/eventing/releases/tag/knative-v1.14.1), 5 days ago) - Event-driven application platform for Kubernetes
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.13.9](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.13.9), 5 days ago) - Alternate Kafka Broker implementation.
+- [containerd/containerd](https://github.com/containerd/containerd) ([api/v1.8.0-rc.0](https://github.com/containerd/containerd/releases/tag/api/v1.8.0-rc.0), 6 days ago) - An open and reliable container runtime
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.17](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.17), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.32](https://github.com/etcd-io/etcd/releases/tag/v3.4.32), 2 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.8.22](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.8.22), 2 weeks ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
@@ -30,7 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
-- [Add support for specifying extra manifests via helm](https://github.com/external-secrets/external-secrets/pull/3421) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (1 week ago)
+- [Add support for specifying extra manifests via helm](https://github.com/external-secrets/external-secrets/pull/3421) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (2 weeks ago)
 - [Fix consistentimageexceptions](https://github.com/knative/infra/pull/412) on [knative/infra](https://github.com/knative/infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
