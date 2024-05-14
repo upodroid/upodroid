@@ -31,7 +31,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 #### 🔨 My recent Pull Requests
 
 - [Add support for specifying extra manifests via helm](https://github.com/external-secrets/external-secrets/pull/3421) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (2 weeks ago)
-- [Fix consistentimageexceptions](https://github.com/knative/infra/pull/412) on [knative/infra](https://github.com/knative/infra) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
