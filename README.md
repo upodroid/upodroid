@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Publish prow images to a new location](https://github.com/kubernetes/test-infra/pull/32615) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Add support for specifying extra manifests via helm](https://github.com/external-secrets/external-secrets/pull/3421) on [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) (2 weeks ago)
 
 #### ⭐ Recent Stars
