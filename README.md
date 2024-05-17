@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [containerd/containerd](https://github.com/containerd/containerd) ([v2.0.0-rc.2](https://github.com/containerd/containerd/releases/tag/v2.0.0-rc.2), today) - An open and reliable container runtime
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.30.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.30.0-alpha.1), today) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.17](https://github.com/containerd/containerd/releases/tag/v1.7.17), 1 day ago) - An open and reliable container runtime
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.14](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.14), 2 days ago) - Production-Grade Container Scheduling and Management
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.13.5](https://github.com/knative/eventing/releases/tag/knative-v1.13.5), 3 days ago) - Event-driven application platform for Kubernetes
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.14.2](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.14.2), 3 days ago) - Alternate Kafka Broker implementation.
