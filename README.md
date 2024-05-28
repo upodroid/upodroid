@@ -31,7 +31,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 #### 🔨 My recent Pull Requests
 
 - [fix typo in serviceaccount format](https://github.com/kubernetes-sigs/prow/pull/155) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (1 week ago)
-- [Publish prow images to a new location](https://github.com/kubernetes/test-infra/pull/32615) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
