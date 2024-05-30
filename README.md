@@ -17,10 +17,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [containerd/containerd](https://github.com/containerd/containerd) ([api/v1.8.0-rc.2](https://github.com/containerd/containerd/releases/tag/api/v1.8.0-rc.2), today) - An open and reliable container runtime
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.14](https://github.com/etcd-io/etcd/releases/tag/v3.5.14), today) - Distributed reliable key-value store for the most critical data of a distributed system
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.14.2](https://github.com/knative/eventing/releases/tag/knative-v1.14.2), 1 day ago) - Event-driven application platform for Kubernetes
-- [knative/serving](https://github.com/knative/serving) ([knative-v1.13.2](https://github.com/knative/serving/releases/tag/knative-v1.13.2), 1 day ago) - Kubernetes-based, scale-to-zero, request-driven compute
+- [containerd/containerd](https://github.com/containerd/containerd) ([api/v1.8.0-rc.2](https://github.com/containerd/containerd/releases/tag/api/v1.8.0-rc.2), 1 day ago) - An open and reliable container runtime
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.14](https://github.com/etcd-io/etcd/releases/tag/v3.5.14), 1 day ago) - Distributed reliable key-value store for the most critical data of a distributed system
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.14.2](https://github.com/knative/eventing/releases/tag/knative-v1.14.2), 2 days ago) - Event-driven application platform for Kubernetes
+- [knative/serving](https://github.com/knative/serving) ([knative-v1.13.2](https://github.com/knative/serving/releases/tag/knative-v1.13.2), 2 days ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.11.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.11.1), 1 week ago) - Interfaces and implementations for building Kubernetes releases.
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.14.3](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.14.3), 1 week ago) - Alternate Kafka Broker implementation.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.30.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.30.0-alpha.1), 1 week ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
