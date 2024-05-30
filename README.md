@@ -17,6 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v999.2.0](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v999.2.0), today) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [containerd/containerd](https://github.com/containerd/containerd) ([api/v1.8.0-rc.2](https://github.com/containerd/containerd/releases/tag/api/v1.8.0-rc.2), 1 day ago) - An open and reliable container runtime
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.14](https://github.com/etcd-io/etcd/releases/tag/v3.5.14), 1 day ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.14.2](https://github.com/knative/eventing/releases/tag/knative-v1.14.2), 2 days ago) - Event-driven application platform for Kubernetes
@@ -26,7 +27,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.30.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.30.0-alpha.1), 1 week ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.14](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.14), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.18](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.18), 2 weeks ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.8.22](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.8.22), 1 month ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 
 #### 🔨 My recent Pull Requests
 
