@@ -17,12 +17,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.14.4](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.14.4), today) - Alternate Kafka Broker implementation.
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v999.2.0](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v999.2.0), 1 day ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [containerd/containerd](https://github.com/containerd/containerd) ([api/v1.8.0-rc.2](https://github.com/containerd/containerd/releases/tag/api/v1.8.0-rc.2), 2 days ago) - An open and reliable container runtime
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.14](https://github.com/etcd-io/etcd/releases/tag/v3.5.14), 2 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.14.2](https://github.com/knative/eventing/releases/tag/knative-v1.14.2), 3 days ago) - Event-driven application platform for Kubernetes
-- [knative/serving](https://github.com/knative/serving) ([knative-v1.13.2](https://github.com/knative/serving/releases/tag/knative-v1.13.2), 3 days ago) - Kubernetes-based, scale-to-zero, request-driven compute
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.14.4](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.14.4), 1 day ago) - Alternate Kafka Broker implementation.
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v999.2.0](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v999.2.0), 2 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
+- [containerd/containerd](https://github.com/containerd/containerd) ([api/v1.8.0-rc.2](https://github.com/containerd/containerd/releases/tag/api/v1.8.0-rc.2), 3 days ago) - An open and reliable container runtime
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.14](https://github.com/etcd-io/etcd/releases/tag/v3.5.14), 3 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.14.2](https://github.com/knative/eventing/releases/tag/knative-v1.14.2), 4 days ago) - Event-driven application platform for Kubernetes
+- [knative/serving](https://github.com/knative/serving) ([knative-v1.13.2](https://github.com/knative/serving/releases/tag/knative-v1.13.2), 4 days ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.11.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.11.1), 1 week ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.30.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.30.0-alpha.1), 2 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.14](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.14), 2 weeks ago) - Production-Grade Container Scheduling and Management
@@ -34,7 +34,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### ⭐ Recent Stars
 
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (8 months ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (9 months ago)
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (9 months ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (9 months ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (11 months ago)
