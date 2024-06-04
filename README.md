@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.14.4](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.14.4), 4 days ago) - Alternate Kafka Broker implementation.
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.13.10](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.13.10), today) - Alternate Kafka Broker implementation.
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v999.2.0](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v999.2.0), 5 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [containerd/containerd](https://github.com/containerd/containerd) ([api/v1.8.0-rc.2](https://github.com/containerd/containerd/releases/tag/api/v1.8.0-rc.2), 6 days ago) - An open and reliable container runtime
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.14](https://github.com/etcd-io/etcd/releases/tag/v3.5.14), 6 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
