@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [containerd/containerd](https://github.com/containerd/containerd) ([v1.6.33](https://github.com/containerd/containerd/releases/tag/v1.6.33), today) - An open and reliable container runtime
+- [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.18](https://github.com/containerd/containerd/releases/tag/v1.7.18), today) - An open and reliable container runtime
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.19](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.19), 1 day ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.13.10](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.13.10), 1 day ago) - Alternate Kafka Broker implementation.
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v999.2.0](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v999.2.0), 6 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
