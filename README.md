@@ -31,7 +31,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 #### 🔨 My recent Pull Requests
 
 - [add verification txt record for etcd.io](https://github.com/kubernetes/k8s.io/pull/6864) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
-- [fix typo in serviceaccount format](https://github.com/kubernetes-sigs/prow/pull/155) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
