@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.6](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.6), today) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.2), today) - Production-Grade Container Scheduling and Management
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.14.5](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.14.5), 1 day ago) - Alternate Kafka Broker implementation.
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v999.2.1](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v999.2.1), 2 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.0](https://github.com/kubernetes/release/releases/tag/v0.17.0), 2 days ago) - Release infrastructure for Kubernetes and related components
