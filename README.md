@@ -17,13 +17,13 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [containerd/containerd](https://github.com/containerd/containerd) ([v2.0.0-rc.3](https://github.com/containerd/containerd/releases/tag/v2.0.0-rc.3), today) - An open and reliable container runtime
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.14.0](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.14.0), 1 day ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.33](https://github.com/etcd-io/etcd/releases/tag/v3.4.33), 1 day ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.0-alpha.1), 2 days ago) - Production-Grade Container Scheduling and Management
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.14.5](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.14.5), 3 days ago) - Alternate Kafka Broker implementation.
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.0](https://github.com/kubernetes/release/releases/tag/v0.17.0), 4 days ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.0](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.0), 4 days ago) - Interfaces and implementations for building Kubernetes releases.
-- [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.18](https://github.com/containerd/containerd/releases/tag/v1.7.18), 1 week ago) - An open and reliable container runtime
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.19](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.19), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.14.2](https://github.com/knative/eventing/releases/tag/knative-v1.14.2), 2 weeks ago) - Event-driven application platform for Kubernetes
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.13.2](https://github.com/knative/serving/releases/tag/knative-v1.13.2), 2 weeks ago) - Kubernetes-based, scale-to-zero, request-driven compute
