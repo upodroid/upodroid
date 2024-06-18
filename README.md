@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.13.6](https://github.com/knative/eventing/releases/tag/knative-v1.13.6), today) - Event-driven application platform for Kubernetes
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.14.3](https://github.com/knative/eventing/releases/tag/knative-v1.14.3), today) - Event-driven application platform for Kubernetes
 - [containerd/containerd](https://github.com/containerd/containerd) ([v2.0.0-rc.3](https://github.com/containerd/containerd/releases/tag/v2.0.0-rc.3), 4 days ago) - An open and reliable container runtime
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.14.0](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.14.0), 5 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.33](https://github.com/etcd-io/etcd/releases/tag/v3.4.33), 5 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
