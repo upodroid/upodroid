@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (today)
+- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 day ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 weeks ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (1 month ago)
@@ -17,16 +17,16 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.19](https://github.com/containerd/containerd/releases/tag/v1.7.19), 1 day ago) - An open and reliable container runtime
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.0-alpha.3), 1 day ago) - Production-Grade Container Scheduling and Management
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.13.7](https://github.com/knative/eventing/releases/tag/knative-v1.13.7), 1 day ago) - Event-driven application platform for Kubernetes
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.14.6](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.14.6), 1 day ago) - Alternate Kafka Broker implementation.
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.10.18](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.10.18), 2 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.1](https://github.com/kubernetes/release/releases/tag/v0.17.1), 2 days ago) - Release infrastructure for Kubernetes and related components
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.1), 2 days ago) - Interfaces and implementations for building Kubernetes releases.
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.30.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.30.0-beta.1), 5 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.33](https://github.com/etcd-io/etcd/releases/tag/v3.4.33), 2 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.19](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.19), 4 weeks ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.19](https://github.com/containerd/containerd/releases/tag/v1.7.19), 2 days ago) - An open and reliable container runtime
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.0-alpha.3), 2 days ago) - Production-Grade Container Scheduling and Management
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.13.7](https://github.com/knative/eventing/releases/tag/knative-v1.13.7), 2 days ago) - Event-driven application platform for Kubernetes
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.14.6](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.14.6), 2 days ago) - Alternate Kafka Broker implementation.
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.10.18](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.10.18), 3 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
+- [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.1](https://github.com/kubernetes/release/releases/tag/v0.17.1), 3 days ago) - Release infrastructure for Kubernetes and related components
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.1), 3 days ago) - Interfaces and implementations for building Kubernetes releases.
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.30.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.30.0-beta.1), 6 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.33](https://github.com/etcd-io/etcd/releases/tag/v3.4.33), 3 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.19](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.19), 1 month ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 
 #### 🔨 My recent Pull Requests
 
@@ -34,7 +34,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [migrate etcd-manager to AR](https://github.com/kubernetes/k8s.io/pull/6906) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [Migrate etcd-manager to Artifact Registry](https://github.com/kubernetes/test-infra/pull/32784) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [Deploy new k8s-staging-images project](https://github.com/kubernetes/k8s.io/pull/6905) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
-- [add verification txt record for etcd.io](https://github.com/kubernetes/k8s.io/pull/6864) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 weeks ago)
+- [add verification txt record for etcd.io](https://github.com/kubernetes/k8s.io/pull/6864) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 
 #### ⭐ Recent Stars
 
