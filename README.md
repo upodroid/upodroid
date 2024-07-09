@@ -17,11 +17,11 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.14.7](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.14.7), today) - Alternate Kafka Broker implementation.
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.20](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.20), 3 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.19](https://github.com/containerd/containerd/releases/tag/v1.7.19), 1 week ago) - An open and reliable container runtime
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.0-alpha.3), 1 week ago) - Production-Grade Container Scheduling and Management
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.13.7](https://github.com/knative/eventing/releases/tag/knative-v1.13.7), 1 week ago) - Event-driven application platform for Kubernetes
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.14.6](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.14.6), 1 week ago) - Alternate Kafka Broker implementation.
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.10.18](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.10.18), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.1](https://github.com/kubernetes/release/releases/tag/v0.17.1), 1 week ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.1), 1 week ago) - Interfaces and implementations for building Kubernetes releases.
