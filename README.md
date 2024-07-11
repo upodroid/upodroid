@@ -35,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Create nfd codecov token secret](https://github.com/kubernetes/k8s.io/pull/6948) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [Provision charts staging repository](https://github.com/kubernetes/k8s.io/pull/6910) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [migrate etcd-manager to AR](https://github.com/kubernetes/k8s.io/pull/6906) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
-- [Migrate etcd-manager to Artifact Registry](https://github.com/kubernetes/test-infra/pull/32784) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
