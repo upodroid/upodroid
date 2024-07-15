@@ -30,7 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
-- [Migrate capi digitalocean creds to community cluster](https://github.com/kubernetes/k8s.io/pull/6967) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
+- [Migrate capi/kops digitalocean creds to community cluster](https://github.com/kubernetes/k8s.io/pull/6967) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [use the latest version of 1.22 golang](https://github.com/kubernetes/kops/pull/16660) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 - [Create nfd codecov token secret](https://github.com/kubernetes/k8s.io/pull/6948) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [Provision charts staging repository](https://github.com/kubernetes/k8s.io/pull/6910) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
