@@ -17,12 +17,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [containerd/containerd](https://github.com/containerd/containerd) ([v1.6.34](https://github.com/containerd/containerd/releases/tag/v1.6.34), today) - An open and reliable container runtime
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v999.2.3](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v999.2.3), 1 day ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.16](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.16), 1 day ago) - Production-Grade Container Scheduling and Management
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.14.5](https://github.com/knative/eventing/releases/tag/knative-v1.14.5), 2 days ago) - Event-driven application platform for Kubernetes
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.13.11](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.13.11), 1 week ago) - Alternate Kafka Broker implementation.
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.20](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.20), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.19](https://github.com/containerd/containerd/releases/tag/v1.7.19), 2 weeks ago) - An open and reliable container runtime
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.1](https://github.com/kubernetes/release/releases/tag/v0.17.1), 2 weeks ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.1), 2 weeks ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.30.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.30.0-beta.1), 2 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
