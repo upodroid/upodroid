@@ -33,7 +33,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Update kops-ci references](https://github.com/kubernetes/test-infra/pull/33077) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [run cloudbuild job for kueue in k8s-staging-images](https://github.com/kubernetes/test-infra/pull/33034) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [configure kueue to promote from AR instead of GCR](https://github.com/kubernetes/k8s.io/pull/7033) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [migrate capi digitalocean jobs to community cluster](https://github.com/kubernetes/test-infra/pull/32992) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
