@@ -17,10 +17,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.2](https://github.com/kubernetes/kops/releases/tag/v1.29.2), today) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.15.0](https://github.com/knative/eventing/releases/tag/knative-v1.15.0), 1 day ago) - Event-driven application platform for Kubernetes
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.15.0](https://github.com/knative/serving/releases/tag/knative-v1.15.0), 1 day ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.2](https://github.com/kubernetes/release/releases/tag/v0.17.2), 1 day ago) - Release infrastructure for Kubernetes and related components
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.28.7](https://github.com/kubernetes/kops/releases/tag/v1.28.7), 3 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.15](https://github.com/etcd-io/etcd/releases/tag/v3.5.15), 5 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v999.2.4](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v999.2.4), 6 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.20](https://github.com/containerd/containerd/releases/tag/v1.7.20), 6 days ago) - An open and reliable container runtime
