@@ -24,12 +24,13 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.2](https://github.com/kubernetes/release/releases/tag/v0.17.2), 2 days ago) - Release infrastructure for Kubernetes and related components
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.15](https://github.com/etcd-io/etcd/releases/tag/v3.5.15), 6 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v999.2.4](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v999.2.4), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [containerd/containerd](https://github.com/containerd/containerd) ([v1.7.20](https://github.com/containerd/containerd/releases/tag/v1.7.20), 1 week ago) - An open and reliable container runtime
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.16](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.16), 1 week ago) - Production-Grade Container Scheduling and Management
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.20](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.20), 2 weeks ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.1), 3 weeks ago) - Interfaces and implementations for building Kubernetes releases.
 
 #### 🔨 My recent Pull Requests
 
+- [create secrets-store-sync staging image registry](https://github.com/kubernetes/k8s.io/pull/7071) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Update kops-ci references](https://github.com/kubernetes/test-infra/pull/33077) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [run cloudbuild job for kueue in k8s-staging-images](https://github.com/kubernetes/test-infra/pull/33034) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [configure kueue to promote from AR instead of GCR](https://github.com/kubernetes/k8s.io/pull/7033) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
