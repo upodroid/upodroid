@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 days ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (6 days ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (3 weeks ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (2 months ago)
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (2 months ago)
@@ -17,12 +17,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.15.0](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.15.0), today) - Alternate Kafka Broker implementation.
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.2](https://github.com/kubernetes/kops/releases/tag/v1.29.2), 1 day ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.15.0](https://github.com/knative/eventing/releases/tag/knative-v1.15.0), 2 days ago) - Event-driven application platform for Kubernetes
-- [knative/serving](https://github.com/knative/serving) ([knative-v1.15.0](https://github.com/knative/serving/releases/tag/knative-v1.15.0), 2 days ago) - Kubernetes-based, scale-to-zero, request-driven compute
-- [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.2](https://github.com/kubernetes/release/releases/tag/v0.17.2), 2 days ago) - Release infrastructure for Kubernetes and related components
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.15](https://github.com/etcd-io/etcd/releases/tag/v3.5.15), 6 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.15.0](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.15.0), 1 day ago) - Alternate Kafka Broker implementation.
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.2](https://github.com/kubernetes/kops/releases/tag/v1.29.2), 2 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [knative/eventing](https://github.com/knative/eventing) ([knative-v1.15.0](https://github.com/knative/eventing/releases/tag/knative-v1.15.0), 3 days ago) - Event-driven application platform for Kubernetes
+- [knative/serving](https://github.com/knative/serving) ([knative-v1.15.0](https://github.com/knative/serving/releases/tag/knative-v1.15.0), 3 days ago) - Kubernetes-based, scale-to-zero, request-driven compute
+- [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.2](https://github.com/kubernetes/release/releases/tag/v0.17.2), 3 days ago) - Release infrastructure for Kubernetes and related components
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.15](https://github.com/etcd-io/etcd/releases/tag/v3.5.15), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v999.2.4](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v999.2.4), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.16](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.16), 1 week ago) - Production-Grade Container Scheduling and Management
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.20](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.20), 2 weeks ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
@@ -30,15 +30,15 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
-- [create secrets-store-sync staging image registry](https://github.com/kubernetes/k8s.io/pull/7071) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
-- [Update kops-ci references](https://github.com/kubernetes/test-infra/pull/33077) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
-- [run cloudbuild job for kueue in k8s-staging-images](https://github.com/kubernetes/test-infra/pull/33034) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [configure kueue to promote from AR instead of GCR](https://github.com/kubernetes/k8s.io/pull/7033) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
+- [create secrets-store-sync staging image registry](https://github.com/kubernetes/k8s.io/pull/7071) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
+- [Update kops-ci references](https://github.com/kubernetes/test-infra/pull/33077) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
+- [run cloudbuild job for kueue in k8s-staging-images](https://github.com/kubernetes/test-infra/pull/33034) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
+- [configure kueue to promote from AR instead of GCR](https://github.com/kubernetes/k8s.io/pull/7033) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (10 months ago)
-- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (10 months ago)
+- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (11 months ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (11 months ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 year ago)
 - [knative/test-infra](https://github.com/knative/test-infra) - Test infrastructure for the Knative project (2 years ago)
