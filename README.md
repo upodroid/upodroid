@@ -4,37 +4,38 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (today)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
+- [knative/hack](https://github.com/knative/hack) - Knative common scripts. (today)
+- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 day ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (4 days ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
-- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (4 weeks ago)
+- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 month ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (2 months ago)
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (3 months ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (6 months ago)
-- [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (6 months ago)
+- [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (7 months ago)
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (7 months ago)
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [knative/serving](https://github.com/knative/serving) ([knative-v1.15.1](https://github.com/knative/serving/releases/tag/knative-v1.15.1), today) - Kubernetes-based, scale-to-zero, request-driven compute
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.0-rc.0), 1 day ago) - Production-Grade Container Scheduling and Management
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v999.2.5](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v999.2.5), 2 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.14.8](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.14.8), 2 days ago) - Alternate Kafka Broker implementation.
+- [knative/serving](https://github.com/knative/serving) ([knative-v1.15.1](https://github.com/knative/serving/releases/tag/knative-v1.15.1), 1 day ago) - Kubernetes-based, scale-to-zero, request-driven compute
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.0-rc.0), 2 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v999.2.5](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v999.2.5), 3 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
+- [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.14.8](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.14.8), 3 days ago) - Alternate Kafka Broker implementation.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.29.2](https://github.com/kubernetes/kops/releases/tag/v1.29.2), 1 week ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.15.0](https://github.com/knative/eventing/releases/tag/knative-v1.15.0), 1 week ago) - Event-driven application platform for Kubernetes
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.2](https://github.com/kubernetes/release/releases/tag/v0.17.2), 1 week ago) - Release infrastructure for Kubernetes and related components
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.15](https://github.com/etcd-io/etcd/releases/tag/v3.5.15), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.15](https://github.com/etcd-io/etcd/releases/tag/v3.5.15), 2 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.20](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.20), 3 weeks ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.1), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 
 #### 🔨 My recent Pull Requests
 
-- [reduce job frequencies for release branches and serving e2e&#39;s](https://github.com/knative/infra/pull/494) on [knative/infra](https://github.com/knative/infra) (today)
+- [Use a dedicated kubernetes service account for azure jobs](https://github.com/kubernetes/k8s.io/pull/7117) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
+- [Remove geo replication for GCR](https://github.com/knative/hack/pull/389) on [knative/hack](https://github.com/knative/hack) (1 day ago)
+- [reduce job frequencies for release branches and serving e2e&#39;s](https://github.com/knative/infra/pull/494) on [knative/infra](https://github.com/knative/infra) (1 day ago)
 - [create secrets-store-sync staging image registry](https://github.com/kubernetes/k8s.io/pull/7071) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [Update kops-ci references](https://github.com/kubernetes/test-infra/pull/33077) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [run cloudbuild job for kueue in k8s-staging-images](https://github.com/kubernetes/test-infra/pull/33034) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [configure kueue to promote from AR instead of GCR](https://github.com/kubernetes/k8s.io/pull/7033) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
+- [run cloudbuild job for kueue in k8s-staging-images](https://github.com/kubernetes/test-infra/pull/33034) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
