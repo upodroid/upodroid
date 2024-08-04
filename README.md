@@ -30,12 +30,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Configure a dedicated service account for Azure Jobs](https://github.com/kubernetes/test-infra/pull/33216) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Use a dedicated kubernetes service account for azure jobs](https://github.com/kubernetes/k8s.io/pull/7117) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [Remove geo replication for GCR](https://github.com/knative/hack/pull/389) on [knative/hack](https://github.com/knative/hack) (3 days ago)
 - [reduce job frequencies for release branches and serving e2e&#39;s](https://github.com/knative/infra/pull/494) on [knative/infra](https://github.com/knative/infra) (3 days ago)
 - [create secrets-store-sync staging image registry](https://github.com/kubernetes/k8s.io/pull/7071) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [Update kops-ci references](https://github.com/kubernetes/test-infra/pull/33077) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [run cloudbuild job for kueue in k8s-staging-images](https://github.com/kubernetes/test-infra/pull/33034) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
