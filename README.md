@@ -30,6 +30,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [[WIP] deploy prow to k8s-infra-prow cluster](https://github.com/kubernetes/k8s.io/pull/7128) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
+- [[WIP] Bootstrap the new clusters in k8s-infra-prow project.](https://github.com/kubernetes/k8s.io/pull/7127) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [install az &amp; aws clis in the kubekins e2e image](https://github.com/kubernetes/test-infra/pull/33225) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Create an initial set of arm64 etcd jobs](https://github.com/kubernetes/test-infra/pull/33224) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Deploy arm64 nodepool on the GKE Build Cluster](https://github.com/kubernetes/k8s.io/pull/7123) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
@@ -38,7 +40,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Configure a dedicated service account for Azure Jobs](https://github.com/kubernetes/test-infra/pull/33216) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Use a dedicated kubernetes service account for azure jobs](https://github.com/kubernetes/k8s.io/pull/7117) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [Remove geo replication for GCR](https://github.com/knative/hack/pull/389) on [knative/hack](https://github.com/knative/hack) (4 days ago)
-- [reduce job frequencies for release branches and serving e2e&#39;s](https://github.com/knative/infra/pull/494) on [knative/infra](https://github.com/knative/infra) (4 days ago)
 
 #### ⭐ Recent Stars
 
