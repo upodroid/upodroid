@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [install az &amp; aws clis in the kubekins e2e image](https://github.com/kubernetes/test-infra/pull/33225) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Create an initial set of arm64 etcd jobs](https://github.com/kubernetes/test-infra/pull/33224) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Deploy arm64 nodepool on the GKE Build Cluster](https://github.com/kubernetes/k8s.io/pull/7123) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [podutils: Add scheduling options do decoration config](https://github.com/kubernetes-sigs/prow/pull/219) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (today)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Use a dedicated kubernetes service account for azure jobs](https://github.com/kubernetes/k8s.io/pull/7117) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [Remove geo replication for GCR](https://github.com/knative/hack/pull/389) on [knative/hack](https://github.com/knative/hack) (4 days ago)
 - [reduce job frequencies for release branches and serving e2e&#39;s](https://github.com/knative/infra/pull/494) on [knative/infra](https://github.com/knative/infra) (4 days ago)
-- [create secrets-store-sync staging image registry](https://github.com/kubernetes/k8s.io/pull/7071) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
