@@ -38,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Deploy arm64 nodepool on the GKE Build Cluster](https://github.com/kubernetes/k8s.io/pull/7123) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [podutils: Add scheduling options do decoration config](https://github.com/kubernetes-sigs/prow/pull/219) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (5 days ago)
 - [delete grandmatriach](https://github.com/kubernetes-sigs/prow/pull/218) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (5 days ago)
-- [Configure a dedicated service account for Azure Jobs](https://github.com/kubernetes/test-infra/pull/33216) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 
 #### ⭐ Recent Stars
 
