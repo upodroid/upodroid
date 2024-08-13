@@ -36,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [[WIP] Bootstrap the new clusters in k8s-infra-prow project.](https://github.com/kubernetes/k8s.io/pull/7127) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [install az &amp; aws clis in the kubekins e2e image](https://github.com/kubernetes/test-infra/pull/33225) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Create an initial set of arm64 etcd jobs](https://github.com/kubernetes/test-infra/pull/33224) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [Deploy arm64 nodepool on the GKE Build Cluster](https://github.com/kubernetes/k8s.io/pull/7123) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
