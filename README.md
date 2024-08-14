@@ -30,11 +30,11 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [use 4 replicas for boskos janitor](https://github.com/knative/infra/pull/505) on [knative/infra](https://github.com/knative/infra) (today)
+- [Tag images using ko](https://github.com/knative/hack/pull/393) on [knative/hack](https://github.com/knative/hack) (today)
 - [Optimise GCP cloud spend](https://github.com/knative/infra/pull/503) on [knative/infra](https://github.com/knative/infra) (2 days ago)
 - [[WIP] deploy prow to k8s-infra-prow cluster](https://github.com/kubernetes/k8s.io/pull/7141) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [[WIP] deploy prow to k8s-infra-prow cluster](https://github.com/kubernetes/k8s.io/pull/7128) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [[WIP] Bootstrap the new clusters in k8s-infra-prow project.](https://github.com/kubernetes/k8s.io/pull/7127) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [install az &amp; aws clis in the kubekins e2e image](https://github.com/kubernetes/test-infra/pull/33225) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
