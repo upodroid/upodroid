@@ -34,7 +34,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Tag images using ko](https://github.com/knative/hack/pull/393) on [knative/hack](https://github.com/knative/hack) (1 day ago)
 - [Optimise GCP cloud spend](https://github.com/knative/infra/pull/503) on [knative/infra](https://github.com/knative/infra) (3 days ago)
 - [[WIP] deploy prow to k8s-infra-prow cluster](https://github.com/kubernetes/k8s.io/pull/7141) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [[WIP] deploy prow to k8s-infra-prow cluster](https://github.com/kubernetes/k8s.io/pull/7128) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
