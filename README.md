@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.13.7](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.13.7), today) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.13), today) - Production-Grade Container Scheduling and Management
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.13.7-rc1](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.13.7-rc1), 1 day ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [knative/serving](https://github.com/knative/serving) ([knative-v1.15.2](https://github.com/knative/serving/releases/tag/knative-v1.15.2), 1 week ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) ([knative-v1.15.1](https://github.com/knative-extensions/eventing-kafka-broker/releases/tag/knative-v1.15.1), 1 week ago) - Alternate Kafka Broker implementation.
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.0](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.0), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
