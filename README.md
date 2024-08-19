@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (4 days ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [knative/hack](https://github.com/knative/hack) - Knative common scripts. (5 days ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (5 days ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (2 weeks ago)
@@ -30,10 +30,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Create hooks.prow.k8s.io endpoint for GitHub events](https://github.com/kubernetes/k8s.io/pull/7193) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [use 4 replicas for boskos janitor](https://github.com/knative/infra/pull/505) on [knative/infra](https://github.com/knative/infra) (5 days ago)
 - [Tag images using ko](https://github.com/knative/hack/pull/393) on [knative/hack](https://github.com/knative/hack) (5 days ago)
 - [Optimise GCP cloud spend](https://github.com/knative/infra/pull/503) on [knative/infra](https://github.com/knative/infra) (1 week ago)
-- [deploy prow to k8s-infra-prow cluster](https://github.com/kubernetes/k8s.io/pull/7141) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
