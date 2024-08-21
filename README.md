@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [add the new community prow bucket to gcsweb](https://github.com/kubernetes/k8s.io/pull/7207) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Use the new prow endpoint](https://github.com/kubernetes/k8s.io/pull/7206) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [[WIP] Create infra required for PR](https://github.com/kubernetes/k8s.io/pull/7205) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [delete hmac reconcile job](https://github.com/kubernetes/test-infra/pull/33349) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
