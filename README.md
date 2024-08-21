@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [delete hmac reconcile job](https://github.com/kubernetes/test-infra/pull/33349) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Use easyrsa from Github](https://github.com/kubernetes/kubernetes/pull/126798) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [Create prow certificates](https://github.com/kubernetes/k8s.io/pull/7194) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [Create hooks.prow.k8s.io endpoint for GitHub events](https://github.com/kubernetes/k8s.io/pull/7193) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
