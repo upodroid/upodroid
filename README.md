@@ -30,6 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Use the new prow endpoint](https://github.com/kubernetes/k8s.io/pull/7206) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [[WIP] Create infra required for PR](https://github.com/kubernetes/k8s.io/pull/7205) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [delete hmac reconcile job](https://github.com/kubernetes/test-infra/pull/33349) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Use easyrsa from Github](https://github.com/kubernetes/kubernetes/pull/126798) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Create hooks.prow.k8s.io endpoint for GitHub events](https://github.com/kubernetes/k8s.io/pull/7193) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [use 4 replicas for boskos janitor](https://github.com/knative/infra/pull/505) on [knative/infra](https://github.com/knative/infra) (1 week ago)
 - [Tag images using ko](https://github.com/knative/hack/pull/393) on [knative/hack](https://github.com/knative/hack) (1 week ago)
-- [Optimise GCP cloud spend](https://github.com/knative/infra/pull/503) on [knative/infra](https://github.com/knative/infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
