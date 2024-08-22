@@ -32,7 +32,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 - [add the new community prow bucket to gcsweb](https://github.com/kubernetes/k8s.io/pull/7207) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [Use the new prow endpoint](https://github.com/kubernetes/k8s.io/pull/7206) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
-- [[WIP] Create infra required for PR](https://github.com/kubernetes/k8s.io/pull/7205) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
+- [[WIP] Create infra required for prow](https://github.com/kubernetes/k8s.io/pull/7205) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [delete hmac reconcile job](https://github.com/kubernetes/test-infra/pull/33349) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Use easyrsa from Github](https://github.com/kubernetes/kubernetes/pull/126798) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 - [Create prow certificates](https://github.com/kubernetes/k8s.io/pull/7194) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
