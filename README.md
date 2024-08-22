@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
 - [knative/hack](https://github.com/knative/hack) - Knative common scripts. (1 week ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 week ago)
@@ -21,7 +21,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.30.0](https://github.com/kubernetes/kops/releases/tag/v1.30.0), 6 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.13.7](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.13.7), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.13), 1 week ago) - Production-Grade Container Scheduling and Management
-- [knative/serving](https://github.com/knative/serving) ([knative-v1.15.2](https://github.com/knative/serving/releases/tag/knative-v1.15.2), 2 weeks ago) - Kubernetes-based, scale-to-zero, request-driven compute
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.0](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.0), 2 weeks ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [knative/eventing](https://github.com/knative/eventing) ([knative-v1.15.0](https://github.com/knative/eventing/releases/tag/knative-v1.15.0), 1 month ago) - Event-driven application platform for Kubernetes
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.2](https://github.com/kubernetes/release/releases/tag/v0.17.2), 1 month ago) - Release infrastructure for Kubernetes and related components
@@ -30,6 +29,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [delete pushgateway and update prow announcement](https://github.com/kubernetes/test-infra/pull/33359) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [Enable autosync for prow control plane](https://github.com/kubernetes/k8s.io/pull/7211) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [add the new community prow bucket to gcsweb](https://github.com/kubernetes/k8s.io/pull/7207) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [Use the new prow endpoint](https://github.com/kubernetes/k8s.io/pull/7206) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [[WIP] Create infra required for prow](https://github.com/kubernetes/k8s.io/pull/7205) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -37,8 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Use easyrsa from Github](https://github.com/kubernetes/kubernetes/pull/126798) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 - [Create prow certificates](https://github.com/kubernetes/k8s.io/pull/7194) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [Create hooks.prow.k8s.io endpoint for GitHub events](https://github.com/kubernetes/k8s.io/pull/7193) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
-- [use 4 replicas for boskos janitor](https://github.com/knative/infra/pull/505) on [knative/infra](https://github.com/knative/infra) (1 week ago)
-- [Tag images using ko](https://github.com/knative/hack/pull/393) on [knative/hack](https://github.com/knative/hack) (1 week ago)
 
 #### ⭐ Recent Stars
 
