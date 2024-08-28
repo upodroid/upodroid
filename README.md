@@ -29,9 +29,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Start autobumping Community Prow](https://github.com/kubernetes/k8s.io/pull/7231) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
+- [create staging image registries for vsphere-csi](https://github.com/kubernetes/k8s.io/pull/7230) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Manage the gke build cluster via argocd - part one](https://github.com/kubernetes/k8s.io/pull/7218) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [delete pushgateway and update prow announcement](https://github.com/kubernetes/test-infra/pull/33359) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [Enable autosync for prow control plane](https://github.com/kubernetes/k8s.io/pull/7211) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 
 #### ⭐ Recent Stars
 
