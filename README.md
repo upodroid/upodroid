@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (2 weeks ago)
 - [knative/hack](https://github.com/knative/hack) - Knative common scripts. (2 weeks ago)
@@ -17,24 +17,24 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.2](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.2), 1 day ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.30.0](https://github.com/kubernetes/kops/releases/tag/v1.30.0), 1 week ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.2](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.2), 2 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.30.0](https://github.com/kubernetes/kops/releases/tag/v1.30.0), 2 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.13.7](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.13.7), 2 weeks ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.13), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.2](https://github.com/kubernetes/release/releases/tag/v0.17.2), 1 month ago) - Release infrastructure for Kubernetes and related components
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.15](https://github.com/etcd-io/etcd/releases/tag/v3.5.15), 1 month ago) - Distributed reliable key-value store for the most critical data of a distributed system
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.1), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.1), 2 months ago) - Interfaces and implementations for building Kubernetes releases.
 
 #### 🔨 My recent Pull Requests
 
-- [fix boskos deployment typos](https://github.com/kubernetes/k8s.io/pull/7233) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
-- [Start autobumping Community Prow](https://github.com/kubernetes/k8s.io/pull/7231) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
-- [create staging image registries for vsphere-csi](https://github.com/kubernetes/k8s.io/pull/7230) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
-- [Manage the gke build cluster via argocd - part one](https://github.com/kubernetes/k8s.io/pull/7218) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
+- [fix boskos deployment typos](https://github.com/kubernetes/k8s.io/pull/7233) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
+- [Start autobumping Community Prow](https://github.com/kubernetes/k8s.io/pull/7231) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
+- [create staging image registries for vsphere-csi](https://github.com/kubernetes/k8s.io/pull/7230) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
+- [Manage the gke build cluster via argocd - part one](https://github.com/kubernetes/k8s.io/pull/7218) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (11 months ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 year ago)
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (1 year ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (1 year ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 year ago)
