@@ -31,7 +31,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [fix boskos deployment typos](https://github.com/kubernetes/k8s.io/pull/7233) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [Start autobumping Community Prow](https://github.com/kubernetes/k8s.io/pull/7231) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [create staging image registries for vsphere-csi](https://github.com/kubernetes/k8s.io/pull/7230) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
-- [Manage the gke build cluster via argocd - part one](https://github.com/kubernetes/k8s.io/pull/7218) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
