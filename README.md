@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.4](https://github.com/kubernetes/release/releases/tag/v0.17.4), today) - Release infrastructure for Kubernetes and related components
+- [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.5](https://github.com/kubernetes/release/releases/tag/v0.17.5), today) - Release infrastructure for Kubernetes and related components
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.16](https://github.com/etcd-io/etcd/releases/tag/v3.5.16), 1 day ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.3](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.3), 2 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.30.0](https://github.com/kubernetes/kops/releases/tag/v1.30.0), 3 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
