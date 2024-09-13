@@ -18,7 +18,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 #### 🔭 Latest releases I've contributed to
 
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.30.1](https://github.com/kubernetes/kops/releases/tag/v1.30.1), today) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v999.2.6](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v999.2.6), 1 day ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.5](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.5), 1 day ago) - Production-Grade Container Scheduling and Management
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.34](https://github.com/etcd-io/etcd/releases/tag/v3.4.34), 2 days ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.7](https://github.com/kubernetes/release/releases/tag/v0.17.7), 2 days ago) - Release infrastructure for Kubernetes and related components
