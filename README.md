@@ -26,10 +26,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [delete nginx ingress and add some dns records for services on the utility cluster](https://github.com/kubernetes/k8s.io/pull/7302) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump cert-manager, eso and nginx ingresses](https://github.com/kubernetes/k8s.io/pull/7297) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [fix disk size for arm nodepools](https://github.com/kubernetes/k8s.io/pull/7241) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [fix boskos deployment typos](https://github.com/kubernetes/k8s.io/pull/7233) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
-- [Start autobumping Community Prow](https://github.com/kubernetes/k8s.io/pull/7231) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
