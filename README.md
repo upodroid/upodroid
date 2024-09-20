@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (4 days ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (4 weeks ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 month ago)
 - [knative/hack](https://github.com/knative/hack) - Knative common scripts. (1 month ago)
@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [promote images for vpshere csi driver](https://github.com/kubernetes/k8s.io/pull/7325) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [delete nginx ingress and add some dns records for services on the utility cluster](https://github.com/kubernetes/k8s.io/pull/7302) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [bump cert-manager, eso and nginx ingresses](https://github.com/kubernetes/k8s.io/pull/7297) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 
