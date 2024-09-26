@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [switch to the new prow image registry](https://github.com/knative/infra/pull/518) on [knative/infra](https://github.com/knative/infra) (today)
 - [Deploy Istio to the utility cluster](https://github.com/kubernetes/k8s.io/pull/7341) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [enable dualstack on services created by Gateway API](https://github.com/istio/istio/pull/53245) on [istio/istio](https://github.com/istio/istio) (3 days ago)
 - [promote images for vpshere csi driver](https://github.com/kubernetes/k8s.io/pull/7325) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
