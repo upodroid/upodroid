@@ -4,20 +4,20 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (today)
-- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (6 days ago)
+- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 day ago)
+- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (1 week ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 month ago)
 - [knative/hack](https://github.com/knative/hack) - Knative common scripts. (1 month ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (1 month ago)
-- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (2 months ago)
+- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (3 months ago)
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (5 months ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (8 months ago)
-- [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (8 months ago)
+- [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.4), 5 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.4), 6 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [istio/istio](https://github.com/istio/istio) ([1.21.6](https://github.com/istio/istio/releases/tag/1.21.6), 1 week ago) - Connect, secure, control, and observe services.
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.8](https://github.com/kubernetes/release/releases/tag/v0.17.8), 2 weeks ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.30.1](https://github.com/kubernetes/kops/releases/tag/v1.30.1), 2 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
@@ -27,8 +27,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
-- [switch to the new prow image registry](https://github.com/knative/infra/pull/518) on [knative/infra](https://github.com/knative/infra) (4 days ago)
-- [Deploy Istio to the utility cluster](https://github.com/kubernetes/k8s.io/pull/7341) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
+- [switch to the new prow image registry](https://github.com/knative/infra/pull/518) on [knative/infra](https://github.com/knative/infra) (5 days ago)
+- [Deploy Istio to the utility cluster](https://github.com/kubernetes/k8s.io/pull/7341) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [enable dualstack on services created by Gateway API](https://github.com/istio/istio/pull/53245) on [istio/istio](https://github.com/istio/istio) (1 week ago)
 - [promote images for vpshere csi driver](https://github.com/kubernetes/k8s.io/pull/7325) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [delete nginx ingress and add some dns records for services on the utility cluster](https://github.com/kubernetes/k8s.io/pull/7302) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
