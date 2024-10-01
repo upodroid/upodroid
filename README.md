@@ -31,8 +31,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Deploy Istio to the utility cluster](https://github.com/kubernetes/k8s.io/pull/7341) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [enable dualstack on services created by Gateway API](https://github.com/istio/istio/pull/53245) on [istio/istio](https://github.com/istio/istio) (1 week ago)
 - [promote images for vpshere csi driver](https://github.com/kubernetes/k8s.io/pull/7325) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [delete nginx ingress and add some dns records for services on the utility cluster](https://github.com/kubernetes/k8s.io/pull/7302) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
-- [bump cert-manager, eso and nginx ingresses](https://github.com/kubernetes/k8s.io/pull/7297) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
