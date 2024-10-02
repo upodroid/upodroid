@@ -27,10 +27,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Configure AWS SSO for aws-capa-ami account](https://github.com/kubernetes/k8s.io/pull/7366) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [switch to the new prow image registry](https://github.com/knative/infra/pull/518) on [knative/infra](https://github.com/knative/infra) (6 days ago)
 - [Deploy Istio to the utility cluster](https://github.com/kubernetes/k8s.io/pull/7341) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [enable dualstack on services created by Gateway API](https://github.com/istio/istio/pull/53245) on [istio/istio](https://github.com/istio/istio) (1 week ago)
-- [promote images for vpshere csi driver](https://github.com/kubernetes/k8s.io/pull/7325) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
