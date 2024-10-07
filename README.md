@@ -28,7 +28,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 #### 🔨 My recent Pull Requests
 
 - [Configure AWS SSO for aws-capa-ami account](https://github.com/kubernetes/k8s.io/pull/7366) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [switch to the new prow image registry](https://github.com/knative/infra/pull/518) on [knative/infra](https://github.com/knative/infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
