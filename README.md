@@ -27,6 +27,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Tweak istio install](https://github.com/kubernetes/k8s.io/pull/7378) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
+- [Deploy Unified Grafana Instance on the utility cluster [wip]](https://github.com/kubernetes/k8s.io/pull/7377) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Configure AWS SSO for aws-capa-ami account](https://github.com/kubernetes/k8s.io/pull/7366) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 
 #### ⭐ Recent Stars
