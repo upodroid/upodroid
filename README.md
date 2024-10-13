@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [reconcile infra changes](https://github.com/kubernetes/k8s.io/pull/7399) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [allow old bucket to viewed in deck](https://github.com/kubernetes/test-infra/pull/33631) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [Tweak istio install](https://github.com/kubernetes/k8s.io/pull/7378) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [Deploy Unified Grafana Instance on the utility cluster [wip]](https://github.com/kubernetes/k8s.io/pull/7377) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
