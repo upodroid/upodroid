@@ -31,7 +31,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [allow old bucket to viewed in deck](https://github.com/kubernetes/test-infra/pull/33631) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [Tweak istio install](https://github.com/kubernetes/k8s.io/pull/7378) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 - [Deploy Unified Grafana Instance on the utility cluster [wip]](https://github.com/kubernetes/k8s.io/pull/7377) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
-- [Configure AWS SSO for aws-capa-ami account](https://github.com/kubernetes/k8s.io/pull/7366) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
