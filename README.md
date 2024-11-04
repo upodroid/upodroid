@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [istio/istio](https://github.com/istio/istio) ([1.24.0-rc.0](https://github.com/istio/istio/releases/tag/1.24.0-rc.0), 3 days ago) - Connect, secure, control, and observe services.
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.0-alpha.3), 5 days ago) - Production-Grade Container Scheduling and Management
+- [istio/istio](https://github.com/istio/istio) ([1.24.0-rc.0](https://github.com/istio/istio/releases/tag/1.24.0-rc.0), 4 days ago) - Connect, secure, control, and observe services.
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.0-alpha.3), 6 days ago) - Production-Grade Container Scheduling and Management
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.5](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.5), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.10](https://github.com/kubernetes/release/releases/tag/v0.17.10), 1 week ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.31.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.31.0-alpha.1), 2 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
@@ -29,8 +29,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 - [reconcile infra changes](https://github.com/kubernetes/k8s.io/pull/7399) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 - [allow old bucket to viewed in deck](https://github.com/kubernetes/test-infra/pull/33631) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
-- [Tweak istio install](https://github.com/kubernetes/k8s.io/pull/7378) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
-- [Deploy Unified Grafana Instance on the utility cluster [wip]](https://github.com/kubernetes/k8s.io/pull/7377) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
+- [Tweak istio install](https://github.com/kubernetes/k8s.io/pull/7378) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 weeks ago)
+- [Deploy Unified Grafana Instance on the utility cluster [wip]](https://github.com/kubernetes/k8s.io/pull/7377) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
