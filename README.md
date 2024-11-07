@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
-- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (2 days ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 days ago)
+- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (3 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 weeks ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 month ago)
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (1 month ago)
@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.0-beta.0), today) - Production-Grade Container Scheduling and Management
-- [istio/istio](https://github.com/istio/istio) ([1.24.0-rc.0](https://github.com/istio/istio/releases/tag/1.24.0-rc.0), 6 days ago) - Connect, secure, control, and observe services.
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.0-beta.0), 1 day ago) - Production-Grade Container Scheduling and Management
+- [istio/istio](https://github.com/istio/istio) ([1.24.0-rc.0](https://github.com/istio/istio/releases/tag/1.24.0-rc.0), 1 week ago) - Connect, secure, control, and observe services.
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.5](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.5), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.10](https://github.com/kubernetes/release/releases/tag/v0.17.10), 2 weeks ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.31.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.31.0-alpha.1), 3 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
@@ -27,8 +27,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
-- [kubetest2 &#43; kind using binaries from source](https://github.com/kubernetes-sigs/kubetest2/pull/277) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 day ago)
-- [Test kubernetes using kubetest2 &amp; kind](https://github.com/kubernetes/test-infra/pull/33756) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [kubetest2 &#43; kind using binaries from source](https://github.com/kubernetes-sigs/kubetest2/pull/277) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (2 days ago)
+- [Test kubernetes using kubetest2 &amp; kind](https://github.com/kubernetes/test-infra/pull/33756) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [reconcile infra changes](https://github.com/kubernetes/k8s.io/pull/7399) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 - [allow old bucket to viewed in deck](https://github.com/kubernetes/test-infra/pull/33631) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
 - [Tweak istio install](https://github.com/kubernetes/k8s.io/pull/7378) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
