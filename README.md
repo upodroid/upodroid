@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [2024 Scale dev](https://github.com/kubernetes/kops/pull/16945) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [kubetest2 &#43; kind using binaries from source](https://github.com/kubernetes-sigs/kubetest2/pull/277) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (6 days ago)
 - [Test kubernetes using kubetest2 &amp; kind](https://github.com/kubernetes/test-infra/pull/33756) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [reconcile infra changes](https://github.com/kubernetes/k8s.io/pull/7399) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 weeks ago)
