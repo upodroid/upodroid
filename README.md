@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [fix `ci-k8sio-image-promo` job](https://github.com/kubernetes/k8s.io/pull/7516) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [fix makefile to override image name](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/156) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (1 day ago)
 - [use the k8s-staging-images project to build cloud-provider-kind images](https://github.com/kubernetes/test-infra/pull/33794) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Promote cloud provider kind correctly](https://github.com/kubernetes/k8s.io/pull/7513) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [2024 Scale dev](https://github.com/kubernetes/kops/pull/16945) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [kubetest2 &#43; kind using binaries from source](https://github.com/kubernetes-sigs/kubetest2/pull/277) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 week ago)
 - [Test kubernetes using kubetest2 &amp; kind](https://github.com/kubernetes/test-infra/pull/33756) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [reconcile infra changes](https://github.com/kubernetes/k8s.io/pull/7399) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 
 #### ⭐ Recent Stars
 
