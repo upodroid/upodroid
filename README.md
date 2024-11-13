@@ -4,10 +4,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
-- [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (today)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
-- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (6 days ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
+- [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (1 day ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
+- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 week ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 month ago)
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (1 month ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 months ago)
@@ -17,25 +17,25 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.35](https://github.com/etcd-io/etcd/releases/tag/v3.4.35), today) - Distributed reliable key-value store for the most critical data of a distributed system
-- [istio/istio](https://github.com/istio/istio) ([1.24.0](https://github.com/istio/istio/releases/tag/1.24.0), 5 days ago) - Connect, secure, control, and observe services.
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.0-beta.0), 6 days ago) - Production-Grade Container Scheduling and Management
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.4.35](https://github.com/etcd-io/etcd/releases/tag/v3.4.35), 1 day ago) - Distributed reliable key-value store for the most critical data of a distributed system
+- [istio/istio](https://github.com/istio/istio) ([1.24.0](https://github.com/istio/istio/releases/tag/1.24.0), 6 days ago) - Connect, secure, control, and observe services.
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.0-beta.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.5](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.5), 2 weeks ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.10](https://github.com/kubernetes/release/releases/tag/v0.17.10), 2 weeks ago) - Release infrastructure for Kubernetes and related components
+- [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.10](https://github.com/kubernetes/release/releases/tag/v0.17.10), 3 weeks ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.31.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.31.0-alpha.1), 4 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.4.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.4.0), 1 month ago) - Cloud provider for KIND clusters
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.1), 4 months ago) - Interfaces and implementations for building Kubernetes releases.
 
 #### 🔨 My recent Pull Requests
 
-- [use the k8s-staging-images project to build cloud-provider-kind images](https://github.com/kubernetes/test-infra/pull/33794) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
-- [Promote cloud provider kind correctly](https://github.com/kubernetes/k8s.io/pull/7513) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
-- [publish cloud-provider kind to the correct registry](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/155) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (today)
-- [2024 Scale dev](https://github.com/kubernetes/kops/pull/16945) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
+- [fix makefile to override image name](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/156) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (1 day ago)
+- [use the k8s-staging-images project to build cloud-provider-kind images](https://github.com/kubernetes/test-infra/pull/33794) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [Promote cloud provider kind correctly](https://github.com/kubernetes/k8s.io/pull/7513) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
+- [publish cloud-provider kind to the correct registry](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/155) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (1 day ago)
+- [2024 Scale dev](https://github.com/kubernetes/kops/pull/16945) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [kubetest2 &#43; kind using binaries from source](https://github.com/kubernetes-sigs/kubetest2/pull/277) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 week ago)
 - [Test kubernetes using kubetest2 &amp; kind](https://github.com/kubernetes/test-infra/pull/33756) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [reconcile infra changes](https://github.com/kubernetes/k8s.io/pull/7399) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
-- [allow old bucket to viewed in deck](https://github.com/kubernetes/test-infra/pull/33631) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
 
 #### ⭐ Recent Stars
 
