@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [add atlantis DNS record](https://github.com/kubernetes/k8s.io/pull/7543) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [test atlantis with a trivial change](https://github.com/kubernetes/k8s.io/pull/7522) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [use atlantis for k8s-infra-sandbox-iii](https://github.com/kubernetes/k8s.io/pull/7521) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [WIP - Deploy Atlantis](https://github.com/kubernetes/k8s.io/pull/7520) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [use the k8s-staging-images project to build cloud-provider-kind images](https://github.com/kubernetes/test-infra/pull/33794) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Promote cloud provider kind correctly](https://github.com/kubernetes/k8s.io/pull/7513) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [publish cloud-provider kind to the correct registry](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/155) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (1 week ago)
-- [2024 Scale dev](https://github.com/kubernetes/kops/pull/16945) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 
 #### ⭐ Recent Stars
 
