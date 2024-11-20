@@ -37,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [fix makefile to override image name](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/156) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (1 week ago)
 - [use the k8s-staging-images project to build cloud-provider-kind images](https://github.com/kubernetes/test-infra/pull/33794) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Promote cloud provider kind correctly](https://github.com/kubernetes/k8s.io/pull/7513) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [publish cloud-provider kind to the correct registry](https://github.com/kubernetes-sigs/cloud-provider-kind/pull/155) on [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) (1 week ago)
 
 #### ⭐ Recent Stars
 
