@@ -34,7 +34,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [use atlantis for k8s-infra-sandbox-iii](https://github.com/kubernetes/k8s.io/pull/7521) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [WIP - Deploy Atlantis](https://github.com/kubernetes/k8s.io/pull/7520) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [run on mahamed&#39;s runner](https://github.com/honk-ci/kippy/pull/1) on [honk-ci/kippy](https://github.com/honk-ci/kippy) (1 week ago)
-- [fix `ci-k8sio-image-promo` job](https://github.com/kubernetes/k8s.io/pull/7516) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
