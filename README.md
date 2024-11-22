@@ -31,8 +31,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Create a staging registry for llm-instance-gateway project](https://github.com/kubernetes/k8s.io/pull/7547) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [add atlantis DNS record](https://github.com/kubernetes/k8s.io/pull/7543) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [test atlantis with a trivial change](https://github.com/kubernetes/k8s.io/pull/7522) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [use atlantis for k8s-infra-sandbox-iii](https://github.com/kubernetes/k8s.io/pull/7521) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [WIP - Deploy Atlantis](https://github.com/kubernetes/k8s.io/pull/7520) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
