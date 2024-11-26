@@ -27,7 +27,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
-- [Create a staging registry for llm-instance-gateway project](https://github.com/kubernetes/k8s.io/pull/7547) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 
 #### ⭐ Recent Stars
 
