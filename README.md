@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (2 weeks ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 weeks ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (3 weeks ago)
@@ -17,9 +17,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.30.2](https://github.com/kubernetes/kops/releases/tag/v1.30.2), 4 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.0-rc.0), 5 days ago) - Production-Grade Container Scheduling and Management
-- [istio/istio](https://github.com/istio/istio) ([1.24.1](https://github.com/istio/istio/releases/tag/1.24.1), 6 days ago) - Connect, secure, control, and observe services.
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.30.2](https://github.com/kubernetes/kops/releases/tag/v1.30.2), 5 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.0-rc.0), 6 days ago) - Production-Grade Container Scheduling and Management
+- [istio/istio](https://github.com/istio/istio) ([1.24.1](https://github.com/istio/istio/releases/tag/1.24.1), 1 week ago) - Connect, secure, control, and observe services.
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.7](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.7), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.12](https://github.com/kubernetes/release/releases/tag/v0.17.12), 1 week ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.4.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.4.0), 2 months ago) - Cloud provider for KIND clusters
