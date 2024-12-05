@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [fetch cni plugins from GitHub releases](https://github.com/kubernetes/kubernetes/pull/129095) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [Allow Atlantis to manage GCP Infrastructure](https://github.com/kubernetes/k8s.io/pull/7581) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 
 #### ⭐ Recent Stars
