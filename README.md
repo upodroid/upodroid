@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (3 weeks ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 weeks ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 month ago)
@@ -17,9 +17,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.0-rc.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.0-rc.2), 1 day ago) - Production-Grade Container Scheduling and Management
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.30.3](https://github.com/kubernetes/kops/releases/tag/v1.30.3), 3 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.11.0](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.11.0), 4 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.0-rc.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.0-rc.2), 2 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.30.3](https://github.com/kubernetes/kops/releases/tag/v1.30.3), 4 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.11.0](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.11.0), 5 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [istio/istio](https://github.com/istio/istio) ([1.24.1](https://github.com/istio/istio/releases/tag/1.24.1), 1 week ago) - Connect, secure, control, and observe services.
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.12](https://github.com/kubernetes/release/releases/tag/v0.17.12), 2 weeks ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.4.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.4.0), 2 months ago) - Cloud provider for KIND clusters
@@ -27,8 +27,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
-- [create staging registry for aws-encryption-provider](https://github.com/kubernetes/k8s.io/pull/7587) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
-- [fetch cni plugins from GitHub releases](https://github.com/kubernetes/kubernetes/pull/129095) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
+- [create staging registry for aws-encryption-provider](https://github.com/kubernetes/k8s.io/pull/7587) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
+- [fetch cni plugins from GitHub releases](https://github.com/kubernetes/kubernetes/pull/129095) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 
 #### ⭐ Recent Stars
 
