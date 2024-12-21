@@ -17,11 +17,11 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [istio/istio](https://github.com/istio/istio) ([1.23.4](https://github.com/istio/istio/releases/tag/1.23.4), 1 day ago) - Connect, secure, control, and observe services.
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.31.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.31.0-beta.1), 3 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [istio/istio](https://github.com/istio/istio) ([1.23.4](https://github.com/istio/istio/releases/tag/1.23.4), 2 days ago) - Connect, secure, control, and observe services.
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.31.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.31.0-beta.1), 4 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.11.0](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.11.0), 2 weeks ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.12](https://github.com/kubernetes/release/releases/tag/v0.17.12), 4 weeks ago) - Release infrastructure for Kubernetes and related components
+- [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.12](https://github.com/kubernetes/release/releases/tag/v0.17.12), 1 month ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.4.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.4.0), 2 months ago) - Cloud provider for KIND clusters
 
 #### 🔨 My recent Pull Requests
