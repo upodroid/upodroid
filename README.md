@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [istio/istio](https://github.com/istio/istio) ([1.23.4](https://github.com/istio/istio/releases/tag/1.23.4), 2 days ago) - Connect, secure, control, and observe services.
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.31.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.31.0-beta.1), 4 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [istio/istio](https://github.com/istio/istio) ([1.23.4](https://github.com/istio/istio/releases/tag/1.23.4), 3 days ago) - Connect, secure, control, and observe services.
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.31.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.31.0-beta.1), 5 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.11.0](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.11.0), 2 weeks ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.12](https://github.com/kubernetes/release/releases/tag/v0.17.12), 1 month ago) - Release infrastructure for Kubernetes and related components
@@ -42,7 +42,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 year ago)
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (1 year ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (1 year ago)
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 year ago)
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 years ago)
 - [knative/test-infra](https://github.com/knative/test-infra) - Test infrastructure for the Knative project (2 years ago)
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need (3 years ago)
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Provider for Google Cloud Platform (3 years ago)
