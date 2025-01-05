@@ -21,7 +21,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [istio/istio](https://github.com/istio/istio) ([1.23.4](https://github.com/istio/istio/releases/tag/1.23.4), 2 weeks ago) - Connect, secure, control, and observe services.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.31.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.31.0-beta.1), 2 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.0), 3 weeks ago) - Production-Grade Container Scheduling and Management
-- [kubernetes/release](https://github.com/kubernetes/release) ([v0.17.12](https://github.com/kubernetes/release/releases/tag/v0.17.12), 1 month ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.4.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.4.0), 3 months ago) - Cloud provider for KIND clusters
 
 #### 🔨 My recent Pull Requests
