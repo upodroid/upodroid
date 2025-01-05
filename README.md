@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Rename llm-instance-gateway registry to gateway-api-inference-extension](https://github.com/kubernetes/k8s.io/pull/7657) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [create staging registry for aws-encryption-provider](https://github.com/kubernetes/k8s.io/pull/7587) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [fetch cni plugins from GitHub releases](https://github.com/kubernetes/kubernetes/pull/129095) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
 - [Allow Atlantis to manage GCP Infrastructure](https://github.com/kubernetes/k8s.io/pull/7581) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [use atlantis for k8s-infra-sandbox-iii](https://github.com/kubernetes/k8s.io/pull/7521) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [Deploy Atlantis](https://github.com/kubernetes/k8s.io/pull/7520) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [run on mahamed&#39;s runner](https://github.com/honk-ci/kippy/pull/1) on [honk-ci/kippy](https://github.com/honk-ci/kippy) (1 month ago)
-- [fix `ci-k8sio-image-promo` job](https://github.com/kubernetes/k8s.io/pull/7516) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 
 #### ⭐ Recent Stars
 
