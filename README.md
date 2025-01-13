@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.12.1](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.12.1), 2 weeks ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.12.1](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.12.1), 3 weeks ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [istio/istio](https://github.com/istio/istio) ([1.23.4](https://github.com/istio/istio/releases/tag/1.23.4), 3 weeks ago) - Connect, secure, control, and observe services.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.31.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.31.0-beta.1), 3 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.0), 1 month ago) - Production-Grade Container Scheduling and Management
@@ -31,10 +31,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Allow Atlantis to manage GCP Infrastructure](https://github.com/kubernetes/k8s.io/pull/7581) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [Create a staging registry for llm-instance-gateway project](https://github.com/kubernetes/k8s.io/pull/7547) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [add atlantis DNS record](https://github.com/kubernetes/k8s.io/pull/7543) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
-- [test atlantis with a trivial change](https://github.com/kubernetes/k8s.io/pull/7522) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
-- [use atlantis for k8s-infra-sandbox-iii](https://github.com/kubernetes/k8s.io/pull/7521) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
-- [Deploy Atlantis](https://github.com/kubernetes/k8s.io/pull/7520) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
-- [run on mahamed&#39;s runner](https://github.com/honk-ci/kippy/pull/1) on [honk-ci/kippy](https://github.com/honk-ci/kippy) (1 month ago)
+- [test atlantis with a trivial change](https://github.com/kubernetes/k8s.io/pull/7522) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
+- [use atlantis for k8s-infra-sandbox-iii](https://github.com/kubernetes/k8s.io/pull/7521) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
+- [Deploy Atlantis](https://github.com/kubernetes/k8s.io/pull/7520) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
+- [run on mahamed&#39;s runner](https://github.com/honk-ci/kippy/pull/1) on [honk-ci/kippy](https://github.com/honk-ci/kippy) (2 months ago)
 
 #### ⭐ Recent Stars
 
