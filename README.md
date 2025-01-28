@@ -9,7 +9,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (2 months ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 months ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (2 months ago)
-- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (3 months ago)
+- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (4 months ago)
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (4 months ago)
 - [knative/hack](https://github.com/knative/hack) - Knative common scripts. (5 months ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (5 months ago)
@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [istio/istio](https://github.com/istio/istio) ([1.22.8](https://github.com/istio/istio/releases/tag/1.22.8), 4 days ago) - Connect, secure, control, and observe services.
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.13.0](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.13.0), 6 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [istio/istio](https://github.com/istio/istio) ([1.22.8](https://github.com/istio/istio/releases/tag/1.22.8), 5 days ago) - Connect, secure, control, and observe services.
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.13.0](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.13.0), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.13), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.5.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.5.0), 1 week ago) - Cloud provider for KIND clusters
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.31.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.31.0-beta.1), 1 month ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
