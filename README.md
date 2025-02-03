@@ -24,16 +24,16 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [promote infra-tools images from staging AR registry](https://github.com/kubernetes/k8s.io/pull/7751) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
+- [publish the image to staging AR registry](https://github.com/kubernetes/registry.k8s.io/pull/298) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (today)
+- [publish the image to staging AR registry](https://github.com/upodroid/registry.k8s.io/pull/1) on [upodroid/registry.k8s.io](https://github.com/upodroid/registry.k8s.io) (today)
+- [Use the new AR registries for archeo, octodns and porche](https://github.com/kubernetes/test-infra/pull/34258) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Create new infra-tools AR registry](https://github.com/kubernetes/k8s.io/pull/7750) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Rename llm-instance-gateway registry to gateway-api-inference-extension](https://github.com/kubernetes/k8s.io/pull/7657) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 weeks ago)
 - [create staging registry for aws-encryption-provider](https://github.com/kubernetes/k8s.io/pull/7587) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [fetch cni plugins from GitHub releases](https://github.com/kubernetes/kubernetes/pull/129095) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 months ago)
 - [Allow Atlantis to manage GCP Infrastructure](https://github.com/kubernetes/k8s.io/pull/7581) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
 - [Create a staging registry for llm-instance-gateway project](https://github.com/kubernetes/k8s.io/pull/7547) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
-- [add atlantis DNS record](https://github.com/kubernetes/k8s.io/pull/7543) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
-- [test atlantis with a trivial change](https://github.com/kubernetes/k8s.io/pull/7522) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
-- [use atlantis for k8s-infra-sandbox-iii](https://github.com/kubernetes/k8s.io/pull/7521) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
-- [Deploy Atlantis](https://github.com/kubernetes/k8s.io/pull/7520) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
 
 #### ⭐ Recent Stars
 
