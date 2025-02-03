@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (4 weeks ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 months ago)
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (2 months ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 months ago)
@@ -24,6 +24,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Create new infra-tools AR registry](https://github.com/kubernetes/k8s.io/pull/7750) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Rename llm-instance-gateway registry to gateway-api-inference-extension](https://github.com/kubernetes/k8s.io/pull/7657) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 weeks ago)
 - [create staging registry for aws-encryption-provider](https://github.com/kubernetes/k8s.io/pull/7587) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [fetch cni plugins from GitHub releases](https://github.com/kubernetes/kubernetes/pull/129095) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 months ago)
@@ -33,7 +34,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [test atlantis with a trivial change](https://github.com/kubernetes/k8s.io/pull/7522) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
 - [use atlantis for k8s-infra-sandbox-iii](https://github.com/kubernetes/k8s.io/pull/7521) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
 - [Deploy Atlantis](https://github.com/kubernetes/k8s.io/pull/7520) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
-- [run on mahamed&#39;s runner](https://github.com/honk-ci/kippy/pull/1) on [honk-ci/kippy](https://github.com/honk-ci/kippy) (2 months ago)
 
 #### ⭐ Recent Stars
 
