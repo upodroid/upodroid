@@ -24,6 +24,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [use the new registry for archeio](https://github.com/kubernetes/k8s.io/pull/7759) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [promote infra-tools images from staging AR registry](https://github.com/kubernetes/k8s.io/pull/7751) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [publish the image to staging AR registry](https://github.com/kubernetes/registry.k8s.io/pull/298) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (2 days ago)
 - [publish the image to staging AR registry](https://github.com/upodroid/registry.k8s.io/pull/1) on [upodroid/registry.k8s.io](https://github.com/upodroid/registry.k8s.io) (2 days ago)
@@ -33,7 +34,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [create staging registry for aws-encryption-provider](https://github.com/kubernetes/k8s.io/pull/7587) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
 - [fetch cni plugins from GitHub releases](https://github.com/kubernetes/kubernetes/pull/129095) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 months ago)
 - [Allow Atlantis to manage GCP Infrastructure](https://github.com/kubernetes/k8s.io/pull/7581) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
-- [Create a staging registry for llm-instance-gateway project](https://github.com/kubernetes/k8s.io/pull/7547) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
 
 #### ⭐ Recent Stars
 
