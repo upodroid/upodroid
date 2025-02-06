@@ -24,6 +24,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [Update ip ranges for Q1 2025](https://github.com/kubernetes/registry.k8s.io/pull/301) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (today)
 - [fix staging auto deploy](https://github.com/kubernetes/registry.k8s.io/pull/300) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (today)
 - [use the new registry for archeio](https://github.com/kubernetes/k8s.io/pull/7759) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [promote infra-tools images from staging AR registry](https://github.com/kubernetes/k8s.io/pull/7751) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
@@ -33,7 +34,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Create new infra-tools AR registry](https://github.com/kubernetes/k8s.io/pull/7750) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [Rename llm-instance-gateway registry to gateway-api-inference-extension](https://github.com/kubernetes/k8s.io/pull/7657) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [create staging registry for aws-encryption-provider](https://github.com/kubernetes/k8s.io/pull/7587) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
-- [fetch cni plugins from GitHub releases](https://github.com/kubernetes/kubernetes/pull/129095) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 months ago)
 
 #### ⭐ Recent Stars
 
