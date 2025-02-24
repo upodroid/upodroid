@@ -6,7 +6,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 weeks ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (2 weeks ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 weeks ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 weeks ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 months ago)
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (3 months ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (3 months ago)
@@ -17,9 +17,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [istio/istio](https://github.com/istio/istio) ([1.25.0-rc.0](https://github.com/istio/istio/releases/tag/1.25.0-rc.0), 2 days ago) - Connect, secure, control, and observe services.
-- [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 3 days ago) - Cloud provider for KIND clusters
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-alpha.2), 5 days ago) - Production-Grade Container Scheduling and Management
+- [istio/istio](https://github.com/istio/istio) ([1.25.0-rc.0](https://github.com/istio/istio/releases/tag/1.25.0-rc.0), 3 days ago) - Connect, secure, control, and observe services.
+- [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 4 days ago) - Cloud provider for KIND clusters
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-alpha.2), 6 days ago) - Production-Grade Container Scheduling and Management
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.14.2](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.14.2), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.5.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.5.0), 2 weeks ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 
@@ -29,11 +29,11 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [Update ip ranges for Q1 2025](https://github.com/kubernetes/registry.k8s.io/pull/301) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (2 weeks ago)
 - [fix staging auto deploy](https://github.com/kubernetes/registry.k8s.io/pull/300) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (2 weeks ago)
 - [use the new registry for archeio](https://github.com/kubernetes/k8s.io/pull/7759) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
-- [promote infra-tools images from staging AR registry](https://github.com/kubernetes/k8s.io/pull/7751) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
-- [publish the image to staging AR registry](https://github.com/kubernetes/registry.k8s.io/pull/298) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (2 weeks ago)
-- [publish the image to staging AR registry](https://github.com/upodroid/registry.k8s.io/pull/1) on [upodroid/registry.k8s.io](https://github.com/upodroid/registry.k8s.io) (2 weeks ago)
-- [Use the new AR registries for archeo, octodns and porche](https://github.com/kubernetes/test-infra/pull/34258) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-- [Create new infra-tools AR registry](https://github.com/kubernetes/k8s.io/pull/7750) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
+- [promote infra-tools images from staging AR registry](https://github.com/kubernetes/k8s.io/pull/7751) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
+- [publish the image to staging AR registry](https://github.com/kubernetes/registry.k8s.io/pull/298) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (3 weeks ago)
+- [publish the image to staging AR registry](https://github.com/upodroid/registry.k8s.io/pull/1) on [upodroid/registry.k8s.io](https://github.com/upodroid/registry.k8s.io) (3 weeks ago)
+- [Use the new AR registries for archeo, octodns and porche](https://github.com/kubernetes/test-infra/pull/34258) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
+- [Create new infra-tools AR registry](https://github.com/kubernetes/k8s.io/pull/7750) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 - [Rename llm-instance-gateway registry to gateway-api-inference-extension](https://github.com/kubernetes/k8s.io/pull/7657) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 
 #### ⭐ Recent Stars
