@@ -12,20 +12,20 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (4 months ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (5 months ago)
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (5 months ago)
-- [knative/hack](https://github.com/knative/hack) - Knative common scripts. (6 months ago)
+- [knative/hack](https://github.com/knative/hack) - Knative common scripts. (7 months ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-beta.0), today) - Production-Grade Container Scheduling and Management
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.14.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.14.4), 1 day ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-beta.0), 1 day ago) - Production-Grade Container Scheduling and Management
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.14.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.14.4), 2 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [istio/istio](https://github.com/istio/istio) ([1.25.0](https://github.com/istio/istio/releases/tag/1.25.0), 1 week ago) - Connect, secure, control, and observe services.
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 2 weeks ago) - Cloud provider for KIND clusters
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.5.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.5.0), 1 month ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 
 #### 🔨 My recent Pull Requests
 
-- [add ppc64le cluster to prow](https://github.com/kubernetes/k8s.io/pull/7862) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
+- [add ppc64le cluster to prow](https://github.com/kubernetes/k8s.io/pull/7862) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [create jobset and lws image registries](https://github.com/kubernetes/k8s.io/pull/7824) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [promote v0.5.0 of registry.k8s.io](https://github.com/kubernetes/k8s.io/pull/7766) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [Update ip ranges for Q1 2025](https://github.com/kubernetes/registry.k8s.io/pull/301) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 month ago)
