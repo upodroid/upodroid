@@ -17,15 +17,15 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.7](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.7), 1 day ago) - Production-Grade Container Scheduling and Management
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.14.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.14.4), 3 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.7](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.7), 2 days ago) - Production-Grade Container Scheduling and Management
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.14.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.14.4), 4 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [istio/istio](https://github.com/istio/istio) ([1.25.0](https://github.com/istio/istio/releases/tag/1.25.0), 1 week ago) - Connect, secure, control, and observe services.
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 3 weeks ago) - Cloud provider for KIND clusters
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.5.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.5.0), 1 month ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 
 #### 🔨 My recent Pull Requests
 
-- [add ppc64le cluster to prow](https://github.com/kubernetes/k8s.io/pull/7862) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
+- [add ppc64le cluster to prow](https://github.com/kubernetes/k8s.io/pull/7862) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [create jobset and lws image registries](https://github.com/kubernetes/k8s.io/pull/7824) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [promote v0.5.0 of registry.k8s.io](https://github.com/kubernetes/k8s.io/pull/7766) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [Update ip ranges for Q1 2025](https://github.com/kubernetes/registry.k8s.io/pull/301) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 month ago)
