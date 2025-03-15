@@ -25,6 +25,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [bump prow config correctly](https://github.com/kubernetes/test-infra/pull/34504) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [run our first ppc64le job](https://github.com/kubernetes/test-infra/pull/34503) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [add ppc64le cluster to prow](https://github.com/kubernetes/k8s.io/pull/7862) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [create jobset and lws image registries](https://github.com/kubernetes/k8s.io/pull/7824) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [promote v0.5.0 of registry.k8s.io](https://github.com/kubernetes/k8s.io/pull/7766) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
@@ -33,8 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [use the new registry for archeio](https://github.com/kubernetes/k8s.io/pull/7759) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [promote infra-tools images from staging AR registry](https://github.com/kubernetes/k8s.io/pull/7751) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [publish the image to staging AR registry](https://github.com/kubernetes/registry.k8s.io/pull/298) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 month ago)
-- [publish the image to staging AR registry](https://github.com/upodroid/registry.k8s.io/pull/1) on [upodroid/registry.k8s.io](https://github.com/upodroid/registry.k8s.io) (1 month ago)
-- [Use the new AR registries for archeo, octodns and porche](https://github.com/kubernetes/test-infra/pull/34258) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
 
 #### ⭐ Recent Stars
 
