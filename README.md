@@ -25,6 +25,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [bump go to 1.24.x for boskos](https://github.com/kubernetes/test-infra/pull/34509) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [use a newer version of buildx](https://github.com/kubernetes-sigs/boskos/pull/220) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (today)
 - [fix external secrets for new cluster](https://github.com/kubernetes/k8s.io/pull/7883) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [bump prow config correctly](https://github.com/kubernetes/test-infra/pull/34504) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -34,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [promote v0.5.0 of registry.k8s.io](https://github.com/kubernetes/k8s.io/pull/7766) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [Update ip ranges for Q1 2025](https://github.com/kubernetes/registry.k8s.io/pull/301) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 month ago)
 - [fix staging auto deploy](https://github.com/kubernetes/registry.k8s.io/pull/300) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 month ago)
-- [use the new registry for archeio](https://github.com/kubernetes/k8s.io/pull/7759) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 
 #### ⭐ Recent Stars
 
