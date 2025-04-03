@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.15.1](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.15.1), 5 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.15.1](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.15.1), 6 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [istio/istio](https://github.com/istio/istio) ([1.25.1](https://github.com/istio/istio/releases/tag/1.25.1), 1 week ago) - Connect, secure, control, and observe services.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.7](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.7), 3 weeks ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 1 month ago) - Cloud provider for KIND clusters
