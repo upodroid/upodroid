@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-rc.0), 4 days ago) - Production-Grade Container Scheduling and Management
-- [istio/istio](https://github.com/istio/istio) ([1.23.6](https://github.com/istio/istio/releases/tag/1.23.6), 6 days ago) - Connect, secure, control, and observe services.
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-rc.0), 5 days ago) - Production-Grade Container Scheduling and Management
+- [istio/istio](https://github.com/istio/istio) ([1.23.6](https://github.com/istio/istio/releases/tag/1.23.6), 1 week ago) - Connect, secure, control, and observe services.
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.15.1](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.15.1), 2 weeks ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 1 month ago) - Cloud provider for KIND clusters
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.5.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.5.0), 2 months ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
@@ -29,9 +29,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [create AR registries with lifecycle policies](https://github.com/kubernetes/k8s.io/pull/7913) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 - [bump go to 1.24.x for boskos](https://github.com/kubernetes/test-infra/pull/34509) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 weeks ago)
 - [use a newer version of buildx](https://github.com/kubernetes-sigs/boskos/pull/220) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (4 weeks ago)
-- [fix external secrets for new cluster](https://github.com/kubernetes/k8s.io/pull/7883) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 weeks ago)
-- [bump prow config correctly](https://github.com/kubernetes/test-infra/pull/34504) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 weeks ago)
-- [run our first ppc64le job](https://github.com/kubernetes/test-infra/pull/34503) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 weeks ago)
+- [fix external secrets for new cluster](https://github.com/kubernetes/k8s.io/pull/7883) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
+- [bump prow config correctly](https://github.com/kubernetes/test-infra/pull/34504) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
+- [run our first ppc64le job](https://github.com/kubernetes/test-infra/pull/34503) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
 - [add ppc64le cluster to prow](https://github.com/kubernetes/k8s.io/pull/7862) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [create jobset and lws image registries](https://github.com/kubernetes/k8s.io/pull/7824) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [promote v0.5.0 of registry.k8s.io](https://github.com/kubernetes/k8s.io/pull/7766) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
