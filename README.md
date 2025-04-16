@@ -25,6 +25,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [add the delimiter argument to list_blobs](https://github.com/talkiq/gcloud-aio/pull/885) on [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) (today)
 - [fix ibm build cluster secrets](https://github.com/kubernetes/k8s.io/pull/7914) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 - [create AR registries with lifecycle policies](https://github.com/kubernetes/k8s.io/pull/7913) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 - [bump go to 1.24.x for boskos](https://github.com/kubernetes/test-infra/pull/34509) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
@@ -34,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [run our first ppc64le job](https://github.com/kubernetes/test-infra/pull/34503) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
 - [add ppc64le cluster to prow](https://github.com/kubernetes/k8s.io/pull/7862) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [create jobset and lws image registries](https://github.com/kubernetes/k8s.io/pull/7824) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
-- [promote v0.5.0 of registry.k8s.io](https://github.com/kubernetes/k8s.io/pull/7766) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
 
 #### ⭐ Recent Stars
 
