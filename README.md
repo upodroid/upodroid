@@ -4,9 +4,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (today)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 month ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 month ago)
 - [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) - Boskos is a resource management service that provides reservation and lifecycle management of a variety of different kinds of resources. (1 month ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (2 months ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (5 months ago)
@@ -24,6 +24,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [test the new GKE nodes with sig-testing canary jobs](https://github.com/kubernetes/test-infra/pull/34761) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [update my affiliation](https://github.com/cncf/gitdm/pull/682) on [cncf/gitdm](https://github.com/cncf/gitdm) (today)
 - [Update my affliation](https://github.com/cncf/people/pull/1002) on [cncf/people](https://github.com/cncf/people) (today)
 - [add the delimiter argument to list_blobs](https://github.com/talkiq/gcloud-aio/pull/885) on [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) (2 weeks ago)
@@ -33,7 +34,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [use a newer version of buildx](https://github.com/kubernetes-sigs/boskos/pull/220) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (1 month ago)
 - [fix external secrets for new cluster](https://github.com/kubernetes/k8s.io/pull/7883) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [bump prow config correctly](https://github.com/kubernetes/test-infra/pull/34504) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
-- [run our first ppc64le job](https://github.com/kubernetes/test-infra/pull/34503) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
 
 #### ⭐ Recent Stars
 
