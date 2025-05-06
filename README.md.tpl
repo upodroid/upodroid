@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and an Opensource Maintainer/Contributor to Kubernetes and Knative.
+My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer/Contributor to Kubernetes and Knative.
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
