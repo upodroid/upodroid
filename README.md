@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and an Opensource Maintainer/Contributor to Kubernetes and Knative.
+My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer/Contributor to Kubernetes and Knative.
 
 #### 👷 Check out what I'm currently working on
 
+- [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (today)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 month ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 month ago)
 - [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) - Boskos is a resource management service that provides reservation and lifecycle management of a variety of different kinds of resources. (1 month ago)
@@ -13,7 +14,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (6 months ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (7 months ago)
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (7 months ago)
-- [knative/hack](https://github.com/knative/hack) - Knative common scripts. (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -24,6 +24,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 
 #### 🔨 My recent Pull Requests
 
+- [update my affiliation](https://github.com/cncf/gitdm/pull/682) on [cncf/gitdm](https://github.com/cncf/gitdm) (today)
 - [Update my affliation](https://github.com/cncf/people/pull/1002) on [cncf/people](https://github.com/cncf/people) (today)
 - [add the delimiter argument to list_blobs](https://github.com/talkiq/gcloud-aio/pull/885) on [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) (2 weeks ago)
 - [fix ibm build cluster secrets](https://github.com/kubernetes/k8s.io/pull/7914) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
@@ -33,7 +34,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer at ThousandEyes by Cisco and
 - [fix external secrets for new cluster](https://github.com/kubernetes/k8s.io/pull/7883) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [bump prow config correctly](https://github.com/kubernetes/test-infra/pull/34504) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
 - [run our first ppc64le job](https://github.com/kubernetes/test-infra/pull/34503) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
-- [add ppc64le cluster to prow](https://github.com/kubernetes/k8s.io/pull/7862) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 
 #### ⭐ Recent Stars
 
