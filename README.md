@@ -24,6 +24,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add gke trusted cluster to argocd](https://github.com/kubernetes/k8s.io/pull/8089) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [pull mounter from dl.k8s.io](https://github.com/kubernetes/kubernetes/pull/131639) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
 - [test the new GKE nodes with sig-testing canary jobs](https://github.com/kubernetes/test-infra/pull/34761) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [update my affiliation](https://github.com/cncf/gitdm/pull/682) on [cncf/gitdm](https://github.com/cncf/gitdm) (6 days ago)
@@ -33,7 +34,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [create AR registries with lifecycle policies](https://github.com/kubernetes/k8s.io/pull/7913) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [bump go to 1.24.x for boskos](https://github.com/kubernetes/test-infra/pull/34509) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
 - [use a newer version of buildx](https://github.com/kubernetes-sigs/boskos/pull/220) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (1 month ago)
-- [fix external secrets for new cluster](https://github.com/kubernetes/k8s.io/pull/7883) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 
 #### ⭐ Recent Stars
 
