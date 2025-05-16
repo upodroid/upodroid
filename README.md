@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
 - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (1 week ago)
 - [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (1 week ago)
@@ -17,21 +17,21 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.13), today) - Production-Grade Container Scheduling and Management
-- [istio/istio](https://github.com/istio/istio) ([1.24.6](https://github.com/istio/istio/releases/tag/1.24.6), 2 days ago) - Connect, secure, control, and observe services.
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.13), 1 day ago) - Production-Grade Container Scheduling and Management
+- [istio/istio](https://github.com/istio/istio) ([1.24.6](https://github.com/istio/istio/releases/tag/1.24.6), 3 days ago) - Connect, secure, control, and observe services.
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 2 months ago) - Cloud provider for KIND clusters
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.5.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.5.0), 3 months ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 
 #### 🔨 My recent Pull Requests
 
-- [enable artifact registry for scale e2e projects](https://github.com/kubernetes/k8s.io/pull/8103) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
-- [add gvce peering](https://github.com/kubernetes/k8s.io/pull/8093) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
-- [add gke trusted cluster to argocd](https://github.com/kubernetes/k8s.io/pull/8089) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
+- [enable artifact registry for scale e2e projects](https://github.com/kubernetes/k8s.io/pull/8103) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
+- [add gvce peering](https://github.com/kubernetes/k8s.io/pull/8093) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
+- [add gke trusted cluster to argocd](https://github.com/kubernetes/k8s.io/pull/8089) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [pull mounter from dl.k8s.io](https://github.com/kubernetes/kubernetes/pull/131639) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 - [test the new GKE nodes with sig-testing canary jobs](https://github.com/kubernetes/test-infra/pull/34761) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [update my affiliation](https://github.com/cncf/gitdm/pull/682) on [cncf/gitdm](https://github.com/cncf/gitdm) (1 week ago)
 - [Update my affliation](https://github.com/cncf/people/pull/1002) on [cncf/people](https://github.com/cncf/people) (1 week ago)
-- [add the delimiter argument to list_blobs](https://github.com/talkiq/gcloud-aio/pull/885) on [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) (4 weeks ago)
+- [add the delimiter argument to list_blobs](https://github.com/talkiq/gcloud-aio/pull/885) on [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) (1 month ago)
 - [fix ibm build cluster secrets](https://github.com/kubernetes/k8s.io/pull/7914) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [create AR registries with lifecycle policies](https://github.com/kubernetes/k8s.io/pull/7913) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 
