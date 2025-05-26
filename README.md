@@ -24,6 +24,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [migrate critical kind jobs to the new nodepool](https://github.com/kubernetes/test-infra/pull/34851) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Configure gcve secrets in prow](https://github.com/kubernetes/k8s.io/pull/8127) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [enable artifact registry for scale e2e projects](https://github.com/kubernetes/k8s.io/pull/8103) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [add gvce peering](https://github.com/kubernetes/k8s.io/pull/8093) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
@@ -33,7 +34,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [update my affiliation](https://github.com/cncf/gitdm/pull/682) on [cncf/gitdm](https://github.com/cncf/gitdm) (2 weeks ago)
 - [Update my affliation](https://github.com/cncf/people/pull/1002) on [cncf/people](https://github.com/cncf/people) (2 weeks ago)
 - [add the delimiter argument to list_blobs](https://github.com/talkiq/gcloud-aio/pull/885) on [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) (1 month ago)
-- [fix ibm build cluster secrets](https://github.com/kubernetes/k8s.io/pull/7914) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
 
 #### ⭐ Recent Stars
 
