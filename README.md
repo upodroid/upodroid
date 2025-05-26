@@ -24,6 +24,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [remove volume-mount from kind jobs on GKE](https://github.com/kubernetes/test-infra/pull/34855) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [rollout the c4 instances more widely and complete the cgroups v2 migration for GKE build cluster](https://github.com/kubernetes/k8s.io/pull/8131) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [migrate critical kind jobs to the new nodepool](https://github.com/kubernetes/test-infra/pull/34851) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Configure gcve secrets in prow](https://github.com/kubernetes/k8s.io/pull/8127) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
@@ -33,7 +34,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [pull mounter from dl.k8s.io](https://github.com/kubernetes/kubernetes/pull/131639) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
 - [test the new GKE nodes with sig-testing canary jobs](https://github.com/kubernetes/test-infra/pull/34761) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [update my affiliation](https://github.com/cncf/gitdm/pull/682) on [cncf/gitdm](https://github.com/cncf/gitdm) (2 weeks ago)
-- [Update my affliation](https://github.com/cncf/people/pull/1002) on [cncf/people](https://github.com/cncf/people) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
