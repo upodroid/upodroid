@@ -24,6 +24,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [upgrade arm64 gke nodepool](https://github.com/kubernetes/k8s.io/pull/8147) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [remove the temporary node taints/selectors used to test the new nodepools](https://github.com/kubernetes/test-infra/pull/34861) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [remove volume-mount from kind jobs on GKE](https://github.com/kubernetes/test-infra/pull/34855) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [rollout the c4 instances more widely and complete the cgroups v2 migration for GKE build cluster](https://github.com/kubernetes/k8s.io/pull/8131) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
@@ -33,7 +34,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add gvce peering](https://github.com/kubernetes/k8s.io/pull/8093) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [add gke trusted cluster to argocd](https://github.com/kubernetes/k8s.io/pull/8089) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [pull mounter from dl.k8s.io](https://github.com/kubernetes/kubernetes/pull/131639) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
-- [test the new GKE nodes with sig-testing canary jobs](https://github.com/kubernetes/test-infra/pull/34761) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
