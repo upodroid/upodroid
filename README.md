@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 days ago)
 - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (3 weeks ago)
 - [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (3 weeks ago)
 - [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) - Boskos is a resource management service that provides reservation and lifecycle management of a variety of different kinds of resources. (2 months ago)
@@ -17,20 +17,20 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.13), 1 week ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.13), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [istio/istio](https://github.com/istio/istio) ([1.24.6](https://github.com/istio/istio/releases/tag/1.24.6), 2 weeks ago) - Connect, secure, control, and observe services.
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 3 months ago) - Cloud provider for KIND clusters
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.5.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.5.0), 3 months ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 
 #### 🔨 My recent Pull Requests
 
-- [upgrade arm64 gke nodepool](https://github.com/kubernetes/k8s.io/pull/8147) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
-- [remove the temporary node taints/selectors used to test the new nodepools](https://github.com/kubernetes/test-infra/pull/34861) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
-- [remove volume-mount from kind jobs on GKE](https://github.com/kubernetes/test-infra/pull/34855) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
-- [rollout the c4 instances more widely and complete the cgroups v2 migration for GKE build cluster](https://github.com/kubernetes/k8s.io/pull/8131) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
-- [migrate critical kind jobs to the new nodepool](https://github.com/kubernetes/test-infra/pull/34851) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
-- [Configure gcve secrets in prow](https://github.com/kubernetes/k8s.io/pull/8127) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
-- [enable artifact registry for scale e2e projects](https://github.com/kubernetes/k8s.io/pull/8103) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
+- [upgrade arm64 gke nodepool](https://github.com/kubernetes/k8s.io/pull/8147) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
+- [remove the temporary node taints/selectors used to test the new nodepools](https://github.com/kubernetes/test-infra/pull/34861) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
+- [remove volume-mount from kind jobs on GKE](https://github.com/kubernetes/test-infra/pull/34855) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
+- [rollout the c4 instances more widely and complete the cgroups v2 migration for GKE build cluster](https://github.com/kubernetes/k8s.io/pull/8131) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
+- [migrate critical kind jobs to the new nodepool](https://github.com/kubernetes/test-infra/pull/34851) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
+- [Configure gcve secrets in prow](https://github.com/kubernetes/k8s.io/pull/8127) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
+- [enable artifact registry for scale e2e projects](https://github.com/kubernetes/k8s.io/pull/8103) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [add gvce peering](https://github.com/kubernetes/k8s.io/pull/8093) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [add gke trusted cluster to argocd](https://github.com/kubernetes/k8s.io/pull/8089) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [pull mounter from dl.k8s.io](https://github.com/kubernetes/kubernetes/pull/131639) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
