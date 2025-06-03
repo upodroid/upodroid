@@ -24,6 +24,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add c4 nodepool to trusted cluster](https://github.com/kubernetes/k8s.io/pull/8157) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
+- [fix arm64 nodepool for kind](https://github.com/kubernetes/k8s.io/pull/8156) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [fix limits for triage job](https://github.com/kubernetes/test-infra/pull/34906) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [upgrade arm64 gke nodepool](https://github.com/kubernetes/k8s.io/pull/8147) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [remove the temporary node taints/selectors used to test the new nodepools](https://github.com/kubernetes/test-infra/pull/34861) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
@@ -32,8 +34,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [migrate critical kind jobs to the new nodepool](https://github.com/kubernetes/test-infra/pull/34851) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Configure gcve secrets in prow](https://github.com/kubernetes/k8s.io/pull/8127) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [enable artifact registry for scale e2e projects](https://github.com/kubernetes/k8s.io/pull/8103) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
-- [add gvce peering](https://github.com/kubernetes/k8s.io/pull/8093) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
-- [add gke trusted cluster to argocd](https://github.com/kubernetes/k8s.io/pull/8089) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
