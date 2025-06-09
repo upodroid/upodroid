@@ -24,6 +24,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [deploy datadog to GCP](https://github.com/kubernetes/k8s.io/pull/8175) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [set tolerations using presets](https://github.com/kubernetes-sigs/prow/pull/473) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (3 days ago)
 - [add c4 nodepool to trusted cluster](https://github.com/kubernetes/k8s.io/pull/8157) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [fix arm64 nodepool for kind](https://github.com/kubernetes/k8s.io/pull/8156) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
@@ -33,7 +34,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [remove volume-mount from kind jobs on GKE](https://github.com/kubernetes/test-infra/pull/34855) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [rollout the c4 instances more widely and complete the cgroups v2 migration for GKE build cluster](https://github.com/kubernetes/k8s.io/pull/8131) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [migrate critical kind jobs to the new nodepool](https://github.com/kubernetes/test-infra/pull/34851) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-- [Configure gcve secrets in prow](https://github.com/kubernetes/k8s.io/pull/8127) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
