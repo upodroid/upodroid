@@ -24,6 +24,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump atlantis and reconcile manual changes](https://github.com/kubernetes/k8s.io/pull/8176) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [add extra kubernetes manifests](https://github.com/DataDog/helm-charts/pull/1904) on [DataDog/helm-charts](https://github.com/DataDog/helm-charts) (1 day ago)
 - [deploy datadog to GCP](https://github.com/kubernetes/k8s.io/pull/8175) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [set tolerations using presets](https://github.com/kubernetes-sigs/prow/pull/473) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (4 days ago)
@@ -33,7 +34,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [upgrade arm64 gke nodepool](https://github.com/kubernetes/k8s.io/pull/8147) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [remove the temporary node taints/selectors used to test the new nodepools](https://github.com/kubernetes/test-infra/pull/34861) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [remove volume-mount from kind jobs on GKE](https://github.com/kubernetes/test-infra/pull/34855) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-- [rollout the c4 instances more widely and complete the cgroups v2 migration for GKE build cluster](https://github.com/kubernetes/k8s.io/pull/8131) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
