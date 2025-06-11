@@ -24,6 +24,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [deploy datadog to kops eks cluster and upgrade argocd](https://github.com/kubernetes/k8s.io/pull/8180) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [use a base image that supports s390x/ppc64le](https://github.com/kyverno/kyverno/pull/13349) on [kyverno/kyverno](https://github.com/kyverno/kyverno) (1 day ago)
 - [bump atlantis and reconcile manual changes](https://github.com/kubernetes/k8s.io/pull/8176) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [add extra kubernetes manifests](https://github.com/DataDog/helm-charts/pull/1904) on [DataDog/helm-charts](https://github.com/DataDog/helm-charts) (2 days ago)
@@ -33,7 +34,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix arm64 nodepool for kind](https://github.com/kubernetes/k8s.io/pull/8156) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [fix limits for triage job](https://github.com/kubernetes/test-infra/pull/34906) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [upgrade arm64 gke nodepool](https://github.com/kubernetes/k8s.io/pull/8147) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
-- [remove the temporary node taints/selectors used to test the new nodepools](https://github.com/kubernetes/test-infra/pull/34861) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
