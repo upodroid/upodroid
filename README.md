@@ -24,6 +24,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [auto bump prow in test-infra](https://github.com/kubernetes/test-infra/pull/34993) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [deploy datadog to kops eks cluster and upgrade argocd](https://github.com/kubernetes/k8s.io/pull/8180) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [use a base image that supports s390x/ppc64le](https://github.com/kyverno/kyverno/pull/13349) on [kyverno/kyverno](https://github.com/kyverno/kyverno) (5 days ago)
 - [bump atlantis and reconcile manual changes](https://github.com/kubernetes/k8s.io/pull/8176) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
@@ -33,7 +34,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add c4 nodepool to trusted cluster](https://github.com/kubernetes/k8s.io/pull/8157) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [fix arm64 nodepool for kind](https://github.com/kubernetes/k8s.io/pull/8156) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [fix limits for triage job](https://github.com/kubernetes/test-infra/pull/34906) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [upgrade arm64 gke nodepool](https://github.com/kubernetes/k8s.io/pull/8147) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
