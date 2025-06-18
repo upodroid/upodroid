@@ -4,9 +4,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management (1 day ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 days ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (5 days ago)
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management (2 days ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (6 days ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (1 week ago)
 - [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (1 month ago)
 - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (1 month ago)
@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-alpha.1), 1 day ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-alpha.1), 2 days ago) - Production-Grade Container Scheduling and Management
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.14.2](https://github.com/kyverno/kyverno/releases/tag/v1.14.2), 2 weeks ago) - Cloud Native Policy Management
 - [istio/istio](https://github.com/istio/istio) ([1.26.1](https://github.com/istio/istio/releases/tag/1.26.1), 2 weeks ago) - Connect, secure, control, and observe services.
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.6.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.6.0), 3 months ago) - Cloud provider for KIND clusters
@@ -25,8 +25,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
-- [auto bump prow in test-infra](https://github.com/kubernetes/test-infra/pull/34993) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
-- [deploy datadog to kops eks cluster and upgrade argocd](https://github.com/kubernetes/k8s.io/pull/8180) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
+- [auto bump prow in test-infra](https://github.com/kubernetes/test-infra/pull/34993) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
+- [deploy datadog to kops eks cluster and upgrade argocd](https://github.com/kubernetes/k8s.io/pull/8180) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [use a base image that supports s390x/ppc64le](https://github.com/kyverno/kyverno/pull/13349) on [kyverno/kyverno](https://github.com/kyverno/kyverno) (1 week ago)
 - [bump atlantis and reconcile manual changes](https://github.com/kubernetes/k8s.io/pull/8176) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [add extra kubernetes manifests](https://github.com/DataDog/helm-charts/pull/1904) on [DataDog/helm-charts](https://github.com/DataDog/helm-charts) (1 week ago)
