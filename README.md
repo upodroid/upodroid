@@ -25,6 +25,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add datadog cost integration to gvce project and fix a few other dd bugs](https://github.com/kubernetes/k8s.io/pull/8260) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [use ghproxy in the test-pods namespace](https://github.com/kubernetes/test-infra/pull/35027) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [auto bump prow in test-infra](https://github.com/kubernetes/test-infra/pull/34993) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [deploy datadog to kops eks cluster and upgrade argocd](https://github.com/kubernetes/k8s.io/pull/8180) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
@@ -34,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [deploy datadog to GCP](https://github.com/kubernetes/k8s.io/pull/8175) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 - [set tolerations using presets](https://github.com/kubernetes-sigs/prow/pull/473) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (3 weeks ago)
 - [add c4 nodepool to trusted cluster](https://github.com/kubernetes/k8s.io/pull/8157) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 weeks ago)
-- [fix arm64 nodepool for kind](https://github.com/kubernetes/k8s.io/pull/8156) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
