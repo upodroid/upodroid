@@ -6,7 +6,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 weeks ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 weeks ago)
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management (4 weeks ago)
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management (1 month ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (1 month ago)
 - [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (2 months ago)
 - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (2 months ago)
@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.7](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.7), today) - Production-Grade Container Scheduling and Management
-- [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.7.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.7.0), 6 days ago) - Cloud provider for KIND clusters
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.11](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.11), 1 day ago) - Production-Grade Container Scheduling and Management
+- [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.7.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.7.0), 1 week ago) - Cloud provider for KIND clusters
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.15.0-alpha.1](https://github.com/kyverno/kyverno/releases/tag/v1.15.0-alpha.1), 1 week ago) - Cloud Native Policy Management
 - [istio/istio](https://github.com/istio/istio) ([1.26.2](https://github.com/istio/istio/releases/tag/1.26.2), 3 weeks ago) - Connect, secure, control, and observe services.
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.5.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.5.0), 5 months ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
