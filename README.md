@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.15.0-rc.3](https://github.com/kyverno/kyverno/releases/tag/v1.15.0-rc.3), 2 days ago) - Cloud Native Policy Management
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.15.0-rc.3](https://github.com/kyverno/kyverno/releases/tag/v1.15.0-rc.3), 3 days ago) - Cloud Native Policy Management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-beta.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.7.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.7.0), 2 weeks ago) - Cloud provider for KIND clusters
 - [istio/istio](https://github.com/istio/istio) ([1.26.2](https://github.com/istio/istio/releases/tag/1.26.2), 1 month ago) - Connect, secure, control, and observe services.
@@ -25,7 +25,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
-- [connect the s390x cluster to argocd](https://github.com/kubernetes/k8s.io/pull/8332) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
+- [connect the s390x cluster to argocd](https://github.com/kubernetes/k8s.io/pull/8332) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [Small improvements for loki and node-exporter graph](https://github.com/grafana/k8s-monitoring-helm/pull/1743) on [grafana/k8s-monitoring-helm](https://github.com/grafana/k8s-monitoring-helm) (2 weeks ago)
 - [add datadog cost integration to gvce project and fix a few other dd bugs](https://github.com/kubernetes/k8s.io/pull/8260) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 - [use ghproxy in the test-pods namespace](https://github.com/kubernetes/test-infra/pull/35027) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
