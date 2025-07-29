@@ -17,10 +17,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
+- [istio/istio](https://github.com/istio/istio) ([1.26.3](https://github.com/istio/istio/releases/tag/1.26.3), today) - Connect, secure, control, and observe services.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.15.0-rc.4](https://github.com/kyverno/kyverno/releases/tag/v1.15.0-rc.4), today) - Cloud Native Policy Management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-beta.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.7.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.7.0), 2 weeks ago) - Cloud provider for KIND clusters
-- [istio/istio](https://github.com/istio/istio) ([1.26.2](https://github.com/istio/istio/releases/tag/1.26.2), 1 month ago) - Connect, secure, control, and observe services.
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.5.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.5.0), 5 months ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 
 #### 🔨 My recent Pull Requests
