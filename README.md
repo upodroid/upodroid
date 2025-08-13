@@ -10,16 +10,16 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (2 months ago)
 - [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (3 months ago)
 - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (3 months ago)
-- [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) - Boskos is a resource management service that provides reservation and lifecycle management of a variety of different kinds of resources. (4 months ago)
+- [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) - Boskos is a resource management service that provides reservation and lifecycle management of a variety of different kinds of resources. (5 months ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (6 months ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (8 months ago)
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.15.1-rc.1](https://github.com/kyverno/kyverno/releases/tag/v1.15.1-rc.1), today) - Cloud Native Policy Management
-- [istio/istio](https://github.com/istio/istio) ([1.27.0](https://github.com/istio/istio/releases/tag/1.27.0), today) - Connect, secure, control, and observe services.
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-rc.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-rc.1), 3 days ago) - Production-Grade Container Scheduling and Management
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.15.1-rc.1](https://github.com/kyverno/kyverno/releases/tag/v1.15.1-rc.1), 1 day ago) - Cloud Native Policy Management
+- [istio/istio](https://github.com/istio/istio) ([1.27.0](https://github.com/istio/istio/releases/tag/1.27.0), 1 day ago) - Connect, secure, control, and observe services.
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-rc.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-rc.1), 4 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.7.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.7.0), 1 month ago) - Cloud provider for KIND clusters
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.5.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.5.0), 6 months ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 
