@@ -17,9 +17,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.12), today) - Production-Grade Container Scheduling and Management
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.15.1-rc.2](https://github.com/kyverno/kyverno/releases/tag/v1.15.1-rc.2), today) - Cloud Native Policy Management
-- [istio/istio](https://github.com/istio/istio) ([1.27.0](https://github.com/istio/istio/releases/tag/1.27.0), 1 day ago) - Connect, secure, control, and observe services.
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.12), 1 day ago) - Production-Grade Container Scheduling and Management
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.15.1-rc.2](https://github.com/kyverno/kyverno/releases/tag/v1.15.1-rc.2), 1 day ago) - Cloud Native Policy Management
+- [istio/istio](https://github.com/istio/istio) ([1.27.0](https://github.com/istio/istio/releases/tag/1.27.0), 2 days ago) - Connect, secure, control, and observe services.
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.7.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.7.0), 1 month ago) - Cloud provider for KIND clusters
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.5.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.5.0), 6 months ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 
@@ -30,7 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [Small improvements for loki and node-exporter graph](https://github.com/grafana/k8s-monitoring-helm/pull/1743) on [grafana/k8s-monitoring-helm](https://github.com/grafana/k8s-monitoring-helm) (1 month ago)
 - [add datadog cost integration to gvce project and fix a few other dd bugs](https://github.com/kubernetes/k8s.io/pull/8260) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [use ghproxy in the test-pods namespace](https://github.com/kubernetes/test-infra/pull/35027) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
-- [auto bump prow in test-infra](https://github.com/kubernetes/test-infra/pull/34993) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
+- [auto bump prow in test-infra](https://github.com/kubernetes/test-infra/pull/34993) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 months ago)
 - [deploy datadog to kops eks cluster and upgrade argocd](https://github.com/kubernetes/k8s.io/pull/8180) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
 - [use a base image that supports s390x/ppc64le](https://github.com/kyverno/kyverno/pull/13349) on [kyverno/kyverno](https://github.com/kyverno/kyverno) (2 months ago)
 - [bump atlantis and reconcile manual changes](https://github.com/kubernetes/k8s.io/pull/8176) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
