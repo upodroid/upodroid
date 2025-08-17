@@ -17,16 +17,16 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.15.1](https://github.com/kyverno/kyverno/releases/tag/v1.15.1), 1 day ago) - Cloud Native Policy Management
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.12), 3 days ago) - Production-Grade Container Scheduling and Management
-- [istio/istio](https://github.com/istio/istio) ([1.27.0](https://github.com/istio/istio/releases/tag/1.27.0), 4 days ago) - Connect, secure, control, and observe services.
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.15.1](https://github.com/kyverno/kyverno/releases/tag/v1.15.1), 2 days ago) - Cloud Native Policy Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.12), 4 days ago) - Production-Grade Container Scheduling and Management
+- [istio/istio](https://github.com/istio/istio) ([1.27.0](https://github.com/istio/istio/releases/tag/1.27.0), 5 days ago) - Connect, secure, control, and observe services.
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.7.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.7.0), 1 month ago) - Cloud provider for KIND clusters
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.5.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.5.0), 6 months ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 
 #### 🔨 My recent Pull Requests
 
-- [dump node info in the podinfo.json file](https://github.com/kubernetes-sigs/prow/pull/503) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (1 week ago)
-- [connect the s390x cluster to argocd](https://github.com/kubernetes/k8s.io/pull/8332) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
+- [dump node info in the podinfo.json file](https://github.com/kubernetes-sigs/prow/pull/503) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (2 weeks ago)
+- [connect the s390x cluster to argocd](https://github.com/kubernetes/k8s.io/pull/8332) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 - [Small improvements for loki and node-exporter graph](https://github.com/grafana/k8s-monitoring-helm/pull/1743) on [grafana/k8s-monitoring-helm](https://github.com/grafana/k8s-monitoring-helm) (1 month ago)
 - [add datadog cost integration to gvce project and fix a few other dd bugs](https://github.com/kubernetes/k8s.io/pull/8260) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [use ghproxy in the test-pods namespace](https://github.com/kubernetes/test-infra/pull/35027) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
