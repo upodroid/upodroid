@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 weeks ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 month ago)
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management (2 months ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (2 months ago)
 - [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (3 months ago)
@@ -25,6 +25,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix the arm64 conformance board](https://github.com/kubernetes/test-infra/pull/35341) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [rework the ibm testgrid dashboard](https://github.com/kubernetes/test-infra/pull/35340) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [deploy initial set of prowjobs on the s390x cluster](https://github.com/kubernetes/test-infra/pull/35339) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [add the s390x cluster to prow](https://github.com/kubernetes/k8s.io/pull/8412) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
@@ -34,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add datadog cost integration to gvce project and fix a few other dd bugs](https://github.com/kubernetes/k8s.io/pull/8260) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [use ghproxy in the test-pods namespace](https://github.com/kubernetes/test-infra/pull/35027) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
 - [auto bump prow in test-infra](https://github.com/kubernetes/test-infra/pull/34993) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 months ago)
-- [deploy datadog to kops eks cluster and upgrade argocd](https://github.com/kubernetes/k8s.io/pull/8180) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 months ago)
 
 #### ⭐ Recent Stars
 
