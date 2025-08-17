@@ -25,6 +25,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [drop stale inspur and huaweicloud conformance jobs](https://github.com/kubernetes/test-infra/pull/35343) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [drop duplicate gce conformance jobs](https://github.com/kubernetes/test-infra/pull/35342) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [fix the arm64 conformance board](https://github.com/kubernetes/test-infra/pull/35341) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [rework the ibm testgrid dashboard](https://github.com/kubernetes/test-infra/pull/35340) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [deploy initial set of prowjobs on the s390x cluster](https://github.com/kubernetes/test-infra/pull/35339) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
@@ -33,8 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [connect the s390x cluster to argocd](https://github.com/kubernetes/k8s.io/pull/8332) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 - [Small improvements for loki and node-exporter graph](https://github.com/grafana/k8s-monitoring-helm/pull/1743) on [grafana/k8s-monitoring-helm](https://github.com/grafana/k8s-monitoring-helm) (1 month ago)
 - [add datadog cost integration to gvce project and fix a few other dd bugs](https://github.com/kubernetes/k8s.io/pull/8260) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
-- [use ghproxy in the test-pods namespace](https://github.com/kubernetes/test-infra/pull/35027) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
-- [auto bump prow in test-infra](https://github.com/kubernetes/test-infra/pull/34993) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 months ago)
 
 #### ⭐ Recent Stars
 
