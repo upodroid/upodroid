@@ -25,6 +25,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add etcd robustness jobs for ppc64le/s390x](https://github.com/kubernetes/test-infra/pull/35347) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [drop stale inspur and huaweicloud conformance jobs](https://github.com/kubernetes/test-infra/pull/35343) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [drop duplicate gce conformance jobs](https://github.com/kubernetes/test-infra/pull/35342) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [fix the arm64 conformance board](https://github.com/kubernetes/test-infra/pull/35341) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -34,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [dump node info in the podinfo.json file](https://github.com/kubernetes-sigs/prow/pull/503) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (2 weeks ago)
 - [connect the s390x cluster to argocd](https://github.com/kubernetes/k8s.io/pull/8332) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 - [Small improvements for loki and node-exporter graph](https://github.com/grafana/k8s-monitoring-helm/pull/1743) on [grafana/k8s-monitoring-helm](https://github.com/grafana/k8s-monitoring-helm) (1 month ago)
-- [add datadog cost integration to gvce project and fix a few other dd bugs](https://github.com/kubernetes/k8s.io/pull/8260) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 
 #### ⭐ Recent Stars
 
