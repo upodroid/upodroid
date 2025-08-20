@@ -25,6 +25,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix broken kubetest2 aws node job](https://github.com/kubernetes/test-infra/pull/35359) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [bump elekto](https://github.com/kubernetes/k8s.io/pull/8427) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [drop race-detector-nonblocking job](https://github.com/kubernetes/test-infra/pull/35353) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [add etcd robustness jobs for ppc64le/s390x](https://github.com/kubernetes/test-infra/pull/35347) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [drop stale inspur and huaweicloud conformance jobs](https://github.com/kubernetes/test-infra/pull/35343) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
@@ -33,8 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [rework the ibm testgrid dashboard](https://github.com/kubernetes/test-infra/pull/35340) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [deploy initial set of prowjobs on the s390x cluster](https://github.com/kubernetes/test-infra/pull/35339) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [add the s390x cluster to prow](https://github.com/kubernetes/k8s.io/pull/8412) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
-- [dump node info in the podinfo.json file](https://github.com/kubernetes-sigs/prow/pull/503) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (2 weeks ago)
-- [connect the s390x cluster to argocd](https://github.com/kubernetes/k8s.io/pull/8332) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
