@@ -25,6 +25,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [move integration jobs to gke so they can run on newer hardware and use the kubekins-e2e v2 image](https://github.com/kubernetes/test-infra/pull/35416) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [adjust the integration tests cpu count](https://github.com/kubernetes/test-infra/pull/35407) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [create staging registry for minikube](https://github.com/kubernetes/k8s.io/pull/8448) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [create the k8s-infra-staging-minikube mailing list](https://github.com/kubernetes/k8s.io/pull/8447) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -34,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [drop race-detector-nonblocking job](https://github.com/kubernetes/test-infra/pull/35353) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [add etcd robustness jobs for ppc64le/s390x](https://github.com/kubernetes/test-infra/pull/35347) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [drop stale inspur and huaweicloud conformance jobs](https://github.com/kubernetes/test-infra/pull/35343) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [drop duplicate gce conformance jobs](https://github.com/kubernetes/test-infra/pull/35342) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
