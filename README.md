@@ -25,6 +25,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [adjust the integration tests cpu count](https://github.com/kubernetes/test-infra/pull/35407) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [create staging registry for minikube](https://github.com/kubernetes/k8s.io/pull/8448) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [create the k8s-infra-staging-minikube mailing list](https://github.com/kubernetes/k8s.io/pull/8447) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [downgrade elekto to 0.6.8](https://github.com/kubernetes/k8s.io/pull/8437) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
@@ -34,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add etcd robustness jobs for ppc64le/s390x](https://github.com/kubernetes/test-infra/pull/35347) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [drop stale inspur and huaweicloud conformance jobs](https://github.com/kubernetes/test-infra/pull/35343) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [drop duplicate gce conformance jobs](https://github.com/kubernetes/test-infra/pull/35342) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [fix the arm64 conformance board](https://github.com/kubernetes/test-infra/pull/35341) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
