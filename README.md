@@ -26,6 +26,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [remove gencred package](https://github.com/kubernetes/test-infra/pull/35449) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [remove flagutil pkg](https://github.com/kubernetes/test-infra/pull/35448) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [remove genyaml pkg](https://github.com/kubernetes/test-infra/pull/35446) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [configure non e2e k/k presubmits to use kubekins-e2e-v2 image](https://github.com/kubernetes/test-infra/pull/35445) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [bump tools in kubekins-e2e v2 image](https://github.com/kubernetes/test-infra/pull/35443) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [bump go version to 1.25](https://github.com/kubernetes-sigs/kubetest2/pull/295) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (today)
@@ -33,9 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [adjust the integration tests cpu count](https://github.com/kubernetes/test-infra/pull/35407) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [create staging registry for minikube](https://github.com/kubernetes/k8s.io/pull/8448) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [create the k8s-infra-staging-minikube mailing list](https://github.com/kubernetes/k8s.io/pull/8447) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
-- [downgrade elekto to 0.6.8](https://github.com/kubernetes/k8s.io/pull/8437) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [fix broken kubetest2 aws node job](https://github.com/kubernetes/test-infra/pull/35359) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [bump elekto](https://github.com/kubernetes/k8s.io/pull/8427) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
