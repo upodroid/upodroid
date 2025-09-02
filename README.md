@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump tools in kubekins-e2e v2 image](https://github.com/kubernetes/test-infra/pull/35443) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [bump go version to 1.25](https://github.com/kubernetes-sigs/kubetest2/pull/295) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (today)
 - [move integration jobs to gke so they can run on newer hardware and use the kubekins-e2e v2 image](https://github.com/kubernetes/test-infra/pull/35416) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [adjust the integration tests cpu count](https://github.com/kubernetes/test-infra/pull/35407) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix broken kubetest2 aws node job](https://github.com/kubernetes/test-infra/pull/35359) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [bump elekto](https://github.com/kubernetes/k8s.io/pull/8427) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [drop race-detector-nonblocking job](https://github.com/kubernetes/test-infra/pull/35353) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-- [add etcd robustness jobs for ppc64le/s390x](https://github.com/kubernetes/test-infra/pull/35347) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
