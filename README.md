@@ -4,21 +4,21 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
-- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (today)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (6 days ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
+- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 day ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (1 month ago)
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management (2 months ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 months ago)
-- [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (3 months ago)
-- [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (3 months ago)
+- [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (4 months ago)
+- [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (4 months ago)
 - [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) - (Asyncio OR Threadsafe) Google Cloud Client Library for Python (4 months ago)
 - [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) - Boskos is a resource management service that provides reservation and lifecycle management of a variety of different kinds of resources. (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) ([storage-9.6.0](https://github.com/talkiq/gcloud-aio/releases/tag/storage-9.6.0), 4 days ago) - (Asyncio OR Threadsafe) Google Cloud Client Library for Python
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0), 6 days ago) - Production-Grade Container Scheduling and Management
+- [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) ([storage-9.6.0](https://github.com/talkiq/gcloud-aio/releases/tag/storage-9.6.0), 5 days ago) - (Asyncio OR Threadsafe) Google Cloud Client Library for Python
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.15.1](https://github.com/kyverno/kyverno/releases/tag/v1.15.1), 2 weeks ago) - Cloud Native Policy Management
 - [istio/istio](https://github.com/istio/istio) ([1.27.0](https://github.com/istio/istio/releases/tag/1.27.0), 3 weeks ago) - Connect, secure, control, and observe services.
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.7.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.7.0), 1 month ago) - Cloud provider for KIND clusters
@@ -26,16 +26,16 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
-- [remove gencred package](https://github.com/kubernetes/test-infra/pull/35449) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
-- [remove flagutil pkg](https://github.com/kubernetes/test-infra/pull/35448) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
-- [remove genyaml pkg](https://github.com/kubernetes/test-infra/pull/35446) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
-- [configure non e2e k/k presubmits to use kubekins-e2e-v2 image](https://github.com/kubernetes/test-infra/pull/35445) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
-- [bump tools in kubekins-e2e v2 image](https://github.com/kubernetes/test-infra/pull/35443) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
-- [bump go version to 1.25](https://github.com/kubernetes-sigs/kubetest2/pull/295) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (today)
-- [move integration jobs to gke so they can run on newer hardware and use the kubekins-e2e v2 image](https://github.com/kubernetes/test-infra/pull/35416) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
-- [adjust the integration tests cpu count](https://github.com/kubernetes/test-infra/pull/35407) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
-- [create staging registry for minikube](https://github.com/kubernetes/k8s.io/pull/8448) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
-- [create the k8s-infra-staging-minikube mailing list](https://github.com/kubernetes/k8s.io/pull/8447) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
+- [remove gencred package](https://github.com/kubernetes/test-infra/pull/35449) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [remove flagutil pkg](https://github.com/kubernetes/test-infra/pull/35448) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [remove genyaml pkg](https://github.com/kubernetes/test-infra/pull/35446) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [configure non e2e k/k presubmits to use kubekins-e2e-v2 image](https://github.com/kubernetes/test-infra/pull/35445) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [bump tools in kubekins-e2e v2 image](https://github.com/kubernetes/test-infra/pull/35443) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [bump go version to 1.25](https://github.com/kubernetes-sigs/kubetest2/pull/295) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 day ago)
+- [move integration jobs to gke so they can run on newer hardware and use the kubekins-e2e v2 image](https://github.com/kubernetes/test-infra/pull/35416) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
+- [adjust the integration tests cpu count](https://github.com/kubernetes/test-infra/pull/35407) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
+- [create staging registry for minikube](https://github.com/kubernetes/k8s.io/pull/8448) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
+- [create the k8s-infra-staging-minikube mailing list](https://github.com/kubernetes/k8s.io/pull/8447) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
