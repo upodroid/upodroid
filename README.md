@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump groups dependencies](https://github.com/kubernetes/k8s.io/pull/8480) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [fix broken verify job](https://github.com/kubernetes-sigs/kubetest2/pull/297) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 day ago)
 - [remove gencred package](https://github.com/kubernetes/test-infra/pull/35449) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [remove flagutil pkg](https://github.com/kubernetes/test-infra/pull/35448) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump go version to 1.25](https://github.com/kubernetes-sigs/kubetest2/pull/295) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (3 days ago)
 - [move integration jobs to gke so they can run on newer hardware and use the kubekins-e2e v2 image](https://github.com/kubernetes/test-infra/pull/35416) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [adjust the integration tests cpu count](https://github.com/kubernetes/test-infra/pull/35407) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [create staging registry for minikube](https://github.com/kubernetes/k8s.io/pull/8448) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
