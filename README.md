@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.5](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.5), today) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), today) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.8.0-alpha.1](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.8.0-alpha.1), 3 days ago) - Cloud provider for KIND clusters
 - [istio/istio](https://github.com/istio/istio) ([1.26.4](https://github.com/istio/istio/releases/tag/1.26.4), 1 week ago) - Connect, secure, control, and observe services.
 - [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) ([storage-9.6.0](https://github.com/talkiq/gcloud-aio/releases/tag/storage-9.6.0), 1 week ago) - (Asyncio OR Threadsafe) Google Cloud Client Library for Python
