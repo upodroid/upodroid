@@ -26,6 +26,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [update image promotion doc](https://github.com/kubernetes/k8s.io/pull/8492) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
+- [add minikube image build jobs](https://github.com/kubernetes/test-infra/pull/35505) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [add pull-kubernetes-integration-s390x/ppc64le jobs](https://github.com/kubernetes/test-infra/pull/35487) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [run k/k integration tests on ibm hardware](https://github.com/kubernetes/test-infra/pull/35482) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [upgrade boskos to drop k/test-infra references](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/pull/2165) on [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) (5 days ago)
@@ -34,8 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [remove gencred package](https://github.com/kubernetes/test-infra/pull/35449) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [remove flagutil pkg](https://github.com/kubernetes/test-infra/pull/35448) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [remove genyaml pkg](https://github.com/kubernetes/test-infra/pull/35446) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [configure non e2e k/k presubmits to use kubekins-e2e-v2 image](https://github.com/kubernetes/test-infra/pull/35445) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [bump tools in kubekins-e2e v2 image](https://github.com/kubernetes/test-infra/pull/35443) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
