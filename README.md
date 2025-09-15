@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [delete boskos folder](https://github.com/kubernetes/test-infra/pull/35530) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [add initial minikube integration job](https://github.com/kubernetes/test-infra/pull/35521) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [update image promotion doc](https://github.com/kubernetes/k8s.io/pull/8492) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [add minikube image build jobs](https://github.com/kubernetes/test-infra/pull/35505) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump groups dependencies](https://github.com/kubernetes/k8s.io/pull/8480) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [fix broken verify job](https://github.com/kubernetes-sigs/kubetest2/pull/297) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 week ago)
 - [remove gencred package](https://github.com/kubernetes/test-infra/pull/35449) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [remove flagutil pkg](https://github.com/kubernetes/test-infra/pull/35448) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
