@@ -17,11 +17,11 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.15.2-rc.1](https://github.com/kyverno/kyverno/releases/tag/v1.15.2-rc.1), today) - Cloud Native Policy Management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.8.0-alpha.1](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.8.0-alpha.1), 1 week ago) - Cloud provider for KIND clusters
 - [istio/istio](https://github.com/istio/istio) ([1.26.4](https://github.com/istio/istio/releases/tag/1.26.4), 2 weeks ago) - Connect, secure, control, and observe services.
 - [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) ([storage-9.6.0](https://github.com/talkiq/gcloud-aio/releases/tag/storage-9.6.0), 2 weeks ago) - (Asyncio OR Threadsafe) Google Cloud Client Library for Python
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.15.1](https://github.com/kyverno/kyverno/releases/tag/v1.15.1), 1 month ago) - Cloud Native Policy Management
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.5.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.5.0), 7 months ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 
 #### 🔨 My recent Pull Requests
