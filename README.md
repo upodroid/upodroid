@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix a typo in function name](https://github.com/kubernetes-sigs/boskos/pull/238) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (today)
 - [enable multiarch support in prowjobs](https://github.com/kubernetes/test-infra/pull/35536) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [delete boskos folder](https://github.com/kubernetes/test-infra/pull/35530) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [add initial minikube integration job](https://github.com/kubernetes/test-infra/pull/35521) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [run k/k integration tests on ibm hardware](https://github.com/kubernetes/test-infra/pull/35482) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [upgrade boskos to drop k/test-infra references](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/pull/2165) on [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) (1 week ago)
 - [bump groups dependencies](https://github.com/kubernetes/k8s.io/pull/8480) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [fix broken verify job](https://github.com/kubernetes-sigs/kubetest2/pull/297) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
