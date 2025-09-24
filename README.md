@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [automatically merge dependabot changes](https://github.com/knative/infra/pull/716) on [knative/infra](https://github.com/knative/infra) (today)
 - [run the initial set of e2e prow job](https://github.com/kubernetes/minikube/pull/21607) on [kubernetes/minikube](https://github.com/kubernetes/minikube) (4 days ago)
 - [fix a typo in function name](https://github.com/kubernetes-sigs/boskos/pull/238) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (6 days ago)
 - [enable multiarch support in prowjobs](https://github.com/kubernetes/test-infra/pull/35536) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add minikube image build jobs](https://github.com/kubernetes/test-infra/pull/35505) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [add pull-kubernetes-integration-s390x/ppc64le jobs](https://github.com/kubernetes/test-infra/pull/35487) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [run k/k integration tests on ibm hardware](https://github.com/kubernetes/test-infra/pull/35482) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-- [upgrade boskos to drop k/test-infra references](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/pull/2165) on [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
