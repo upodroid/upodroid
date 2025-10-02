@@ -4,6 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (today)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 week ago)
 - [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) - Boskos is a resource management service that provides reservation and lifecycle management of a variety of different kinds of resources. (2 weeks ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 weeks ago)
@@ -11,7 +12,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (4 weeks ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (2 months ago)
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management (3 months ago)
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (4 months ago)
 - [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (4 months ago)
 - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (4 months ago)
 
@@ -25,6 +25,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [Automated cherry pick of #134377: upgrade to cos 121](https://github.com/kubernetes/kubernetes/pull/134383) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
+- [Automated cherry pick of #134377: upgrade to cos 121](https://github.com/kubernetes/kubernetes/pull/134382) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [upgrade to cos 121](https://github.com/kubernetes/kubernetes/pull/134377) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [cos patch](https://github.com/borg-land/kubernetes/pull/1) on [borg-land/kubernetes](https://github.com/borg-land/kubernetes) (today)
 - [deploy datadog to gke clusters](https://github.com/kubernetes/k8s.io/pull/8589) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -33,8 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix a typo in function name](https://github.com/kubernetes-sigs/boskos/pull/238) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (2 weeks ago)
 - [enable multiarch support in prowjobs](https://github.com/kubernetes/test-infra/pull/35536) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [delete boskos folder](https://github.com/kubernetes/test-infra/pull/35530) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-- [add initial minikube integration job](https://github.com/kubernetes/test-infra/pull/35521) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-- [update image promotion doc](https://github.com/kubernetes/k8s.io/pull/8492) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
