@@ -25,6 +25,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [check if master image project is set](https://github.com/kubernetes/kubernetes/pull/134377) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
+- [cos patch](https://github.com/borg-land/kubernetes/pull/1) on [borg-land/kubernetes](https://github.com/borg-land/kubernetes) (today)
 - [deploy datadog to gke clusters](https://github.com/kubernetes/k8s.io/pull/8589) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [automatically merge dependabot changes](https://github.com/knative/infra/pull/716) on [knative/infra](https://github.com/knative/infra) (1 week ago)
 - [run the initial set of e2e prow job](https://github.com/kubernetes/minikube/pull/21607) on [kubernetes/minikube](https://github.com/kubernetes/minikube) (1 week ago)
@@ -33,8 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [delete boskos folder](https://github.com/kubernetes/test-infra/pull/35530) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [add initial minikube integration job](https://github.com/kubernetes/test-infra/pull/35521) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [update image promotion doc](https://github.com/kubernetes/k8s.io/pull/8492) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
-- [add minikube image build jobs](https://github.com/kubernetes/test-infra/pull/35505) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
-- [add pull-kubernetes-integration-s390x/ppc64le jobs](https://github.com/kubernetes/test-infra/pull/35487) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
