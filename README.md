@@ -25,7 +25,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
-- [check if master image project is set](https://github.com/kubernetes/kubernetes/pull/134377) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
+- [upgrade to cos 121](https://github.com/kubernetes/kubernetes/pull/134377) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [cos patch](https://github.com/borg-land/kubernetes/pull/1) on [borg-land/kubernetes](https://github.com/borg-land/kubernetes) (today)
 - [deploy datadog to gke clusters](https://github.com/kubernetes/k8s.io/pull/8589) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [automatically merge dependabot changes](https://github.com/knative/infra/pull/716) on [knative/infra](https://github.com/knative/infra) (1 week ago)
