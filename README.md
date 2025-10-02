@@ -25,6 +25,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [debug kail rbac errors](https://github.com/knative/serving/pull/16107) on [knative/serving](https://github.com/knative/serving) (today)
 - [Automated cherry pick of #134377: upgrade to cos 121](https://github.com/kubernetes/kubernetes/pull/134383) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [Automated cherry pick of #134377: upgrade to cos 121](https://github.com/kubernetes/kubernetes/pull/134382) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [upgrade to cos 121](https://github.com/kubernetes/kubernetes/pull/134377) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
@@ -34,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [run the initial set of e2e prow job](https://github.com/kubernetes/minikube/pull/21607) on [kubernetes/minikube](https://github.com/kubernetes/minikube) (1 week ago)
 - [fix a typo in function name](https://github.com/kubernetes-sigs/boskos/pull/238) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (2 weeks ago)
 - [enable multiarch support in prowjobs](https://github.com/kubernetes/test-infra/pull/35536) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-- [delete boskos folder](https://github.com/kubernetes/test-infra/pull/35530) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
