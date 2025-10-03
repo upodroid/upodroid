@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (today)
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 day ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 week ago)
 - [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) - Boskos is a resource management service that provides reservation and lifecycle management of a variety of different kinds of resources. (2 weeks ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 weeks ago)
@@ -12,12 +12,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (4 weeks ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (2 months ago)
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management (3 months ago)
-- [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (4 months ago)
-- [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (4 months ago)
+- [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (5 months ago)
+- [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.8.0-alpha.2](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.8.0-alpha.2), 6 days ago) - Cloud provider for KIND clusters
+- [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.8.0-alpha.2](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.8.0-alpha.2), 1 week ago) - Cloud provider for KIND clusters
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.15.2](https://github.com/kyverno/kyverno/releases/tag/v1.15.2), 2 weeks ago) - Cloud Native Policy Management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), 3 weeks ago) - Production-Grade Container Scheduling and Management
 - [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) ([storage-9.6.0](https://github.com/talkiq/gcloud-aio/releases/tag/storage-9.6.0), 1 month ago) - (Asyncio OR Threadsafe) Google Cloud Client Library for Python
@@ -25,13 +25,13 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
-- [fix device-plugin-gpu job](https://github.com/kubernetes/test-infra/pull/35631) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
-- [debug kail rbac errors](https://github.com/knative/serving/pull/16107) on [knative/serving](https://github.com/knative/serving) (today)
-- [Automated cherry pick of #134377: upgrade to cos 121](https://github.com/kubernetes/kubernetes/pull/134383) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
-- [Automated cherry pick of #134377: upgrade to cos 121](https://github.com/kubernetes/kubernetes/pull/134382) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
-- [upgrade to cos 121](https://github.com/kubernetes/kubernetes/pull/134377) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
-- [cos patch](https://github.com/borg-land/kubernetes/pull/1) on [borg-land/kubernetes](https://github.com/borg-land/kubernetes) (today)
-- [deploy datadog to gke clusters](https://github.com/kubernetes/k8s.io/pull/8589) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
+- [fix device-plugin-gpu job](https://github.com/kubernetes/test-infra/pull/35631) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [debug kail rbac errors](https://github.com/knative/serving/pull/16107) on [knative/serving](https://github.com/knative/serving) (1 day ago)
+- [Automated cherry pick of #134377: upgrade to cos 121](https://github.com/kubernetes/kubernetes/pull/134383) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
+- [Automated cherry pick of #134377: upgrade to cos 121](https://github.com/kubernetes/kubernetes/pull/134382) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
+- [upgrade to cos 121](https://github.com/kubernetes/kubernetes/pull/134377) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
+- [cos patch](https://github.com/borg-land/kubernetes/pull/1) on [borg-land/kubernetes](https://github.com/borg-land/kubernetes) (1 day ago)
+- [deploy datadog to gke clusters](https://github.com/kubernetes/k8s.io/pull/8589) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [automatically merge dependabot changes](https://github.com/knative/infra/pull/716) on [knative/infra](https://github.com/knative/infra) (1 week ago)
 - [run the initial set of e2e prow job](https://github.com/kubernetes/minikube/pull/21607) on [kubernetes/minikube](https://github.com/kubernetes/minikube) (1 week ago)
 - [fix a typo in function name](https://github.com/kubernetes-sigs/boskos/pull/238) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (2 weeks ago)
