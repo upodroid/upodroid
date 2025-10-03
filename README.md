@@ -25,6 +25,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add provider &amp; label filter flag](https://github.com/kubernetes-sigs/kubetest2/pull/300) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (today)
 - [fix device-plugin-gpu job](https://github.com/kubernetes/test-infra/pull/35631) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [debug kail rbac errors](https://github.com/knative/serving/pull/16107) on [knative/serving](https://github.com/knative/serving) (1 day ago)
 - [Automated cherry pick of #134377: upgrade to cos 121](https://github.com/kubernetes/kubernetes/pull/134383) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
@@ -34,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [deploy datadog to gke clusters](https://github.com/kubernetes/k8s.io/pull/8589) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [automatically merge dependabot changes](https://github.com/knative/infra/pull/716) on [knative/infra](https://github.com/knative/infra) (1 week ago)
 - [run the initial set of e2e prow job](https://github.com/kubernetes/minikube/pull/21607) on [kubernetes/minikube](https://github.com/kubernetes/minikube) (1 week ago)
-- [fix a typo in function name](https://github.com/kubernetes-sigs/boskos/pull/238) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
