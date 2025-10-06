@@ -25,6 +25,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [create a pull-kubernetes-e2e-gce-kubetest2 job](https://github.com/kubernetes/test-infra/pull/35650) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [add single process oom kill kubeletconfig to GKE nodes](https://github.com/kubernetes/k8s.io/pull/8600) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [add provider &amp; label filter flag](https://github.com/kubernetes-sigs/kubetest2/pull/300) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (3 days ago)
 - [fix device-plugin-gpu job](https://github.com/kubernetes/test-infra/pull/35631) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
@@ -34,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [upgrade to cos 121](https://github.com/kubernetes/kubernetes/pull/134377) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
 - [cos patch](https://github.com/borg-land/kubernetes/pull/1) on [borg-land/kubernetes](https://github.com/borg-land/kubernetes) (4 days ago)
 - [deploy datadog to gke clusters](https://github.com/kubernetes/k8s.io/pull/8589) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [automatically merge dependabot changes](https://github.com/knative/infra/pull/716) on [knative/infra](https://github.com/knative/infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
