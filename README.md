@@ -25,6 +25,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [improve kubeup env parameters](https://github.com/kubernetes/kubernetes/pull/134461) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [move 3 scale projects to the 5k scale pool](https://github.com/kubernetes/k8s.io/pull/8602) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [create a pull-kubernetes-e2e-gce-kubetest2 job](https://github.com/kubernetes/test-infra/pull/35650) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [add single process oom kill kubeletconfig to GKE nodes](https://github.com/kubernetes/k8s.io/pull/8600) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
@@ -34,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [Automated cherry pick of #134377: upgrade to cos 121](https://github.com/kubernetes/kubernetes/pull/134383) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
 - [Automated cherry pick of #134377: upgrade to cos 121](https://github.com/kubernetes/kubernetes/pull/134382) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
 - [upgrade to cos 121](https://github.com/kubernetes/kubernetes/pull/134377) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
-- [cos patch](https://github.com/borg-land/kubernetes/pull/1) on [borg-land/kubernetes](https://github.com/borg-land/kubernetes) (5 days ago)
 
 #### ⭐ Recent Stars
 
