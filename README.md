@@ -25,6 +25,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [run scale tests on kops](https://github.com/kubernetes/kops/pull/17651) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [use workload identity and create a presubmit job using the latest ubuntu lts](https://github.com/kubernetes/test-infra/pull/35658) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [create the scale-cache-puller in the prow-build project](https://github.com/kubernetes/k8s.io/pull/8612) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [improve kubeup env parameters](https://github.com/kubernetes/kubernetes/pull/134461) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
@@ -34,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add provider &amp; label filter flag](https://github.com/kubernetes-sigs/kubetest2/pull/300) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (5 days ago)
 - [fix device-plugin-gpu job](https://github.com/kubernetes/test-infra/pull/35631) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [debug kail rbac errors](https://github.com/knative/serving/pull/16107) on [knative/serving](https://github.com/knative/serving) (6 days ago)
-- [Automated cherry pick of #134377: upgrade to cos 121](https://github.com/kubernetes/kubernetes/pull/134383) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
 
 #### ⭐ Recent Stars
 
