@@ -25,6 +25,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add `boskos-resource-type` flag](https://github.com/kubernetes-sigs/kubetest2/pull/302) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (today)
 - [bump cos-gpu-installer to support cos 121](https://github.com/kubernetes/kubernetes/pull/134495) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [fix broken GPU jobs](https://github.com/kubernetes/test-infra/pull/35661) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [fix complex env variables](https://github.com/kubernetes-sigs/kubetest2/pull/301) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 day ago)
@@ -34,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [improve kubeup env parameters](https://github.com/kubernetes/kubernetes/pull/134461) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 - [move 3 scale projects to the 5k scale pool](https://github.com/kubernetes/k8s.io/pull/8602) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [create a pull-kubernetes-e2e-gce-kubetest2 job](https://github.com/kubernetes/test-infra/pull/35650) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [add single process oom kill kubeletconfig to GKE nodes](https://github.com/kubernetes/k8s.io/pull/8600) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 
 #### ⭐ Recent Stars
 
