@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 day ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 day ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 days ago)
@@ -25,6 +25,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [use a different zone for GPU jobs](https://github.com/kubernetes/test-infra/pull/35674) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [fix typo on GPU jobs](https://github.com/kubernetes/test-infra/pull/35667) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [add `boskos-resource-type` flag](https://github.com/kubernetes-sigs/kubetest2/pull/302) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 day ago)
 - [bump cos-gpu-installer to support cos 121](https://github.com/kubernetes/kubernetes/pull/134495) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
@@ -34,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [use workload identity and create a presubmit job using the latest ubuntu lts](https://github.com/kubernetes/test-infra/pull/35658) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [create the scale-cache-puller in the prow-build project](https://github.com/kubernetes/k8s.io/pull/8612) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [improve kubeup env parameters](https://github.com/kubernetes/kubernetes/pull/134461) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
-- [move 3 scale projects to the 5k scale pool](https://github.com/kubernetes/k8s.io/pull/8602) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 
 #### ⭐ Recent Stars
 
