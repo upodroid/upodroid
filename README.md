@@ -25,6 +25,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [remove duplicate GPU job](https://github.com/kubernetes/test-infra/pull/35681) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [copy over k/test-infra log-dump.sh script &amp; get ubuntu 24.04 kube up clusters to pass](https://github.com/kubernetes/kubernetes/pull/134544) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [use a different zone for GPU jobs](https://github.com/kubernetes/test-infra/pull/35674) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [fix typo on GPU jobs](https://github.com/kubernetes/test-infra/pull/35667) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -34,7 +35,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix complex env variables](https://github.com/kubernetes-sigs/kubetest2/pull/301) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (3 days ago)
 - [gce: run scale tests on kops](https://github.com/kubernetes/kops/pull/17651) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
 - [use workload identity and create a presubmit job using the latest ubuntu lts](https://github.com/kubernetes/test-infra/pull/35658) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [create the scale-cache-puller in the prow-build project](https://github.com/kubernetes/k8s.io/pull/8612) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 
 #### ⭐ Recent Stars
 
