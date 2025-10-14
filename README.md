@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [create new 5k dra job](https://github.com/kubernetes/test-infra/pull/35700) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [allow repeated --test-overrides &amp; --test-configs to work for cl2](https://github.com/kubernetes-sigs/kubetest2/pull/303) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (today)
 - [start running the access tokens and huge services test](https://github.com/kubernetes/kops/pull/17671) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [create new kops scale jobs](https://github.com/kubernetes/test-infra/pull/35687) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [use a different zone for GPU jobs](https://github.com/kubernetes/test-infra/pull/35674) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [fix typo on GPU jobs](https://github.com/kubernetes/test-infra/pull/35667) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [add `boskos-resource-type` flag](https://github.com/kubernetes-sigs/kubetest2/pull/302) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (5 days ago)
-- [bump cos-gpu-installer to support cos 121](https://github.com/kubernetes/kubernetes/pull/134495) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
 
 #### ⭐ Recent Stars
 
