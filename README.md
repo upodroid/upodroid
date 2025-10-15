@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (today)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 days ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (4 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump yq in kubekins-e2e](https://github.com/kubernetes/test-infra/pull/35705) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [create new 5k dra job](https://github.com/kubernetes/test-infra/pull/35700) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [allow repeated --test-overrides &amp; --test-configs to work for cl2](https://github.com/kubernetes-sigs/kubetest2/pull/303) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 day ago)
 - [start running the access tokens and huge services test](https://github.com/kubernetes/kops/pull/17671) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [copy over k/test-infra log-dump.sh script &amp; get ubuntu 24.04 kube up clusters to pass](https://github.com/kubernetes/kubernetes/pull/134544) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
 - [use a different zone for GPU jobs](https://github.com/kubernetes/test-infra/pull/35674) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [fix typo on GPU jobs](https://github.com/kubernetes/test-infra/pull/35667) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [add `boskos-resource-type` flag](https://github.com/kubernetes-sigs/kubetest2/pull/302) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (6 days ago)
 
 #### ⭐ Recent Stars
 
