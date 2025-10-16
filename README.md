@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [delete etcdadm image promoter files](https://github.com/kubernetes/k8s.io/pull/8656) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [allow specific GCE IGs to have public IP addresses](https://github.com/kubernetes/kops/pull/17680) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [bump yq in kubekins-e2e](https://github.com/kubernetes/test-infra/pull/35705) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [create new 5k dra job](https://github.com/kubernetes/test-infra/pull/35700) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix broken gce jobs](https://github.com/kubernetes/kubernetes/pull/134567) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
 - [remove duplicate GPU job](https://github.com/kubernetes/test-infra/pull/35681) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [copy over k/test-infra log-dump.sh script &amp; get ubuntu 24.04 kube up clusters to pass](https://github.com/kubernetes/kubernetes/pull/134544) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
-- [use a different zone for GPU jobs](https://github.com/kubernetes/test-infra/pull/35674) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 
 #### ⭐ Recent Stars
 
