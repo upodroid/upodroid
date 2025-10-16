@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add support for specifying iops and thoroughput when using hyperdisks](https://github.com/kubernetes/kops/pull/17685) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [use T4 GPUs for testing gpu device-plugin drivers](https://github.com/kubernetes/test-infra/pull/35725) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [delete etcdadm image promoter files](https://github.com/kubernetes/k8s.io/pull/8656) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [allow specific GCE IGs to have public IP addresses](https://github.com/kubernetes/kops/pull/17680) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [start running the access tokens and huge services test](https://github.com/kubernetes/kops/pull/17671) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [create new kops scale jobs](https://github.com/kubernetes/test-infra/pull/35687) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [fix broken gce jobs](https://github.com/kubernetes/kubernetes/pull/134567) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
-- [remove duplicate GPU job](https://github.com/kubernetes/test-infra/pull/35681) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 
 #### ⭐ Recent Stars
 
