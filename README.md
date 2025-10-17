@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix notfound backendservice/healthchekc](https://github.com/kubernetes/kops/pull/17692) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [go back to running GPU jobs in us-central1-b](https://github.com/kubernetes/test-infra/pull/35730) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [add support for specifying iops and thoroughput when using hyperdisks](https://github.com/kubernetes/kops/pull/17685) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [use T4 GPUs for testing gpu device-plugin drivers](https://github.com/kubernetes/test-infra/pull/35725) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [create new 5k dra job](https://github.com/kubernetes/test-infra/pull/35700) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [allow repeated --test-overrides &amp; --test-configs to work for cl2](https://github.com/kubernetes-sigs/kubetest2/pull/303) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (3 days ago)
 - [start running the access tokens and huge services test](https://github.com/kubernetes/kops/pull/17671) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
-- [create new kops scale jobs](https://github.com/kubernetes/test-infra/pull/35687) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 
 #### ⭐ Recent Stars
 
