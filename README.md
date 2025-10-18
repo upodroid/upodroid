@@ -26,6 +26,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [drop unused sig-auth staging registry](https://github.com/kubernetes/k8s.io/pull/8661) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
+- [drop storage migrator registry](https://github.com/kubernetes/k8s.io/pull/8660) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [fix notfound backendservice/healthchekc](https://github.com/kubernetes/kops/pull/17692) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [go back to running GPU jobs in us-central1-b](https://github.com/kubernetes/test-infra/pull/35730) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [add support for specifying iops and thoroughput when using hyperdisks](https://github.com/kubernetes/kops/pull/17685) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
@@ -34,8 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [allow specific GCE IGs to have public IP addresses](https://github.com/kubernetes/kops/pull/17680) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
 - [bump yq in kubekins-e2e](https://github.com/kubernetes/test-infra/pull/35705) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [create new 5k dra job](https://github.com/kubernetes/test-infra/pull/35700) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
-- [allow repeated --test-overrides &amp; --test-configs to work for cl2](https://github.com/kubernetes-sigs/kubetest2/pull/303) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (4 days ago)
-- [start running the access tokens and huge services test](https://github.com/kubernetes/kops/pull/17671) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 days ago)
 
 #### ⭐ Recent Stars
 
