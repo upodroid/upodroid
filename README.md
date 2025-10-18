@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [drop kubebuilder staging registry](https://github.com/kubernetes/k8s.io/pull/8662) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [drop unused sig-auth staging registry](https://github.com/kubernetes/k8s.io/pull/8661) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [drop storage migrator registry](https://github.com/kubernetes/k8s.io/pull/8660) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [fix notfound backendservice/healthchekc](https://github.com/kubernetes/kops/pull/17692) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [delete etcdadm image promoter files](https://github.com/kubernetes/k8s.io/pull/8656) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [allow specific GCE IGs to have public IP addresses](https://github.com/kubernetes/kops/pull/17680) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
 - [bump yq in kubekins-e2e](https://github.com/kubernetes/test-infra/pull/35705) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [create new 5k dra job](https://github.com/kubernetes/test-infra/pull/35700) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 
 #### ⭐ Recent Stars
 
