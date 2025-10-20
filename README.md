@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 days ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (3 days ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (5 days ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 week ago)
@@ -26,6 +26,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [cancel the per sig nodepool experiment](https://github.com/kubernetes/test-infra/pull/35741) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [enable nested virt &amp; set single process oom kill](https://github.com/kubernetes/k8s.io/pull/8672) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [gce: configure public SSH rules when using bastions](https://github.com/kubernetes/kops/pull/17697) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [dop unused k8s-staging-windows-svc-proxy](https://github.com/kubernetes/k8s.io/pull/8664) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [drop kubebuilder staging registry](https://github.com/kubernetes/k8s.io/pull/8662) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
@@ -34,8 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix notfound backendservice/healthchekc](https://github.com/kubernetes/kops/pull/17692) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
 - [go back to running GPU jobs in us-central1-b](https://github.com/kubernetes/test-infra/pull/35730) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [add support for specifying iops and thoroughput when using hyperdisks](https://github.com/kubernetes/kops/pull/17685) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 days ago)
-- [use T4 GPUs for testing gpu device-plugin drivers](https://github.com/kubernetes/test-infra/pull/35725) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
-- [delete etcdadm image promoter files](https://github.com/kubernetes/k8s.io/pull/8656) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 
 #### ⭐ Recent Stars
 
