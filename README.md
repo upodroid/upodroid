@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [gce: configure public SSH rules when using bastions](https://github.com/kubernetes/kops/pull/17697) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [dop unused k8s-staging-windows-svc-proxy](https://github.com/kubernetes/k8s.io/pull/8664) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [drop kubebuilder staging registry](https://github.com/kubernetes/k8s.io/pull/8662) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [drop unused sig-auth staging registry](https://github.com/kubernetes/k8s.io/pull/8661) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add support for specifying iops and thoroughput when using hyperdisks](https://github.com/kubernetes/kops/pull/17685) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 days ago)
 - [use T4 GPUs for testing gpu device-plugin drivers](https://github.com/kubernetes/test-infra/pull/35725) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [delete etcdadm image promoter files](https://github.com/kubernetes/k8s.io/pull/8656) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
-- [allow specific GCE IGs to have public IP addresses](https://github.com/kubernetes/kops/pull/17680) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
 
 #### ⭐ Recent Stars
 
