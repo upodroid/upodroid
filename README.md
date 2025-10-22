@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix missing project id and delete deprecated LegacyIsMasterNode function](https://github.com/kubernetes/perf-tests/pull/3653) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (today)
 - [bump kops-controller qps limits](https://github.com/kubernetes/kops/pull/17701) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [cancel the per sig nodepool experiment](https://github.com/kubernetes/test-infra/pull/35741) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [enable nested virt &amp; set single process oom kill](https://github.com/kubernetes/k8s.io/pull/8672) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [drop unused sig-auth staging registry](https://github.com/kubernetes/k8s.io/pull/8661) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [drop storage migrator registry](https://github.com/kubernetes/k8s.io/pull/8660) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [fix notfound backendservice/healthchekc](https://github.com/kubernetes/kops/pull/17692) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
-- [go back to running GPU jobs in us-central1-b](https://github.com/kubernetes/test-infra/pull/35730) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 
 #### ⭐ Recent Stars
 
