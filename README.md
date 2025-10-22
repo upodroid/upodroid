@@ -17,15 +17,16 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.2), today) - Production-Grade Container Scheduling and Management
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.34.0](https://github.com/kubernetes/kops/releases/tag/v1.34.0), 1 day ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.8.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.8.0), 1 week ago) - Cloud provider for KIND clusters
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.1), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.15.2](https://github.com/kyverno/kyverno/releases/tag/v1.15.2), 1 month ago) - Cloud Native Policy Management
 - [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) ([storage-9.6.0](https://github.com/talkiq/gcloud-aio/releases/tag/storage-9.6.0), 1 month ago) - (Asyncio OR Threadsafe) Google Cloud Client Library for Python
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.5.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.5.0), 8 months ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 
 #### 🔨 My recent Pull Requests
 
+- [bump atlantis and configure it to run against our AWS organization](https://github.com/kubernetes/k8s.io/pull/8684) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [fix missing project id and delete deprecated LegacyIsMasterNode function](https://github.com/kubernetes/perf-tests/pull/3653) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (today)
 - [bump kops-controller qps limits](https://github.com/kubernetes/kops/pull/17701) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [cancel the per sig nodepool experiment](https://github.com/kubernetes/test-infra/pull/35741) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [drop kubebuilder staging registry](https://github.com/kubernetes/k8s.io/pull/8662) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [drop unused sig-auth staging registry](https://github.com/kubernetes/k8s.io/pull/8661) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [drop storage migrator registry](https://github.com/kubernetes/k8s.io/pull/8660) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
-- [fix notfound backendservice/healthchekc](https://github.com/kubernetes/kops/pull/17692) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
 
 #### ⭐ Recent Stars
 
