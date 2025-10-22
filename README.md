@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump kops-controller qps limits](https://github.com/kubernetes/kops/pull/17701) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [cancel the per sig nodepool experiment](https://github.com/kubernetes/test-infra/pull/35741) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [enable nested virt &amp; set single process oom kill](https://github.com/kubernetes/k8s.io/pull/8672) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [gce: configure public SSH rules when using bastions](https://github.com/kubernetes/kops/pull/17697) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [drop storage migrator registry](https://github.com/kubernetes/k8s.io/pull/8660) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [fix notfound backendservice/healthchekc](https://github.com/kubernetes/kops/pull/17692) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
 - [go back to running GPU jobs in us-central1-b](https://github.com/kubernetes/test-infra/pull/35730) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
-- [add support for specifying iops and thoroughput when using hyperdisks](https://github.com/kubernetes/kops/pull/17685) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
 
 #### ⭐ Recent Stars
 
