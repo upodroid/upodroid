@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [configure artifacts.k8s.io to use atlantis &#43; atlantis IAM changes in management account](https://github.com/kubernetes/k8s.io/pull/8686) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump atlantis and configure it to run against our AWS organization](https://github.com/kubernetes/k8s.io/pull/8684) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [fix missing project id and delete deprecated LegacyIsMasterNode function](https://github.com/kubernetes/perf-tests/pull/3653) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (1 day ago)
 - [bump kops-controller qps limits](https://github.com/kubernetes/kops/pull/17701) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [dop unused k8s-staging-windows-svc-proxy](https://github.com/kubernetes/k8s.io/pull/8664) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [drop kubebuilder staging registry](https://github.com/kubernetes/k8s.io/pull/8662) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [drop unused sig-auth staging registry](https://github.com/kubernetes/k8s.io/pull/8661) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [drop storage migrator registry](https://github.com/kubernetes/k8s.io/pull/8660) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 
 #### ⭐ Recent Stars
 
