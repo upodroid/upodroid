@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [run the kops baremetal jobs in prow &amp; add hyperdisk jobs](https://github.com/kubernetes/test-infra/pull/35780) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [configure the workflow server-side instead of inrepo](https://github.com/kubernetes/k8s.io/pull/8687) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [configure artifacts.k8s.io to use atlantis &#43; atlantis IAM changes in management account](https://github.com/kubernetes/k8s.io/pull/8686) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [bump atlantis and configure it to run against our AWS organization](https://github.com/kubernetes/k8s.io/pull/8684) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [enable nested virt &amp; set single process oom kill](https://github.com/kubernetes/k8s.io/pull/8672) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [gce: configure public SSH rules when using bastions](https://github.com/kubernetes/kops/pull/17697) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
 - [dop unused k8s-staging-windows-svc-proxy](https://github.com/kubernetes/k8s.io/pull/8664) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [drop kubebuilder staging registry](https://github.com/kubernetes/k8s.io/pull/8662) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
