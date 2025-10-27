@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump cloudbuild docker image](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/pull/2212) on [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) (today)
 - [gce: bump GCE PD CSI Driver](https://github.com/kubernetes/kops/pull/17712) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [run the kops baremetal jobs in prow &amp; add hyperdisk jobs](https://github.com/kubernetes/test-infra/pull/35780) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [configure the workflow server-side instead of inrepo](https://github.com/kubernetes/k8s.io/pull/8687) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump kops-controller qps limits](https://github.com/kubernetes/kops/pull/17701) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
 - [cancel the per sig nodepool experiment](https://github.com/kubernetes/test-infra/pull/35741) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [enable nested virt &amp; set single process oom kill](https://github.com/kubernetes/k8s.io/pull/8672) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [gce: configure public SSH rules when using bastions](https://github.com/kubernetes/kops/pull/17697) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 
 #### ⭐ Recent Stars
 
