@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [run a 6000 node scale test](https://github.com/kubernetes/test-infra/pull/35808) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [enable dependabot bumping of docker images](https://github.com/kubernetes/test-infra/pull/35799) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [stop building bazelbuild docker image](https://github.com/kubernetes/test-infra/pull/35798) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Revert &#34;openstack: cpo: fix incorrect image sha256sums&#34;](https://github.com/kubernetes/k8s.io/pull/8706) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [configure the workflow server-side instead of inrepo](https://github.com/kubernetes/k8s.io/pull/8687) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [configure artifacts.k8s.io to use atlantis &#43; atlantis IAM changes in management account](https://github.com/kubernetes/k8s.io/pull/8686) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [bump atlantis and configure it to run against our AWS organization](https://github.com/kubernetes/k8s.io/pull/8684) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [fix missing project id and delete deprecated LegacyIsMasterNode function](https://github.com/kubernetes/perf-tests/pull/3653) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (1 week ago)
 
 #### ⭐ Recent Stars
 
