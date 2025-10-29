@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [stop building bazelbuild docker image](https://github.com/kubernetes/test-infra/pull/35798) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Revert &#34;openstack: cpo: fix incorrect image sha256sums&#34;](https://github.com/kubernetes/k8s.io/pull/8706) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [bump cloudbuild docker image](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/pull/2212) on [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) (2 days ago)
 - [gce: bump GCE PD CSI Driver](https://github.com/kubernetes/kops/pull/17712) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump atlantis and configure it to run against our AWS organization](https://github.com/kubernetes/k8s.io/pull/8684) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [fix missing project id and delete deprecated LegacyIsMasterNode function](https://github.com/kubernetes/perf-tests/pull/3653) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (1 week ago)
 - [bump kops-controller qps limits](https://github.com/kubernetes/kops/pull/17701) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
-- [cancel the per sig nodepool experiment](https://github.com/kubernetes/test-infra/pull/35741) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
