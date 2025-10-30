@@ -27,7 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
-- [clean up the skip regex files](https://github.com/kubernetes/kops/pull/17715) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
+- [[wip] clean up the skip regex files](https://github.com/kubernetes/kops/pull/17715) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [run a 6000 node scale test](https://github.com/kubernetes/test-infra/pull/35808) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [enable dependabot bumping of docker images](https://github.com/kubernetes/test-infra/pull/35799) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [stop building bazelbuild docker image](https://github.com/kubernetes/test-infra/pull/35798) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
