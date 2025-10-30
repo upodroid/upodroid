@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.21.10](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.21.10), today) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.21.11](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.21.11), today) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.9.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.9.0), 3 days ago) - Cloud provider for KIND clusters
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.16.0-rc.1](https://github.com/kyverno/kyverno/releases/tag/v1.16.0-rc.1), 1 week ago) - Cloud Native Policy Management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.2), 1 week ago) - Production-Grade Container Scheduling and Management
@@ -29,7 +29,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 - [test baremetal tests in prow](https://github.com/kubernetes/kops/pull/17718) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [fix kops jobs that fail to launch - one ](https://github.com/kubernetes/test-infra/pull/35816) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
-- [[wip] clean up the skip regex files](https://github.com/kubernetes/kops/pull/17715) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
+- [clean up the skip regex files](https://github.com/kubernetes/kops/pull/17715) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [run a 6000 node scale test](https://github.com/kubernetes/test-infra/pull/35808) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [enable dependabot bumping of docker images](https://github.com/kubernetes/test-infra/pull/35799) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [stop building bazelbuild docker image](https://github.com/kubernetes/test-infra/pull/35798) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
