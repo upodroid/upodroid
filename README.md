@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [clean up the skip regex files](https://github.com/kubernetes/kops/pull/17715) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [run a 6000 node scale test](https://github.com/kubernetes/test-infra/pull/35808) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [enable dependabot bumping of docker images](https://github.com/kubernetes/test-infra/pull/35799) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [stop building bazelbuild docker image](https://github.com/kubernetes/test-infra/pull/35798) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [run the kops baremetal jobs in prow &amp; add hyperdisk jobs](https://github.com/kubernetes/test-infra/pull/35780) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [configure the workflow server-side instead of inrepo](https://github.com/kubernetes/k8s.io/pull/8687) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [configure artifacts.k8s.io to use atlantis &#43; atlantis IAM changes in management account](https://github.com/kubernetes/k8s.io/pull/8686) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [bump atlantis and configure it to run against our AWS organization](https://github.com/kubernetes/k8s.io/pull/8684) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
