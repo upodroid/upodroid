@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix kops cos jobs](https://github.com/kubernetes/test-infra/pull/35837) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [reworking toolbox dumping logic](https://github.com/kubernetes/kops/pull/17733) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [fix incorrect ssh username for kops scale jobs](https://github.com/kubernetes/test-infra/pull/35831) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [remove bastion flag from gce scale jobs](https://github.com/kubernetes/kops/pull/17719) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [run a 6000 node scale test](https://github.com/kubernetes/test-infra/pull/35808) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [enable dependabot bumping of docker images](https://github.com/kubernetes/test-infra/pull/35799) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [stop building bazelbuild docker image](https://github.com/kubernetes/test-infra/pull/35798) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
-- [Revert &#34;openstack: cpo: fix incorrect image sha256sums&#34;](https://github.com/kubernetes/k8s.io/pull/8706) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 
 #### ⭐ Recent Stars
 
