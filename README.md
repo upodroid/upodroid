@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add cos jobs to kops grid](https://github.com/kubernetes/test-infra/pull/35840) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Automated cherry pick of #17559: Bump ko-build](https://github.com/kubernetes/kops/pull/17736) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [fix kops grid configuration](https://github.com/kubernetes/test-infra/pull/35839) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [fix kops cos jobs](https://github.com/kubernetes/test-infra/pull/35837) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [test baremetal tests in prow](https://github.com/kubernetes/kops/pull/17718) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 days ago)
 - [fix kops jobs that fail to launch - one ](https://github.com/kubernetes/test-infra/pull/35816) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [clean up the skip regex files](https://github.com/kubernetes/kops/pull/17715) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 days ago)
-- [run a 6000 node scale test](https://github.com/kubernetes/test-infra/pull/35808) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 
 #### ⭐ Recent Stars
 
