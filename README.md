@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (3 days ago)
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin. (6 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [Automated cherry pick of #17559: Bump ko-build](https://github.com/kubernetes/kops/pull/17736) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [fix kops grid configuration](https://github.com/kubernetes/test-infra/pull/35839) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [fix kops cos jobs](https://github.com/kubernetes/test-infra/pull/35837) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [reworking toolbox dumping logic](https://github.com/kubernetes/kops/pull/17733) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix kops jobs that fail to launch - one ](https://github.com/kubernetes/test-infra/pull/35816) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [clean up the skip regex files](https://github.com/kubernetes/kops/pull/17715) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 days ago)
 - [run a 6000 node scale test](https://github.com/kubernetes/test-infra/pull/35808) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
-- [enable dependabot bumping of docker images](https://github.com/kubernetes/test-infra/pull/35799) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 
 #### ⭐ Recent Stars
 
