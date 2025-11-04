@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add kops debian presubmits and drop unsupported k8s versions jobs](https://github.com/kubernetes/test-infra/pull/35852) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [cloud init isn&#39;t widely available on other GCE OS, default to using startup-script unless its an Ubuntu/COS OS](https://github.com/kubernetes/kops/pull/17737) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [add cos jobs to kops grid](https://github.com/kubernetes/test-infra/pull/35840) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Automated cherry pick of #17559: Bump ko-build](https://github.com/kubernetes/kops/pull/17736) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix incorrect ssh username for kops scale jobs](https://github.com/kubernetes/test-infra/pull/35831) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [remove bastion flag from gce scale jobs](https://github.com/kubernetes/kops/pull/17719) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 days ago)
 - [test baremetal tests in prow](https://github.com/kubernetes/kops/pull/17718) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
-- [fix kops jobs that fail to launch - one ](https://github.com/kubernetes/test-infra/pull/35816) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 
 #### ⭐ Recent Stars
 
