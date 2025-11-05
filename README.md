@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump cloud provider gcp images](https://github.com/kubernetes/k8s.io/pull/8732) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [use k8s ci builds for hyperdisk job](https://github.com/kubernetes/test-infra/pull/35866) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [add myself to owners](https://github.com/kubernetes/test-infra/pull/35865) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [provision 10G disks for testing pvc instead of 1 byte or 1GB](https://github.com/kubernetes/kubernetes/pull/135117) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add cos jobs to kops grid](https://github.com/kubernetes/test-infra/pull/35840) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [Automated cherry pick of #17559: Bump ko-build](https://github.com/kubernetes/kops/pull/17736) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [fix kops grid configuration](https://github.com/kubernetes/test-infra/pull/35839) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
-- [fix kops cos jobs](https://github.com/kubernetes/test-infra/pull/35837) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 
 #### ⭐ Recent Stars
 
