@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.16.0-rc.2](https://github.com/kyverno/kyverno/releases/tag/v1.16.0-rc.2), today) - Cloud Native Policy Management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.3), 1 day ago) - Production-Grade Container Scheduling and Management
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.14.5](https://github.com/kyverno/kyverno/releases/tag/v1.14.5), 1 day ago) - Cloud Native Policy Management
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.21.12](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.21.12), 3 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.9.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.9.0), 1 week ago) - Cloud provider for KIND clusters
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.34.0](https://github.com/kubernetes/kops/releases/tag/v1.34.0), 2 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
