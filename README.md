@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix kops job generator](https://github.com/kubernetes/test-infra/pull/35878) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [bump cloud provider gcp images](https://github.com/kubernetes/k8s.io/pull/8732) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [use k8s ci builds for hyperdisk job](https://github.com/kubernetes/test-infra/pull/35866) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [add myself to owners](https://github.com/kubernetes/test-infra/pull/35865) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [cloud init isn&#39;t widely available on other GCE OS, default to using startup-script unless its an Ubuntu/COS OS](https://github.com/kubernetes/kops/pull/17737) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
 - [add cos jobs to kops grid](https://github.com/kubernetes/test-infra/pull/35840) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [Automated cherry pick of #17559: Bump ko-build](https://github.com/kubernetes/kops/pull/17736) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
-- [fix kops grid configuration](https://github.com/kubernetes/test-infra/pull/35839) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 
 #### ⭐ Recent Stars
 
