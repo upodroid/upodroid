@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.16.0](https://github.com/kyverno/kyverno/releases/tag/v1.16.0), today) - Cloud Native Policy Management
 - [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) ([storage-9.6.1](https://github.com/talkiq/gcloud-aio/releases/tag/storage-9.6.1), 3 days ago) - (Asyncio OR Threadsafe) Google Cloud Client Library for Python
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.16.0-rc.2](https://github.com/kyverno/kyverno/releases/tag/v1.16.0-rc.2), 4 days ago) - Cloud Native Policy Management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.3), 5 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.21.12](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.21.12), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) ([v0.9.0](https://github.com/kubernetes-sigs/cloud-provider-kind/releases/tag/v0.9.0), 2 weeks ago) - Cloud provider for KIND clusters
