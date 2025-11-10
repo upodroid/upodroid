@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add support for building images using a ci pipeline](https://github.com/etcd-io/etcd/pull/20915) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (today)
 - [create an etcd staging registry](https://github.com/kubernetes/k8s.io/pull/8745) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump image builder go version](https://github.com/kubernetes/test-infra/pull/35901) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [fix kops job generator](https://github.com/kubernetes/test-infra/pull/35878) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [provision 10G disks for testing pvc instead of 1 byte or 1GB](https://github.com/kubernetes/kubernetes/pull/135117) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
 - [fix nftables for arm64 jobs](https://github.com/kubernetes/test-infra/pull/35858) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [add kops debian presubmits and drop unsupported k8s versions jobs](https://github.com/kubernetes/test-infra/pull/35852) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [cloud init isn&#39;t widely available on other GCE OS, default to using startup-script unless its an Ubuntu/COS OS](https://github.com/kubernetes/kops/pull/17737) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 
 #### ⭐ Recent Stars
 
