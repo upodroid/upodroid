@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.22.2](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.22.2), 1 day ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.22.3](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.22.3), today) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.10](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.10), 1 day ago) - Production-Grade Container Scheduling and Management
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.16.0](https://github.com/kyverno/kyverno/releases/tag/v1.16.0), 3 days ago) - Cloud Native Policy Management
 - [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) ([storage-9.6.1](https://github.com/talkiq/gcloud-aio/releases/tag/storage-9.6.1), 6 days ago) - (Asyncio OR Threadsafe) Google Cloud Client Library for Python
