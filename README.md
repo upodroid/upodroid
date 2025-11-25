@@ -4,6 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) - cloud-provider-gcp contains several projects used to run Kubernetes in Google Cloud (today)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 day ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 weeks ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 weeks ago)
@@ -13,7 +14,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (2 months ago)
 - [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) - Boskos is a resource management service that provides reservation and lifecycle management of a variety of different kinds of resources. (2 months ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (3 months ago)
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
