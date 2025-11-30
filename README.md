@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [[WIP] expand to all S3 regions for registry.k8s.io](https://github.com/kubernetes/k8s.io/pull/8819) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [[WIP] create the remaining AR registries and start using terraform to manage the k8s-artifacts-prod project](https://github.com/kubernetes/k8s.io/pull/8817) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [update the ips for Q4 2025 and fix up some scripts](https://github.com/kubernetes/registry.k8s.io/pull/315) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (today)
 - [make the docker image multi-arch](https://github.com/kubernetes/cloud-provider-gcp/pull/925) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (6 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump image builder go version](https://github.com/kubernetes/test-infra/pull/35901) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [fix kops job generator](https://github.com/kubernetes/test-infra/pull/35878) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
 - [bump cloud provider gcp images](https://github.com/kubernetes/k8s.io/pull/8732) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
-- [use k8s ci builds for hyperdisk job](https://github.com/kubernetes/test-infra/pull/35866) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
