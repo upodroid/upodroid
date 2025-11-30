@@ -26,6 +26,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [[WIP] create the remaining AR registries and start using terraform to manage the k8s-artifacts-prod project](https://github.com/kubernetes/k8s.io/pull/8817) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
+- [update the ips for Q4 2025 and fix up some scripts](https://github.com/kubernetes/registry.k8s.io/pull/315) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (today)
 - [make the docker image multi-arch](https://github.com/kubernetes/cloud-provider-gcp/pull/925) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (6 days ago)
 - [[WIP] deploy macos instances](https://github.com/kubernetes/k8s.io/pull/8794) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [add support for building images using a ci pipeline](https://github.com/etcd-io/etcd/pull/20915) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (2 weeks ago)
@@ -34,8 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix kops job generator](https://github.com/kubernetes/test-infra/pull/35878) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
 - [bump cloud provider gcp images](https://github.com/kubernetes/k8s.io/pull/8732) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 - [use k8s ci builds for hyperdisk job](https://github.com/kubernetes/test-infra/pull/35866) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
-- [add myself to owners](https://github.com/kubernetes/test-infra/pull/35865) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
-- [provision 10G disks for testing pvc instead of 1 byte or 1GB](https://github.com/kubernetes/kubernetes/pull/135117) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
