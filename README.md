@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [Automated cherry pick of #925: make the docker image multi-arch](https://github.com/kubernetes/cloud-provider-gcp/pull/926) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (today)
 - [iptables is deprecated and broken on rhel10&#43; so use nftables by default](https://github.com/kubernetes/kops/pull/17789) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [recognise rhel 10 and its variants &#43; fedora &#43; centos stream](https://github.com/kubernetes/kops/pull/17785) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [drop stale conformance mailing lists](https://github.com/kubernetes/k8s.io/pull/8822) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [make the docker image multi-arch](https://github.com/kubernetes/cloud-provider-gcp/pull/925) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (1 week ago)
 - [deploy macos instances](https://github.com/kubernetes/k8s.io/pull/8794) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [add support for building images using a ci pipeline](https://github.com/etcd-io/etcd/pull/20915) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (3 weeks ago)
-- [create an etcd staging registry](https://github.com/kubernetes/k8s.io/pull/8745) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
