@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [build the binaries correctly](https://github.com/kubernetes/cloud-provider-gcp/pull/930) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (today)
 - [replace rhel8 with rhel10 and drop debian 11 from kops grid](https://github.com/kubernetes/test-infra/pull/36007) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Automated cherry pick of #925: make the docker image multi-arch](https://github.com/kubernetes/cloud-provider-gcp/pull/926) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (1 day ago)
 - [iptables is deprecated and broken on rhel10&#43; so use nftables by default](https://github.com/kubernetes/kops/pull/17789) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [[WIP] create the remaining AR registries and start using terraform to manage the k8s-artifacts-prod project](https://github.com/kubernetes/k8s.io/pull/8817) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [update the ips for Q4 2025 and expand to all AWS regions](https://github.com/kubernetes/registry.k8s.io/pull/315) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (3 days ago)
 - [make the docker image multi-arch](https://github.com/kubernetes/cloud-provider-gcp/pull/925) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (1 week ago)
-- [deploy macos instances](https://github.com/kubernetes/k8s.io/pull/8794) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
