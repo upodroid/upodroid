@@ -27,7 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 #### 🔨 My recent Pull Requests
 
 - [build the binaries correctly](https://github.com/kubernetes/cloud-provider-gcp/pull/930) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (1 day ago)
-- [replace rhel8 with rhel10 and drop debian 11 from kops grid](https://github.com/kubernetes/test-infra/pull/36007) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [replace rhel8 with rhel10 in kops grid](https://github.com/kubernetes/test-infra/pull/36007) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Automated cherry pick of #925: make the docker image multi-arch](https://github.com/kubernetes/cloud-provider-gcp/pull/926) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (2 days ago)
 - [iptables is deprecated and broken on rhel10&#43; so use nftables by default](https://github.com/kubernetes/kops/pull/17789) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [recognise rhel 10 and its variants &#43; fedora &#43; centos stream](https://github.com/kubernetes/kops/pull/17785) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
