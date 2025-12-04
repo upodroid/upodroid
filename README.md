@@ -4,9 +4,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 day ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 days ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 days ago)
+- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (2 days ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
 - [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) - cloud-provider-gcp contains several projects used to run Kubernetes in Google Cloud (1 week ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (4 weeks ago)
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin. (1 month ago)
@@ -17,24 +17,24 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.16.1](https://github.com/kyverno/kyverno/releases/tag/v1.16.1), today) - Cloud Native Policy Management
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-rc.0), today) - Production-Grade Container Scheduling and Management
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.35.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.35.0-alpha.1), 2 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.16.1](https://github.com/kyverno/kyverno/releases/tag/v1.16.1), 1 day ago) - Cloud Native Policy Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-rc.0), 1 day ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.35.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.35.0-alpha.1), 3 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.22.4](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.22.4), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) ([storage-9.6.1](https://github.com/talkiq/gcloud-aio/releases/tag/storage-9.6.1), 3 weeks ago) - (Asyncio OR Threadsafe) Google Cloud Client Library for Python
-- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.5.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.5.0), 9 months ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
+- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.5.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.5.0), 10 months ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 
 #### 🔨 My recent Pull Requests
 
-- [build the binaries correctly](https://github.com/kubernetes/cloud-provider-gcp/pull/930) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (today)
-- [replace rhel8 with rhel10 and drop debian 11 from kops grid](https://github.com/kubernetes/test-infra/pull/36007) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
-- [Automated cherry pick of #925: make the docker image multi-arch](https://github.com/kubernetes/cloud-provider-gcp/pull/926) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (1 day ago)
-- [iptables is deprecated and broken on rhel10&#43; so use nftables by default](https://github.com/kubernetes/kops/pull/17789) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
-- [recognise rhel 10 and its variants &#43; fedora &#43; centos stream](https://github.com/kubernetes/kops/pull/17785) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
-- [drop stale conformance mailing lists](https://github.com/kubernetes/k8s.io/pull/8822) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
-- [[WIP] expand to all S3 regions for registry.k8s.io](https://github.com/kubernetes/k8s.io/pull/8819) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
-- [[WIP] create the remaining AR registries and start using terraform to manage the k8s-artifacts-prod project](https://github.com/kubernetes/k8s.io/pull/8817) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
-- [update the ips for Q4 2025 and expand to all AWS regions](https://github.com/kubernetes/registry.k8s.io/pull/315) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (3 days ago)
+- [build the binaries correctly](https://github.com/kubernetes/cloud-provider-gcp/pull/930) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (1 day ago)
+- [replace rhel8 with rhel10 and drop debian 11 from kops grid](https://github.com/kubernetes/test-infra/pull/36007) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [Automated cherry pick of #925: make the docker image multi-arch](https://github.com/kubernetes/cloud-provider-gcp/pull/926) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (2 days ago)
+- [iptables is deprecated and broken on rhel10&#43; so use nftables by default](https://github.com/kubernetes/kops/pull/17789) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
+- [recognise rhel 10 and its variants &#43; fedora &#43; centos stream](https://github.com/kubernetes/kops/pull/17785) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
+- [drop stale conformance mailing lists](https://github.com/kubernetes/k8s.io/pull/8822) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
+- [[WIP] expand to all S3 regions for registry.k8s.io](https://github.com/kubernetes/k8s.io/pull/8819) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
+- [[WIP] create the remaining AR registries and start using terraform to manage the k8s-artifacts-prod project](https://github.com/kubernetes/k8s.io/pull/8817) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
+- [update the ips for Q4 2025 and expand to all AWS regions](https://github.com/kubernetes/registry.k8s.io/pull/315) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (4 days ago)
 - [make the docker image multi-arch](https://github.com/kubernetes/cloud-provider-gcp/pull/925) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (1 week ago)
 
 #### ⭐ Recent Stars
