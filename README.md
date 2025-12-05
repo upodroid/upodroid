@@ -17,16 +17,16 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.23.0](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.23.0), today) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.16.1](https://github.com/kyverno/kyverno/releases/tag/v1.16.1), 2 days ago) - Cloud Native Policy Management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-rc.0), 2 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.35.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.35.0-alpha.1), 4 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.22.4](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.22.4), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) ([storage-9.6.1](https://github.com/talkiq/gcloud-aio/releases/tag/storage-9.6.1), 4 weeks ago) - (Asyncio OR Threadsafe) Google Cloud Client Library for Python
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.5.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.5.0), 10 months ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 
 #### 🔨 My recent Pull Requests
 
-- [bump gcp ccm to fix broken arm64 jobs](https://github.com/kubernetes/kops/pull/17793) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
+- [gcp: Update ccm to fix broken arm64 jobs](https://github.com/kubernetes/kops/pull/17793) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [Revert &#34;Add `gke-gcloud-auth-plugin` to `kubekins-e2e-v2` image&#34;](https://github.com/kubernetes/test-infra/pull/36024) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [build the binaries correctly](https://github.com/kubernetes/cloud-provider-gcp/pull/930) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (2 days ago)
 - [replace rhel8 with rhel10 in kops grid](https://github.com/kubernetes/test-infra/pull/36007) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
