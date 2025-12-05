@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump gcp ccm to fix broken arm64 jobs](https://github.com/kubernetes/kops/pull/17793) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [Revert &#34;Add `gke-gcloud-auth-plugin` to `kubekins-e2e-v2` image&#34;](https://github.com/kubernetes/test-infra/pull/36024) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [build the binaries correctly](https://github.com/kubernetes/cloud-provider-gcp/pull/930) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (2 days ago)
 - [replace rhel8 with rhel10 in kops grid](https://github.com/kubernetes/test-infra/pull/36007) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [drop stale conformance mailing lists](https://github.com/kubernetes/k8s.io/pull/8822) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [[WIP] expand to all S3 regions for registry.k8s.io](https://github.com/kubernetes/k8s.io/pull/8819) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [[WIP] create the remaining AR registries and start using terraform to manage the k8s-artifacts-prod project](https://github.com/kubernetes/k8s.io/pull/8817) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [update the ips for Q4 2025 and expand to all AWS regions](https://github.com/kubernetes/registry.k8s.io/pull/315) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (5 days ago)
 
 #### ⭐ Recent Stars
 
