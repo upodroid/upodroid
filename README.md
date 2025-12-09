@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump bootstrap with docker patch](https://github.com/kubernetes/test-infra/pull/36051) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [pin docker engine to v28](https://github.com/kubernetes/test-infra/pull/36045) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [add azure conformance kops job](https://github.com/kubernetes/test-infra/pull/36038) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [cherrypick rhel fixes and ccm upgrade to release 1.34](https://github.com/kubernetes/kops/pull/17794) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [build the binaries correctly](https://github.com/kubernetes/cloud-provider-gcp/pull/930) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (6 days ago)
 - [replace rhel8 with rhel10 in kops grid](https://github.com/kubernetes/test-infra/pull/36007) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [Automated cherry pick of #925: make the docker image multi-arch](https://github.com/kubernetes/cloud-provider-gcp/pull/926) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (1 week ago)
-- [iptables is deprecated and broken on rhel10&#43; so use nftables by default](https://github.com/kubernetes/kops/pull/17789) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 
 #### ⭐ Recent Stars
 
