@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (4 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
 - [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) - cloud-provider-gcp contains several projects used to run Kubernetes in Google Cloud (2 weeks ago)
@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [make docker version configurable and pin docker-ce-cli too](https://github.com/kubernetes/test-infra/pull/36052) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [bump bootstrap with docker patch](https://github.com/kubernetes/test-infra/pull/36051) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [pin docker engine to v28](https://github.com/kubernetes/test-infra/pull/36045) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [add azure conformance kops job](https://github.com/kubernetes/test-infra/pull/36038) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [Revert &#34;Add `gke-gcloud-auth-plugin` to `kubekins-e2e-v2` image&#34;](https://github.com/kubernetes/test-infra/pull/36024) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [build the binaries correctly](https://github.com/kubernetes/cloud-provider-gcp/pull/930) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (6 days ago)
 - [replace rhel8 with rhel10 in kops grid](https://github.com/kubernetes/test-infra/pull/36007) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [Automated cherry pick of #925: make the docker image multi-arch](https://github.com/kubernetes/cloud-provider-gcp/pull/926) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (1 week ago)
 
 #### ⭐ Recent Stars
 
