@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix the build strategy flag](https://github.com/kubernetes-sigs/kubetest2/pull/315) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (today)
 - [remove ambigious image env variable from gcb-docker-gcloud](https://github.com/kubernetes/test-infra/pull/36073) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [fix a bug in gcb-docker-gcloud image](https://github.com/kubernetes/test-infra/pull/36071) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [make docker version configurable and pin docker-ce-cli too](https://github.com/kubernetes/test-infra/pull/36052) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [cherrypick rhel fixes and ccm upgrade to release 1.34](https://github.com/kubernetes/kops/pull/17794) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
 - [fix broken rocky aws arm jobs](https://github.com/kubernetes/test-infra/pull/36037) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [gcp: Update ccm to fix broken arm64 jobs](https://github.com/kubernetes/kops/pull/17793) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
-- [Revert &#34;Add `gke-gcloud-auth-plugin` to `kubekins-e2e-v2` image&#34;](https://github.com/kubernetes/test-infra/pull/36024) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
