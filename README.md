@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump archeio to v0.6.0](https://github.com/kubernetes/k8s.io/pull/8866) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump to go 1.25, deps and fix a broken pipeline](https://github.com/kubernetes/registry.k8s.io/pull/316) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (today)
 - [fix the build strategy flag](https://github.com/kubernetes-sigs/kubetest2/pull/315) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 day ago)
 - [remove ambigious image env variable from gcb-docker-gcloud](https://github.com/kubernetes/test-infra/pull/36073) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [pin docker engine to v28](https://github.com/kubernetes/test-infra/pull/36045) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [add azure conformance kops job](https://github.com/kubernetes/test-infra/pull/36038) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [cherrypick rhel fixes and ccm upgrade to release 1.34](https://github.com/kubernetes/kops/pull/17794) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
-- [fix broken rocky aws arm jobs](https://github.com/kubernetes/test-infra/pull/36037) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
