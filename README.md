@@ -4,9 +4,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (1 day ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (2 days ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 week ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
 - [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) - cloud-provider-gcp contains several projects used to run Kubernetes in Google Cloud (2 weeks ago)
@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add 1.35 k8s/kops jobs and fix broken distro jobs](https://github.com/kubernetes/test-infra/pull/36085) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Automated cherry pick of #17793: gcp: Update ccm to fix broken arm64 jobs](https://github.com/kubernetes/kops/pull/17814) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [bump archeio to v0.6.0](https://github.com/kubernetes/k8s.io/pull/8866) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [bump to go 1.25, deps and fix a broken pipeline](https://github.com/kubernetes/registry.k8s.io/pull/316) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [make docker version configurable and pin docker-ce-cli too](https://github.com/kubernetes/test-infra/pull/36052) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [bump bootstrap with docker patch](https://github.com/kubernetes/test-infra/pull/36051) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [pin docker engine to v28](https://github.com/kubernetes/test-infra/pull/36045) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [add azure conformance kops job](https://github.com/kubernetes/test-infra/pull/36038) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
