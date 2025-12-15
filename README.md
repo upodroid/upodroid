@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add kops networking presubmits for azure](https://github.com/kubernetes/test-infra/pull/36088) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [add 1.35 k8s/kops jobs and fix broken distro jobs](https://github.com/kubernetes/test-infra/pull/36085) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Automated cherry pick of #17793: gcp: Update ccm to fix broken arm64 jobs](https://github.com/kubernetes/kops/pull/17814) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [bump archeio to v0.6.0](https://github.com/kubernetes/k8s.io/pull/8866) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix a bug in gcb-docker-gcloud image](https://github.com/kubernetes/test-infra/pull/36071) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [make docker version configurable and pin docker-ce-cli too](https://github.com/kubernetes/test-infra/pull/36052) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [bump bootstrap with docker patch](https://github.com/kubernetes/test-infra/pull/36051) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [pin docker engine to v28](https://github.com/kubernetes/test-infra/pull/36045) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
