@@ -26,6 +26,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [build only oss tags for gcp cloud-provider repo](https://github.com/kubernetes/test-infra/pull/36092) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [Automated cherry pick of #930: build the binaries correctly](https://github.com/kubernetes/cloud-provider-gcp/pull/940) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (today)
+- [autobump boskos janitors](https://github.com/kubernetes/test-infra/pull/36091) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [skip dropping AWSReservedSSO and DatadogIntegration roles](https://github.com/kubernetes-sigs/boskos/pull/241) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (today)
 - [bump containerd and make arch selection dynamic](https://github.com/kubernetes/registry.k8s.io/pull/317) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 day ago)
 - [enable deploying a released version of kops](https://github.com/kubernetes/kops/pull/17819) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
@@ -33,9 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add kops networking presubmits for azure](https://github.com/kubernetes/test-infra/pull/36088) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [add 1.35 k8s/kops jobs and fix broken distro jobs](https://github.com/kubernetes/test-infra/pull/36085) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [Automated cherry pick of #17793: gcp: Update ccm to fix broken arm64 jobs](https://github.com/kubernetes/kops/pull/17814) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
-- [bump archeio to v0.6.0](https://github.com/kubernetes/k8s.io/pull/8866) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
-- [bump to go 1.25, deps and fix a broken pipeline](https://github.com/kubernetes/registry.k8s.io/pull/316) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (3 days ago)
-- [fix the build strategy flag](https://github.com/kubernetes-sigs/kubetest2/pull/315) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (4 days ago)
 
 #### ⭐ Recent Stars
 
