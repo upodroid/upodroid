@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [skip dropping AWSReservedSSO and DatadogIntegration roles](https://github.com/kubernetes-sigs/boskos/pull/241) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (today)
 - [bump containerd and make arch selection dynamic](https://github.com/kubernetes/registry.k8s.io/pull/317) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 day ago)
 - [enable deploying a released version of kops](https://github.com/kubernetes/kops/pull/17819) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [fix image registry tester job and more kops fixes](https://github.com/kubernetes/test-infra/pull/36090) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump archeio to v0.6.0](https://github.com/kubernetes/k8s.io/pull/8866) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [bump to go 1.25, deps and fix a broken pipeline](https://github.com/kubernetes/registry.k8s.io/pull/316) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (3 days ago)
 - [fix the build strategy flag](https://github.com/kubernetes-sigs/kubetest2/pull/315) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (4 days ago)
-- [remove ambigious image env variable from gcb-docker-gcloud](https://github.com/kubernetes/test-infra/pull/36073) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 
 #### ⭐ Recent Stars
 
