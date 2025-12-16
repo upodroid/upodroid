@@ -6,8 +6,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (today)
-- [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) - cloud-provider-gcp contains several projects used to run Kubernetes in Google Cloud (today)
-- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (3 days ago)
+- [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) - cloud-provider-gcp contains several projects used to run Kubernetes in Google Cloud (1 day ago)
+- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (4 days ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 week ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 weeks ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 month ago)
@@ -17,25 +17,25 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.6.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.6.0), 2 days ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.23.2](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.23.2), 4 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.3), 5 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.6.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.6.0), 3 days ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.23.2](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.23.2), 5 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.3), 6 days ago) - Production-Grade Container Scheduling and Management
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.16.1](https://github.com/kyverno/kyverno/releases/tag/v1.16.1), 1 week ago) - Cloud Native Policy Management
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.35.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.35.0-alpha.1), 2 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) ([storage-9.6.1](https://github.com/talkiq/gcloud-aio/releases/tag/storage-9.6.1), 1 month ago) - (Asyncio OR Threadsafe) Google Cloud Client Library for Python
 
 #### 🔨 My recent Pull Requests
 
-- [bump containerd and make arch selection dynamic](https://github.com/kubernetes/registry.k8s.io/pull/317) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (today)
-- [enable deploying a released version of kops](https://github.com/kubernetes/kops/pull/17819) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
-- [fix image registry tester job and more kops fixes](https://github.com/kubernetes/test-infra/pull/36090) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
-- [add kops networking presubmits for azure](https://github.com/kubernetes/test-infra/pull/36088) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
-- [add 1.35 k8s/kops jobs and fix broken distro jobs](https://github.com/kubernetes/test-infra/pull/36085) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
-- [Automated cherry pick of #17793: gcp: Update ccm to fix broken arm64 jobs](https://github.com/kubernetes/kops/pull/17814) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
-- [bump archeio to v0.6.0](https://github.com/kubernetes/k8s.io/pull/8866) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
-- [bump to go 1.25, deps and fix a broken pipeline](https://github.com/kubernetes/registry.k8s.io/pull/316) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (2 days ago)
-- [fix the build strategy flag](https://github.com/kubernetes-sigs/kubetest2/pull/315) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (3 days ago)
-- [remove ambigious image env variable from gcb-docker-gcloud](https://github.com/kubernetes/test-infra/pull/36073) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
+- [bump containerd and make arch selection dynamic](https://github.com/kubernetes/registry.k8s.io/pull/317) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 day ago)
+- [enable deploying a released version of kops](https://github.com/kubernetes/kops/pull/17819) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
+- [fix image registry tester job and more kops fixes](https://github.com/kubernetes/test-infra/pull/36090) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [add kops networking presubmits for azure](https://github.com/kubernetes/test-infra/pull/36088) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [add 1.35 k8s/kops jobs and fix broken distro jobs](https://github.com/kubernetes/test-infra/pull/36085) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
+- [Automated cherry pick of #17793: gcp: Update ccm to fix broken arm64 jobs](https://github.com/kubernetes/kops/pull/17814) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
+- [bump archeio to v0.6.0](https://github.com/kubernetes/k8s.io/pull/8866) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
+- [bump to go 1.25, deps and fix a broken pipeline](https://github.com/kubernetes/registry.k8s.io/pull/316) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (3 days ago)
+- [fix the build strategy flag](https://github.com/kubernetes-sigs/kubetest2/pull/315) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (4 days ago)
+- [remove ambigious image env variable from gcb-docker-gcloud](https://github.com/kubernetes/test-infra/pull/36073) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 
 #### ⭐ Recent Stars
 
