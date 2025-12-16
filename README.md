@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [debug missing resources in toolbox dump](https://github.com/kubernetes/kops/pull/17820) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [build only oss tags for gcp cloud-provider repo](https://github.com/kubernetes/test-infra/pull/36092) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Automated cherry pick of #930: build the binaries correctly](https://github.com/kubernetes/cloud-provider-gcp/pull/940) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (today)
 - [autobump boskos janitors](https://github.com/kubernetes/test-infra/pull/36091) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix image registry tester job and more kops fixes](https://github.com/kubernetes/test-infra/pull/36090) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [add kops networking presubmits for azure](https://github.com/kubernetes/test-infra/pull/36088) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [add 1.35 k8s/kops jobs and fix broken distro jobs](https://github.com/kubernetes/test-infra/pull/36085) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
-- [Automated cherry pick of #17793: gcp: Update ccm to fix broken arm64 jobs](https://github.com/kubernetes/kops/pull/17814) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 
 #### ⭐ Recent Stars
 
