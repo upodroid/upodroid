@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.11](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.11), 1 day ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0), today) - Production-Grade Container Scheduling and Management
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.6.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.6.0), 4 days ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.23.2](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.23.2), 6 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.16.1](https://github.com/kyverno/kyverno/releases/tag/v1.16.1), 2 weeks ago) - Cloud Native Policy Management
@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [[wip] promote v35.0.0 cloud provider gcp binaries](https://github.com/kubernetes/k8s.io/pull/8886) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [debug missing resources in toolbox dump](https://github.com/kubernetes/kops/pull/17820) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [build only oss tags for gcp cloud-provider repo](https://github.com/kubernetes/test-infra/pull/36092) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Automated cherry pick of #930: build the binaries correctly](https://github.com/kubernetes/cloud-provider-gcp/pull/940) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [enable deploying a released version of kops](https://github.com/kubernetes/kops/pull/17819) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [fix image registry tester job and more kops fixes](https://github.com/kubernetes/test-infra/pull/36090) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [add kops networking presubmits for azure](https://github.com/kubernetes/test-infra/pull/36088) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
-- [add 1.35 k8s/kops jobs and fix broken distro jobs](https://github.com/kubernetes/test-infra/pull/36085) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 
 #### ⭐ Recent Stars
 
