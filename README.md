@@ -26,6 +26,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [Automated cherry pick of #17712: gce: bump GCE PD CSI Driver](https://github.com/kubernetes/kops/pull/17836) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
+- [Automated cherry pick of #17712: gce: bump GCE PD CSI Driver](https://github.com/kubernetes/kops/pull/17835) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [bump images and fix broken azure conformance jobs](https://github.com/kubernetes/test-infra/pull/36116) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [migrate from fluxcd to ArgoCD, part one](https://github.com/kubernetes/k8s.io/pull/8897) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [[wip] promote v35.0.0 cloud provider gcp binaries](https://github.com/kubernetes/k8s.io/pull/8886) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
@@ -34,8 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [Automated cherry pick of #930: build the binaries correctly](https://github.com/kubernetes/cloud-provider-gcp/pull/940) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (5 days ago)
 - [autobump boskos janitors](https://github.com/kubernetes/test-infra/pull/36091) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [skip dropping AWSReservedSSO and DatadogIntegration roles](https://github.com/kubernetes-sigs/boskos/pull/241) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (5 days ago)
-- [bump containerd and make arch selection dynamic](https://github.com/kubernetes/registry.k8s.io/pull/317) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (6 days ago)
-- [enable deploying a released version of kops](https://github.com/kubernetes/kops/pull/17819) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
 
 #### ⭐ Recent Stars
 
