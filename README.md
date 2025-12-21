@@ -27,7 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 #### 🔨 My recent Pull Requests
 
 - [[wip] promote v35.0.0 cloud provider gcp binaries](https://github.com/kubernetes/k8s.io/pull/8886) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
-- [debug missing resources in toolbox dump](https://github.com/kubernetes/kops/pull/17820) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
+- [dump logs from azure VMs](https://github.com/kubernetes/kops/pull/17820) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
 - [build only oss tags for gcp cloud-provider repo](https://github.com/kubernetes/test-infra/pull/36092) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [Automated cherry pick of #930: build the binaries correctly](https://github.com/kubernetes/cloud-provider-gcp/pull/940) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (5 days ago)
 - [autobump boskos janitors](https://github.com/kubernetes/test-infra/pull/36091) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
