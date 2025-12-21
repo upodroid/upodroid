@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [migrate from fluxcd to ArgoCD, part one](https://github.com/kubernetes/k8s.io/pull/8897) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [[wip] promote v35.0.0 cloud provider gcp binaries](https://github.com/kubernetes/k8s.io/pull/8886) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [dump logs from azure VMs](https://github.com/kubernetes/kops/pull/17820) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
 - [build only oss tags for gcp cloud-provider repo](https://github.com/kubernetes/test-infra/pull/36092) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump containerd and make arch selection dynamic](https://github.com/kubernetes/registry.k8s.io/pull/317) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (6 days ago)
 - [enable deploying a released version of kops](https://github.com/kubernetes/kops/pull/17819) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
 - [fix image registry tester job and more kops fixes](https://github.com/kubernetes/test-infra/pull/36090) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [add kops networking presubmits for azure](https://github.com/kubernetes/test-infra/pull/36088) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 
 #### ⭐ Recent Stars
 
