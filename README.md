@@ -5,8 +5,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 #### 👷 Check out what I'm currently working on
 
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
+- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 day ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (6 days ago)
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (6 days ago)
 - [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) - Boskos is a resource management service that provides reservation and lifecycle management of a variety of different kinds of resources. (6 days ago)
 - [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) - cloud-provider-gcp contains several projects used to run Kubernetes in Google Cloud (1 week ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 week ago)
@@ -31,7 +31,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump images and fix broken azure conformance jobs](https://github.com/kubernetes/test-infra/pull/36116) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [migrate from fluxcd to ArgoCD, part one](https://github.com/kubernetes/k8s.io/pull/8897) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [[wip] promote v35.0.0 cloud provider gcp binaries](https://github.com/kubernetes/k8s.io/pull/8886) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [dump logs from azure VMs](https://github.com/kubernetes/kops/pull/17820) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
+- [azure: Dump VM logs with toolbox dump ](https://github.com/kubernetes/kops/pull/17820) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
 - [build only oss tags for gcp cloud-provider repo](https://github.com/kubernetes/test-infra/pull/36092) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [Automated cherry pick of #930: build the binaries correctly](https://github.com/kubernetes/cloud-provider-gcp/pull/940) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (6 days ago)
 - [autobump boskos janitors](https://github.com/kubernetes/test-infra/pull/36091) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
