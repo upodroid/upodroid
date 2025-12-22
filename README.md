@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [create an arm64 kubernetes integration job](https://github.com/kubernetes/test-infra/pull/36119) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [Automated cherry pick of #17712: gce: bump GCE PD CSI Driver](https://github.com/kubernetes/kops/pull/17836) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [Automated cherry pick of #17712: gce: bump GCE PD CSI Driver](https://github.com/kubernetes/kops/pull/17835) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [bump images and fix broken azure conformance jobs](https://github.com/kubernetes/test-infra/pull/36116) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [build only oss tags for gcp cloud-provider repo](https://github.com/kubernetes/test-infra/pull/36092) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [Automated cherry pick of #930: build the binaries correctly](https://github.com/kubernetes/cloud-provider-gcp/pull/940) on [kubernetes/cloud-provider-gcp](https://github.com/kubernetes/cloud-provider-gcp) (6 days ago)
 - [autobump boskos janitors](https://github.com/kubernetes/test-infra/pull/36091) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [skip dropping AWSReservedSSO and DatadogIntegration roles](https://github.com/kubernetes-sigs/boskos/pull/241) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (6 days ago)
 
 #### ⭐ Recent Stars
 
