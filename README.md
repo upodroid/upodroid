@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (today)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (3 days ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
 - [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) - Boskos is a resource management service that provides reservation and lifecycle management of a variety of different kinds of resources. (1 week ago)
@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [view argocd diffs in PRs](https://github.com/kubernetes/k8s.io/pull/8906) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump timeout](https://github.com/kubernetes/registry.k8s.io/pull/319) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (today)
 - [remove KES from prow-build cluster and bump ESO to v1](https://github.com/kubernetes/k8s.io/pull/8903) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [migrate from fluxcd to ArgoCD, part two](https://github.com/kubernetes/k8s.io/pull/8901) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [Automated cherry pick of #17712: gce: bump GCE PD CSI Driver](https://github.com/kubernetes/kops/pull/17835) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
 - [bump images and fix broken azure conformance jobs](https://github.com/kubernetes/test-infra/pull/36116) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [migrate from fluxcd to ArgoCD, part one](https://github.com/kubernetes/k8s.io/pull/8897) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
-- [[wip] promote v35.0.0 cloud provider gcp binaries](https://github.com/kubernetes/k8s.io/pull/8886) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
