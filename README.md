@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump timeout](https://github.com/kubernetes/registry.k8s.io/pull/319) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (today)
 - [remove KES from prow-build cluster and bump ESO to v1](https://github.com/kubernetes/k8s.io/pull/8903) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [migrate from fluxcd to ArgoCD, part two](https://github.com/kubernetes/k8s.io/pull/8901) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [enforce cpu/memory ceiling limit for prow jobs](https://github.com/kubernetes/test-infra/pull/36121) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump images and fix broken azure conformance jobs](https://github.com/kubernetes/test-infra/pull/36116) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [migrate from fluxcd to ArgoCD, part one](https://github.com/kubernetes/k8s.io/pull/8897) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [[wip] promote v35.0.0 cloud provider gcp binaries](https://github.com/kubernetes/k8s.io/pull/8886) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [azure: Dump VM logs with toolbox dump ](https://github.com/kubernetes/kops/pull/17820) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 
 #### ⭐ Recent Stars
 
