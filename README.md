@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [borg-land/argo-diff](https://github.com/borg-land/argo-diff) - Argo Diff Test (1 day ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (2 days ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (5 days ago)
@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix a missing service account in filepromoter manifest](https://github.com/kubernetes/k8s.io/pull/8910) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump gcp ccm to v35](https://github.com/kubernetes/kubernetes/pull/135946) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [migrate the 5k jobs from kubeup to kops](https://github.com/kubernetes/test-infra/pull/36137) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [shutdown the development scale jobs](https://github.com/kubernetes/test-infra/pull/36135) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [view argocd diffs in PRs](https://github.com/kubernetes/k8s.io/pull/8906) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [bump timeout](https://github.com/kubernetes/registry.k8s.io/pull/319) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (2 days ago)
 - [remove KES from prow-build cluster and bump ESO to v1](https://github.com/kubernetes/k8s.io/pull/8903) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
-- [migrate from fluxcd to ArgoCD, part two](https://github.com/kubernetes/k8s.io/pull/8901) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 
 #### ⭐ Recent Stars
 
