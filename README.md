@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [rebuild the AKS build cluster](https://github.com/kubernetes/k8s.io/pull/8911) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [fix a missing service account in filepromoter manifest](https://github.com/kubernetes/k8s.io/pull/8910) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [bump gcp ccm to v35](https://github.com/kubernetes/kubernetes/pull/135946) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 - [migrate the 5k jobs from kubeup to kops](https://github.com/kubernetes/test-infra/pull/36137) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [use a bot token instead of the workflow token](https://github.com/kubernetes/k8s.io/pull/8907) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [view argocd diffs in PRs](https://github.com/kubernetes/k8s.io/pull/8906) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [bump timeout](https://github.com/kubernetes/registry.k8s.io/pull/319) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (4 days ago)
-- [remove KES from prow-build cluster and bump ESO to v1](https://github.com/kubernetes/k8s.io/pull/8903) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 
 #### ⭐ Recent Stars
 
