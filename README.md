@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump datadog to 3.157.3](https://github.com/kubernetes/k8s.io/pull/8912) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [rebuild the AKS build cluster](https://github.com/kubernetes/k8s.io/pull/8911) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [fix a missing service account in filepromoter manifest](https://github.com/kubernetes/k8s.io/pull/8910) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [bump gcp ccm to v35](https://github.com/kubernetes/kubernetes/pull/135946) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [Update Datadog Helm chart version to 3.157.1](https://github.com/borg-land/argo-diff/pull/1) on [borg-land/argo-diff](https://github.com/borg-land/argo-diff) (4 days ago)
 - [use a bot token instead of the workflow token](https://github.com/kubernetes/k8s.io/pull/8907) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [view argocd diffs in PRs](https://github.com/kubernetes/k8s.io/pull/8906) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [bump timeout](https://github.com/kubernetes/registry.k8s.io/pull/319) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (5 days ago)
 
 #### ⭐ Recent Stars
 
