@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [right size kops jobs](https://github.com/kubernetes/test-infra/pull/36143) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [rightsize various kubernetes unit/typecheck  jobs](https://github.com/kubernetes/test-infra/pull/36142) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [add gcp rbac groups for ibm teams](https://github.com/kubernetes/k8s.io/pull/8915) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump datadog to 3.157.3](https://github.com/kubernetes/k8s.io/pull/8912) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [migrate the 5k jobs from kubeup to kops](https://github.com/kubernetes/test-infra/pull/36137) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [shutdown the development scale jobs](https://github.com/kubernetes/test-infra/pull/36135) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [gcp: bump ccm to v35](https://github.com/kubernetes/kops/pull/17841) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 days ago)
-- [Update Datadog Helm chart version to 3.157.1](https://github.com/borg-land/argo-diff/pull/1) on [borg-land/argo-diff](https://github.com/borg-land/argo-diff) (5 days ago)
 
 #### ⭐ Recent Stars
 
