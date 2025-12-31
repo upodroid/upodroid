@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add extra_refs to every periodic job that doesn&#39;t have it](https://github.com/kubernetes/test-infra/pull/36145) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [right size kops jobs](https://github.com/kubernetes/test-infra/pull/36143) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [rightsize various kubernetes unit/typecheck  jobs](https://github.com/kubernetes/test-infra/pull/36142) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [add gcp rbac groups for ibm teams](https://github.com/kubernetes/k8s.io/pull/8915) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump gcp ccm to v35](https://github.com/kubernetes/kubernetes/pull/135946) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
 - [migrate the 5k jobs from kubeup to kops](https://github.com/kubernetes/test-infra/pull/36137) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [shutdown the development scale jobs](https://github.com/kubernetes/test-infra/pull/36135) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
-- [gcp: bump ccm to v35](https://github.com/kubernetes/kops/pull/17841) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
 
 #### ⭐ Recent Stars
 
