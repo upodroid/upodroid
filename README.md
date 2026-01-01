@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [deploy new testgrid UI](https://github.com/kubernetes/k8s.io/pull/8921) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [patch a few bugs in ArgoCD and bump ESO](https://github.com/kubernetes/k8s.io/pull/8919) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [expand 5k scale pool](https://github.com/kubernetes/k8s.io/pull/8918) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [add extra_refs to every periodic job that doesn&#39;t have it](https://github.com/kubernetes/test-infra/pull/36145) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump datadog to 3.157.3](https://github.com/kubernetes/k8s.io/pull/8912) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [rebuild the AKS build cluster](https://github.com/kubernetes/k8s.io/pull/8911) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [fix a missing service account in filepromoter manifest](https://github.com/kubernetes/k8s.io/pull/8910) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
-- [bump gcp ccm to v35](https://github.com/kubernetes/kubernetes/pull/135946) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
 
 #### ⭐ Recent Stars
 
