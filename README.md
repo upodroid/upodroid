@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 days ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (4 days ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 week ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 week ago)
 - [borg-land/argo-diff](https://github.com/borg-land/argo-diff) - Argo Diff Test (1 week ago)
@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [Manage the gke prometheus monitoring using ArgoCD](https://github.com/kubernetes/k8s.io/pull/8922) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [cap all cpu requests to 7](https://github.com/kubernetes/test-infra/pull/36148) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [Use API_URL instead of API_HOST/PORT](https://github.com/kubernetes-sigs/testgrid/pull/76) on [kubernetes-sigs/testgrid](https://github.com/kubernetes-sigs/testgrid) (3 days ago)
 - [deploy new testgrid UI](https://github.com/kubernetes/k8s.io/pull/8921) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [right size kops jobs](https://github.com/kubernetes/test-infra/pull/36143) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [rightsize various kubernetes unit/typecheck  jobs](https://github.com/kubernetes/test-infra/pull/36142) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [add gcp rbac groups for ibm teams](https://github.com/kubernetes/k8s.io/pull/8915) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [bump datadog to 3.157.3](https://github.com/kubernetes/k8s.io/pull/8912) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 
 #### ⭐ Recent Stars
 
