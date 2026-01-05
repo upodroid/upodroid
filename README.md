@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump to go1.25 and cleanup various debts](https://github.com/kubernetes-sigs/prow/pull/584) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (today)
 - [fix k8s.io prowjobs](https://github.com/kubernetes/test-infra/pull/36153) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [Manage the gke prometheus monitoring using ArgoCD](https://github.com/kubernetes/k8s.io/pull/8922) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [cap all cpu requests to 7](https://github.com/kubernetes/test-infra/pull/36148) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [expand 5k scale pool](https://github.com/kubernetes/k8s.io/pull/8918) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [add extra_refs to every periodic job that doesn&#39;t have it](https://github.com/kubernetes/test-infra/pull/36145) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [right size kops jobs](https://github.com/kubernetes/test-infra/pull/36143) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [rightsize various kubernetes unit/typecheck  jobs](https://github.com/kubernetes/test-infra/pull/36142) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 
 #### ⭐ Recent Stars
 
