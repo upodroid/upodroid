@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [update cloudbuild docs and use a newer buildx multiarch approach](https://github.com/kubernetes/test-infra/pull/36158) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [drop testgrid-proxy and testgrid-data dns record](https://github.com/kubernetes/k8s.io/pull/8924) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump to go1.25 and cleanup various debts](https://github.com/kubernetes-sigs/prow/pull/584) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (1 day ago)
 - [fix k8s.io prowjobs](https://github.com/kubernetes/test-infra/pull/36153) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [deploy new testgrid UI](https://github.com/kubernetes/k8s.io/pull/8921) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [patch a few bugs in ArgoCD and bump ESO](https://github.com/kubernetes/k8s.io/pull/8919) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [expand 5k scale pool](https://github.com/kubernetes/k8s.io/pull/8918) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
-- [add extra_refs to every periodic job that doesn&#39;t have it](https://github.com/kubernetes/test-infra/pull/36145) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 
 #### ⭐ Recent Stars
 
