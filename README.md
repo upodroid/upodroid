@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix some bugs in rg-cleanup](https://github.com/Azure/rg-cleanup/pull/27) on [Azure/rg-cleanup](https://github.com/Azure/rg-cleanup) (today)
 - [fix aks post deployment bugs](https://github.com/kubernetes/k8s.io/pull/8930) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [run some jobs in the aks build cluster](https://github.com/kubernetes/test-infra/pull/36162) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [update cloudbuild docs and use a newer buildx multiarch approach](https://github.com/kubernetes/test-infra/pull/36158) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [Manage the gke prometheus monitoring using ArgoCD](https://github.com/kubernetes/k8s.io/pull/8922) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [cap all cpu requests to 7](https://github.com/kubernetes/test-infra/pull/36148) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [Use API_URL instead of API_HOST/PORT](https://github.com/kubernetes-sigs/testgrid/pull/76) on [kubernetes-sigs/testgrid](https://github.com/kubernetes-sigs/testgrid) (1 week ago)
-- [deploy new testgrid UI](https://github.com/kubernetes/k8s.io/pull/8921) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
