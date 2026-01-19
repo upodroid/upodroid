@@ -32,7 +32,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [run some jobs in the aks build cluster](https://github.com/kubernetes/test-infra/pull/36162) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [update cloudbuild docs and use a newer buildx multiarch approach](https://github.com/kubernetes/test-infra/pull/36158) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [drop testgrid-proxy and testgrid-data dns record](https://github.com/kubernetes/k8s.io/pull/8924) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [bump to go1.25 and cleanup various debts](https://github.com/kubernetes-sigs/prow/pull/584) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (1 week ago)
+- [bump to go1.25 and cleanup various debts](https://github.com/kubernetes-sigs/prow/pull/584) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (2 weeks ago)
 - [fix k8s.io prowjobs](https://github.com/kubernetes/test-infra/pull/36153) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [Manage the gke prometheus monitoring using ArgoCD](https://github.com/kubernetes/k8s.io/pull/8922) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [cap all cpu requests to 7](https://github.com/kubernetes/test-infra/pull/36148) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
