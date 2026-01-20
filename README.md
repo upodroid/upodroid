@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix argocd-differ](https://github.com/kubernetes/k8s.io/pull/8972) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [reduce the boskos sweep attempts to 2](https://github.com/kubernetes/k8s.io/pull/8961) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [bump kind in kubekins-e2e-v2 image](https://github.com/kubernetes/test-infra/pull/36267) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [fix the aks heartbeat jobs](https://github.com/kubernetes/test-infra/pull/36203) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [update cloudbuild docs and use a newer buildx multiarch approach](https://github.com/kubernetes/test-infra/pull/36158) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [drop testgrid-proxy and testgrid-data dns record](https://github.com/kubernetes/k8s.io/pull/8924) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [bump to go1.25 and cleanup various debts](https://github.com/kubernetes-sigs/prow/pull/584) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (2 weeks ago)
-- [fix k8s.io prowjobs](https://github.com/kubernetes/test-infra/pull/36153) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
