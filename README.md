@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
 - [Azure/rg-cleanup](https://github.com/Azure/rg-cleanup) - Clean up stale Azure resource groups based on resource group tag. (1 week ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (1 week ago)
 - [kubernetes-sigs/testgrid](https://github.com/kubernetes-sigs/testgrid) - Kubernetes-related TestGrid projects. Currently hosts the new frontend code for TestGrid. (2 weeks ago)
@@ -26,14 +26,14 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
-- [reduce the boskos sweep attempts to 2](https://github.com/kubernetes/k8s.io/pull/8961) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
-- [bump kind in kubekins-e2e-v2 image](https://github.com/kubernetes/test-infra/pull/36267) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [reduce the boskos sweep attempts to 2](https://github.com/kubernetes/k8s.io/pull/8961) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
+- [bump kind in kubekins-e2e-v2 image](https://github.com/kubernetes/test-infra/pull/36267) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [fix the aks heartbeat jobs](https://github.com/kubernetes/test-infra/pull/36203) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [fix some bugs in rg-cleanup](https://github.com/Azure/rg-cleanup/pull/27) on [Azure/rg-cleanup](https://github.com/Azure/rg-cleanup) (1 week ago)
 - [fix aks post deployment bugs](https://github.com/kubernetes/k8s.io/pull/8930) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [run some jobs in the aks build cluster](https://github.com/kubernetes/test-infra/pull/36162) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [update cloudbuild docs and use a newer buildx multiarch approach](https://github.com/kubernetes/test-infra/pull/36158) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [drop testgrid-proxy and testgrid-data dns record](https://github.com/kubernetes/k8s.io/pull/8924) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
+- [run some jobs in the aks build cluster](https://github.com/kubernetes/test-infra/pull/36162) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
+- [update cloudbuild docs and use a newer buildx multiarch approach](https://github.com/kubernetes/test-infra/pull/36158) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
+- [drop testgrid-proxy and testgrid-data dns record](https://github.com/kubernetes/k8s.io/pull/8924) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [bump to go1.25 and cleanup various debts](https://github.com/kubernetes-sigs/prow/pull/584) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (2 weeks ago)
 - [fix k8s.io prowjobs](https://github.com/kubernetes/test-infra/pull/36153) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
