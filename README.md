@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.17.0-rc.1](https://github.com/kyverno/kyverno/releases/tag/v1.17.0-rc.1), today) - Cloud Native Policy Management
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.20.4](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.20.4), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.16.2](https://github.com/kyverno/kyverno/releases/tag/v1.16.2), 1 week ago) - Cloud Native Policy Management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0), 1 month ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.6.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.6.0), 1 month ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.35.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.35.0-alpha.1), 1 month ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add nonewprivs to agnhost and ensure core e2e images in conformance suite use semver](https://github.com/kubernetes/kubernetes/pull/136404) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [Add gke-gcloud-auth-plugin to kubekins-e2e-v2 image round 2](https://github.com/kubernetes/test-infra/pull/36277) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [manage eks kops build cluster using gitops](https://github.com/kubernetes/k8s.io/pull/8975) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [start managing azure infra with terraform](https://github.com/kubernetes/k8s.io/pull/8974) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix the aks heartbeat jobs](https://github.com/kubernetes/test-infra/pull/36203) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [fix some bugs in rg-cleanup](https://github.com/Azure/rg-cleanup/pull/27) on [Azure/rg-cleanup](https://github.com/Azure/rg-cleanup) (1 week ago)
 - [fix aks post deployment bugs](https://github.com/kubernetes/k8s.io/pull/8930) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [run some jobs in the aks build cluster](https://github.com/kubernetes/test-infra/pull/36162) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
