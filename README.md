@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [delete nonewprivs image and bump agnhost](https://github.com/kubernetes/kubernetes/pull/136405) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [add nonewprivs to agnhost and ensure core e2e images in conformance suite use semver](https://github.com/kubernetes/kubernetes/pull/136404) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [Add gke-gcloud-auth-plugin to kubekins-e2e-v2 image round 2](https://github.com/kubernetes/test-infra/pull/36277) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [manage eks kops build cluster using gitops](https://github.com/kubernetes/k8s.io/pull/8975) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump kind in kubekins-e2e-v2 image](https://github.com/kubernetes/test-infra/pull/36267) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [fix the aks heartbeat jobs](https://github.com/kubernetes/test-infra/pull/36203) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [fix some bugs in rg-cleanup](https://github.com/Azure/rg-cleanup/pull/27) on [Azure/rg-cleanup](https://github.com/Azure/rg-cleanup) (1 week ago)
-- [fix aks post deployment bugs](https://github.com/kubernetes/k8s.io/pull/8930) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
