@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [Add gke-gcloud-auth-plugin to kubekins-e2e-v2 image round 2](https://github.com/kubernetes/test-infra/pull/36277) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [manage eks kops build cluster using gitops](https://github.com/kubernetes/k8s.io/pull/8975) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [start managing azure infra with terraform](https://github.com/kubernetes/k8s.io/pull/8974) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [fix argocd-differ](https://github.com/kubernetes/k8s.io/pull/8972) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix some bugs in rg-cleanup](https://github.com/Azure/rg-cleanup/pull/27) on [Azure/rg-cleanup](https://github.com/Azure/rg-cleanup) (1 week ago)
 - [fix aks post deployment bugs](https://github.com/kubernetes/k8s.io/pull/8930) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [run some jobs in the aks build cluster](https://github.com/kubernetes/test-infra/pull/36162) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-- [update cloudbuild docs and use a newer buildx multiarch approach](https://github.com/kubernetes/test-infra/pull/36158) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
