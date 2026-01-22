@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [drop the perl e2e test image](https://github.com/kubernetes/kubernetes/pull/136439) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [add some kops scale presubmits to perf-tests](https://github.com/kubernetes/test-infra/pull/36283) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [delete nonewprivs image and bump agnhost](https://github.com/kubernetes/kubernetes/pull/136405) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [add nonewprivs to agnhost](https://github.com/kubernetes/kubernetes/pull/136404) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix argocd-differ](https://github.com/kubernetes/k8s.io/pull/8972) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [reduce the boskos sweep attempts to 2](https://github.com/kubernetes/k8s.io/pull/8961) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [bump kind in kubekins-e2e-v2 image](https://github.com/kubernetes/test-infra/pull/36267) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [fix the aks heartbeat jobs](https://github.com/kubernetes/test-infra/pull/36203) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
