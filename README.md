@@ -6,8 +6,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 day ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
 - [borg-land/argo-diff](https://github.com/borg-land/argo-diff) - Argo Diff Test (1 day ago)
 - [Azure/rg-cleanup](https://github.com/Azure/rg-cleanup) - Clean up stale Azure resource groups based on resource group tag. (1 week ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (2 weeks ago)
@@ -26,6 +26,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [truncate very long sqs queue names](https://github.com/kubernetes/kops/pull/17877) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
+- [promote agnhost 2.62.0](https://github.com/kubernetes/k8s.io/pull/8997) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [drop the perl e2e test image](https://github.com/kubernetes/kubernetes/pull/136439) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [add some kops scale presubmits to perf-tests](https://github.com/kubernetes/test-infra/pull/36283) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [delete nonewprivs image and bump agnhost](https://github.com/kubernetes/kubernetes/pull/136405) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
@@ -34,8 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [manage eks kops build cluster using gitops](https://github.com/kubernetes/k8s.io/pull/8975) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [start managing azure infra with terraform](https://github.com/kubernetes/k8s.io/pull/8974) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [fix argocd-differ](https://github.com/kubernetes/k8s.io/pull/8972) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
-- [reduce the boskos sweep attempts to 2](https://github.com/kubernetes/k8s.io/pull/8961) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
-- [bump kind in kubekins-e2e-v2 image](https://github.com/kubernetes/test-infra/pull/36267) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 
 #### ⭐ Recent Stars
 
