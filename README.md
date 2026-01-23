@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [drop armv7 from our e2e test images](https://github.com/kubernetes/kubernetes/pull/136444) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [add util-linux to agnhost so we can replace ipc-utils with agnhost](https://github.com/kubernetes/kubernetes/pull/136442) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [capture prometheus logs for kops scale jobs](https://github.com/kubernetes/test-infra/pull/36288) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [truncate very long sqs queue names](https://github.com/kubernetes/kops/pull/17877) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [delete nonewprivs image and bump agnhost](https://github.com/kubernetes/kubernetes/pull/136405) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 - [add nonewprivs to agnhost](https://github.com/kubernetes/kubernetes/pull/136404) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 - [Add gke-gcloud-auth-plugin to kubekins-e2e-v2 image round 2](https://github.com/kubernetes/test-infra/pull/36277) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
-- [manage eks kops build cluster using gitops](https://github.com/kubernetes/k8s.io/pull/8975) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 
 #### ⭐ Recent Stars
 
