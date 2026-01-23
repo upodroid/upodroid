@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add region, machine-type and worker-pool flags to image builder](https://github.com/kubernetes/test-infra/pull/36296) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [refactor image-util script that builds e2e test-images](https://github.com/kubernetes/kubernetes/pull/136464) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [drop armv7 from our e2e test images](https://github.com/kubernetes/kubernetes/pull/136444) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [add util-linux to agnhost so we can replace ipc-utils with agnhost](https://github.com/kubernetes/kubernetes/pull/136442) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [drop the perl e2e test image](https://github.com/kubernetes/kubernetes/pull/136439) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [add some kops scale presubmits to perf-tests](https://github.com/kubernetes/test-infra/pull/36283) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [delete nonewprivs image and bump agnhost](https://github.com/kubernetes/kubernetes/pull/136405) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
-- [add nonewprivs to agnhost](https://github.com/kubernetes/kubernetes/pull/136404) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 
 #### ⭐ Recent Stars
 
