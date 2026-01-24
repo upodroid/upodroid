@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix aws scalability tests](https://github.com/kubernetes/kops/pull/17880) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [pass region, worker-pool flags to e2e-test-images](https://github.com/kubernetes/test-infra/pull/36300) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [add region, machine-type and worker-pool flags to image builder](https://github.com/kubernetes/test-infra/pull/36296) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [refactor image-util script that builds e2e test-images](https://github.com/kubernetes/kubernetes/pull/136464) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [truncate very long sqs queue names](https://github.com/kubernetes/kops/pull/17877) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [promote agnhost 2.62.0](https://github.com/kubernetes/k8s.io/pull/8997) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [drop the perl e2e test image](https://github.com/kubernetes/kubernetes/pull/136439) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
-- [add some kops scale presubmits to perf-tests](https://github.com/kubernetes/test-infra/pull/36283) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 
 #### ⭐ Recent Stars
 
