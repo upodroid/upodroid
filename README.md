@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [delete duplicate dra jobs and temporarily disable dra 5k job](https://github.com/kubernetes/test-infra/pull/36305) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [use io2 for ec2 scale jobs](https://github.com/kubernetes/test-infra/pull/36303) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [fix aws scalability tests](https://github.com/kubernetes/kops/pull/17880) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [pass region, worker-pool flags to e2e-test-images](https://github.com/kubernetes/test-infra/pull/36300) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add util-linux to agnhost so we can replace ipc-utils with agnhost](https://github.com/kubernetes/kubernetes/pull/136442) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
 - [capture prometheus logs for kops scale jobs](https://github.com/kubernetes/test-infra/pull/36288) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [truncate very long sqs queue names](https://github.com/kubernetes/kops/pull/17877) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
-- [promote agnhost 2.62.0](https://github.com/kubernetes/k8s.io/pull/8997) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 
 #### ⭐ Recent Stars
 
