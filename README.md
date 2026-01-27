@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [drop hardcoded kops_state_store and cluster_name](https://github.com/kubernetes/test-infra/pull/36316) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [fix truncate long sqs](https://github.com/kubernetes/kops/pull/17885) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [delete duplicate dra jobs and temporarily disable dra 5k job](https://github.com/kubernetes/test-infra/pull/36305) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [use io2 for ec2 scale jobs](https://github.com/kubernetes/test-infra/pull/36303) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [refactor image-util script that builds e2e test-images](https://github.com/kubernetes/kubernetes/pull/136464) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
 - [drop armv7 from our e2e test images](https://github.com/kubernetes/kubernetes/pull/136444) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
 - [add util-linux to agnhost so we can replace ipc-utils with agnhost](https://github.com/kubernetes/kubernetes/pull/136442) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
-- [capture prometheus logs for kops scale jobs](https://github.com/kubernetes/test-infra/pull/36288) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 
 #### ⭐ Recent Stars
 
