@@ -4,9 +4,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 day ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (2 days ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (5 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (6 days ago)
 - [borg-land/argo-diff](https://github.com/borg-land/argo-diff) - Argo Diff Test (1 week ago)
@@ -26,7 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
-- [[wip] fix podidentitywebhook test](https://github.com/kubernetes/kops/pull/17887) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
+- [fix podidentitywebhook test](https://github.com/kubernetes/kops/pull/17887) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [drop hardcoded kops_state_store and cluster_name](https://github.com/kubernetes/test-infra/pull/36316) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [fix truncate long sqs](https://github.com/kubernetes/kops/pull/17885) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [delete duplicate dra jobs and temporarily disable dra 5k job](https://github.com/kubernetes/test-infra/pull/36305) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
