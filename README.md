@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [drop AL2 from kops](https://github.com/kubernetes/test-infra/pull/36344) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [drop nftables jobs for debian11 and AL2 and fix metrics-server job](https://github.com/kubernetes/test-infra/pull/36339) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [fix broken metrics server test](https://github.com/kubernetes/kops/pull/17896) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [fix podidentitywebhook test](https://github.com/kubernetes/kops/pull/17887) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [use io2 for ec2 scale jobs](https://github.com/kubernetes/test-infra/pull/36303) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [fix aws scalability tests](https://github.com/kubernetes/kops/pull/17880) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
 - [pass region, worker-pool flags to e2e-test-images](https://github.com/kubernetes/test-infra/pull/36300) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [add region, machine-type and worker-pool flags to image builder](https://github.com/kubernetes/test-infra/pull/36296) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
