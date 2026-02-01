@@ -26,6 +26,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add aws cli to kubekins-e2e-v2 image](https://github.com/kubernetes/test-infra/pull/36357) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [enable the use of multiple testers](https://github.com/kubernetes-sigs/kubetest2/pull/323) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (today)
 - [drop AL2 from kops](https://github.com/kubernetes/test-infra/pull/36344) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [drop nftables jobs for debian11 and AL2 and fix metrics-server job](https://github.com/kubernetes/test-infra/pull/36339) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [fix broken metrics server test](https://github.com/kubernetes/kops/pull/17896) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 days ago)
@@ -34,8 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix truncate long sqs](https://github.com/kubernetes/kops/pull/17885) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
 - [delete duplicate dra jobs and temporarily disable dra 5k job](https://github.com/kubernetes/test-infra/pull/36305) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [use io2 for ec2 scale jobs](https://github.com/kubernetes/test-infra/pull/36303) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [fix aws scalability tests](https://github.com/kubernetes/kops/pull/17880) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
-- [pass region, worker-pool flags to e2e-test-images](https://github.com/kubernetes/test-infra/pull/36300) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
