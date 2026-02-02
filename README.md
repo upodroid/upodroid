@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.17.0-rc.3](https://github.com/kyverno/kyverno/releases/tag/v1.17.0-rc.3), 3 days ago) - Cloud Native Policy Management
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.17.0](https://github.com/kyverno/kyverno/releases/tag/v1.17.0), today) - Cloud Native Policy Management
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.20.4](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.20.4), 3 weeks ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0), 1 month ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.6.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.6.0), 1 month ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
