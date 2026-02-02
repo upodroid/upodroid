@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [Add linux_s390x target to goreleaser config](https://github.com/smallstep/cli/pull/1561) on [smallstep/cli](https://github.com/smallstep/cli) (today)
 - [add aws cli to kubekins-e2e-v2 image](https://github.com/kubernetes/test-infra/pull/36357) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [enable the use of multiple testers](https://github.com/kubernetes-sigs/kubetest2/pull/323) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 day ago)
 - [drop AL2 from kops](https://github.com/kubernetes/test-infra/pull/36344) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [drop hardcoded kops_state_store and cluster_name](https://github.com/kubernetes/test-infra/pull/36316) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [fix truncate long sqs](https://github.com/kubernetes/kops/pull/17885) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 - [delete duplicate dra jobs and temporarily disable dra 5k job](https://github.com/kubernetes/test-infra/pull/36305) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [use io2 for ec2 scale jobs](https://github.com/kubernetes/test-infra/pull/36303) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
