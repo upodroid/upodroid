@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [run krel entirely on community infra](https://github.com/kubernetes/release/pull/4257) on [kubernetes/release](https://github.com/kubernetes/release) (today)
 - [replace the kubeup 5k perf jobs with kops ones](https://github.com/kubernetes/test-infra/pull/36366) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [bump new k/k e2e images](https://github.com/kubernetes/k8s.io/pull/9048) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [add a presubmit to test kubekins-e2e changes and fix a bad install script](https://github.com/kubernetes/test-infra/pull/36361) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [drop AL2 from kops](https://github.com/kubernetes/test-infra/pull/36344) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [drop nftables jobs for debian11 and AL2 and fix metrics-server job](https://github.com/kubernetes/test-infra/pull/36339) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [fix broken metrics server test](https://github.com/kubernetes/kops/pull/17896) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
-- [fix podidentitywebhook test](https://github.com/kubernetes/kops/pull/17887) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 
 #### ⭐ Recent Stars
 
