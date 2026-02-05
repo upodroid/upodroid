@@ -5,15 +5,15 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 #### 👷 Check out what I'm currently working on
 
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
+- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (today)
+- [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (today)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (3 days ago)
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (6 days ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 week ago)
 - [borg-land/argo-diff](https://github.com/borg-land/argo-diff) - Argo Diff Test (2 weeks ago)
 - [Azure/rg-cleanup](https://github.com/Azure/rg-cleanup) - Clean up stale Azure resource groups based on resource group tag. (3 weeks ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (4 weeks ago)
 - [kubernetes-sigs/testgrid](https://github.com/kubernetes-sigs/testgrid) - Kubernetes-related TestGrid projects. Currently hosts the new frontend code for TestGrid. (1 month ago)
-- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -23,6 +23,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.6.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.6.0), 1 month ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.35.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.35.0-alpha.1), 2 months ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) ([storage-9.6.1](https://github.com/talkiq/gcloud-aio/releases/tag/storage-9.6.1), 3 months ago) - (Asyncio OR Threadsafe) Google Cloud Client Library for Python
+- [kubernetes/release](https://github.com/kubernetes/release) ([v0.18.0](https://github.com/kubernetes/release/releases/tag/v0.18.0), 11 months ago) - Release infrastructure for Kubernetes and related components
 
 #### 🔨 My recent Pull Requests
 
