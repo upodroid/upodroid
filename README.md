@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [reduce control plane count for ec2 jobs](https://github.com/kubernetes/test-infra/pull/36382) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [migrate krel to community owned gcp project](https://github.com/kubernetes/k8s.io/pull/9053) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [run krel entirely on community infra](https://github.com/kubernetes/release/pull/4257) on [kubernetes/release](https://github.com/kubernetes/release) (2 days ago)
 - [replace the kubeup 5k perf jobs with kops ones](https://github.com/kubernetes/test-infra/pull/36366) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add aws cli to kubekins-e2e-v2 image](https://github.com/kubernetes/test-infra/pull/36357) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [enable the use of multiple testers](https://github.com/kubernetes-sigs/kubetest2/pull/323) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (4 days ago)
 - [drop AL2 from kops](https://github.com/kubernetes/test-infra/pull/36344) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [drop nftables jobs for debian11 and AL2 and fix metrics-server job](https://github.com/kubernetes/test-infra/pull/36339) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
