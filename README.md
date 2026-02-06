@@ -27,6 +27,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [make some etcd variables configurable](https://github.com/kubernetes/kops/pull/17929) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
+- [configure scraping etcd ports on kops](https://github.com/kubernetes/perf-tests/pull/3797) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (today)
 - [build k/k when running presubmit jobs in kubernetes repo](https://github.com/kubernetes/kops/pull/17927) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [reduce control plane count for ec2 jobs](https://github.com/kubernetes/test-infra/pull/36382) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [migrate krel to community owned gcp project](https://github.com/kubernetes/k8s.io/pull/9053) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
@@ -35,8 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump new k/k e2e images](https://github.com/kubernetes/k8s.io/pull/9048) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [add a presubmit to test kubekins-e2e changes and fix a bad install script](https://github.com/kubernetes/test-infra/pull/36361) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [Add linux_s390x target to goreleaser config](https://github.com/smallstep/cli/pull/1561) on [smallstep/cli](https://github.com/smallstep/cli) (4 days ago)
-- [add aws cli to kubekins-e2e-v2 image](https://github.com/kubernetes/test-infra/pull/36357) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
-- [enable the use of multiple testers](https://github.com/kubernetes-sigs/kubetest2/pull/323) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (5 days ago)
 
 #### ⭐ Recent Stars
 
