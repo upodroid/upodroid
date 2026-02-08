@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add pre-test-cmd](https://github.com/kubernetes-sigs/kubetest2/pull/325) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (today)
 - [enable metrics server for scale tests](https://github.com/kubernetes/kops/pull/17938) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [add exponential backoffs to calling kops-controller](https://github.com/kubernetes/kops/pull/17930) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [make some etcd variables configurable](https://github.com/kubernetes/kops/pull/17929) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [migrate krel to community owned gcp project](https://github.com/kubernetes/k8s.io/pull/9053) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [run krel entirely on community infra](https://github.com/kubernetes/release/pull/4257) on [kubernetes/release](https://github.com/kubernetes/release) (5 days ago)
 - [replace the kubeup 5k perf jobs with kops ones](https://github.com/kubernetes/test-infra/pull/36366) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
-- [bump new k/k e2e images](https://github.com/kubernetes/k8s.io/pull/9048) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 
 #### ⭐ Recent Stars
 
