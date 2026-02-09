@@ -4,10 +4,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (today)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (2 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (4 days ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (4 days ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
 - [borg-land/argo-diff](https://github.com/borg-land/argo-diff) - Argo Diff Test (2 weeks ago)
@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add helm cli to e2e image](https://github.com/kubernetes/test-infra/pull/36421) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [add pre-test-cmd](https://github.com/kubernetes-sigs/kubetest2/pull/325) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 day ago)
 - [enable metrics server for scale tests](https://github.com/kubernetes/kops/pull/17938) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [add exponential backoffs to calling kops-controller](https://github.com/kubernetes/kops/pull/17930) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [reduce control plane count for ec2 jobs](https://github.com/kubernetes/test-infra/pull/36382) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [migrate krel to community owned gcp project](https://github.com/kubernetes/k8s.io/pull/9053) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [run krel entirely on community infra](https://github.com/kubernetes/release/pull/4257) on [kubernetes/release](https://github.com/kubernetes/release) (6 days ago)
-- [replace the kubeup 5k perf jobs with kops ones](https://github.com/kubernetes/test-infra/pull/36366) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 
 #### ⭐ Recent Stars
 
