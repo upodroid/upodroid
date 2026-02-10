@@ -4,10 +4,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 day ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (3 days ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (4 days ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (5 days ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
 - [borg-land/argo-diff](https://github.com/borg-land/argo-diff) - Argo Diff Test (2 weeks ago)
@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add dl.k8s.dev for testing Fastly CDN and also serving staging release bucket](https://github.com/kubernetes/k8s.io/pull/9100) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [[wip] access boskos accounts via IAM roles](https://github.com/kubernetes/k8s.io/pull/9087) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [add helm cli to e2e image](https://github.com/kubernetes/test-infra/pull/36421) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [add pre-test-cmd](https://github.com/kubernetes-sigs/kubetest2/pull/325) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (2 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [configure scraping etcd ports on kops](https://github.com/kubernetes/perf-tests/pull/3797) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (4 days ago)
 - [build k/k when running presubmit jobs in kubernetes repo](https://github.com/kubernetes/kops/pull/17927) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
 - [reduce control plane count for ec2 jobs](https://github.com/kubernetes/test-infra/pull/36382) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
-- [migrate krel to community owned gcp project](https://github.com/kubernetes/k8s.io/pull/9053) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
