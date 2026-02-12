@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [serve k8s-release-dev and k8s-staging-kops via Fastly](https://github.com/kubernetes/k8s.io/pull/9112) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [fix dl.k8s.io cdn](https://github.com/kubernetes/k8s.io/pull/9109) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [add dl.k8s.dev for testing Fastly CDN and also serving staging release bucket](https://github.com/kubernetes/k8s.io/pull/9100) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [[wip] access boskos accounts via IAM roles](https://github.com/kubernetes/k8s.io/pull/9087) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add exponential backoffs to calling kops-controller](https://github.com/kubernetes/kops/pull/17930) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
 - [make some etcd variables configurable](https://github.com/kubernetes/kops/pull/17929) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
 - [configure scraping etcd ports on kops](https://github.com/kubernetes/perf-tests/pull/3797) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (6 days ago)
-- [build k/k when running presubmit jobs in kubernetes repo](https://github.com/kubernetes/kops/pull/17927) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 
 #### ⭐ Recent Stars
 
