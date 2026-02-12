@@ -4,9 +4,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (3 days ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (5 days ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 week ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump cni plugins for node e2e jobs and fetch from github](https://github.com/kubernetes/test-infra/pull/36448) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [serve k8s-release-dev and k8s-staging-kops via Fastly](https://github.com/kubernetes/k8s.io/pull/9112) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [fix dl.k8s.io cdn](https://github.com/kubernetes/k8s.io/pull/9109) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [add dl.k8s.dev for testing Fastly CDN and also serving staging release bucket](https://github.com/kubernetes/k8s.io/pull/9100) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [enable metrics server for scale tests](https://github.com/kubernetes/kops/pull/17938) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 days ago)
 - [add exponential backoffs to calling kops-controller](https://github.com/kubernetes/kops/pull/17930) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
 - [make some etcd variables configurable](https://github.com/kubernetes/kops/pull/17929) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
-- [configure scraping etcd ports on kops](https://github.com/kubernetes/perf-tests/pull/3797) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (6 days ago)
 
 #### ⭐ Recent Stars
 
