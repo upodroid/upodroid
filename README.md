@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [drop managing storage classes](https://github.com/kubernetes/perf-tests/pull/3806) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (today)
 - [fetch metrics correctly from control plane instances](https://github.com/kubernetes/perf-tests/pull/3805) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (1 day ago)
 - [bump cni plugins for node e2e jobs and fetch from github](https://github.com/kubernetes/test-infra/pull/36448) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [serve k8s-release-dev and k8s-staging-kops via Fastly](https://github.com/kubernetes/k8s.io/pull/9112) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add helm cli to e2e image](https://github.com/kubernetes/test-infra/pull/36421) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [add pre-test-cmd](https://github.com/kubernetes-sigs/kubetest2/pull/325) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (6 days ago)
 - [enable metrics server for scale tests](https://github.com/kubernetes/kops/pull/17938) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
-- [add exponential backoffs to calling kops-controller](https://github.com/kubernetes/kops/pull/17930) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 
 #### ⭐ Recent Stars
 
