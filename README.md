@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [rework the markers to make kops markers behave the same as kubernetes markers](https://github.com/kubernetes/kops/pull/17975) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [publish a proper website with kubernetes download instructions ](https://github.com/kubernetes-sigs/downloadkubernetes/pull/845) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (2 days ago)
 - [drop managing storage classes](https://github.com/kubernetes/perf-tests/pull/3806) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (3 days ago)
 - [fetch metrics correctly from control plane instances](https://github.com/kubernetes/perf-tests/pull/3805) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (4 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add dl.k8s.dev for testing Fastly CDN and also serving staging release bucket](https://github.com/kubernetes/k8s.io/pull/9100) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [[wip] access boskos accounts via IAM roles](https://github.com/kubernetes/k8s.io/pull/9087) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [add helm cli to e2e image](https://github.com/kubernetes/test-infra/pull/36421) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [add pre-test-cmd](https://github.com/kubernetes-sigs/kubetest2/pull/325) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 week ago)
 
 #### ⭐ Recent Stars
 
