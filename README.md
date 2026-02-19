@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.17.1-rc.1](https://github.com/kyverno/kyverno/releases/tag/v1.17.1-rc.1), 1 day ago) - Cloud Native Policy Management
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.17.1](https://github.com/kyverno/kyverno/releases/tag/v1.17.1), today) - Cloud Native Policy Management
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.35.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.35.0-beta.1), 5 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.12), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.19.0](https://github.com/kubernetes/release/releases/tag/v0.19.0), 1 week ago) - Release infrastructure for Kubernetes and related components
