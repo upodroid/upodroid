@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump k8s-ci-builder&#39;s image base os to bookworm](https://github.com/kubernetes/release/pull/4292) on [kubernetes/release](https://github.com/kubernetes/release) (today)
 - [set the surrogate key as an object metadata](https://github.com/kubernetes/release/pull/4291) on [kubernetes/release](https://github.com/kubernetes/release) (today)
 - [add downloadkubernetes mock and nomock jobs](https://github.com/kubernetes/test-infra/pull/36499) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [add fastly purging logic to krel and purge all related markers everytime a new marker is pushed](https://github.com/kubernetes/release/pull/4280) on [kubernetes/release](https://github.com/kubernetes/release) (1 week ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [publish a proper website with kubernetes download instructions ](https://github.com/kubernetes-sigs/downloadkubernetes/pull/845) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (1 week ago)
 - [drop managing storage classes](https://github.com/kubernetes/perf-tests/pull/3806) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (1 week ago)
 - [fetch metrics correctly from control plane instances](https://github.com/kubernetes/perf-tests/pull/3805) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (1 week ago)
-- [bump cni plugins for node e2e jobs and fetch from github](https://github.com/kubernetes/test-infra/pull/36448) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
