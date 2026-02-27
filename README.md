@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump istio to 1.28.4](https://github.com/kubernetes/k8s.io/pull/9155) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump k8s-ci-builder&#39;s image base os to bookworm](https://github.com/kubernetes/release/pull/4292) on [kubernetes/release](https://github.com/kubernetes/release) (1 day ago)
 - [set the surrogate key as an object metadata](https://github.com/kubernetes/release/pull/4291) on [kubernetes/release](https://github.com/kubernetes/release) (1 day ago)
 - [add downloadkubernetes mock and nomock jobs](https://github.com/kubernetes/test-infra/pull/36499) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [rework the markers to make kops markers behave the same as kubernetes markers](https://github.com/kubernetes/kops/pull/17975) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 - [publish a proper website with kubernetes download instructions ](https://github.com/kubernetes-sigs/downloadkubernetes/pull/845) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (1 week ago)
 - [drop managing storage classes](https://github.com/kubernetes/perf-tests/pull/3806) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (1 week ago)
-- [fetch metrics correctly from control plane instances](https://github.com/kubernetes/perf-tests/pull/3805) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
