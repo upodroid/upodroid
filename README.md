@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [allow pods to reach metric ports running on control plane nodes when using gce alias ip](https://github.com/kubernetes/kops/pull/18052) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [bump istio to 1.28.4](https://github.com/kubernetes/k8s.io/pull/9155) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [bump k8s-ci-builder&#39;s image base os to bookworm](https://github.com/kubernetes/release/pull/4292) on [kubernetes/release](https://github.com/kubernetes/release) (1 week ago)
 - [set the surrogate key as an object metadata](https://github.com/kubernetes/release/pull/4291) on [kubernetes/release](https://github.com/kubernetes/release) (1 week ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [drop cdn.dl.k8s.io as a mirror](https://github.com/kubernetes/kops/pull/17976) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 weeks ago)
 - [rework the markers to make kops markers behave the same as kubernetes markers](https://github.com/kubernetes/kops/pull/17975) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 weeks ago)
 - [publish a proper website with kubernetes download instructions ](https://github.com/kubernetes-sigs/downloadkubernetes/pull/845) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (3 weeks ago)
-- [drop managing storage classes](https://github.com/kubernetes/perf-tests/pull/3806) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
