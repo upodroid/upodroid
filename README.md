@@ -17,12 +17,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.32.4](https://github.com/kubernetes/kops/releases/tag/v1.32.4), today) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.24.1](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.24.1), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.13), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.20.1](https://github.com/kubernetes/release/releases/tag/v0.20.1), 2 weeks ago) - Release infrastructure for Kubernetes and related components
 - [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) ([storage-9.6.4](https://github.com/talkiq/gcloud-aio/releases/tag/storage-9.6.4), 2 weeks ago) - (Asyncio OR Threadsafe) Google Cloud Client Library for Python
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.17.1](https://github.com/kyverno/kyverno/releases/tag/v1.17.1), 3 weeks ago) - Unified Policy as Code
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.35.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.35.0-beta.1), 1 month ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.6.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.6.0), 3 months ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 
 #### 🔨 My recent Pull Requests
