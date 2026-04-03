@@ -27,6 +27,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [migrate gateway-api to AR staging registry](https://github.com/kubernetes/test-infra/pull/36762) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [start using images from registry.k8s.io](https://github.com/kubernetes-sigs/gateway-api/pull/4728) on [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) (today)
+- [switch to using AR staging registry for gateway api](https://github.com/kubernetes/k8s.io/pull/9294) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [allow pods to reach metric ports running on control plane nodes when using gce alias ip](https://github.com/kubernetes/kops/pull/18052) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 weeks ago)
 - [bump istio to 1.28.4](https://github.com/kubernetes/k8s.io/pull/9155) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [bump k8s-ci-builder&#39;s image base os to bookworm](https://github.com/kubernetes/release/pull/4292) on [kubernetes/release](https://github.com/kubernetes/release) (1 month ago)
@@ -34,9 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add downloadkubernetes mock and nomock jobs](https://github.com/kubernetes/test-infra/pull/36499) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
 - [add fastly purging logic to krel and purge all related markers everytime a new marker is pushed](https://github.com/kubernetes/release/pull/4280) on [kubernetes/release](https://github.com/kubernetes/release) (1 month ago)
 - [Revert &#34;feat: Add an ability to measure clusters with dns only control plane …&#34;](https://github.com/kubernetes/perf-tests/pull/3840) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (1 month ago)
-- [drop cdn.dl.k8s.io as a mirror](https://github.com/kubernetes/kops/pull/17976) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 month ago)
-- [rework the markers to make kops markers behave the same as kubernetes markers](https://github.com/kubernetes/kops/pull/17975) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 month ago)
-- [publish a proper website with kubernetes download instructions ](https://github.com/kubernetes-sigs/downloadkubernetes/pull/845) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (1 month ago)
 
 #### ⭐ Recent Stars
 
