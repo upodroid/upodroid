@@ -27,6 +27,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump echo-advanced image](https://github.com/kubernetes-sigs/gateway-api/pull/4735) on [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) (today)
+- [promote gateway api conformance images](https://github.com/kubernetes/k8s.io/pull/9300) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [migrate gateway-api to AR staging registry](https://github.com/kubernetes/test-infra/pull/36762) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [start using images from registry.k8s.io](https://github.com/kubernetes-sigs/gateway-api/pull/4728) on [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) (4 days ago)
 - [switch to using AR staging registry for gateway api](https://github.com/kubernetes/k8s.io/pull/9294) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
@@ -35,8 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump k8s-ci-builder&#39;s image base os to bookworm](https://github.com/kubernetes/release/pull/4292) on [kubernetes/release](https://github.com/kubernetes/release) (1 month ago)
 - [set the surrogate key as an object metadata](https://github.com/kubernetes/release/pull/4291) on [kubernetes/release](https://github.com/kubernetes/release) (1 month ago)
 - [add downloadkubernetes mock and nomock jobs](https://github.com/kubernetes/test-infra/pull/36499) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
-- [add fastly purging logic to krel and purge all related markers everytime a new marker is pushed](https://github.com/kubernetes/release/pull/4280) on [kubernetes/release](https://github.com/kubernetes/release) (1 month ago)
-- [Revert &#34;feat: Add an ability to measure clusters with dns only control plane …&#34;](https://github.com/kubernetes/perf-tests/pull/3840) on [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) (1 month ago)
 
 #### ⭐ Recent Stars
 
