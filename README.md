@@ -17,9 +17,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0-rc.0), today) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.25.1](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.25.1), 5 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.21.0](https://github.com/kubernetes/release/releases/tag/v0.21.0), 1 week ago) - Release infrastructure for Kubernetes and related components
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0-beta.0), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.32.4](https://github.com/kubernetes/kops/releases/tag/v1.32.4), 3 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio) ([storage-9.6.4](https://github.com/talkiq/gcloud-aio/releases/tag/storage-9.6.4), 1 month ago) - (Asyncio OR Threadsafe) Google Cloud Client Library for Python
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.17.1](https://github.com/kyverno/kyverno/releases/tag/v1.17.1), 1 month ago) - Unified Policy as Code
