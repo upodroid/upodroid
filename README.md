@@ -4,10 +4,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (5 days ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 month ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 month ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 month ago)
 - [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) - Download kubernetes binaries more easily (1 month ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 month ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 months ago)
@@ -27,6 +27,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [cleanup google testgrid boards](https://github.com/kubernetes/test-infra/pull/36797) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [deploy artifacts.k8s.io to fastly](https://github.com/kubernetes/k8s.io/pull/9327) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
+- [configure ci jobs to purge fastly cache](https://github.com/kubernetes/test-infra/pull/36795) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [bump echo-advanced image](https://github.com/kubernetes-sigs/gateway-api/pull/4735) on [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) (5 days ago)
 - [promote gateway api conformance images](https://github.com/kubernetes/k8s.io/pull/9300) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [migrate gateway-api to AR staging registry](https://github.com/kubernetes/test-infra/pull/36762) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
@@ -34,9 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [switch to using AR staging registry for gateway api](https://github.com/kubernetes/k8s.io/pull/9294) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [allow pods to reach metric ports running on control plane nodes when using gce alias ip](https://github.com/kubernetes/kops/pull/18052) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 month ago)
 - [bump istio to 1.28.4](https://github.com/kubernetes/k8s.io/pull/9155) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
-- [bump k8s-ci-builder&#39;s image base os to bookworm](https://github.com/kubernetes/release/pull/4292) on [kubernetes/release](https://github.com/kubernetes/release) (1 month ago)
-- [set the surrogate key as an object metadata](https://github.com/kubernetes/release/pull/4291) on [kubernetes/release](https://github.com/kubernetes/release) (1 month ago)
-- [add downloadkubernetes mock and nomock jobs](https://github.com/kubernetes/test-infra/pull/36499) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
 
 #### ⭐ Recent Stars
 
