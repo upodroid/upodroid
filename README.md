@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [switch artifacts.k8s.io to Fastly](https://github.com/kubernetes/k8s.io/pull/9332) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [add a purge token for k8s build jobs](https://github.com/kubernetes/k8s.io/pull/9331) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [cleanup google testgrid boards](https://github.com/kubernetes/test-infra/pull/36797) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [deploy artifacts.k8s.io to fastly](https://github.com/kubernetes/k8s.io/pull/9327) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [migrate gateway-api to AR staging registry](https://github.com/kubernetes/test-infra/pull/36762) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [start using images from registry.k8s.io](https://github.com/kubernetes-sigs/gateway-api/pull/4728) on [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) (1 week ago)
 - [switch to using AR staging registry for gateway api](https://github.com/kubernetes/k8s.io/pull/9294) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [allow pods to reach metric ports running on control plane nodes when using gce alias ip](https://github.com/kubernetes/kops/pull/18052) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 month ago)
 
 #### ⭐ Recent Stars
 
