@@ -5,8 +5,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 #### 👷 Check out what I'm currently working on
 
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs. (today)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (6 days ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 month ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 month ago)
 - [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) - Download kubernetes binaries more easily (1 month ago)
@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add a purge token for k8s build jobs](https://github.com/kubernetes/k8s.io/pull/9331) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [cleanup google testgrid boards](https://github.com/kubernetes/test-infra/pull/36797) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [deploy artifacts.k8s.io to fastly](https://github.com/kubernetes/k8s.io/pull/9327) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [configure ci jobs to purge fastly cache](https://github.com/kubernetes/test-infra/pull/36795) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [start using images from registry.k8s.io](https://github.com/kubernetes-sigs/gateway-api/pull/4728) on [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) (1 week ago)
 - [switch to using AR staging registry for gateway api](https://github.com/kubernetes/k8s.io/pull/9294) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [allow pods to reach metric ports running on control plane nodes when using gce alias ip](https://github.com/kubernetes/kops/pull/18052) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 month ago)
-- [bump istio to 1.28.4](https://github.com/kubernetes/k8s.io/pull/9155) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 
 #### ⭐ Recent Stars
 
