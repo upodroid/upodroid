@@ -4,8 +4,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs. (3 days ago)
+- [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (today)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
+- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs. (3 days ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (4 days ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 month ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 month ago)
@@ -13,7 +14,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (2 months ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 months ago)
 - [borg-land/argo-diff](https://github.com/borg-land/argo-diff) - Argo Diff Test (2 months ago)
-- [Azure/rg-cleanup](https://github.com/Azure/rg-cleanup) - Clean up stale Azure resource groups based on resource group tag. (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump images from test-infra automatically](https://github.com/knative/infra/pull/830) on [knative/infra](https://github.com/knative/infra) (today)
 - [upgrade python to 3.13 for kettle](https://github.com/kubernetes/test-infra/pull/36814) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [switch artifacts.k8s.io to Fastly](https://github.com/kubernetes/k8s.io/pull/9332) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [add a purge token for k8s build jobs](https://github.com/kubernetes/k8s.io/pull/9331) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump echo-advanced image](https://github.com/kubernetes-sigs/gateway-api/pull/4735) on [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) (1 week ago)
 - [promote gateway api conformance images](https://github.com/kubernetes/k8s.io/pull/9300) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [migrate gateway-api to AR staging registry](https://github.com/kubernetes/test-infra/pull/36762) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [start using images from registry.k8s.io](https://github.com/kubernetes-sigs/gateway-api/pull/4728) on [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) (1 week ago)
 
 #### ⭐ Recent Stars
 
