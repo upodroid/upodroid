@@ -27,6 +27,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [drop kpromo jobs for porche](https://github.com/kubernetes/test-infra/pull/36849) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [delete aws mirrors to porche](https://github.com/kubernetes/k8s.io/pull/9363) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
+- [delete porche gce infra](https://github.com/kubernetes/k8s.io/pull/9362) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump images from test-infra automatically](https://github.com/knative/infra/pull/830) on [knative/infra](https://github.com/knative/infra) (3 days ago)
 - [upgrade python to 3.13 for kettle](https://github.com/kubernetes/test-infra/pull/36814) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [switch artifacts.k8s.io to Fastly](https://github.com/kubernetes/k8s.io/pull/9332) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
@@ -34,9 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [cleanup google testgrid boards](https://github.com/kubernetes/test-infra/pull/36797) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [deploy artifacts.k8s.io to fastly](https://github.com/kubernetes/k8s.io/pull/9327) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [configure ci jobs to purge fastly cache](https://github.com/kubernetes/test-infra/pull/36795) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [bump echo-advanced image](https://github.com/kubernetes-sigs/gateway-api/pull/4735) on [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) (1 week ago)
-- [promote gateway api conformance images](https://github.com/kubernetes/k8s.io/pull/9300) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [migrate gateway-api to AR staging registry](https://github.com/kubernetes/test-infra/pull/36762) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
