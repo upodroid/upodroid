@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [delete pod security admission webhook](https://github.com/kubernetes/kubernetes/pull/138469) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [drop kpromo jobs for porche](https://github.com/kubernetes/test-infra/pull/36849) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [delete aws mirrors to porche](https://github.com/kubernetes/k8s.io/pull/9363) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [delete porche gce infra](https://github.com/kubernetes/k8s.io/pull/9362) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add a purge token for k8s build jobs](https://github.com/kubernetes/k8s.io/pull/9331) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [cleanup google testgrid boards](https://github.com/kubernetes/test-infra/pull/36797) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [deploy artifacts.k8s.io to fastly](https://github.com/kubernetes/k8s.io/pull/9327) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [configure ci jobs to purge fastly cache](https://github.com/kubernetes/test-infra/pull/36795) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
