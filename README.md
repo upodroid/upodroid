@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix sig-scheduling testgrid board](https://github.com/kubernetes/test-infra/pull/36858) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [fix various testgrid issues](https://github.com/kubernetes/test-infra/pull/36850) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [delete pod security admission webhook](https://github.com/kubernetes/kubernetes/pull/138469) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [drop kpromo jobs for porche](https://github.com/kubernetes/test-infra/pull/36849) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [upgrade python to 3.13 for kettle](https://github.com/kubernetes/test-infra/pull/36814) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [switch artifacts.k8s.io to Fastly](https://github.com/kubernetes/k8s.io/pull/9332) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [add a purge token for k8s build jobs](https://github.com/kubernetes/k8s.io/pull/9331) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [cleanup google testgrid boards](https://github.com/kubernetes/test-infra/pull/36797) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
