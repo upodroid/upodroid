@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.17.2-rc.1](https://github.com/kyverno/kyverno/releases/tag/v1.17.2-rc.1), today) - Unified Policy as Code
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.18.0-rc.1](https://github.com/kyverno/kyverno/releases/tag/v1.18.0-rc.1), today) - Unified Policy as Code
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.11](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.11), 6 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.21.1](https://github.com/kubernetes/release/releases/tag/v0.21.1), 6 days ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([monthly-2026.04](https://github.com/kubernetes-sigs/gateway-api/releases/tag/monthly-2026.04), 1 week ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
