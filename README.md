@@ -4,10 +4,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 days ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (6 days ago)
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs. (1 week ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 month ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 month ago)
 - [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) - Download kubernetes binaries more easily (2 months ago)
@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add dns staging registry](https://github.com/kubernetes/k8s.io/pull/9373) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [promote cloud-provider-gcp binaries for v35.1.0](https://github.com/kubernetes/k8s.io/pull/9371) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [fix sig-scheduling testgrid board](https://github.com/kubernetes/test-infra/pull/36858) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [fix various testgrid issues](https://github.com/kubernetes/test-infra/pull/36850) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [delete porche gce infra](https://github.com/kubernetes/k8s.io/pull/9362) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [bump images from test-infra automatically](https://github.com/knative/infra/pull/830) on [knative/infra](https://github.com/knative/infra) (6 days ago)
 - [upgrade python to 3.13 for kettle](https://github.com/kubernetes/test-infra/pull/36814) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [switch artifacts.k8s.io to Fastly](https://github.com/kubernetes/k8s.io/pull/9332) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
