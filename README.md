@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.17.2](https://github.com/kyverno/kyverno/releases/tag/v1.17.2), today) - Unified Policy as Code
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.16.4](https://github.com/kyverno/kyverno/releases/tag/v1.16.4), today) - Unified Policy as Code
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0), 1 day ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.21.1](https://github.com/kubernetes/release/releases/tag/v0.21.1), 1 week ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([monthly-2026.04](https://github.com/kubernetes-sigs/gateway-api/releases/tag/monthly-2026.04), 2 weeks ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [Initial support for Ubuntu 26.04](https://github.com/kubernetes/kops/pull/18232) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [add dns staging registry](https://github.com/kubernetes/k8s.io/pull/9373) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [promote cloud-provider-gcp binaries for v35.1.0](https://github.com/kubernetes/k8s.io/pull/9371) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [fix sig-scheduling testgrid board](https://github.com/kubernetes/test-infra/pull/36858) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [delete aws mirrors to porche](https://github.com/kubernetes/k8s.io/pull/9363) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [delete porche gce infra](https://github.com/kubernetes/k8s.io/pull/9362) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [bump images from test-infra automatically](https://github.com/knative/infra/pull/830) on [knative/infra](https://github.com/knative/infra) (1 week ago)
-- [upgrade python to 3.13 for kettle](https://github.com/kubernetes/test-infra/pull/36814) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
