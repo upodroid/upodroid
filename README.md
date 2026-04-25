@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (2 days ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (5 days ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 week ago)
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs. (1 week ago)
@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix broken redirector service](https://github.com/kubernetes/k8s.io/pull/9390) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [rightsize various prow jobs](https://github.com/kubernetes/test-infra/pull/36895) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [fix verify-index errors](https://github.com/kubernetes-sigs/downloadkubernetes/pull/894) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (1 day ago)
 - [Initial support for Ubuntu 26.04](https://github.com/kubernetes/kops/pull/18232) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix various testgrid issues](https://github.com/kubernetes/test-infra/pull/36850) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [delete pod security admission webhook](https://github.com/kubernetes/kubernetes/pull/138469) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
 - [drop kpromo jobs for porche](https://github.com/kubernetes/test-infra/pull/36849) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [delete aws mirrors to porche](https://github.com/kubernetes/k8s.io/pull/9363) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 
 #### ⭐ Recent Stars
 
