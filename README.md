@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [rightsize various prow jobs](https://github.com/kubernetes/test-infra/pull/36895) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [fix verify-index errors](https://github.com/kubernetes-sigs/downloadkubernetes/pull/894) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (1 day ago)
 - [Initial support for Ubuntu 26.04](https://github.com/kubernetes/kops/pull/18232) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [add dns staging registry](https://github.com/kubernetes/k8s.io/pull/9373) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [delete pod security admission webhook](https://github.com/kubernetes/kubernetes/pull/138469) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
 - [drop kpromo jobs for porche](https://github.com/kubernetes/test-infra/pull/36849) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [delete aws mirrors to porche](https://github.com/kubernetes/k8s.io/pull/9363) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
-- [delete porche gce infra](https://github.com/kubernetes/k8s.io/pull/9362) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 
 #### ⭐ Recent Stars
 
