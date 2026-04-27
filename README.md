@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump datadog to 3.202.2](https://github.com/kubernetes/k8s.io/pull/9397) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [fix broken redirector service](https://github.com/kubernetes/k8s.io/pull/9390) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [rightsize various prow jobs](https://github.com/kubernetes/test-infra/pull/36895) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [fix verify-index errors](https://github.com/kubernetes-sigs/downloadkubernetes/pull/894) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (3 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix sig-scheduling testgrid board](https://github.com/kubernetes/test-infra/pull/36858) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [fix various testgrid issues](https://github.com/kubernetes/test-infra/pull/36850) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [delete pod security admission webhook](https://github.com/kubernetes/kubernetes/pull/138469) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
-- [drop kpromo jobs for porche](https://github.com/kubernetes/test-infra/pull/36849) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
