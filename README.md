@@ -17,13 +17,13 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.6.1](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.6.1), today) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.18.0](https://github.com/kyverno/kyverno/releases/tag/v1.18.0), today) - Unified Policy as Code
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.21.1](https://github.com/kubernetes/release/releases/tag/v0.21.1), 2 weeks ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([monthly-2026.04](https://github.com/kubernetes-sigs/gateway-api/releases/tag/monthly-2026.04), 3 weeks ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.25.1](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.25.1), 3 weeks ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.32.4](https://github.com/kubernetes/kops/releases/tag/v1.32.4), 1 month ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.6.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.6.0), 4 months ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 
 #### 🔨 My recent Pull Requests
 
