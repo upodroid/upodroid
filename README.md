@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [refresh aws and gcp ips H1 2026](https://github.com/kubernetes/registry.k8s.io/pull/323) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (today)
 - [bump datadog to 3.202.2](https://github.com/kubernetes/k8s.io/pull/9397) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [fix broken redirector service](https://github.com/kubernetes/k8s.io/pull/9390) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [rightsize various prow jobs](https://github.com/kubernetes/test-infra/pull/36895) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [promote cloud-provider-gcp binaries for v35.1.0](https://github.com/kubernetes/k8s.io/pull/9371) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [fix sig-scheduling testgrid board](https://github.com/kubernetes/test-infra/pull/36858) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [fix various testgrid issues](https://github.com/kubernetes/test-infra/pull/36850) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [delete pod security admission webhook](https://github.com/kubernetes/kubernetes/pull/138469) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 
 #### ⭐ Recent Stars
 
