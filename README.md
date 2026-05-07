@@ -27,6 +27,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add a PR template](https://github.com/kubernetes/k8s.io/pull/9449) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
+- [bump various apps in the utility cluster](https://github.com/kubernetes/k8s.io/pull/9448) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [fix a bug with e2e image test pipeline](https://github.com/kubernetes/kubernetes/pull/138748) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
 - [refresh aws and gcp ips H1 2026](https://github.com/kubernetes/registry.k8s.io/pull/323) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 week ago)
 - [bump datadog to 3.202.2](https://github.com/kubernetes/k8s.io/pull/9397) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
@@ -35,8 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix verify-index errors](https://github.com/kubernetes-sigs/downloadkubernetes/pull/894) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (1 week ago)
 - [Initial support for Ubuntu 26.04](https://github.com/kubernetes/kops/pull/18232) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 weeks ago)
 - [add dns staging registry](https://github.com/kubernetes/k8s.io/pull/9373) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
-- [promote cloud-provider-gcp binaries for v35.1.0](https://github.com/kubernetes/k8s.io/pull/9371) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
-- [fix sig-scheduling testgrid board](https://github.com/kubernetes/test-infra/pull/36858) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
