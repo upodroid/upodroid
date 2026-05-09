@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [delete bazelbuild and all bazel references from jobs and docs](https://github.com/kubernetes/test-infra/pull/36992) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [drop bazel from kubetest2](https://github.com/kubernetes-sigs/kubetest2/pull/336) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (today)
 - [rightsize prow jobs - part three](https://github.com/kubernetes/test-infra/pull/36990) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [add a PR template](https://github.com/kubernetes/k8s.io/pull/9449) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump datadog to 3.202.2](https://github.com/kubernetes/k8s.io/pull/9397) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [fix broken redirector service](https://github.com/kubernetes/k8s.io/pull/9390) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [rightsize various prow jobs](https://github.com/kubernetes/test-infra/pull/36895) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-- [fix verify-index errors](https://github.com/kubernetes-sigs/downloadkubernetes/pull/894) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
