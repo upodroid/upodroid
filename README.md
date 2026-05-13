@@ -4,9 +4,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (4 days ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (6 days ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 week ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (2 weeks ago)
 - [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) - Download kubernetes binaries more easily (2 weeks ago)
@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [harden the shared staging image project](https://github.com/kubernetes/k8s.io/pull/9476) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump base images to the latest versions and enable image autobumps](https://github.com/kubernetes/test-infra/pull/37014) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [delete bazelbuild and all bazel references from jobs and docs](https://github.com/kubernetes/test-infra/pull/36992) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [drop bazel from kubetest2](https://github.com/kubernetes-sigs/kubetest2/pull/336) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (4 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix a bug with e2e image test pipeline](https://github.com/kubernetes/kubernetes/pull/138748) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 - [refresh aws and gcp ips H1 2026](https://github.com/kubernetes/registry.k8s.io/pull/323) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (2 weeks ago)
 - [bump datadog to 3.202.2](https://github.com/kubernetes/k8s.io/pull/9397) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
-- [fix broken redirector service](https://github.com/kubernetes/k8s.io/pull/9390) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
