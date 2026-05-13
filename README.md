@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [use the new hardened image registry upload](https://github.com/kubernetes/test-infra/pull/37023) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [harden the shared staging image project](https://github.com/kubernetes/k8s.io/pull/9476) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump base images to the latest versions and enable image autobumps](https://github.com/kubernetes/test-infra/pull/37014) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [delete bazelbuild and all bazel references from jobs and docs](https://github.com/kubernetes/test-infra/pull/36992) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump various apps in the utility cluster](https://github.com/kubernetes/k8s.io/pull/9448) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [fix a bug with e2e image test pipeline](https://github.com/kubernetes/kubernetes/pull/138748) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 - [refresh aws and gcp ips H1 2026](https://github.com/kubernetes/registry.k8s.io/pull/323) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (2 weeks ago)
-- [bump datadog to 3.202.2](https://github.com/kubernetes/k8s.io/pull/9397) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
