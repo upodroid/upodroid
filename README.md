@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix various sig k8s-infra jobs](https://github.com/kubernetes/test-infra/pull/37050) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [use a dedicated cloudbuild service account](https://github.com/kubernetes/registry.k8s.io/pull/325) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (3 days ago)
 - [use the new hardened image registry upload](https://github.com/kubernetes/test-infra/pull/37023) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [harden the shared staging image project](https://github.com/kubernetes/k8s.io/pull/9476) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [rightsize prow jobs - part three](https://github.com/kubernetes/test-infra/pull/36990) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [add a PR template](https://github.com/kubernetes/k8s.io/pull/9449) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [bump various apps in the utility cluster](https://github.com/kubernetes/k8s.io/pull/9448) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [fix a bug with e2e image test pipeline](https://github.com/kubernetes/kubernetes/pull/138748) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
