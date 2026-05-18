@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.18.1-rc.1](https://github.com/kyverno/kyverno/releases/tag/v1.18.1-rc.1), 5 days ago) - Unified Policy as Code
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.18.1-rc.2](https://github.com/kyverno/kyverno/releases/tag/v1.18.1-rc.2), today) - Unified Policy as Code
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.1), 6 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([monthly-2026.05](https://github.com/kubernetes-sigs/gateway-api/releases/tag/monthly-2026.05), 1 week ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.25.2](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.25.2), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
