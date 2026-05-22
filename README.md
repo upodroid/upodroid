@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (1 week ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 week ago)
@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [strip the url prefix when accessing kops ci bucket](https://github.com/kubernetes/k8s.io/pull/9520) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [resize our GKE node pools](https://github.com/kubernetes/k8s.io/pull/9506) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [Use the new build and highmem nodepools](https://github.com/kubernetes/test-infra/pull/37062) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [bump karpenter to v1.12.2](https://github.com/kubernetes/k8s.io/pull/9503) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [harden the shared staging image project](https://github.com/kubernetes/k8s.io/pull/9476) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [bump base images to the latest versions and enable image autobumps](https://github.com/kubernetes/test-infra/pull/37014) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [delete bazelbuild and all bazel references from jobs and docs](https://github.com/kubernetes/test-infra/pull/36992) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [drop bazel from kubetest2](https://github.com/kubernetes-sigs/kubetest2/pull/336) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 week ago)
 
 #### ⭐ Recent Stars
 
