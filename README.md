@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add gh cli to kubekins-e2e image](https://github.com/kubernetes/test-infra/pull/37085) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [strip the url prefix when accessing kops ci bucket](https://github.com/kubernetes/k8s.io/pull/9520) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [resize our GKE node pools](https://github.com/kubernetes/k8s.io/pull/9506) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [Use the new build and highmem nodepools](https://github.com/kubernetes/test-infra/pull/37062) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [use the new hardened image registry upload](https://github.com/kubernetes/test-infra/pull/37023) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [harden the shared staging image project](https://github.com/kubernetes/k8s.io/pull/9476) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [bump base images to the latest versions and enable image autobumps](https://github.com/kubernetes/test-infra/pull/37014) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [delete bazelbuild and all bazel references from jobs and docs](https://github.com/kubernetes/test-infra/pull/36992) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
