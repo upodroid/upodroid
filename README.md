@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (4 days ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (6 days ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (5 days ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (2 weeks ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (2 weeks ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 weeks ago)
@@ -17,19 +17,19 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.35.1](https://github.com/kubernetes/kops/releases/tag/v1.35.1), today) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.35.1](https://github.com/kubernetes/kops/releases/tag/v1.35.1), 1 day ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.18.1](https://github.com/kyverno/kyverno/releases/tag/v1.18.1), 1 week ago) - Unified Policy as Code
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.1), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([monthly-2026.05](https://github.com/kubernetes-sigs/gateway-api/releases/tag/monthly-2026.05), 3 weeks ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.25.2](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.25.2), 3 weeks ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.6.1](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.6.1), 4 weeks ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
+- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.6.1](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.6.1), 1 month ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.21.1](https://github.com/kubernetes/release/releases/tag/v0.21.1), 1 month ago) - Release infrastructure for Kubernetes and related components
 
 #### 🔨 My recent Pull Requests
 
-- [switch to an updated semver library](https://github.com/etcd-io/etcd/pull/21839) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (today)
-- [add gh cli to kubekins-e2e image](https://github.com/kubernetes/test-infra/pull/37085) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
-- [strip the url prefix when accessing kops ci bucket](https://github.com/kubernetes/k8s.io/pull/9520) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
+- [switch to an updated semver library](https://github.com/etcd-io/etcd/pull/21839) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (1 day ago)
+- [add gh cli to kubekins-e2e image](https://github.com/kubernetes/test-infra/pull/37085) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
+- [strip the url prefix when accessing kops ci bucket](https://github.com/kubernetes/k8s.io/pull/9520) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [resize our GKE node pools](https://github.com/kubernetes/k8s.io/pull/9506) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [Use the new build and highmem nodepools](https://github.com/kubernetes/test-infra/pull/37062) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [bump karpenter to v1.12.2](https://github.com/kubernetes/k8s.io/pull/9503) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
