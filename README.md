@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.35.1](https://github.com/kubernetes/kops/releases/tag/v1.35.1), 3 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.18.1](https://github.com/kyverno/kyverno/releases/tag/v1.18.1), 1 week ago) - Unified Policy as Code
+- [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.35.1](https://github.com/kubernetes/kops/releases/tag/v1.35.1), 4 days ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.18.1](https://github.com/kyverno/kyverno/releases/tag/v1.18.1), 2 weeks ago) - Unified Policy as Code
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.36.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.36.1), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([monthly-2026.05](https://github.com/kubernetes-sigs/gateway-api/releases/tag/monthly-2026.05), 3 weeks ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.25.2](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.25.2), 3 weeks ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
@@ -27,12 +27,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
-- [switch to an updated semver library](https://github.com/etcd-io/etcd/pull/21839) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (3 days ago)
+- [switch to an updated semver library](https://github.com/etcd-io/etcd/pull/21839) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (4 days ago)
 - [add gh cli to kubekins-e2e image](https://github.com/kubernetes/test-infra/pull/37085) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [strip the url prefix when accessing kops ci bucket](https://github.com/kubernetes/k8s.io/pull/9520) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [resize our GKE node pools](https://github.com/kubernetes/k8s.io/pull/9506) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [Use the new build and highmem nodepools](https://github.com/kubernetes/test-infra/pull/37062) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [bump karpenter to v1.12.2](https://github.com/kubernetes/k8s.io/pull/9503) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
+- [resize our GKE node pools](https://github.com/kubernetes/k8s.io/pull/9506) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
+- [Use the new build and highmem nodepools](https://github.com/kubernetes/test-infra/pull/37062) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
+- [bump karpenter to v1.12.2](https://github.com/kubernetes/k8s.io/pull/9503) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [fix various sig k8s-infra jobs](https://github.com/kubernetes/test-infra/pull/37050) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [use a dedicated cloudbuild service account](https://github.com/kubernetes/registry.k8s.io/pull/325) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (2 weeks ago)
 - [use the new hardened image registry upload](https://github.com/kubernetes/test-infra/pull/37023) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
