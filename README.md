@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [manage elekto with argocd, migrate the secrets to ESO and squash some bugs](https://github.com/kubernetes/k8s.io/pull/9601) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [switch to an updated semver library](https://github.com/etcd-io/etcd/pull/21839) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (2 weeks ago)
 - [add gh cli to kubekins-e2e image](https://github.com/kubernetes/test-infra/pull/37085) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [strip the url prefix when accessing kops ci bucket](https://github.com/kubernetes/k8s.io/pull/9520) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix various sig k8s-infra jobs](https://github.com/kubernetes/test-infra/pull/37050) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
 - [use a dedicated cloudbuild service account](https://github.com/kubernetes/registry.k8s.io/pull/325) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (4 weeks ago)
 - [use the new hardened image registry upload](https://github.com/kubernetes/test-infra/pull/37023) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
-- [harden the shared staging image project](https://github.com/kubernetes/k8s.io/pull/9476) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 
 #### ⭐ Recent Stars
 
