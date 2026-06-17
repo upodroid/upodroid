@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix caddy validate when using envfile](https://github.com/sebdanielsson/ansible-role-xcaddy/pull/39) on [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) (today)
 - [manage elekto with argocd, migrate the secrets to ESO and squash some bugs](https://github.com/kubernetes/k8s.io/pull/9601) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [switch to an updated semver library](https://github.com/etcd-io/etcd/pull/21839) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (2 weeks ago)
 - [add gh cli to kubekins-e2e image](https://github.com/kubernetes/test-infra/pull/37085) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump karpenter to v1.12.2](https://github.com/kubernetes/k8s.io/pull/9503) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [fix various sig k8s-infra jobs](https://github.com/kubernetes/test-infra/pull/37050) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
 - [use a dedicated cloudbuild service account](https://github.com/kubernetes/registry.k8s.io/pull/325) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 month ago)
-- [use the new hardened image registry upload](https://github.com/kubernetes/test-infra/pull/37023) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
 
 #### ⭐ Recent Stars
 
