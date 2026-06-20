@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix prow config to work with github apps](https://github.com/kubernetes/test-infra/pull/37304) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [log more info about failing webhooks](https://github.com/kubernetes-sigs/prow/pull/763) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (today)
 - [fix missing html/index files](https://github.com/kubernetes-sigs/downloadkubernetes/pull/926) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (today)
 - [fix caddy validate when using envfile](https://github.com/sebdanielsson/ansible-role-xcaddy/pull/39) on [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) (3 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [strip the url prefix when accessing kops ci bucket](https://github.com/kubernetes/k8s.io/pull/9520) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 weeks ago)
 - [resize our GKE node pools](https://github.com/kubernetes/k8s.io/pull/9506) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [Use the new build and highmem nodepools](https://github.com/kubernetes/test-infra/pull/37062) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 month ago)
-- [bump karpenter to v1.12.2](https://github.com/kubernetes/k8s.io/pull/9503) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 
 #### ⭐ Recent Stars
 
