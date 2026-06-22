@@ -26,6 +26,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump eso and fix a typo in prow](https://github.com/kubernetes/k8s.io/pull/9633) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
+- [use github team slugs instead of IDs](https://github.com/kubernetes/test-infra/pull/37316) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [handle github teams lookup correctly with github apps](https://github.com/kubernetes-sigs/prow/pull/766) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (today)
 - [fix missing labels and use the correct ibm label](https://github.com/kubernetes/test-infra/pull/37306) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [fix kyverno prow interaction](https://github.com/kubernetes/k8s.io/pull/9626) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -34,8 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix a bug with cla and github apps auth](https://github.com/kubernetes-sigs/prow/pull/764) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (2 days ago)
 - [configure prow to work with a github app and set sane resource limits](https://github.com/kubernetes/k8s.io/pull/9625) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [fix prow config to work with github apps](https://github.com/kubernetes/test-infra/pull/37304) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
-- [log more info about failing webhooks](https://github.com/kubernetes-sigs/prow/pull/763) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (2 days ago)
-- [fix missing html/index files](https://github.com/kubernetes-sigs/downloadkubernetes/pull/926) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (2 days ago)
 
 #### ⭐ Recent Stars
 
