@@ -26,6 +26,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [handle github teams lookup correctly with github apps](https://github.com/kubernetes-sigs/prow/pull/766) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (today)
 - [fix missing labels and use the correct ibm label](https://github.com/kubernetes/test-infra/pull/37306) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [fix kyverno prow interaction](https://github.com/kubernetes/k8s.io/pull/9626) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [fix utf-8 parsing errors with metrics](https://github.com/kubernetes-sigs/prow/pull/765) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (2 days ago)
@@ -35,7 +36,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix prow config to work with github apps](https://github.com/kubernetes/test-infra/pull/37304) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [log more info about failing webhooks](https://github.com/kubernetes-sigs/prow/pull/763) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (2 days ago)
 - [fix missing html/index files](https://github.com/kubernetes-sigs/downloadkubernetes/pull/926) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (2 days ago)
-- [fix caddy validate when using envfile](https://github.com/sebdanielsson/ansible-role-xcaddy/pull/39) on [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) (5 days ago)
 
 #### ⭐ Recent Stars
 
