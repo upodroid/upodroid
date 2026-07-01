@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix karpenter and use newer bottlerocket features](https://github.com/kubernetes/k8s.io/pull/9670) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump eso and fix a typo in prow](https://github.com/kubernetes/k8s.io/pull/9633) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [use github team slugs instead of IDs](https://github.com/kubernetes/test-infra/pull/37316) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [handle github teams lookup correctly with github apps](https://github.com/kubernetes-sigs/prow/pull/766) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (1 week ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [disable checking CLAs via the label and use the EasyCLA status directly](https://github.com/kubernetes/test-infra/pull/37305) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [fix a bug with cla and github apps auth](https://github.com/kubernetes-sigs/prow/pull/764) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (1 week ago)
 - [configure prow to work with a github app and set sane resource limits](https://github.com/kubernetes/k8s.io/pull/9625) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [fix prow config to work with github apps](https://github.com/kubernetes/test-infra/pull/37304) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
