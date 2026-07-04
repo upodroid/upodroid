@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump go version for image builder](https://github.com/kubernetes/test-infra/pull/37392) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [add service account flag to image builder](https://github.com/kubernetes/test-infra/pull/37391) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [publish CI images to ECR as well](https://github.com/kubernetes/test-infra/pull/37390) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [create a fallback nodepool and keep the nodes around longer](https://github.com/kubernetes/k8s.io/pull/9678) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [use github team slugs instead of IDs](https://github.com/kubernetes/test-infra/pull/37316) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [handle github teams lookup correctly with github apps](https://github.com/kubernetes-sigs/prow/pull/766) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (1 week ago)
 - [fix missing labels and use the correct ibm label](https://github.com/kubernetes/test-infra/pull/37306) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [fix kyverno prow interaction](https://github.com/kubernetes/k8s.io/pull/9626) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
