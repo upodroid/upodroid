@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [publish CI images to ECR as well](https://github.com/kubernetes/test-infra/pull/37390) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [create a fallback nodepool and keep the nodes around longer](https://github.com/kubernetes/k8s.io/pull/9678) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [bump various utility cluster apps](https://github.com/kubernetes/k8s.io/pull/9671) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [fix karpenter and use newer bottlerocket features](https://github.com/kubernetes/k8s.io/pull/9670) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix missing labels and use the correct ibm label](https://github.com/kubernetes/test-infra/pull/37306) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [fix kyverno prow interaction](https://github.com/kubernetes/k8s.io/pull/9626) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [fix utf-8 parsing errors with metrics](https://github.com/kubernetes-sigs/prow/pull/765) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (2 weeks ago)
-- [disable checking CLAs via the label and use the EasyCLA status directly](https://github.com/kubernetes/test-infra/pull/37305) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
