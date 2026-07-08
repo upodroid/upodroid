@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 days ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (4 days ago)
 - [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) -  (1 week ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (2 weeks ago)
@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add the argocd differ as a prowjob](https://github.com/kubernetes/test-infra/pull/37415) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [fix a bug with pod mutation and insert cloud metadata into the test container](https://github.com/kubernetes/k8s.io/pull/9688) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Revert &#34;Enable image registry for Gateway API conformance images&#34;](https://github.com/kubernetes/k8s.io/pull/9683) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [Revert &#34;add missing bucket for gwapi conformance images&#34;](https://github.com/kubernetes/k8s.io/pull/9682) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [create a fallback nodepool and keep the nodes around longer](https://github.com/kubernetes/k8s.io/pull/9678) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [bump various utility cluster apps](https://github.com/kubernetes/k8s.io/pull/9671) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [fix karpenter and use newer bottlerocket features](https://github.com/kubernetes/k8s.io/pull/9670) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [bump eso and fix a typo in prow](https://github.com/kubernetes/k8s.io/pull/9633) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
