@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix a bug with pod mutation and insert cloud metadata into the test container](https://github.com/kubernetes/k8s.io/pull/9688) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Revert &#34;Enable image registry for Gateway API conformance images&#34;](https://github.com/kubernetes/k8s.io/pull/9683) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [Revert &#34;add missing bucket for gwapi conformance images&#34;](https://github.com/kubernetes/k8s.io/pull/9682) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [bump go version for image builder](https://github.com/kubernetes/test-infra/pull/37392) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump various utility cluster apps](https://github.com/kubernetes/k8s.io/pull/9671) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [fix karpenter and use newer bottlerocket features](https://github.com/kubernetes/k8s.io/pull/9670) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [bump eso and fix a typo in prow](https://github.com/kubernetes/k8s.io/pull/9633) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
-- [use github team slugs instead of IDs](https://github.com/kubernetes/test-infra/pull/37316) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
