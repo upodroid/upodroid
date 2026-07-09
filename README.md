@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [pick the image mirror dynamically and fix missing cpu/metrics of dind](https://github.com/kubernetes/test-infra/pull/37421) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [cleanup stale configs from our prow config](https://github.com/kubernetes/test-infra/pull/37420) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [add a bumper for prow base images](https://github.com/kubernetes/test-infra/pull/37419) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [autobump prow base images](https://github.com/kubernetes-sigs/prow/pull/796) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (today)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [Revert &#34;add missing bucket for gwapi conformance images&#34;](https://github.com/kubernetes/k8s.io/pull/9682) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [bump go version for image builder](https://github.com/kubernetes/test-infra/pull/37392) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [add service account flag to image builder](https://github.com/kubernetes/test-infra/pull/37391) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
-- [publish CI images to ECR as well](https://github.com/kubernetes/test-infra/pull/37390) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 
 #### ⭐ Recent Stars
 
