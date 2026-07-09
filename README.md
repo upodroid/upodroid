@@ -27,6 +27,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [cleanup stale configs from our prow config](https://github.com/kubernetes/test-infra/pull/37420) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [add a bumper for prow base images](https://github.com/kubernetes/test-infra/pull/37419) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [autobump prow base images](https://github.com/kubernetes-sigs/prow/pull/796) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (today)
 - [add the argocd differ as a prowjob](https://github.com/kubernetes/test-infra/pull/37415) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [fix a bug with pod mutation and insert cloud metadata into the test container](https://github.com/kubernetes/k8s.io/pull/9688) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [Revert &#34;Enable image registry for Gateway API conformance images&#34;](https://github.com/kubernetes/k8s.io/pull/9683) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
@@ -34,9 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump go version for image builder](https://github.com/kubernetes/test-infra/pull/37392) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [add service account flag to image builder](https://github.com/kubernetes/test-infra/pull/37391) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [publish CI images to ECR as well](https://github.com/kubernetes/test-infra/pull/37390) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
-- [create a fallback nodepool and keep the nodes around longer](https://github.com/kubernetes/k8s.io/pull/9678) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
-- [bump various utility cluster apps](https://github.com/kubernetes/k8s.io/pull/9671) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [fix karpenter and use newer bottlerocket features](https://github.com/kubernetes/k8s.io/pull/9670) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
