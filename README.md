@@ -27,6 +27,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [configure ibm prow clusters to use workload identity federation for prow containers](https://github.com/kubernetes/test-infra/pull/37435) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [modify how ibm test pods ADC is loaded](https://github.com/kubernetes/k8s.io/pull/9701) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [fix typo in runner.sh script](https://github.com/kubernetes/test-infra/pull/37432) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [pick the image mirror dynamically and fix missing cpu/metrics of dind](https://github.com/kubernetes/test-infra/pull/37421) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [cleanup stale configs from our prow config](https://github.com/kubernetes/test-infra/pull/37420) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -35,8 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add the argocd differ as a prowjob](https://github.com/kubernetes/test-infra/pull/37415) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [fix a bug with pod mutation and insert cloud metadata into the test container](https://github.com/kubernetes/k8s.io/pull/9688) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [Revert &#34;Enable image registry for Gateway API conformance images&#34;](https://github.com/kubernetes/k8s.io/pull/9683) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
-- [Revert &#34;add missing bucket for gwapi conformance images&#34;](https://github.com/kubernetes/k8s.io/pull/9682) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
-- [bump go version for image builder](https://github.com/kubernetes/test-infra/pull/37392) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 
 #### ⭐ Recent Stars
 
