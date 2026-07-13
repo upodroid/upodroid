@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [drop gclb manifest and test Ingress/LB functionality with kind or kops](https://github.com/kubernetes/kubernetes/pull/140508) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [fix broken periodic job and bump bootstrap](https://github.com/kubernetes/test-infra/pull/37448) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [rollback broken dind changes](https://github.com/kubernetes/test-infra/pull/37441) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [add docs for rotating cluster credentials](https://github.com/kubernetes/k8s.io/pull/9703) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [pick the image mirror dynamically and fix missing cpu/metrics of dind](https://github.com/kubernetes/test-infra/pull/37421) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [cleanup stale configs from our prow config](https://github.com/kubernetes/test-infra/pull/37420) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [add a bumper for prow base images](https://github.com/kubernetes/test-infra/pull/37419) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
-- [autobump prow base images](https://github.com/kubernetes-sigs/prow/pull/796) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (4 days ago)
 
 #### ⭐ Recent Stars
 
