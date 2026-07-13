@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 days ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 days ago)
 - [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) -  (1 week ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (3 weeks ago)
 - [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) - Download kubernetes binaries more easily (3 weeks ago)
@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix broken periodic job and bump bootstrap](https://github.com/kubernetes/test-infra/pull/37448) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [rollback broken dind changes](https://github.com/kubernetes/test-infra/pull/37441) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [add docs for rotating cluster credentials](https://github.com/kubernetes/k8s.io/pull/9703) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [configure ibm prow clusters to use workload identity federation for prow containers](https://github.com/kubernetes/test-infra/pull/37435) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [cleanup stale configs from our prow config](https://github.com/kubernetes/test-infra/pull/37420) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [add a bumper for prow base images](https://github.com/kubernetes/test-infra/pull/37419) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [autobump prow base images](https://github.com/kubernetes-sigs/prow/pull/796) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (4 days ago)
-- [add the argocd differ as a prowjob](https://github.com/kubernetes/test-infra/pull/37415) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 
 #### ⭐ Recent Stars
 
