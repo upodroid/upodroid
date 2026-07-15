@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [delete the reboot cloud-provider-gcp test](https://github.com/kubernetes/kubernetes/pull/140589) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [drop e2e cloud provider gcp tests that we don&#39;t run](https://github.com/kubernetes/kubernetes/pull/140570) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [drop gclb manifest and test Ingress/LB functionality with kind or kops](https://github.com/kubernetes/kubernetes/pull/140508) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 - [fix broken periodic job and bump bootstrap](https://github.com/kubernetes/test-infra/pull/37448) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [modify how ibm test pods ADC is loaded](https://github.com/kubernetes/k8s.io/pull/9701) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [fix typo in runner.sh script](https://github.com/kubernetes/test-infra/pull/37432) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [pick the image mirror dynamically and fix missing cpu/metrics of dind](https://github.com/kubernetes/test-infra/pull/37421) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [cleanup stale configs from our prow config](https://github.com/kubernetes/test-infra/pull/37420) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 
 #### ⭐ Recent Stars
 
