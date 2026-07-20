@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [disable tpm for GCE scale tests](https://github.com/kubernetes/kops/pull/18613) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [delete cloud-provider-gcp reboot jobs](https://github.com/kubernetes/test-infra/pull/37477) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [delete the reboot cloud-provider-gcp test](https://github.com/kubernetes/kubernetes/pull/140589) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
 - [drop e2e cloud provider gcp tests that we don&#39;t run](https://github.com/kubernetes/kubernetes/pull/140570) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add docs for rotating cluster credentials](https://github.com/kubernetes/k8s.io/pull/9703) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [configure ibm prow clusters to use workload identity federation for prow containers](https://github.com/kubernetes/test-infra/pull/37435) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [modify how ibm test pods ADC is loaded](https://github.com/kubernetes/k8s.io/pull/9701) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [fix typo in runner.sh script](https://github.com/kubernetes/test-infra/pull/37432) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
