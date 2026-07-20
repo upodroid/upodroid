@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (5 days ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (5 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
 - [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) -  (2 weeks ago)
@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [cleanup unneeded scalability jobs](https://github.com/kubernetes/test-infra/pull/37497) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [disable tpm for GCE scale tests](https://github.com/kubernetes/kops/pull/18613) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [delete cloud-provider-gcp reboot jobs](https://github.com/kubernetes/test-infra/pull/37477) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [delete the reboot cloud-provider-gcp test](https://github.com/kubernetes/kubernetes/pull/140589) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [rollback broken dind changes](https://github.com/kubernetes/test-infra/pull/37441) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [add docs for rotating cluster credentials](https://github.com/kubernetes/k8s.io/pull/9703) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [configure ibm prow clusters to use workload identity federation for prow containers](https://github.com/kubernetes/test-infra/pull/37435) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [modify how ibm test pods ADC is loaded](https://github.com/kubernetes/k8s.io/pull/9701) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
