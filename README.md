@@ -17,7 +17,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.10](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.10), today) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.7](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.7), today) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v1.6.1](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v1.6.1), 6 days ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.37.0-alpha.1](https://github.com/kubernetes/kops/releases/tag/v1.37.0-alpha.1), 1 week ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.26.4](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.26.4), 2 weeks ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
