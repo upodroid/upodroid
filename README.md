@@ -4,9 +4,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 week ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
 - [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) -  (3 weeks ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (1 month ago)
 - [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) - Download kubernetes binaries more easily (1 month ago)
@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump deck, hook and horologium memory limits](https://github.com/kubernetes/k8s.io/pull/9748) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [write an updated scalability job policy](https://github.com/kubernetes/test-infra/pull/37509) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [cleanup unneeded scalability jobs](https://github.com/kubernetes/test-infra/pull/37497) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [disable tpm for GCE scale tests](https://github.com/kubernetes/kops/pull/18613) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [drop gclb manifest and test Ingress/LB functionality with kind or kops](https://github.com/kubernetes/kubernetes/pull/140508) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 - [fix broken periodic job and bump bootstrap](https://github.com/kubernetes/test-infra/pull/37448) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [rollback broken dind changes](https://github.com/kubernetes/test-infra/pull/37441) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [add docs for rotating cluster credentials](https://github.com/kubernetes/k8s.io/pull/9703) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
