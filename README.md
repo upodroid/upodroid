@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [rightsize the eks prometheus instance](https://github.com/kubernetes/k8s.io/pull/9758) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump deck, hook and horologium memory limits](https://github.com/kubernetes/k8s.io/pull/9748) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [write an updated scalability job policy](https://github.com/kubernetes/test-infra/pull/37509) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [cleanup unneeded scalability jobs](https://github.com/kubernetes/test-infra/pull/37497) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [drop e2e cloud provider gcp tests that we don&#39;t run](https://github.com/kubernetes/kubernetes/pull/140570) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 - [drop gclb manifest and test Ingress/LB functionality with kind or kops](https://github.com/kubernetes/kubernetes/pull/140508) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 - [fix broken periodic job and bump bootstrap](https://github.com/kubernetes/test-infra/pull/37448) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [rollback broken dind changes](https://github.com/kubernetes/test-infra/pull/37441) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
