@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (5 days ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 week ago)
 - [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) -  (4 weeks ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (1 month ago)
@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [drop all kubemark jobs](https://github.com/kubernetes/test-infra/pull/37559) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [drop unneeded scale jobs](https://github.com/kubernetes/test-infra/pull/37549) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [fix broken agent-sandbox scale jobs and amend their frequencies](https://github.com/kubernetes/test-infra/pull/37548) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [use ondemand instances with karpenter](https://github.com/kubernetes/k8s.io/pull/9765) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [cleanup unneeded scalability jobs](https://github.com/kubernetes/test-infra/pull/37497) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [disable tpm for GCE scale tests](https://github.com/kubernetes/kops/pull/18613) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 - [delete cloud-provider-gcp reboot jobs](https://github.com/kubernetes/test-infra/pull/37477) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [delete the reboot cloud-provider-gcp test](https://github.com/kubernetes/kubernetes/pull/140589) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 
 #### ⭐ Recent Stars
 
