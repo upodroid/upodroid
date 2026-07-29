@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
 - [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) -  (4 weeks ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (1 month ago)
@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump deps, regenerate addresses and use the new AWS CDN](https://github.com/kubernetes/registry.k8s.io/pull/328) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (today)
 - [add cdn.registry.k8s.io dns records](https://github.com/kubernetes/k8s.io/pull/9784) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [release gcb-docker-gcloud as a releng image](https://github.com/kubernetes/release/pull/4481) on [kubernetes/release](https://github.com/kubernetes/release) (today)
 - [bump docker to v29 for gcb-gcloud-docker image](https://github.com/kubernetes/test-infra/pull/37571) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [drop unneeded scale jobs](https://github.com/kubernetes/test-infra/pull/37549) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [fix broken agent-sandbox scale jobs and amend their frequencies](https://github.com/kubernetes/test-infra/pull/37548) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [use ondemand instances with karpenter](https://github.com/kubernetes/k8s.io/pull/9765) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
-- [rightsize the eks prometheus instance](https://github.com/kubernetes/k8s.io/pull/9758) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
