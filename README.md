@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [release gcb-docker-gcloud as a releng image](https://github.com/kubernetes/release/pull/4481) on [kubernetes/release](https://github.com/kubernetes/release) (today)
 - [bump docker to v29 for gcb-gcloud-docker image](https://github.com/kubernetes/test-infra/pull/37571) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [bump go in gcb-docker-gcloud image](https://github.com/kubernetes/test-infra/pull/37568) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [use unified ssh paths in the aws secret](https://github.com/kubernetes/k8s.io/pull/9772) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [use ondemand instances with karpenter](https://github.com/kubernetes/k8s.io/pull/9765) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [rightsize the eks prometheus instance](https://github.com/kubernetes/k8s.io/pull/9758) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [bump deck, hook and horologium memory limits](https://github.com/kubernetes/k8s.io/pull/9748) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [write an updated scalability job policy](https://github.com/kubernetes/test-infra/pull/37509) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
