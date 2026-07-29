@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
 - [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) -  (4 weeks ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (1 month ago)
@@ -27,6 +27,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump docker to v29 for gcb-gcloud-docker image](https://github.com/kubernetes/test-infra/pull/37571) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [bump go in gcb-docker-gcloud image](https://github.com/kubernetes/test-infra/pull/37568) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [use unified ssh paths in the aws secret](https://github.com/kubernetes/k8s.io/pull/9772) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [drop all kubemark jobs](https://github.com/kubernetes/test-infra/pull/37559) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [drop unneeded scale jobs](https://github.com/kubernetes/test-infra/pull/37549) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
@@ -35,8 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [rightsize the eks prometheus instance](https://github.com/kubernetes/k8s.io/pull/9758) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [bump deck, hook and horologium memory limits](https://github.com/kubernetes/k8s.io/pull/9748) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [write an updated scalability job policy](https://github.com/kubernetes/test-infra/pull/37509) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [cleanup unneeded scalability jobs](https://github.com/kubernetes/test-infra/pull/37497) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [disable tpm for GCE scale tests](https://github.com/kubernetes/kops/pull/18613) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 
 #### ⭐ Recent Stars
 
