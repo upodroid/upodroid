@@ -6,11 +6,11 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
+- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (today)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
 - [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) -  (4 weeks ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (1 month ago)
 - [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) - Download kubernetes binaries more easily (1 month ago)
-- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (2 months ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (2 months ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (3 months ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (3 months ago)
@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [skip stackset IAM roles](https://github.com/kubernetes-sigs/boskos/pull/261) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (today)
 - [bump deps, regenerate addresses and use the new AWS CDN](https://github.com/kubernetes/registry.k8s.io/pull/328) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (today)
 - [add cdn.registry.k8s.io dns records](https://github.com/kubernetes/k8s.io/pull/9784) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [release gcb-docker-gcloud as a releng image](https://github.com/kubernetes/release/pull/4481) on [kubernetes/release](https://github.com/kubernetes/release) (today)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [drop all kubemark jobs](https://github.com/kubernetes/test-infra/pull/37559) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [drop unneeded scale jobs](https://github.com/kubernetes/test-infra/pull/37549) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [fix broken agent-sandbox scale jobs and amend their frequencies](https://github.com/kubernetes/test-infra/pull/37548) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [use ondemand instances with karpenter](https://github.com/kubernetes/k8s.io/pull/9765) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 
 #### ⭐ Recent Stars
 
