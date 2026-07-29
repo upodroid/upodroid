@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [start using cdn.registry.k8s.io in registry-sandbox.registry.k8s.io](https://github.com/kubernetes/k8s.io/pull/9789) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [skip stackset IAM roles](https://github.com/kubernetes-sigs/boskos/pull/261) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (today)
 - [bump deps, regenerate addresses and use the new AWS CDN](https://github.com/kubernetes/registry.k8s.io/pull/328) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (today)
 - [add cdn.registry.k8s.io dns records](https://github.com/kubernetes/k8s.io/pull/9784) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [use unified ssh paths in the aws secret](https://github.com/kubernetes/k8s.io/pull/9772) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [drop all kubemark jobs](https://github.com/kubernetes/test-infra/pull/37559) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [drop unneeded scale jobs](https://github.com/kubernetes/test-infra/pull/37549) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [fix broken agent-sandbox scale jobs and amend their frequencies](https://github.com/kubernetes/test-infra/pull/37548) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 
 #### ⭐ Recent Stars
 
