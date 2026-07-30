@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump gcp providers and remove incorrect annotations](https://github.com/kubernetes/k8s.io/pull/9797) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [move gcb-docker-gcloud image to releng](https://github.com/kubernetes/test-infra/pull/37588) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [generate the dedicated service accounts directly](https://github.com/kubernetes/k8s.io/pull/9791) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [start using cdn.registry.k8s.io in registry-sandbox.registry.k8s.io](https://github.com/kubernetes/k8s.io/pull/9789) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [release gcb-docker-gcloud as a releng image](https://github.com/kubernetes/release/pull/4481) on [kubernetes/release](https://github.com/kubernetes/release) (1 day ago)
 - [bump docker to v29 for gcb-gcloud-docker image](https://github.com/kubernetes/test-infra/pull/37571) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [bump go in gcb-docker-gcloud image](https://github.com/kubernetes/test-infra/pull/37568) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
-- [use unified ssh paths in the aws secret](https://github.com/kubernetes/k8s.io/pull/9772) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 
 #### ⭐ Recent Stars
 
