@@ -5,9 +5,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 #### 👷 Check out what I'm currently working on
 
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (1 day ago)
 - [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) - Boskos is a resource management service that provides reservation and lifecycle management of a variety of different kinds of resources. (1 day ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
 - [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) -  (1 month ago)
 - [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) - Download kubernetes binaries more easily (1 month ago)
@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [move gcb-docker-gcloud image to releng](https://github.com/kubernetes/test-infra/pull/37588) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [generate the dedicated service accounts directly](https://github.com/kubernetes/k8s.io/pull/9791) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [start using cdn.registry.k8s.io in registry-sandbox.registry.k8s.io](https://github.com/kubernetes/k8s.io/pull/9789) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [skip stackset IAM roles](https://github.com/kubernetes-sigs/boskos/pull/261) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (1 day ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump docker to v29 for gcb-gcloud-docker image](https://github.com/kubernetes/test-infra/pull/37571) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [bump go in gcb-docker-gcloud image](https://github.com/kubernetes/test-infra/pull/37568) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [use unified ssh paths in the aws secret](https://github.com/kubernetes/k8s.io/pull/9772) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
-- [drop all kubemark jobs](https://github.com/kubernetes/test-infra/pull/37559) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 
 #### ⭐ Recent Stars
 
