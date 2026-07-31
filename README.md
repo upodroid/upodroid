@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [[release-3.7] etcdserver: handle updated semver versioning](https://github.com/etcd-io/etcd/pull/22239) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (today)
 - [bump gcp providers and remove incorrect annotations](https://github.com/kubernetes/k8s.io/pull/9797) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [move gcb-docker-gcloud image to releng](https://github.com/kubernetes/test-infra/pull/37588) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [generate the dedicated service accounts directly](https://github.com/kubernetes/k8s.io/pull/9791) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add cdn.registry.k8s.io dns records](https://github.com/kubernetes/k8s.io/pull/9784) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [release gcb-docker-gcloud as a releng image](https://github.com/kubernetes/release/pull/4481) on [kubernetes/release](https://github.com/kubernetes/release) (2 days ago)
 - [bump docker to v29 for gcb-gcloud-docker image](https://github.com/kubernetes/test-infra/pull/37571) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
-- [bump go in gcb-docker-gcloud image](https://github.com/kubernetes/test-infra/pull/37568) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 
 #### ⭐ Recent Stars
 
