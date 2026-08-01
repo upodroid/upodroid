@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add analytics capability to archeio](https://github.com/kubernetes/registry.k8s.io/pull/329) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (today)
 - [[release-3.7] etcdserver: handle updated semver versioning](https://github.com/etcd-io/etcd/pull/22239) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (1 day ago)
 - [bump gcp providers and remove incorrect annotations](https://github.com/kubernetes/k8s.io/pull/9797) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [move gcb-docker-gcloud image to releng](https://github.com/kubernetes/test-infra/pull/37588) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump deps, regenerate addresses and use the new AWS CDN](https://github.com/kubernetes/registry.k8s.io/pull/328) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (3 days ago)
 - [add cdn.registry.k8s.io dns records](https://github.com/kubernetes/k8s.io/pull/9784) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [release gcb-docker-gcloud as a releng image](https://github.com/kubernetes/release/pull/4481) on [kubernetes/release](https://github.com/kubernetes/release) (3 days ago)
-- [bump docker to v29 for gcb-gcloud-docker image](https://github.com/kubernetes/test-infra/pull/37571) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 
 #### ⭐ Recent Stars
 
