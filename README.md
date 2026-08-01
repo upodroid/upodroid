@@ -27,6 +27,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add azure ip ranges for analytics purposes](https://github.com/kubernetes/registry.k8s.io/pull/330) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (today)
 - [add analytics capability to archeio](https://github.com/kubernetes/registry.k8s.io/pull/329) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (today)
 - [[release-3.7] etcdserver: handle updated semver versioning](https://github.com/etcd-io/etcd/pull/22239) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (1 day ago)
 - [bump gcp providers and remove incorrect annotations](https://github.com/kubernetes/k8s.io/pull/9797) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
@@ -36,7 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [skip stackset IAM roles](https://github.com/kubernetes-sigs/boskos/pull/261) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (3 days ago)
 - [bump deps, regenerate addresses and use the new AWS CDN](https://github.com/kubernetes/registry.k8s.io/pull/328) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (3 days ago)
 - [add cdn.registry.k8s.io dns records](https://github.com/kubernetes/k8s.io/pull/9784) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
-- [release gcb-docker-gcloud as a releng image](https://github.com/kubernetes/release/pull/4481) on [kubernetes/release](https://github.com/kubernetes/release) (3 days ago)
 
 #### ⭐ Recent Stars
 
