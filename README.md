@@ -27,6 +27,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [align scalability presets](https://github.com/kubernetes/test-infra/pull/37609) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [bump argocd to v3.4.6 and enable ssa for diffs](https://github.com/kubernetes/k8s.io/pull/9804) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump memory for registry.k8s.io presubmits](https://github.com/kubernetes/test-infra/pull/37608) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [add azure ip ranges for analytics purposes](https://github.com/kubernetes/registry.k8s.io/pull/330) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (2 days ago)
 - [add analytics capability to archeio](https://github.com/kubernetes/registry.k8s.io/pull/329) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (2 days ago)
@@ -35,8 +37,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [move gcb-docker-gcloud image to releng](https://github.com/kubernetes/test-infra/pull/37588) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [generate the dedicated service accounts directly](https://github.com/kubernetes/k8s.io/pull/9791) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [start using cdn.registry.k8s.io in registry-sandbox.registry.k8s.io](https://github.com/kubernetes/k8s.io/pull/9789) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [skip stackset IAM roles](https://github.com/kubernetes-sigs/boskos/pull/261) on [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) (5 days ago)
-- [bump deps, regenerate addresses and use the new AWS CDN](https://github.com/kubernetes/registry.k8s.io/pull/328) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (5 days ago)
 
 #### ⭐ Recent Stars
 
