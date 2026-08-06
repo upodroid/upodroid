@@ -4,6 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (today)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (5 days ago)
@@ -13,7 +14,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) -  (1 month ago)
 - [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) - Download kubernetes binaries more easily (1 month ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (1 month ago)
-- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [promote gcb-docker-gcloud docker image - v20260806](https://github.com/kubernetes/k8s.io/pull/9810) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [align scalability presets](https://github.com/kubernetes/test-infra/pull/37609) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [bump argocd to v3.4.6 and enable ssa for diffs](https://github.com/kubernetes/k8s.io/pull/9804) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [bump memory for registry.k8s.io presubmits](https://github.com/kubernetes/test-infra/pull/37608) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump gcp providers and remove incorrect annotations](https://github.com/kubernetes/k8s.io/pull/9797) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [move gcb-docker-gcloud image to releng](https://github.com/kubernetes/test-infra/pull/37588) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [generate the dedicated service accounts directly](https://github.com/kubernetes/k8s.io/pull/9791) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [start using cdn.registry.k8s.io in registry-sandbox.registry.k8s.io](https://github.com/kubernetes/k8s.io/pull/9789) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
