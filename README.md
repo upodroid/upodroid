@@ -28,6 +28,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix sending v prefixed semver version to older etcd peer versions that use the coreos/go-semver](https://github.com/etcd-io/etcd/pull/22261) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (today)
+- [amend e2e tests to read the built etcd version](https://github.com/etcd-io/etcd/pull/22260) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (today)
 - [bump kubekins docker version to v29](https://github.com/kubernetes/test-infra/pull/37634) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [promote gcb-docker-gcloud docker image - v20260806](https://github.com/kubernetes/k8s.io/pull/9810) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [align scalability presets](https://github.com/kubernetes/test-infra/pull/37609) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
@@ -36,8 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add azure ip ranges for analytics purposes](https://github.com/kubernetes/registry.k8s.io/pull/330) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 week ago)
 - [add analytics capability to archeio](https://github.com/kubernetes/registry.k8s.io/pull/329) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 week ago)
 - [[release-3.7] etcdserver: handle updated semver versioning](https://github.com/etcd-io/etcd/pull/22239) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (1 week ago)
-- [bump gcp providers and remove incorrect annotations](https://github.com/kubernetes/k8s.io/pull/9797) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [move gcb-docker-gcloud image to releng](https://github.com/kubernetes/test-infra/pull/37588) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
