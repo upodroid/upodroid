@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (4 days ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (4 days ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (4 days ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (1 week ago)
@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add token endpoint to archeio&#39;s cloud armor rules](https://github.com/kubernetes/k8s.io/pull/9817) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [fix sending v prefixed semver version to older etcd peer versions that use the coreos/go-semver](https://github.com/etcd-io/etcd/pull/22261) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (1 day ago)
 - [amend e2e tests to read the built etcd version](https://github.com/etcd-io/etcd/pull/22260) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (1 day ago)
 - [bump kubekins docker version to v29](https://github.com/kubernetes/test-infra/pull/37634) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump memory for registry.k8s.io presubmits](https://github.com/kubernetes/test-infra/pull/37608) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [add azure ip ranges for analytics purposes](https://github.com/kubernetes/registry.k8s.io/pull/330) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 week ago)
 - [add analytics capability to archeio](https://github.com/kubernetes/registry.k8s.io/pull/329) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 week ago)
-- [[release-3.7] etcdserver: handle updated semver versioning](https://github.com/etcd-io/etcd/pull/22239) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (1 week ago)
 
 #### ⭐ Recent Stars
 
