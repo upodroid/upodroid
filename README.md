@@ -28,6 +28,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [run full e2e etcd test suite](https://github.com/kubernetes/test-infra/pull/37659) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [fix broken kubetest2 e2e job](https://github.com/kubernetes/test-infra/pull/37658) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [create bq dataset and pass asn values to archeio](https://github.com/kubernetes/k8s.io/pull/9818) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [add asn values to image pull analytics](https://github.com/kubernetes/registry.k8s.io/pull/331) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 day ago)
 - [add token endpoint to archeio&#39;s cloud armor rules](https://github.com/kubernetes/k8s.io/pull/9817) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -36,8 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump kubekins docker version to v29](https://github.com/kubernetes/test-infra/pull/37634) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [promote gcb-docker-gcloud docker image - v20260806](https://github.com/kubernetes/k8s.io/pull/9810) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [align scalability presets](https://github.com/kubernetes/test-infra/pull/37609) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [bump argocd to v3.4.6 and enable ssa for diffs](https://github.com/kubernetes/k8s.io/pull/9804) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [bump memory for registry.k8s.io presubmits](https://github.com/kubernetes/test-infra/pull/37608) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
