@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [use the updated name for transfer-issue plugin](https://github.com/kubernetes/test-infra/pull/37668) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [run full e2e etcd test suite](https://github.com/kubernetes/test-infra/pull/37659) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [fix broken kubetest2 e2e job](https://github.com/kubernetes/test-infra/pull/37658) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [create bq dataset and pass asn values to archeio](https://github.com/kubernetes/k8s.io/pull/9818) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [amend e2e tests to read the built etcd version](https://github.com/etcd-io/etcd/pull/22260) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (2 days ago)
 - [bump kubekins docker version to v29](https://github.com/kubernetes/test-infra/pull/37634) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [promote gcb-docker-gcloud docker image - v20260806](https://github.com/kubernetes/k8s.io/pull/9810) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [align scalability presets](https://github.com/kubernetes/test-infra/pull/37609) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
