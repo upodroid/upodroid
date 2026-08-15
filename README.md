@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump archeio to v0.7.0](https://github.com/kubernetes/k8s.io/pull/9837) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [return 404s very early](https://github.com/kubernetes/registry.k8s.io/pull/332) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (today)
 - [use the updated name for transfer-issue plugin](https://github.com/kubernetes/test-infra/pull/37668) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [run full e2e etcd test suite](https://github.com/kubernetes/test-infra/pull/37659) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add token endpoint to archeio&#39;s cloud armor rules](https://github.com/kubernetes/k8s.io/pull/9817) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [fix sending v prefixed semver version to older etcd peer versions that use the coreos/go-semver](https://github.com/etcd-io/etcd/pull/22261) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (6 days ago)
 - [amend e2e tests to read the built etcd version](https://github.com/etcd-io/etcd/pull/22260) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (6 days ago)
-- [bump kubekins docker version to v29](https://github.com/kubernetes/test-infra/pull/37634) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
