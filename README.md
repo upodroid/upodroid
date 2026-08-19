@@ -28,6 +28,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix bugs in eks monitoring deployment](https://github.com/kubernetes/k8s.io/pull/9849) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
+- [bump argocd to v3.5.1](https://github.com/kubernetes/k8s.io/pull/9848) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [manage eks monitoring stack using argocd](https://github.com/kubernetes/k8s.io/pull/9847) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump fastly cli](https://github.com/kubernetes-sigs/downloadkubernetes/pull/962) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (1 day ago)
 - [deploy the registry.k8s.io CDN in Fastly](https://github.com/kubernetes/k8s.io/pull/9843) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -36,8 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [use the updated name for transfer-issue plugin](https://github.com/kubernetes/test-infra/pull/37668) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [run full e2e etcd test suite](https://github.com/kubernetes/test-infra/pull/37659) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [fix broken kubetest2 e2e job](https://github.com/kubernetes/test-infra/pull/37658) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [create bq dataset and pass asn values to archeio](https://github.com/kubernetes/k8s.io/pull/9818) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [add asn values to image pull analytics](https://github.com/kubernetes/registry.k8s.io/pull/331) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
