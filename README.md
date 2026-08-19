@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) - Download kubernetes binaries more easily (1 day ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (3 days ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 week ago)
@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [manage eks monitoring stack using argocd](https://github.com/kubernetes/k8s.io/pull/9847) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump fastly cli](https://github.com/kubernetes-sigs/downloadkubernetes/pull/962) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (1 day ago)
 - [deploy the registry.k8s.io CDN in Fastly](https://github.com/kubernetes/k8s.io/pull/9843) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [bump archeio to v0.7.0](https://github.com/kubernetes/k8s.io/pull/9837) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix broken kubetest2 e2e job](https://github.com/kubernetes/test-infra/pull/37658) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [create bq dataset and pass asn values to archeio](https://github.com/kubernetes/k8s.io/pull/9818) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [add asn values to image pull analytics](https://github.com/kubernetes/registry.k8s.io/pull/331) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 week ago)
-- [add token endpoint to archeio&#39;s cloud armor rules](https://github.com/kubernetes/k8s.io/pull/9817) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
