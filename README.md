@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 days ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) - Download kubernetes binaries more easily (3 days ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (5 days ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [use bigger machines for mimir pods](https://github.com/kubernetes/k8s.io/pull/9863) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [fix bugs in eks monitoring deployment](https://github.com/kubernetes/k8s.io/pull/9849) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [bump argocd to v3.5.1](https://github.com/kubernetes/k8s.io/pull/9848) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [manage eks monitoring stack using argocd](https://github.com/kubernetes/k8s.io/pull/9847) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [return 404s very early](https://github.com/kubernetes/registry.k8s.io/pull/332) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (6 days ago)
 - [use the updated name for transfer-issue plugin](https://github.com/kubernetes/test-infra/pull/37668) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [run full e2e etcd test suite](https://github.com/kubernetes/test-infra/pull/37659) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [fix broken kubetest2 e2e job](https://github.com/kubernetes/test-infra/pull/37658) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
