@@ -4,9 +4,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
-- [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) - Download kubernetes binaries more easily (2 days ago)
-- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (4 days ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 days ago)
+- [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) - Download kubernetes binaries more easily (3 days ago)
+- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (5 days ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (2 weeks ago)
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (3 weeks ago)
@@ -17,9 +17,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.8](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.8), today) - Production-Grade Container Scheduling and Management
-- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.7.1](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.7.1), today) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
-- [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) ([v1.1.1](https://github.com/sebdanielsson/ansible-role-xcaddy/releases/tag/v1.1.1), 4 days ago) - 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.8](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.8), 1 day ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.7.1](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.7.1), 1 day ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
+- [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) ([v1.1.1](https://github.com/sebdanielsson/ansible-role-xcaddy/releases/tag/v1.1.1), 5 days ago) - 
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.36.2](https://github.com/kubernetes/kops/releases/tag/v1.36.2), 1 week ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.7.1](https://github.com/etcd-io/etcd/releases/tag/v3.7.1), 4 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v1.6.1](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v1.6.1), 1 month ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
@@ -28,13 +28,13 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
-- [fix bugs in eks monitoring deployment](https://github.com/kubernetes/k8s.io/pull/9849) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
-- [bump argocd to v3.5.1](https://github.com/kubernetes/k8s.io/pull/9848) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
-- [manage eks monitoring stack using argocd](https://github.com/kubernetes/k8s.io/pull/9847) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
-- [bump fastly cli](https://github.com/kubernetes-sigs/downloadkubernetes/pull/962) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (2 days ago)
-- [deploy the registry.k8s.io CDN in Fastly](https://github.com/kubernetes/k8s.io/pull/9843) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
-- [bump archeio to v0.7.0](https://github.com/kubernetes/k8s.io/pull/9837) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [return 404s very early](https://github.com/kubernetes/registry.k8s.io/pull/332) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (5 days ago)
+- [fix bugs in eks monitoring deployment](https://github.com/kubernetes/k8s.io/pull/9849) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
+- [bump argocd to v3.5.1](https://github.com/kubernetes/k8s.io/pull/9848) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
+- [manage eks monitoring stack using argocd](https://github.com/kubernetes/k8s.io/pull/9847) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
+- [bump fastly cli](https://github.com/kubernetes-sigs/downloadkubernetes/pull/962) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (3 days ago)
+- [deploy the registry.k8s.io CDN in Fastly](https://github.com/kubernetes/k8s.io/pull/9843) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
+- [bump archeio to v0.7.0](https://github.com/kubernetes/k8s.io/pull/9837) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
+- [return 404s very early](https://github.com/kubernetes/registry.k8s.io/pull/332) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (6 days ago)
 - [use the updated name for transfer-issue plugin](https://github.com/kubernetes/test-infra/pull/37668) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [run full e2e etcd test suite](https://github.com/kubernetes/test-infra/pull/37659) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [fix broken kubetest2 e2e job](https://github.com/kubernetes/test-infra/pull/37658) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
