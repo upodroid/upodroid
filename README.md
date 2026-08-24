@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [switch to using fastly cdn for registy.k8s.io](https://github.com/kubernetes/k8s.io/pull/9865) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump atlantis to 0.47.1](https://github.com/kubernetes/k8s.io/pull/9864) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [use bigger machines for mimir pods](https://github.com/kubernetes/k8s.io/pull/9863) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [fix bugs in eks monitoring deployment](https://github.com/kubernetes/k8s.io/pull/9849) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [deploy the registry.k8s.io CDN in Fastly](https://github.com/kubernetes/k8s.io/pull/9843) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [bump archeio to v0.7.0](https://github.com/kubernetes/k8s.io/pull/9837) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [return 404s very early](https://github.com/kubernetes/registry.k8s.io/pull/332) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 week ago)
-- [use the updated name for transfer-issue plugin](https://github.com/kubernetes/test-infra/pull/37668) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
