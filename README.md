@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
-- [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) - Download kubernetes binaries more easily (6 days ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
+- [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) - Download kubernetes binaries more easily (1 week ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (1 week ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (2 weeks ago)
@@ -17,9 +17,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.26.5](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.26.5), 1 day ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.8](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.8), 4 days ago) - Production-Grade Container Scheduling and Management
-- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.7.1](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.7.1), 4 days ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.26.5](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.26.5), 2 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.8](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.8), 5 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.7.1](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.7.1), 5 days ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 - [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) ([v1.1.1](https://github.com/sebdanielsson/ansible-role-xcaddy/releases/tag/v1.1.1), 1 week ago) - 
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.36.2](https://github.com/kubernetes/kops/releases/tag/v1.36.2), 2 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.7.1](https://github.com/etcd-io/etcd/releases/tag/v3.7.1), 1 month ago) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -28,14 +28,14 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
-- [switch to using fastly cdn for registy.k8s.io](https://github.com/kubernetes/k8s.io/pull/9865) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
-- [bump atlantis to 0.47.1](https://github.com/kubernetes/k8s.io/pull/9864) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
-- [use bigger machines for mimir pods](https://github.com/kubernetes/k8s.io/pull/9863) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
-- [fix bugs in eks monitoring deployment](https://github.com/kubernetes/k8s.io/pull/9849) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [bump argocd to v3.5.1](https://github.com/kubernetes/k8s.io/pull/9848) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [manage eks monitoring stack using argocd](https://github.com/kubernetes/k8s.io/pull/9847) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [bump fastly cli](https://github.com/kubernetes-sigs/downloadkubernetes/pull/962) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (6 days ago)
-- [deploy the registry.k8s.io CDN in Fastly](https://github.com/kubernetes/k8s.io/pull/9843) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
+- [switch to using fastly cdn for registy.k8s.io](https://github.com/kubernetes/k8s.io/pull/9865) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
+- [bump atlantis to 0.47.1](https://github.com/kubernetes/k8s.io/pull/9864) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
+- [use bigger machines for mimir pods](https://github.com/kubernetes/k8s.io/pull/9863) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
+- [fix bugs in eks monitoring deployment](https://github.com/kubernetes/k8s.io/pull/9849) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
+- [bump argocd to v3.5.1](https://github.com/kubernetes/k8s.io/pull/9848) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
+- [manage eks monitoring stack using argocd](https://github.com/kubernetes/k8s.io/pull/9847) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
+- [bump fastly cli](https://github.com/kubernetes-sigs/downloadkubernetes/pull/962) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (1 week ago)
+- [deploy the registry.k8s.io CDN in Fastly](https://github.com/kubernetes/k8s.io/pull/9843) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [bump archeio to v0.7.0](https://github.com/kubernetes/k8s.io/pull/9837) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [return 404s very early](https://github.com/kubernetes/registry.k8s.io/pull/332) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 week ago)
 
