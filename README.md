@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [use a custom user agent for archeio](https://github.com/kubernetes/registry.k8s.io/pull/334) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (today)
 - [switch to using fastly cdn for registy.k8s.io](https://github.com/kubernetes/k8s.io/pull/9865) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [bump atlantis to 0.47.1](https://github.com/kubernetes/k8s.io/pull/9864) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [use bigger machines for mimir pods](https://github.com/kubernetes/k8s.io/pull/9863) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump fastly cli](https://github.com/kubernetes-sigs/downloadkubernetes/pull/962) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (1 week ago)
 - [deploy the registry.k8s.io CDN in Fastly](https://github.com/kubernetes/k8s.io/pull/9843) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [bump archeio to v0.7.0](https://github.com/kubernetes/k8s.io/pull/9837) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [return 404s very early](https://github.com/kubernetes/registry.k8s.io/pull/332) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
