@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0), today) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.26.5](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.26.5), 3 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.8](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.8), 6 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.7.1](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.7.1), 6 days ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 - [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) ([v1.1.1](https://github.com/sebdanielsson/ansible-role-xcaddy/releases/tag/v1.1.1), 1 week ago) - 
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.36.2](https://github.com/kubernetes/kops/releases/tag/v1.36.2), 2 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix a bug with fastly cdn for registry.k8s.io](https://github.com/kubernetes/k8s.io/pull/9875) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [add cri-o e2e tests](https://github.com/kubernetes/registry.k8s.io/pull/335) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 day ago)
 - [use a custom user agent for archeio](https://github.com/kubernetes/registry.k8s.io/pull/334) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 day ago)
 - [switch to using fastly cdn for registy.k8s.io](https://github.com/kubernetes/k8s.io/pull/9865) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump argocd to v3.5.1](https://github.com/kubernetes/k8s.io/pull/9848) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [manage eks monitoring stack using argocd](https://github.com/kubernetes/k8s.io/pull/9847) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [bump fastly cli](https://github.com/kubernetes-sigs/downloadkubernetes/pull/962) on [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) (1 week ago)
-- [deploy the registry.k8s.io CDN in Fastly](https://github.com/kubernetes/k8s.io/pull/9843) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
