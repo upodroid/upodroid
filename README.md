@@ -17,9 +17,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.7.2](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.7.2), today) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.23.4](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.23.4), 2 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0), 3 days ago) - Production-Grade Container Scheduling and Management
-- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.7.1](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.7.1), 1 week ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 - [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) ([v1.1.1](https://github.com/sebdanielsson/ansible-role-xcaddy/releases/tag/v1.1.1), 1 week ago) - 
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.36.2](https://github.com/kubernetes/kops/releases/tag/v1.36.2), 3 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.7.1](https://github.com/etcd-io/etcd/releases/tag/v3.7.1), 1 month ago) - Distributed reliable key-value store for the most critical data of a distributed system
