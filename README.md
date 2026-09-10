@@ -17,10 +17,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v1.6.2](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v1.6.2), 6 days ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v1.6.2](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v1.6.2), 1 week ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.37.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.37.0-beta.1), 1 week ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.7.2](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.7.2), 1 week ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.23.4](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.23.4), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.23.4](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.23.4), 2 weeks ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) ([v1.1.1](https://github.com/sebdanielsson/ansible-role-xcaddy/releases/tag/v1.1.1), 3 weeks ago) - 
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.7.1](https://github.com/etcd-io/etcd/releases/tag/v3.7.1), 1 month ago) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -28,7 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
-- [drop darwin amd64 and replace it with riscv64](https://github.com/kubernetes-sigs/kubetest2/pull/349) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 day ago)
+- [drop darwin amd64 and replace it with riscv64](https://github.com/kubernetes-sigs/kubetest2/pull/349) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (2 days ago)
 - [fix a bug with fastly cdn for registry.k8s.io](https://github.com/kubernetes/k8s.io/pull/9875) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [add cri-o e2e tests](https://github.com/kubernetes/registry.k8s.io/pull/335) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (2 weeks ago)
 - [use a custom user agent for archeio](https://github.com/kubernetes/registry.k8s.io/pull/334) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (2 weeks ago)
