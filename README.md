@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bundle the kubetest2 kops binaries in the e2e image](https://github.com/kubernetes/test-infra/pull/37863) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [build kubetest2 binaries and publish them to the staging bucket](https://github.com/kubernetes/kops/pull/18795) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [bump argocd differ and fail the job correctly](https://github.com/kubernetes/test-infra/pull/37856) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [increase the metrics frequency for cpu/mem peak analysis](https://github.com/kubernetes/k8s.io/pull/9921) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [use a custom user agent for archeio](https://github.com/kubernetes/registry.k8s.io/pull/334) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (2 weeks ago)
 - [switch to using fastly cdn for registy.k8s.io](https://github.com/kubernetes/k8s.io/pull/9865) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [bump atlantis to 0.47.1](https://github.com/kubernetes/k8s.io/pull/9864) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
-- [use bigger machines for mimir pods](https://github.com/kubernetes/k8s.io/pull/9863) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
