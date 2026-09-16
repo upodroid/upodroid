@@ -4,9 +4,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (3 days ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (6 days ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 week ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (3 weeks ago)
 - [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) - Download kubernetes binaries more easily (4 weeks ago)
@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump all the deps and gh cli version](https://github.com/kubernetes/k8s.io/pull/9939) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [[Bug] semantic router supports hot reloading so don&#39;t rollout new revision for config changes](https://github.com/vllm-project/semantic-router/pull/3796) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (2 days ago)
 - [bundle the kubetest2 kops binaries in the e2e image](https://github.com/kubernetes/test-infra/pull/37863) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [build kubetest2 binaries and publish them to the staging bucket](https://github.com/kubernetes/kops/pull/18795) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix a bug with fastly cdn for registry.k8s.io](https://github.com/kubernetes/k8s.io/pull/9875) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 - [add cri-o e2e tests](https://github.com/kubernetes/registry.k8s.io/pull/335) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (3 weeks ago)
 - [use a custom user agent for archeio](https://github.com/kubernetes/registry.k8s.io/pull/334) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (3 weeks ago)
-- [switch to using fastly cdn for registy.k8s.io](https://github.com/kubernetes/k8s.io/pull/9865) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
