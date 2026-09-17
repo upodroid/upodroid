@@ -28,6 +28,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [write a hardened image tracker and update the docs](https://github.com/kubernetes/test-infra/pull/37884) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [add core sig testing staging registries](https://github.com/kubernetes/k8s.io/pull/9960) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [create sp-operator staging registry](https://github.com/kubernetes/k8s.io/pull/9951) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump argocd to v3.5.3 and fix some bugs](https://github.com/kubernetes/k8s.io/pull/9944) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [bump eso to 2.10.0](https://github.com/kubernetes/k8s.io/pull/9942) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -36,8 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bundle the kubetest2 kops binaries in the e2e image](https://github.com/kubernetes/test-infra/pull/37863) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [build kubetest2 binaries and publish them to the staging bucket](https://github.com/kubernetes/kops/pull/18795) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
 - [bump argocd differ and fail the job correctly](https://github.com/kubernetes/test-infra/pull/37856) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [increase the metrics frequency for cpu/mem peak analysis](https://github.com/kubernetes/k8s.io/pull/9921) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
-- [drop darwin amd64 and replace it with riscv64](https://github.com/kubernetes-sigs/kubetest2/pull/349) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 week ago)
 
 #### ⭐ Recent Stars
 
