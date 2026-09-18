@@ -4,9 +4,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (4 days ago)
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (4 days ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (5 days ago)
+- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (5 days ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 week ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (3 weeks ago)
 - [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) - Download kubernetes binaries more easily (1 month ago)
@@ -28,15 +28,15 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
-- [write a hardened image tracker and update the docs](https://github.com/kubernetes/test-infra/pull/37884) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
-- [add core sig testing staging registries](https://github.com/kubernetes/k8s.io/pull/9960) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
-- [create sp-operator staging registry](https://github.com/kubernetes/k8s.io/pull/9951) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
-- [bump argocd to v3.5.3 and fix some bugs](https://github.com/kubernetes/k8s.io/pull/9944) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
-- [bump eso to 2.10.0](https://github.com/kubernetes/k8s.io/pull/9942) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
-- [bump all the deps and gh cli version](https://github.com/kubernetes/k8s.io/pull/9939) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
-- [[Bug] semantic router supports hot reloading so don&#39;t rollout new revision for config changes](https://github.com/vllm-project/semantic-router/pull/3796) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (3 days ago)
-- [bundle the kubetest2 kops binaries in the e2e image](https://github.com/kubernetes/test-infra/pull/37863) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [build kubetest2 binaries and publish them to the staging bucket](https://github.com/kubernetes/kops/pull/18795) on [kubernetes/kops](https://github.com/kubernetes/kops) (6 days ago)
+- [write a hardened image tracker and update the docs](https://github.com/kubernetes/test-infra/pull/37884) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [add core sig testing staging registries](https://github.com/kubernetes/k8s.io/pull/9960) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
+- [create sp-operator staging registry](https://github.com/kubernetes/k8s.io/pull/9951) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
+- [bump argocd to v3.5.3 and fix some bugs](https://github.com/kubernetes/k8s.io/pull/9944) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
+- [bump eso to 2.10.0](https://github.com/kubernetes/k8s.io/pull/9942) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
+- [bump all the deps and gh cli version](https://github.com/kubernetes/k8s.io/pull/9939) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
+- [[Bug] semantic router supports hot reloading so don&#39;t rollout new revision for config changes](https://github.com/vllm-project/semantic-router/pull/3796) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (4 days ago)
+- [bundle the kubetest2 kops binaries in the e2e image](https://github.com/kubernetes/test-infra/pull/37863) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
+- [build kubetest2 binaries and publish them to the staging bucket](https://github.com/kubernetes/kops/pull/18795) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 - [bump argocd differ and fail the job correctly](https://github.com/kubernetes/test-infra/pull/37856) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
