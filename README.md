@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 week ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 week ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (3 weeks ago)
@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [use the preinstalled kubetest2 kops and add ubuntu 2604 jobs for GCE](https://github.com/kubernetes/test-infra/pull/37896) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [increase the frequency of the kubernetes build job](https://github.com/kubernetes/test-infra/pull/37895) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [add a flag to skip signing ci builds](https://github.com/kubernetes/release/pull/4537) on [kubernetes/release](https://github.com/kubernetes/release) (today)
 - [add riscv64 as a tier 3 platform](https://github.com/kubernetes/sig-release/pull/3110) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (today)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [create sp-operator staging registry](https://github.com/kubernetes/k8s.io/pull/9951) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [bump argocd to v3.5.3 and fix some bugs](https://github.com/kubernetes/k8s.io/pull/9944) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [bump eso to 2.10.0](https://github.com/kubernetes/k8s.io/pull/9942) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [bump all the deps and gh cli version](https://github.com/kubernetes/k8s.io/pull/9939) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 
 #### ⭐ Recent Stars
 
