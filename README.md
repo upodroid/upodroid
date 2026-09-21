@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add riscv64 as a tier 3 platform](https://github.com/kubernetes/sig-release/pull/3110) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (today)
 - [harden the test-infra staging image builds](https://github.com/kubernetes/test-infra/pull/37887) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [write a hardened image tracker and update the docs](https://github.com/kubernetes/test-infra/pull/37884) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [add core sig testing staging registries](https://github.com/kubernetes/k8s.io/pull/9960) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump all the deps and gh cli version](https://github.com/kubernetes/k8s.io/pull/9939) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [[Bug] semantic router supports hot reloading so don&#39;t rollout new revision for config changes](https://github.com/vllm-project/semantic-router/pull/3796) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 week ago)
 - [bundle the kubetest2 kops binaries in the e2e image](https://github.com/kubernetes/test-infra/pull/37863) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [build kubetest2 binaries and publish them to the staging bucket](https://github.com/kubernetes/kops/pull/18795) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 
 #### ⭐ Recent Stars
 
