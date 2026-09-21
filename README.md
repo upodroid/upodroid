@@ -28,6 +28,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [increase the frequency of the kubernetes build job](https://github.com/kubernetes/test-infra/pull/37895) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [add a flag to skip signing ci builds](https://github.com/kubernetes/release/pull/4537) on [kubernetes/release](https://github.com/kubernetes/release) (today)
 - [add riscv64 as a tier 3 platform](https://github.com/kubernetes/sig-release/pull/3110) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (today)
 - [harden the test-infra staging image builds](https://github.com/kubernetes/test-infra/pull/37887) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [write a hardened image tracker and update the docs](https://github.com/kubernetes/test-infra/pull/37884) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
@@ -36,8 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump argocd to v3.5.3 and fix some bugs](https://github.com/kubernetes/k8s.io/pull/9944) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [bump eso to 2.10.0](https://github.com/kubernetes/k8s.io/pull/9942) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [bump all the deps and gh cli version](https://github.com/kubernetes/k8s.io/pull/9939) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [[Bug] semantic router supports hot reloading so don&#39;t rollout new revision for config changes](https://github.com/vllm-project/semantic-router/pull/3796) on [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) (1 week ago)
-- [bundle the kubetest2 kops binaries in the e2e image](https://github.com/kubernetes/test-infra/pull/37863) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
