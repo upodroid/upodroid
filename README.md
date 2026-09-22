@@ -17,17 +17,19 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.7.2](https://github.com/etcd-io/etcd/releases/tag/v3.7.2), today) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.27.0](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.27.0), 4 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v1.6.2](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v1.6.2), 2 weeks ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.37.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.37.0-beta.1), 3 weeks ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.7.2](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.7.2), 3 weeks ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.37.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.0), 3 weeks ago) - Production-Grade Container Scheduling and Management
 - [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) ([v1.1.1](https://github.com/sebdanielsson/ansible-role-xcaddy/releases/tag/v1.1.1), 1 month ago) - 
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.7.1](https://github.com/etcd-io/etcd/releases/tag/v3.7.1), 2 months ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.21.1](https://github.com/kubernetes/release/releases/tag/v0.21.1), 5 months ago) - Release infrastructure for Kubernetes and related components
 
 #### 🔨 My recent Pull Requests
 
+- [don&#39;t build kubetest2 when running as a periodic and switch to dl.k8s.io/ci](https://github.com/kubernetes/kops/pull/18802) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
+- [add correctness scenario and fix a bug](https://github.com/kubernetes/test-infra/pull/37904) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [use the preinstalled kubetest2 kops and add ubuntu 2604 jobs for GCE](https://github.com/kubernetes/test-infra/pull/37896) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [increase the frequency of the kubernetes build job](https://github.com/kubernetes/test-infra/pull/37895) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [add a flag to skip signing ci builds](https://github.com/kubernetes/release/pull/4537) on [kubernetes/release](https://github.com/kubernetes/release) (1 day ago)
@@ -36,8 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [write a hardened image tracker and update the docs](https://github.com/kubernetes/test-infra/pull/37884) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [add core sig testing staging registries](https://github.com/kubernetes/k8s.io/pull/9960) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [create sp-operator staging registry](https://github.com/kubernetes/k8s.io/pull/9951) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [bump argocd to v3.5.3 and fix some bugs](https://github.com/kubernetes/k8s.io/pull/9944) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
-- [bump eso to 2.10.0](https://github.com/kubernetes/k8s.io/pull/9942) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 
 #### ⭐ Recent Stars
 
