@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [switch to a bigger node pool](https://github.com/kubernetes/k8s.io/pull/9972) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [don&#39;t build kubetest2 when running as a periodic and switch to dl.k8s.io/ci](https://github.com/kubernetes/kops/pull/18802) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [add correctness scenario and fix a bug](https://github.com/kubernetes/test-infra/pull/37904) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [use the preinstalled kubetest2 kops and add ubuntu 2604 jobs for GCE](https://github.com/kubernetes/test-infra/pull/37896) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [harden the test-infra staging image builds](https://github.com/kubernetes/test-infra/pull/37887) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [write a hardened image tracker and update the docs](https://github.com/kubernetes/test-infra/pull/37884) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [add core sig testing staging registries](https://github.com/kubernetes/k8s.io/pull/9960) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
-- [create sp-operator staging registry](https://github.com/kubernetes/k8s.io/pull/9951) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 
 #### ⭐ Recent Stars
 
