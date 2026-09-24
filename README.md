@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [migrate from cfssl to step-ca](https://github.com/kubernetes/kubernetes/pull/142399) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [switch to a bigger node pool](https://github.com/kubernetes/k8s.io/pull/9972) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [don&#39;t build kubetest2 when running as a periodic and switch to dl.k8s.io/ci](https://github.com/kubernetes/kops/pull/18802) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [add correctness scenario and fix a bug](https://github.com/kubernetes/test-infra/pull/37904) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add riscv64 as a tier 3 platform](https://github.com/kubernetes/sig-release/pull/3110) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (3 days ago)
 - [harden the test-infra staging image builds](https://github.com/kubernetes/test-infra/pull/37887) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 - [write a hardened image tracker and update the docs](https://github.com/kubernetes/test-infra/pull/37884) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [add core sig testing staging registries](https://github.com/kubernetes/k8s.io/pull/9960) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 
 #### ⭐ Recent Stars
 
