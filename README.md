@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (2 weeks ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (2 weeks ago)
@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [switch dra jobs to using shared presets and fix broken 500 node job](https://github.com/kubernetes/test-infra/pull/37937) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [migrate from cfssl to step-ca](https://github.com/kubernetes/kubernetes/pull/142399) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
 - [switch to a bigger node pool](https://github.com/kubernetes/k8s.io/pull/9972) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
 - [don&#39;t build kubetest2 when running as a periodic and switch to dl.k8s.io/ci](https://github.com/kubernetes/kops/pull/18802) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add a flag to skip signing ci builds](https://github.com/kubernetes/release/pull/4537) on [kubernetes/release](https://github.com/kubernetes/release) (1 week ago)
 - [add riscv64 as a tier 3 platform](https://github.com/kubernetes/sig-release/pull/3110) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 week ago)
 - [harden the test-infra staging image builds](https://github.com/kubernetes/test-infra/pull/37887) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [write a hardened image tracker and update the docs](https://github.com/kubernetes/test-infra/pull/37884) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
