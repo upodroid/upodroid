@@ -28,6 +28,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add cl2 job for the kubetest2 repo](https://github.com/kubernetes/test-infra/pull/37939) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [bump to go 1.27, allow testers to pass keys to metadata.json and bump deps](https://github.com/kubernetes-sigs/kubetest2/pull/350) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (today)
 - [switch dra jobs to using shared presets and fix broken 500 node job](https://github.com/kubernetes/test-infra/pull/37937) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [migrate from cfssl to step-ca](https://github.com/kubernetes/kubernetes/pull/142399) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
 - [switch to a bigger node pool](https://github.com/kubernetes/k8s.io/pull/9972) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
@@ -36,8 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [use the preinstalled kubetest2 kops and add ubuntu 2604 jobs for GCE](https://github.com/kubernetes/test-infra/pull/37896) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [increase the frequency of the kubernetes build job](https://github.com/kubernetes/test-infra/pull/37895) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [add a flag to skip signing ci builds](https://github.com/kubernetes/release/pull/4537) on [kubernetes/release](https://github.com/kubernetes/release) (1 week ago)
-- [add riscv64 as a tier 3 platform](https://github.com/kubernetes/sig-release/pull/3110) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 week ago)
-- [harden the test-infra staging image builds](https://github.com/kubernetes/test-infra/pull/37887) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
