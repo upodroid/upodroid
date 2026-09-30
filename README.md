@@ -28,6 +28,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [set kube bastion and kops-version in metadata.json](https://github.com/kubernetes/kops/pull/18822) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
+- [fix scalability stockout issues](https://github.com/kubernetes/test-infra/pull/37946) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [shrink page sizes on timeout and retry graphql errors](https://github.com/kubernetes-sigs/prow/pull/982) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (today)
 - [add a metadata setter](https://github.com/kubernetes-sigs/kubetest2/pull/351) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (today)
 - [add cl2 job for the kubetest2 repo](https://github.com/kubernetes/test-infra/pull/37939) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [bump to go 1.27, allow testers to pass keys to metadata.json and bump deps](https://github.com/kubernetes-sigs/kubetest2/pull/350) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 day ago)
@@ -35,9 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [migrate from cfssl to step-ca](https://github.com/kubernetes/kubernetes/pull/142399) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
 - [switch to a bigger node pool](https://github.com/kubernetes/k8s.io/pull/9972) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [don&#39;t build kubetest2 when running as a periodic and switch to dl.k8s.io/ci](https://github.com/kubernetes/kops/pull/18802) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
-- [add correctness scenario and fix a bug](https://github.com/kubernetes/test-infra/pull/37904) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [use the preinstalled kubetest2 kops and add ubuntu 2604 jobs for GCE](https://github.com/kubernetes/test-infra/pull/37896) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [increase the frequency of the kubernetes build job](https://github.com/kubernetes/test-infra/pull/37895) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
