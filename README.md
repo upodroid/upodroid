@@ -4,6 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (today)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (1 day ago)
@@ -13,7 +14,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 month ago)
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (2 months ago)
 - [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) - Boskos is a resource management service that provides reservation and lifecycle management of a variety of different kinds of resources. (2 months ago)
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump kubekins e2e deps - october 2026](https://github.com/kubernetes/test-infra/pull/37953) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [refresh the ip ranges for October 2026](https://github.com/kubernetes/registry.k8s.io/pull/339) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (today)
 - [bump go to 1.27.1](https://github.com/kubernetes-sigs/kubetest2/pull/353) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 day ago)
 - [set kube bastion and kops-version in metadata.json](https://github.com/kubernetes/kops/pull/18822) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add cl2 job for the kubetest2 repo](https://github.com/kubernetes/test-infra/pull/37939) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [bump to go 1.27, allow testers to pass keys to metadata.json and bump deps](https://github.com/kubernetes-sigs/kubetest2/pull/350) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (2 days ago)
 - [switch dra jobs to using shared presets and fix broken 500 node job](https://github.com/kubernetes/test-infra/pull/37937) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
-- [migrate from cfssl to step-ca](https://github.com/kubernetes/kubernetes/pull/142399) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 
 #### ⭐ Recent Stars
 
