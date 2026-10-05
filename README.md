@@ -4,7 +4,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (4 days ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (4 days ago)
@@ -28,16 +28,16 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [build releases for riscv64 and ppc64le](https://github.com/cloudflare/cfssl/pull/1450) on [cloudflare/cfssl](https://github.com/cloudflare/cfssl) (today)
+- [switch NPD and networking tests from sshexec to hostexec](https://github.com/kubernetes/kubernetes/pull/142687) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
+- [use the control plane&#39;s public IP as a bastion for SSH if KUBE_SSH_BASTION env variable is unset.](https://github.com/kubernetes/kubernetes/pull/142685) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
+- [bump kubekins-e2e to debian trixie](https://github.com/kubernetes/test-infra/pull/37979) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [switch to kubekins e2e v2 for all scalability jobs that don&#39;t use scenarios script](https://github.com/kubernetes/test-infra/pull/37978) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [skip gcb-builder shim for sp-operator](https://github.com/kubernetes/k8s.io/pull/10015) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [horologium: reduce horologium&#39;s log noise](https://github.com/kubernetes-sigs/prow/pull/985) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (4 days ago)
 - [fetch prowjob crd from source directly](https://github.com/kubernetes/k8s.io/pull/10011) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [deck: fix a panic and retries on GCS errors](https://github.com/kubernetes-sigs/prow/pull/984) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (4 days ago)
 - [bump kubekins e2e deps - october 2026](https://github.com/kubernetes/test-infra/pull/37953) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
-- [refresh the ip ranges for October 2026](https://github.com/kubernetes/registry.k8s.io/pull/339) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (4 days ago)
-- [bump go to 1.27.1](https://github.com/kubernetes-sigs/kubetest2/pull/353) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (5 days ago)
-- [set kube bastion and kops-version in metadata.json](https://github.com/kubernetes/kops/pull/18822) on [kubernetes/kops](https://github.com/kubernetes/kops) (5 days ago)
-- [fix scalability stockout issues](https://github.com/kubernetes/test-infra/pull/37946) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
-- [shrink page sizes on timeout and retry graphql errors](https://github.com/kubernetes-sigs/prow/pull/982) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (5 days ago)
 
 #### ⭐ Recent Stars
 
