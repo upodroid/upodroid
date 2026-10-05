@@ -17,9 +17,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.27.3](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.27.3), today) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.8.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.8.0), 4 days ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-alpha.1), 6 days ago) - Production-Grade Container Scheduling and Management
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.27.1](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.27.1), 1 week ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.22.0](https://github.com/kubernetes/release/releases/tag/v0.22.0), 1 week ago) - Release infrastructure for Kubernetes and related components
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.7.2](https://github.com/etcd-io/etcd/releases/tag/v3.7.2), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v1.6.2](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v1.6.2), 1 month ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
@@ -28,6 +28,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [[WIP] delete kubemark](https://github.com/kubernetes/kubernetes/pull/142700) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
+- [add 2000 node correctness job](https://github.com/kubernetes/test-infra/pull/37987) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [build releases for riscv64 and ppc64le](https://github.com/cloudflare/cfssl/pull/1450) on [cloudflare/cfssl](https://github.com/cloudflare/cfssl) (today)
 - [switch NPD and networking tests from sshexec to hostexec](https://github.com/kubernetes/kubernetes/pull/142687) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [use the control plane&#39;s public IP as a bastion for SSH if KUBE_SSH_BASTION env variable is unset.](https://github.com/kubernetes/kubernetes/pull/142685) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
@@ -36,8 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [skip gcb-builder shim for sp-operator](https://github.com/kubernetes/k8s.io/pull/10015) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [horologium: reduce horologium&#39;s log noise](https://github.com/kubernetes-sigs/prow/pull/985) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (4 days ago)
 - [fetch prowjob crd from source directly](https://github.com/kubernetes/k8s.io/pull/10011) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
-- [deck: fix a panic and retries on GCS errors](https://github.com/kubernetes-sigs/prow/pull/984) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (4 days ago)
-- [bump kubekins e2e deps - october 2026](https://github.com/kubernetes/test-infra/pull/37953) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 
 #### ⭐ Recent Stars
 
