@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (4 days ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (5 days ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (5 days ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (6 days ago)
@@ -28,7 +28,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
-- [[WIP] delete kubemark](https://github.com/kubernetes/kubernetes/pull/142700) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
+- [fix OOM for ec2 correctness job](https://github.com/kubernetes/test-infra/pull/37992) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [add highmem EKS nodepool](https://github.com/kubernetes/k8s.io/pull/10024) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
+- [delete kubemark](https://github.com/kubernetes/kubernetes/pull/142700) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [add 2000 node correctness job](https://github.com/kubernetes/test-infra/pull/37987) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [build releases for riscv64 and ppc64le](https://github.com/cloudflare/cfssl/pull/1450) on [cloudflare/cfssl](https://github.com/cloudflare/cfssl) (1 day ago)
 - [switch NPD and networking tests from sshexec to hostexec](https://github.com/kubernetes/kubernetes/pull/142687) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
@@ -36,8 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump kubekins-e2e to debian trixie](https://github.com/kubernetes/test-infra/pull/37979) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [switch to kubekins e2e v2 for all scalability jobs that don&#39;t use scenarios script](https://github.com/kubernetes/test-infra/pull/37978) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [skip gcb-builder shim for sp-operator](https://github.com/kubernetes/k8s.io/pull/10015) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
-- [horologium: reduce horologium&#39;s log noise](https://github.com/kubernetes-sigs/prow/pull/985) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (5 days ago)
-- [fetch prowjob crd from source directly](https://github.com/kubernetes/k8s.io/pull/10011) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 
 #### ⭐ Recent Stars
 
