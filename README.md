@@ -4,12 +4,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
-- [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (4 days ago)
-- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (4 days ago)
-- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (5 days ago)
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (6 days ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (4 days ago)
+- [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (5 days ago)
+- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (5 days ago)
+- [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (6 days ago)
+- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 week ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (2 weeks ago)
 - [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) - Download kubernetes binaries more easily (1 month ago)
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (2 months ago)
@@ -17,27 +17,27 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.27.3](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.27.3), today) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.8.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.8.0), 4 days ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-alpha.1), 6 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.27.3](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.27.3), 1 day ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
+- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.8.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.8.0), 5 days ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-alpha.1), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.22.0](https://github.com/kubernetes/release/releases/tag/v0.22.0), 1 week ago) - Release infrastructure for Kubernetes and related components
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.7.2](https://github.com/etcd-io/etcd/releases/tag/v3.7.2), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.7.2](https://github.com/etcd-io/etcd/releases/tag/v3.7.2), 2 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v1.6.2](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v1.6.2), 1 month ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.37.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.37.0-beta.1), 1 month ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) ([v1.1.1](https://github.com/sebdanielsson/ansible-role-xcaddy/releases/tag/v1.1.1), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [[WIP] delete kubemark](https://github.com/kubernetes/kubernetes/pull/142700) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
-- [add 2000 node correctness job](https://github.com/kubernetes/test-infra/pull/37987) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
-- [build releases for riscv64 and ppc64le](https://github.com/cloudflare/cfssl/pull/1450) on [cloudflare/cfssl](https://github.com/cloudflare/cfssl) (today)
-- [switch NPD and networking tests from sshexec to hostexec](https://github.com/kubernetes/kubernetes/pull/142687) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
-- [use the control plane&#39;s public IP as a bastion for SSH if KUBE_SSH_BASTION env variable is unset.](https://github.com/kubernetes/kubernetes/pull/142685) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
-- [bump kubekins-e2e to debian trixie](https://github.com/kubernetes/test-infra/pull/37979) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
-- [switch to kubekins e2e v2 for all scalability jobs that don&#39;t use scenarios script](https://github.com/kubernetes/test-infra/pull/37978) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
-- [skip gcb-builder shim for sp-operator](https://github.com/kubernetes/k8s.io/pull/10015) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
-- [horologium: reduce horologium&#39;s log noise](https://github.com/kubernetes-sigs/prow/pull/985) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (4 days ago)
-- [fetch prowjob crd from source directly](https://github.com/kubernetes/k8s.io/pull/10011) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
+- [[WIP] delete kubemark](https://github.com/kubernetes/kubernetes/pull/142700) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
+- [add 2000 node correctness job](https://github.com/kubernetes/test-infra/pull/37987) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [build releases for riscv64 and ppc64le](https://github.com/cloudflare/cfssl/pull/1450) on [cloudflare/cfssl](https://github.com/cloudflare/cfssl) (1 day ago)
+- [switch NPD and networking tests from sshexec to hostexec](https://github.com/kubernetes/kubernetes/pull/142687) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
+- [use the control plane&#39;s public IP as a bastion for SSH if KUBE_SSH_BASTION env variable is unset.](https://github.com/kubernetes/kubernetes/pull/142685) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
+- [bump kubekins-e2e to debian trixie](https://github.com/kubernetes/test-infra/pull/37979) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [switch to kubekins e2e v2 for all scalability jobs that don&#39;t use scenarios script](https://github.com/kubernetes/test-infra/pull/37978) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [skip gcb-builder shim for sp-operator](https://github.com/kubernetes/k8s.io/pull/10015) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
+- [horologium: reduce horologium&#39;s log noise](https://github.com/kubernetes-sigs/prow/pull/985) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (5 days ago)
+- [fetch prowjob crd from source directly](https://github.com/kubernetes/k8s.io/pull/10011) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 
 #### ⭐ Recent Stars
 
