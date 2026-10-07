@@ -29,6 +29,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [autopick zones and regions for kubeup clusters](https://github.com/kubernetes/kubernetes/pull/142799) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [fix OOM for ec2 correctness job](https://github.com/kubernetes/test-infra/pull/37992) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [add highmem EKS nodepool](https://github.com/kubernetes/k8s.io/pull/10024) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [delete kubemark](https://github.com/kubernetes/kubernetes/pull/142700) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [use the control plane&#39;s public IP as a bastion for SSH if KUBE_SSH_BASTION env variable is unset.](https://github.com/kubernetes/kubernetes/pull/142685) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 - [bump kubekins-e2e to debian trixie](https://github.com/kubernetes/test-infra/pull/37979) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [switch to kubekins e2e v2 for all scalability jobs that don&#39;t use scenarios script](https://github.com/kubernetes/test-infra/pull/37978) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
-- [skip gcb-builder shim for sp-operator](https://github.com/kubernetes/k8s.io/pull/10015) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 
 #### ⭐ Recent Stars
 
