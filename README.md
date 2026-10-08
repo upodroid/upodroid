@@ -29,6 +29,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [replace gsutil with gcloud storage](https://github.com/kubernetes/kubernetes/pull/142843) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [fix cluster approvers](https://github.com/kubernetes/kubernetes/pull/142840) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [autopick zones and regions for kubeup clusters](https://github.com/kubernetes/kubernetes/pull/142799) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [fix OOM for ec2 correctness job](https://github.com/kubernetes/test-infra/pull/37992) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [build releases for riscv64 and ppc64le](https://github.com/cloudflare/cfssl/pull/1450) on [cloudflare/cfssl](https://github.com/cloudflare/cfssl) (3 days ago)
 - [switch NPD and networking tests from sshexec to hostexec](https://github.com/kubernetes/kubernetes/pull/142687) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
 - [use the control plane&#39;s public IP as a bastion for SSH if KUBE_SSH_BASTION env variable is unset.](https://github.com/kubernetes/kubernetes/pull/142685) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
-- [bump kubekins-e2e to debian trixie](https://github.com/kubernetes/test-infra/pull/37979) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 
 #### ⭐ Recent Stars
 
