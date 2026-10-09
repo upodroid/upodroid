@@ -17,10 +17,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.27.4](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.27.4), today) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v1.7.0-rc.1](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v1.7.0-rc.1), 1 day ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-alpha.2), 2 days ago) - Production-Grade Container Scheduling and Management
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) ([v1.7.1](https://github.com/cloudflare/cfssl/releases/tag/v1.7.1), 3 days ago) - CFSSL: Cloudflare&#39;s PKI and TLS toolkit
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.27.3](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.27.3), 4 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.8.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.8.0), 1 week ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.22.0](https://github.com/kubernetes/release/releases/tag/v0.22.0), 2 weeks ago) - Release infrastructure for Kubernetes and related components
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.7.2](https://github.com/etcd-io/etcd/releases/tag/v3.7.2), 2 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -29,6 +29,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [build ginkgo &amp; go-runner as a static binary](https://github.com/kubernetes/kubernetes/pull/142890) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
+- [add kubetest2 local presubmit job](https://github.com/kubernetes/test-infra/pull/38030) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [add kubetest2 local deployer](https://github.com/kubernetes-sigs/kubetest2/pull/354) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (today)
 - [replace gotip scalability job](https://github.com/kubernetes/test-infra/pull/38018) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [replace gsutil with gcloud storage](https://github.com/kubernetes/kubernetes/pull/142843) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
@@ -37,8 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix OOM for ec2 correctness job](https://github.com/kubernetes/test-infra/pull/37992) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [add highmem EKS nodepool](https://github.com/kubernetes/k8s.io/pull/10024) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [delete kubemark](https://github.com/kubernetes/kubernetes/pull/142700) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
-- [add 2000 node correctness job](https://github.com/kubernetes/test-infra/pull/37987) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
-- [build releases for riscv64 and ppc64le](https://github.com/cloudflare/cfssl/pull/1450) on [cloudflare/cfssl](https://github.com/cloudflare/cfssl) (4 days ago)
 
 #### ⭐ Recent Stars
 
