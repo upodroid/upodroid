@@ -29,6 +29,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add a trixie kubecross image](https://github.com/kubernetes/release/pull/4556) on [kubernetes/release](https://github.com/kubernetes/release) (today)
 - [build ginkgo &amp; go-runner as a static binary](https://github.com/kubernetes/kubernetes/pull/142890) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [add kubetest2 local presubmit job](https://github.com/kubernetes/test-infra/pull/38030) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [add kubetest2 local deployer](https://github.com/kubernetes-sigs/kubetest2/pull/354) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (1 day ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [autopick zones and regions for kubeup clusters](https://github.com/kubernetes/kubernetes/pull/142799) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
 - [fix OOM for ec2 correctness job](https://github.com/kubernetes/test-infra/pull/37992) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
 - [add highmem EKS nodepool](https://github.com/kubernetes/k8s.io/pull/10024) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
-- [delete kubemark](https://github.com/kubernetes/kubernetes/pull/142700) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
 
 #### ⭐ Recent Stars
 
