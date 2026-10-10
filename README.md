@@ -29,6 +29,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [migrate to AR staging registry and harden the GCB configuration](https://github.com/kubernetes/test-infra/pull/38037) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [migrate build image to new staging registry](https://github.com/kubernetes/k8s.io/pull/10046) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [add a trixie kubecross image](https://github.com/kubernetes/release/pull/4556) on [kubernetes/release](https://github.com/kubernetes/release) (today)
 - [build ginkgo &amp; go-runner as a static binary](https://github.com/kubernetes/kubernetes/pull/142890) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [add kubetest2 local presubmit job](https://github.com/kubernetes/test-infra/pull/38030) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -37,8 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [replace gsutil with gcloud storage](https://github.com/kubernetes/kubernetes/pull/142843) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 - [fix cluster approvers](https://github.com/kubernetes/kubernetes/pull/142840) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 - [autopick zones and regions for kubeup clusters](https://github.com/kubernetes/kubernetes/pull/142799) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
-- [fix OOM for ec2 correctness job](https://github.com/kubernetes/test-infra/pull/37992) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
-- [add highmem EKS nodepool](https://github.com/kubernetes/k8s.io/pull/10024) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 
 #### ⭐ Recent Stars
 
