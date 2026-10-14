@@ -29,6 +29,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [move all remaining build-image jobs to Artifact registry](https://github.com/kubernetes/test-infra/pull/38063) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [bump containerd and runc versions for canary gce jobs in k/k](https://github.com/kubernetes/test-infra/pull/38059) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [improve builder image](https://github.com/kubernetes/test-infra/pull/38049) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [migrate to AR staging registry and harden the GCB configuration](https://github.com/kubernetes/test-infra/pull/38037) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add kubetest2 local presubmit job](https://github.com/kubernetes/test-infra/pull/38030) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [add kubetest2 local deployer](https://github.com/kubernetes-sigs/kubetest2/pull/354) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (5 days ago)
 - [replace gotip scalability job](https://github.com/kubernetes/test-infra/pull/38018) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
-- [replace gsutil with gcloud storage](https://github.com/kubernetes/kubernetes/pull/142843) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
 
 #### ⭐ Recent Stars
 
