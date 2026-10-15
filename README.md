@@ -4,41 +4,41 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (today)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
-- [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 day ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 days ago)
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 day ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
+- [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (2 days ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare&#39;s PKI and TLS toolkit (1 week ago)
-- [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (1 week ago)
-- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (1 week ago)
+- [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (2 weeks ago)
+- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (2 weeks ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (2 weeks ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (2 weeks ago)
 - [kubernetes-sigs/downloadkubernetes](https://github.com/kubernetes-sigs/downloadkubernetes) - Download kubernetes binaries more easily (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.25.3](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.25.3), 1 day ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
-- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v1.7.0-rc.1](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v1.7.0-rc.1), 6 days ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+- [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.25.3](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.25.3), 2 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
+- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v1.7.0-rc.1](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v1.7.0-rc.1), 1 week ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-alpha.2), 1 week ago) - Production-Grade Container Scheduling and Management
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) ([v1.7.1](https://github.com/cloudflare/cfssl/releases/tag/v1.7.1), 1 week ago) - CFSSL: Cloudflare&#39;s PKI and TLS toolkit
-- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.8.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.8.0), 1 week ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
+- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.8.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.8.0), 2 weeks ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.22.0](https://github.com/kubernetes/release/releases/tag/v0.22.0), 3 weeks ago) - Release infrastructure for Kubernetes and related components
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.7.2](https://github.com/etcd-io/etcd/releases/tag/v3.7.2), 3 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.37.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.37.0-beta.1), 1 month ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) ([v1.1.1](https://github.com/sebdanielsson/ansible-role-xcaddy/releases/tag/v1.1.1), 1 month ago) - 
+- [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) ([v1.1.1](https://github.com/sebdanielsson/ansible-role-xcaddy/releases/tag/v1.1.1), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [promote v1.38.0-go1.27.1-trixie.0 kube-cross image](https://github.com/kubernetes/k8s.io/pull/10062) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
-- [move all remaining build-image jobs to Artifact registry](https://github.com/kubernetes/test-infra/pull/38063) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
-- [bump containerd and runc versions for canary gce jobs in k/k](https://github.com/kubernetes/test-infra/pull/38059) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
-- [improve builder image](https://github.com/kubernetes/test-infra/pull/38049) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
-- [migrate to AR staging registry and harden the GCB configuration](https://github.com/kubernetes/test-infra/pull/38037) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (4 days ago)
-- [migrate build image to new staging registry](https://github.com/kubernetes/k8s.io/pull/10046) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
-- [add a trixie kubecross image](https://github.com/kubernetes/release/pull/4556) on [kubernetes/release](https://github.com/kubernetes/release) (4 days ago)
-- [build ginkgo &amp; go-runner as a static binary](https://github.com/kubernetes/kubernetes/pull/142890) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
-- [add kubetest2 local presubmit job](https://github.com/kubernetes/test-infra/pull/38030) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
-- [add kubetest2 local deployer](https://github.com/kubernetes-sigs/kubetest2/pull/354) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (5 days ago)
+- [promote v1.38.0-go1.27.1-trixie.0 kube-cross image](https://github.com/kubernetes/k8s.io/pull/10062) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
+- [move all remaining build-image jobs to Artifact registry](https://github.com/kubernetes/test-infra/pull/38063) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [bump containerd and runc versions for canary gce jobs in k/k](https://github.com/kubernetes/test-infra/pull/38059) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [improve builder image](https://github.com/kubernetes/test-infra/pull/38049) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
+- [migrate to AR staging registry and harden the GCB configuration](https://github.com/kubernetes/test-infra/pull/38037) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
+- [migrate build image to new staging registry](https://github.com/kubernetes/k8s.io/pull/10046) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
+- [add a trixie kubecross image](https://github.com/kubernetes/release/pull/4556) on [kubernetes/release](https://github.com/kubernetes/release) (5 days ago)
+- [build ginkgo &amp; go-runner as a static binary](https://github.com/kubernetes/kubernetes/pull/142890) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
+- [add kubetest2 local presubmit job](https://github.com/kubernetes/test-infra/pull/38030) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
+- [add kubetest2 local deployer](https://github.com/kubernetes-sigs/kubetest2/pull/354) on [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) (6 days ago)
 
 #### ⭐ Recent Stars
 
