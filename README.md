@@ -29,6 +29,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix debian base image](https://github.com/kubernetes/release/pull/4567) on [kubernetes/release](https://github.com/kubernetes/release) (today)
 - [bump gcp provider to v7.46](https://github.com/knative/infra/pull/934) on [knative/infra](https://github.com/knative/infra) (today)
 - [upgrade kube-cross to trixie](https://github.com/kubernetes/kubernetes/pull/143052) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [promote v1.38.0-go1.27.1-trixie.0 kube-cross image](https://github.com/kubernetes/k8s.io/pull/10062) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [migrate to AR staging registry and harden the GCB configuration](https://github.com/kubernetes/test-infra/pull/38037) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [migrate build image to new staging registry](https://github.com/kubernetes/k8s.io/pull/10046) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 - [add a trixie kubecross image](https://github.com/kubernetes/release/pull/4556) on [kubernetes/release](https://github.com/kubernetes/release) (5 days ago)
-- [build ginkgo &amp; go-runner as a static binary](https://github.com/kubernetes/kubernetes/pull/142890) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
 
 #### ⭐ Recent Stars
 
