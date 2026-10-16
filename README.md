@@ -4,14 +4,14 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (today)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (today)
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 days ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 days ago)
-- [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (3 days ago)
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 days ago)
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare&#39;s PKI and TLS toolkit (1 week ago)
-- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (2 weeks ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (2 weeks ago)
+- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (2 weeks ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (2 weeks ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (2 weeks ago)
 
@@ -29,6 +29,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [fix setcap image](https://github.com/kubernetes/release/pull/4572) on [kubernetes/release](https://github.com/kubernetes/release) (today)
+- [fix distroless-iptables image](https://github.com/kubernetes/release/pull/4571) on [kubernetes/release](https://github.com/kubernetes/release) (today)
 - [fix debian base image](https://github.com/kubernetes/release/pull/4567) on [kubernetes/release](https://github.com/kubernetes/release) (1 day ago)
 - [bump gcp provider to v7.46](https://github.com/knative/infra/pull/934) on [knative/infra](https://github.com/knative/infra) (1 day ago)
 - [upgrade kube-cross to trixie](https://github.com/kubernetes/kubernetes/pull/143052) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
@@ -37,8 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump containerd and runc versions for canary gce jobs in k/k](https://github.com/kubernetes/test-infra/pull/38059) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [improve builder image](https://github.com/kubernetes/test-infra/pull/38049) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [migrate to AR staging registry and harden the GCB configuration](https://github.com/kubernetes/test-infra/pull/38037) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
-- [migrate build image to new staging registry](https://github.com/kubernetes/k8s.io/pull/10046) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (6 days ago)
-- [add a trixie kubecross image](https://github.com/kubernetes/release/pull/4556) on [kubernetes/release](https://github.com/kubernetes/release) (6 days ago)
 
 #### ⭐ Recent Stars
 
