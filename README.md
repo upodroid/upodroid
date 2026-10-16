@@ -5,8 +5,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 #### 👷 Check out what I'm currently working on
 
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (today)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (today)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 days ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 days ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 days ago)
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare&#39;s PKI and TLS toolkit (1 week ago)
@@ -29,6 +29,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [Image promotion for build-image trixie-v1.0.1 / bookworm-v1.0.9](https://github.com/kubernetes/k8s.io/pull/10073) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [fix setcap image](https://github.com/kubernetes/release/pull/4572) on [kubernetes/release](https://github.com/kubernetes/release) (today)
 - [fix distroless-iptables image](https://github.com/kubernetes/release/pull/4571) on [kubernetes/release](https://github.com/kubernetes/release) (today)
 - [fix debian base image](https://github.com/kubernetes/release/pull/4567) on [kubernetes/release](https://github.com/kubernetes/release) (1 day ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [move all remaining build-image jobs to Artifact registry](https://github.com/kubernetes/test-infra/pull/38063) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [bump containerd and runc versions for canary gce jobs in k/k](https://github.com/kubernetes/test-infra/pull/38059) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [improve builder image](https://github.com/kubernetes/test-infra/pull/38049) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [migrate to AR staging registry and harden the GCB configuration](https://github.com/kubernetes/test-infra/pull/38037) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (6 days ago)
 
 #### ⭐ Recent Stars
 
