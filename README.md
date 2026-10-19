@@ -5,10 +5,10 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 #### 👷 Check out what I'm currently working on
 
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (today)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (3 days ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (3 days ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (5 days ago)
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (5 days ago)
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare&#39;s PKI and TLS toolkit (2 weeks ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (2 weeks ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (2 weeks ago)
@@ -29,6 +29,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [move hostexec to e2e framework](https://github.com/kubernetes/kubernetes/pull/143176) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
+- [move hostexec to e2e framework](https://github.com/kubernetes/kubernetes/pull/143175) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [bump debian base and setcap image to trixie](https://github.com/kubernetes/kubernetes/pull/143168) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [Image promotion for build-image trixie-v1.0.1 / bookworm-v1.0.9](https://github.com/kubernetes/k8s.io/pull/10085) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Image promotion for build-image trixie-v1.0.1 / bookworm-v1.0.9](https://github.com/kubernetes/k8s.io/pull/10073) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
@@ -37,8 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix debian base image](https://github.com/kubernetes/release/pull/4567) on [kubernetes/release](https://github.com/kubernetes/release) (4 days ago)
 - [bump gcp provider to v7.46](https://github.com/knative/infra/pull/934) on [knative/infra](https://github.com/knative/infra) (4 days ago)
 - [upgrade kube-cross to trixie](https://github.com/kubernetes/kubernetes/pull/143052) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
-- [promote v1.38.0-go1.27.1-trixie.0 kube-cross image](https://github.com/kubernetes/k8s.io/pull/10062) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [move all remaining build-image jobs to Artifact registry](https://github.com/kubernetes/test-infra/pull/38063) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 
 #### ⭐ Recent Stars
 
