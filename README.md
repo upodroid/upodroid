@@ -29,6 +29,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [switch flexvolume tests to hostexec](https://github.com/kubernetes/kubernetes/pull/143195) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
+- [don&#39;t use crictl in e2e tests](https://github.com/kubernetes/kubernetes/pull/143194) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [move hostexec to e2e framework](https://github.com/kubernetes/kubernetes/pull/143176) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [move hostexec to e2e framework](https://github.com/kubernetes/kubernetes/pull/143175) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [bump debian base and setcap image to trixie](https://github.com/kubernetes/kubernetes/pull/143168) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
@@ -37,8 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix setcap image](https://github.com/kubernetes/release/pull/4572) on [kubernetes/release](https://github.com/kubernetes/release) (3 days ago)
 - [fix distroless-iptables image](https://github.com/kubernetes/release/pull/4571) on [kubernetes/release](https://github.com/kubernetes/release) (3 days ago)
 - [fix debian base image](https://github.com/kubernetes/release/pull/4567) on [kubernetes/release](https://github.com/kubernetes/release) (4 days ago)
-- [bump gcp provider to v7.46](https://github.com/knative/infra/pull/934) on [knative/infra](https://github.com/knative/infra) (4 days ago)
-- [upgrade kube-cross to trixie](https://github.com/kubernetes/kubernetes/pull/143052) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
 
 #### ⭐ Recent Stars
 
