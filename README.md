@@ -29,6 +29,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add the 100 node correctness test presubmit](https://github.com/kubernetes/test-infra/pull/38119) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [switch flexvolume tests to hostexec](https://github.com/kubernetes/kubernetes/pull/143195) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [don&#39;t use crictl in e2e tests](https://github.com/kubernetes/kubernetes/pull/143194) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [move hostexec to e2e framework](https://github.com/kubernetes/kubernetes/pull/143176) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [Image promotion for build-image trixie-v1.0.1 / bookworm-v1.0.9](https://github.com/kubernetes/k8s.io/pull/10073) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [fix setcap image](https://github.com/kubernetes/release/pull/4572) on [kubernetes/release](https://github.com/kubernetes/release) (4 days ago)
 - [fix distroless-iptables image](https://github.com/kubernetes/release/pull/4571) on [kubernetes/release](https://github.com/kubernetes/release) (4 days ago)
-- [fix debian base image](https://github.com/kubernetes/release/pull/4567) on [kubernetes/release](https://github.com/kubernetes/release) (5 days ago)
 
 #### ⭐ Recent Stars
 
