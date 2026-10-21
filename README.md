@@ -17,11 +17,11 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.8.1](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.8.1), today) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.27.5](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.27.5), 5 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v1.7.0-rc.1](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v1.7.0-rc.1), 1 week ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-alpha.2), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) ([v1.7.1](https://github.com/cloudflare/cfssl/releases/tag/v1.7.1), 2 weeks ago) - CFSSL: Cloudflare&#39;s PKI and TLS toolkit
-- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.8.0](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.8.0), 2 weeks ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.22.0](https://github.com/kubernetes/release/releases/tag/v0.22.0), 4 weeks ago) - Release infrastructure for Kubernetes and related components
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.7.2](https://github.com/etcd-io/etcd/releases/tag/v3.7.2), 4 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.37.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.37.0-beta.1), 1 month ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
@@ -29,6 +29,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump aws lb controller to v3.6 and allow the customization of the defaultloadbalancerscheme](https://github.com/kubernetes/kops/pull/18894) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [deploy AWS LB controller for scalability tests](https://github.com/kubernetes/kops/pull/18892) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [refresh known registries hourly](https://github.com/kubernetes/registry.k8s.io/pull/341) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 day ago)
 - [add the 100 node correctness test presubmit](https://github.com/kubernetes/test-infra/pull/38119) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [move hostexec to e2e framework](https://github.com/kubernetes/kubernetes/pull/143175) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 - [bump debian base and setcap image to trixie](https://github.com/kubernetes/kubernetes/pull/143168) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 - [Image promotion for build-image trixie-v1.0.1 / bookworm-v1.0.9](https://github.com/kubernetes/k8s.io/pull/10085) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
-- [Image promotion for build-image trixie-v1.0.1 / bookworm-v1.0.9](https://github.com/kubernetes/k8s.io/pull/10073) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
 
 #### ⭐ Recent Stars
 
