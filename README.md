@@ -29,6 +29,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [deploy AWS LB controller for scalability tests](https://github.com/kubernetes/kops/pull/18892) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [refresh known registries hourly](https://github.com/kubernetes/registry.k8s.io/pull/341) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (1 day ago)
 - [add the 100 node correctness test presubmit](https://github.com/kubernetes/test-infra/pull/38119) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [switch flexvolume tests to hostexec](https://github.com/kubernetes/kubernetes/pull/143195) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump debian base and setcap image to trixie](https://github.com/kubernetes/kubernetes/pull/143168) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 days ago)
 - [Image promotion for build-image trixie-v1.0.1 / bookworm-v1.0.9](https://github.com/kubernetes/k8s.io/pull/10085) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [Image promotion for build-image trixie-v1.0.1 / bookworm-v1.0.9](https://github.com/kubernetes/k8s.io/pull/10073) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (5 days ago)
-- [fix setcap image](https://github.com/kubernetes/release/pull/4572) on [kubernetes/release](https://github.com/kubernetes/release) (5 days ago)
 
 #### ⭐ Recent Stars
 
