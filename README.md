@@ -4,13 +4,13 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 day ago)
+- [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (today)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
+- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (today)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (2 days ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (6 days ago)
-- [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (6 days ago)
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare&#39;s PKI and TLS toolkit (2 weeks ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (3 weeks ago)
 - [kubernetes-sigs/kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Kubetest2 is the framework for launching and running end-to-end tests on Kubernetes. (3 weeks ago)
@@ -29,6 +29,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump gcb-docker-gcloud to go 1.27.3](https://github.com/kubernetes/release/pull/4583) on [kubernetes/release](https://github.com/kubernetes/release) (today)
+- [scale: disable colors in ginkgo](https://github.com/kubernetes/kops/pull/18896) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
+- [replace cos121 with cos133](https://github.com/kubernetes/test-infra/pull/38132) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [bump aws lb controller to v3.6 and allow the customization of the defaultloadbalancerscheme](https://github.com/kubernetes/kops/pull/18894) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [deploy AWS LB controller for scalability tests](https://github.com/kubernetes/kops/pull/18892) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [refresh known registries hourly](https://github.com/kubernetes/registry.k8s.io/pull/341) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (2 days ago)
@@ -36,9 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [switch flexvolume tests to hostexec](https://github.com/kubernetes/kubernetes/pull/143195) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
 - [don&#39;t use crictl in e2e tests](https://github.com/kubernetes/kubernetes/pull/143194) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
 - [move hostexec to e2e framework](https://github.com/kubernetes/kubernetes/pull/143176) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
-- [move hostexec to e2e framework](https://github.com/kubernetes/kubernetes/pull/143175) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
-- [bump debian base and setcap image to trixie](https://github.com/kubernetes/kubernetes/pull/143168) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
-- [Image promotion for build-image trixie-v1.0.1 / bookworm-v1.0.9](https://github.com/kubernetes/k8s.io/pull/10085) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 
 #### ⭐ Recent Stars
 
