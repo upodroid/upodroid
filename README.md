@@ -7,8 +7,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (today)
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (today)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (2 days ago)
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (6 days ago)
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare&#39;s PKI and TLS toolkit (2 weeks ago)
@@ -17,13 +17,13 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.35](https://github.com/etcd-io/etcd/releases/tag/v3.5.35), today) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.8.1](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.8.1), 1 day ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 - [kubernetes-sigs/gcp-compute-persistent-disk-csi-driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver) ([v1.27.5](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver/releases/tag/v1.27.5), 6 days ago) - The Google Compute Engine Persistent Disk (GCE PD) Container Storage Interface (CSI) Storage Plugin.
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v1.7.0-rc.1](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v1.7.0-rc.1), 2 weeks ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-alpha.2), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) ([v1.7.1](https://github.com/cloudflare/cfssl/releases/tag/v1.7.1), 2 weeks ago) - CFSSL: Cloudflare&#39;s PKI and TLS toolkit
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.22.0](https://github.com/kubernetes/release/releases/tag/v0.22.0), 4 weeks ago) - Release infrastructure for Kubernetes and related components
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.7.2](https://github.com/etcd-io/etcd/releases/tag/v3.7.2), 1 month ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes/kops](https://github.com/kubernetes/kops) ([v1.37.0-beta.1](https://github.com/kubernetes/kops/releases/tag/v1.37.0-beta.1), 1 month ago) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) ([v1.1.1](https://github.com/sebdanielsson/ansible-role-xcaddy/releases/tag/v1.1.1), 2 months ago) - 
 
