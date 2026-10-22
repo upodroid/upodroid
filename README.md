@@ -29,6 +29,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump oci proxy to v0.8.1](https://github.com/kubernetes/k8s.io/pull/10109) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [bump gcb-docker-gcloud to go 1.27.3](https://github.com/kubernetes/release/pull/4583) on [kubernetes/release](https://github.com/kubernetes/release) (today)
 - [scale: disable colors in ginkgo](https://github.com/kubernetes/kops/pull/18896) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [replace cos121 with cos133](https://github.com/kubernetes/test-infra/pull/38132) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add the 100 node correctness test presubmit](https://github.com/kubernetes/test-infra/pull/38119) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [switch flexvolume tests to hostexec](https://github.com/kubernetes/kubernetes/pull/143195) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
 - [don&#39;t use crictl in e2e tests](https://github.com/kubernetes/kubernetes/pull/143194) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
-- [move hostexec to e2e framework](https://github.com/kubernetes/kubernetes/pull/143176) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
 
 #### ⭐ Recent Stars
 
