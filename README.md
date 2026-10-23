@@ -29,6 +29,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [run correctness jobs without checking k/perf-tests](https://github.com/kubernetes/kops/pull/18907) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
+- [migrate ec2 tests to use kubekins-e2e v2 image](https://github.com/kubernetes/test-infra/pull/38141) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [amend the topology hints test to work correctly with clusters that span multiple zones](https://github.com/kubernetes/kubernetes/pull/143351) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [bump oci proxy to v0.8.1](https://github.com/kubernetes/k8s.io/pull/10109) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [bump gcb-docker-gcloud to go 1.27.3](https://github.com/kubernetes/release/pull/4583) on [kubernetes/release](https://github.com/kubernetes/release) (1 day ago)
 - [scale: disable colors in ginkgo](https://github.com/kubernetes/kops/pull/18896) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
@@ -36,9 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump aws lb controller to v3.6 and allow the customization of the defaultloadbalancerscheme](https://github.com/kubernetes/kops/pull/18894) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [deploy AWS LB controller for scalability tests](https://github.com/kubernetes/kops/pull/18892) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
 - [refresh known registries hourly](https://github.com/kubernetes/registry.k8s.io/pull/341) on [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) (3 days ago)
-- [add the 100 node correctness test presubmit](https://github.com/kubernetes/test-infra/pull/38119) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [switch flexvolume tests to hostexec](https://github.com/kubernetes/kubernetes/pull/143195) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
-- [don&#39;t use crictl in e2e tests](https://github.com/kubernetes/kubernetes/pull/143194) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
 
 #### ⭐ Recent Stars
 
