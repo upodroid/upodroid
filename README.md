@@ -29,6 +29,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [enable the lb controller for 2k correctness tests only](https://github.com/kubernetes/test-infra/pull/38154) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [scale: don&#39;t enable aws lb controller by default](https://github.com/kubernetes/kops/pull/18910) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
 - [grant k8s-infra-ci-robot access to the prow repo](https://github.com/kubernetes/org/pull/6742) on [kubernetes/org](https://github.com/kubernetes/org) (1 day ago)
 - [apply skip-review to the right bumper job](https://github.com/kubernetes/test-infra/pull/38148) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [bump gcp ccm binaries to v36.4.7 and v37.1.8](https://github.com/kubernetes/k8s.io/pull/10120) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
@@ -37,8 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add dry-run flag to bumper and fix an error in the bumper](https://github.com/kubernetes-sigs/prow/pull/1034) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (1 day ago)
 - [bump alpine base image to v3.24.3](https://github.com/kubernetes/test-infra/pull/38144) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [promote gcb-docker-gcloud - 20261022](https://github.com/kubernetes/k8s.io/pull/10119) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
-- [addd 2000 node correctness jobs](https://github.com/kubernetes/test-infra/pull/38143) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
-- [run correctness jobs without checking k/perf-tests](https://github.com/kubernetes/kops/pull/18907) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 
 #### ⭐ Recent Stars
 
