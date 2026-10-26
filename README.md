@@ -30,7 +30,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 #### 🔨 My recent Pull Requests
 
 - [add s3 support to krel](https://github.com/kubernetes/release/pull/4590) on [kubernetes/release](https://github.com/kubernetes/release) (today)
-- [[wip] stage kops/kubernetes to s3 buckets when running ec2 jobs](https://github.com/kubernetes/kops/pull/18922) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
+- [stage kops/kubernetes to s3 buckets when running ec2 jobs](https://github.com/kubernetes/kops/pull/18922) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [add kops ec2 k/k build job](https://github.com/kubernetes/test-infra/pull/38157) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [enable the lb controller for 2k correctness tests only](https://github.com/kubernetes/test-infra/pull/38154) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [scale: don&#39;t enable aws lb controller by default](https://github.com/kubernetes/kops/pull/18910) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 days ago)
