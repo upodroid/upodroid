@@ -29,6 +29,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add s3 support to krel](https://github.com/kubernetes/release/pull/4590) on [kubernetes/release](https://github.com/kubernetes/release) (today)
 - [[wip] stage kops/kubernetes to s3 buckets when running ec2 jobs](https://github.com/kubernetes/kops/pull/18922) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
 - [add kops ec2 k/k build job](https://github.com/kubernetes/test-infra/pull/38157) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
 - [enable the lb controller for 2k correctness tests only](https://github.com/kubernetes/test-infra/pull/38154) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -38,7 +39,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump gcp ccm binaries to v36.4.7 and v37.1.8](https://github.com/kubernetes/k8s.io/pull/10120) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
 - [add skip review label to prow and bump remaining alpine images used by prow](https://github.com/kubernetes/test-infra/pull/38147) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 - [bump debian version for kubekins-e2e images](https://github.com/kubernetes/test-infra/pull/38145) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [add dry-run flag to bumper and fix an error in the bumper](https://github.com/kubernetes-sigs/prow/pull/1034) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (3 days ago)
 
 #### ⭐ Recent Stars
 
