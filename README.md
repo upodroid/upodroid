@@ -4,9 +4,9 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (today)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 day ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (2 days ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (6 days ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (6 days ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 week ago)
@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v1.7.0](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v1.7.0), today) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-alpha.3), 1 day ago) - Production-Grade Container Scheduling and Management
-- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v1.7.0-rc.3](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v1.7.0-rc.3), 6 days ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.7.3](https://github.com/etcd-io/etcd/releases/tag/v3.7.3), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.8.1](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.8.1), 1 week ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) ([v1.7.1](https://github.com/cloudflare/cfssl/releases/tag/v1.7.1), 3 weeks ago) - CFSSL: Cloudflare&#39;s PKI and TLS toolkit
