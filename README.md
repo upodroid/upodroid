@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [Add affinity rules to presets and allow presets to be overriden in jobs](https://github.com/kubernetes-sigs/prow/pull/1058) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (today)
 - [use a bucket in do for digitalocean presubmits](https://github.com/kubernetes/kops/pull/18954) on [kubernetes/kops](https://github.com/kubernetes/kops) (4 days ago)
 - [bump deps and add tenv cli](https://github.com/kubernetes/test-infra/pull/38197) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [add kubeProxy.nodePortAddresses field](https://github.com/kubernetes/kops/pull/18942) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add kops ec2 k/k build job](https://github.com/kubernetes/test-infra/pull/38157) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [enable the lb controller for 2k correctness tests only](https://github.com/kubernetes/test-infra/pull/38154) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [scale: don&#39;t enable aws lb controller by default](https://github.com/kubernetes/kops/pull/18910) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
-- [grant k8s-infra-ci-robot access to the prow repo](https://github.com/kubernetes/org/pull/6742) on [kubernetes/org](https://github.com/kubernetes/org) (1 week ago)
 
 #### ⭐ Recent Stars
 
