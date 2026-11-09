@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (2 days ago)
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 days ago)
+- [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (3 days ago)
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 days ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (1 week ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 week ago)
@@ -17,8 +17,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-beta.0), 2 days ago) - Production-Grade Container Scheduling and Management
-- [kubernetes/release](https://github.com/kubernetes/release) ([v0.23.0](https://github.com/kubernetes/release/releases/tag/v0.23.0), 5 days ago) - Release infrastructure for Kubernetes and related components
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.38.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.38.0-beta.0), 3 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/release](https://github.com/kubernetes/release) ([v0.23.0](https://github.com/kubernetes/release/releases/tag/v0.23.0), 6 days ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v1.7.0](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v1.7.0), 1 week ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.7.3](https://github.com/etcd-io/etcd/releases/tag/v3.7.3), 2 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) ([v0.8.1](https://github.com/kubernetes/registry.k8s.io/releases/tag/v0.8.1), 2 weeks ago) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts
@@ -28,16 +28,16 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
-- [Add affinity rules to presets and allow presets to be overriden in jobs](https://github.com/kubernetes-sigs/prow/pull/1058) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (3 days ago)
+- [fix azure registry jobs](https://github.com/kubernetes/test-infra/pull/38265) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
+- [Add affinity rules to presets and allow presets to be overriden in jobs](https://github.com/kubernetes-sigs/prow/pull/1058) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (4 days ago)
 - [use a bucket in do for digitalocean presubmits](https://github.com/kubernetes/kops/pull/18954) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 - [bump deps and add tenv cli](https://github.com/kubernetes/test-infra/pull/38197) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [add kubeProxy.nodePortAddresses field](https://github.com/kubernetes/kops/pull/18942) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 - [skip broken pull-kops-kubernetes-e2e-ubuntu-ec2-build job](https://github.com/kubernetes/test-infra/pull/38169) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
-- [add s3 support to krel](https://github.com/kubernetes/release/pull/4590) on [kubernetes/release](https://github.com/kubernetes/release) (1 week ago)
+- [add s3 support to krel](https://github.com/kubernetes/release/pull/4590) on [kubernetes/release](https://github.com/kubernetes/release) (2 weeks ago)
 - [stage kops/kubernetes to s3 buckets when running ec2 jobs](https://github.com/kubernetes/kops/pull/18922) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 weeks ago)
 - [add kops ec2 k/k build job](https://github.com/kubernetes/test-infra/pull/38157) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [enable the lb controller for 2k correctness tests only](https://github.com/kubernetes/test-infra/pull/38154) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-- [scale: don&#39;t enable aws lb controller by default](https://github.com/kubernetes/kops/pull/18910) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
