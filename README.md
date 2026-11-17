@@ -4,12 +4,12 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (1 week ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 week ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (2 weeks ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (3 weeks ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 weeks ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (4 weeks ago)
 - [knative/infra](https://github.com/knative/infra) - Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things. (1 month ago)
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare&#39;s PKI and TLS toolkit (1 month ago)
@@ -28,6 +28,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add kops validate instancegroup command](https://github.com/kubernetes/kops/pull/19061) on [kubernetes/kops](https://github.com/kubernetes/kops) (today)
+- [bump all the apps in the utility cluster to the latest version](https://github.com/kubernetes/k8s.io/pull/10213) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [stage kops builds to an azure bucket instead of gcs](https://github.com/kubernetes/kops/pull/19025) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 - [fix azure registry jobs](https://github.com/kubernetes/test-infra/pull/38265) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Add affinity rules to presets and allow presets to be overriden in jobs](https://github.com/kubernetes-sigs/prow/pull/1058) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (1 week ago)
@@ -36,8 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [add kubeProxy.nodePortAddresses field](https://github.com/kubernetes/kops/pull/18942) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 weeks ago)
 - [skip broken pull-kops-kubernetes-e2e-ubuntu-ec2-build job](https://github.com/kubernetes/test-infra/pull/38169) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
 - [add s3 support to krel](https://github.com/kubernetes/release/pull/4590) on [kubernetes/release](https://github.com/kubernetes/release) (3 weeks ago)
-- [stage kops/kubernetes to s3 buckets when running ec2 jobs](https://github.com/kubernetes/kops/pull/18922) on [kubernetes/kops](https://github.com/kubernetes/kops) (3 weeks ago)
-- [add kops ec2 k/k build job](https://github.com/kubernetes/test-infra/pull/38157) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
