@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [download kube builds from dl.k8s.io.ci instead of gs://k8s-release-dev](https://github.com/kubernetes/test-infra/pull/38317) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [move local-e2e job to the GKE build cluster](https://github.com/kubernetes/test-infra/pull/38313) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [set a default terraform version for atlantis](https://github.com/kubernetes/k8s.io/pull/10222) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [create the ec2 addons IG](https://github.com/kubernetes/kops/pull/19064) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 day ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [fix azure registry jobs](https://github.com/kubernetes/test-infra/pull/38265) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Add affinity rules to presets and allow presets to be overriden in jobs](https://github.com/kubernetes-sigs/prow/pull/1058) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (2 weeks ago)
 - [use a bucket in do for digitalocean presubmits](https://github.com/kubernetes/kops/pull/18954) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 weeks ago)
-- [bump deps and add tenv cli](https://github.com/kubernetes/test-infra/pull/38197) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
