@@ -4,8 +4,8 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 day ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 days ago)
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management (2 days ago)
 - [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) - Prow is a Kubernetes based CI/CD system developed to serve the Kubernetes community. This repository contains Prow source code and Hugo sources for Prow documentation site.  (2 weeks ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [bump nginx to mitigate NGINX2Root](https://github.com/kubernetes/k8s.io/pull/10233) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [download kube builds from dl.k8s.io.ci instead of gs://k8s-release-dev](https://github.com/kubernetes/test-infra/pull/38317) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [move local-e2e job to the GKE build cluster](https://github.com/kubernetes/test-infra/pull/38313) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 day ago)
 - [set a default terraform version for atlantis](https://github.com/kubernetes/k8s.io/pull/10222) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [stage kops builds to an azure bucket instead of gcs](https://github.com/kubernetes/kops/pull/19025) on [kubernetes/kops](https://github.com/kubernetes/kops) (1 week ago)
 - [fix azure registry jobs](https://github.com/kubernetes/test-infra/pull/38265) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (1 week ago)
 - [Add affinity rules to presets and allow presets to be overriden in jobs](https://github.com/kubernetes-sigs/prow/pull/1058) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (2 weeks ago)
-- [use a bucket in do for digitalocean presubmits](https://github.com/kubernetes/kops/pull/18954) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
