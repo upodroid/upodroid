@@ -28,6 +28,7 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 
 #### 🔨 My recent Pull Requests
 
+- [add an experimental ec2 scalability job](https://github.com/kubernetes/test-infra/pull/38346) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [bump nginx to mitigate NGINX2Root](https://github.com/kubernetes/k8s.io/pull/10233) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 days ago)
 - [download kube builds from dl.k8s.io.ci instead of gs://k8s-release-dev](https://github.com/kubernetes/test-infra/pull/38317) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
 - [move local-e2e job to the GKE build cluster](https://github.com/kubernetes/test-infra/pull/38313) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (5 days ago)
@@ -37,7 +38,6 @@ My name is Mahamed and I'm a Senior DevOps Engineer and an Opensource Maintainer
 - [bump all the apps in the utility cluster to the latest version](https://github.com/kubernetes/k8s.io/pull/10213) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [stage kops builds to an azure bucket instead of gcs](https://github.com/kubernetes/kops/pull/19025) on [kubernetes/kops](https://github.com/kubernetes/kops) (2 weeks ago)
 - [fix azure registry jobs](https://github.com/kubernetes/test-infra/pull/38265) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
-- [Add affinity rules to presets and allow presets to be overriden in jobs](https://github.com/kubernetes-sigs/prow/pull/1058) on [kubernetes-sigs/prow](https://github.com/kubernetes-sigs/prow) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
